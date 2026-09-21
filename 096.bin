@@ -1,0 +1,24 @@
+{
+  "dmax": 157.41966087431572,
+  "dmaxer": 8.513396689039542,
+  "rg": 34.525578990153996,
+  "rger": 0.38577712369582356,
+  "i0": 4.810019580268726,
+  "i0er": 0.017945487106374777,
+  "chisq": 0.8532944006507153,
+  "chisq_er": 0.025070533202026356,
+  "alpha": 9.59805899475546,
+  "alpha_er": 0.40351045571124117,
+  "evidence": -82.98217855064686,
+  "evidence_er": 0.5794036039978785,
+  "qmin": 0.012,
+  "qmax": 0.29500000000000015,
+  "algorithm": "BIFT",
+  "filename": "AA_052026.ift",
+  "sample": "AA_052026",
+  "frames": [
+    169,
+    188
+  ],
+  "uncertainty": "RAW BIFT local alpha/Dmax sampling; excludes background/window/q-range systematic uncertainty"
+}

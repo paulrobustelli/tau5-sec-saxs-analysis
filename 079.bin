@@ -1,0 +1,16 @@
+{
+  "user_length": 120,
+  "bmrb_length": 119,
+  "relationship": "user = GP + BMRB53105 sequence without terminal C",
+  "expected_monomer_mass_kDa": 12.1,
+  "sequence_1_based_W_positions": [
+    70,
+    106
+  ],
+  "AR_W_positions": [
+    397,
+    433
+  ],
+  "mapping": "User positions 3\u2013120 match BMRB positions 1\u2013118 and author AR positions 330\u2013447 of BMRB51479.",
+  "source": "https://bmrb.io/ftp/pub/bmrb/entry_directories/bmr53105/bmr53105_3.str"
+}

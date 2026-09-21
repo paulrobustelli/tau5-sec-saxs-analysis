@@ -1,0 +1,24 @@
+{
+  "dmax": 93.36395401974562,
+  "dmaxer": 4.004782972845876,
+  "rg": 27.16850417830374,
+  "rger": 0.2023917279316493,
+  "i0": 1.7435091235534204,
+  "i0er": 0.005061730903357611,
+  "chisq": 0.9464794107580764,
+  "chisq_er": 0.014574076823521973,
+  "alpha": 11.545899536133089,
+  "alpha_er": 0.6138704157040547,
+  "evidence": -66.59131357265476,
+  "evidence_er": 0.7229497929675857,
+  "qmin": 0.012,
+  "qmax": 0.24500000000000013,
+  "algorithm": "BIFT",
+  "filename": "WT_092025.ift",
+  "sample": "WT_092025",
+  "frames": [
+    159,
+    173
+  ],
+  "uncertainty": "RAW BIFT local alpha/Dmax sampling; excludes background/window/q-range systematic uncertainty"
+}
