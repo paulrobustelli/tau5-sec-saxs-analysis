@@ -1,0 +1,18 @@
+{
+  "input_repository": "https://github.com/Natalie-Loui/BNL_SAXS",
+  "input_commit": "4a6ac1c514d25a589e671a91efd1f38c4bcb316c",
+  "raw_repository": "https://github.com/jbhopkins/bioxtasraw",
+  "raw_commit": "90f86f96cdc907d0bd41d3ba96d4936a9b1b0e2a",
+  "python": "3.12.14 (main, Aug 25 2026, 13:50:33) [Clang 22.1.3 ]",
+  "packages": {
+    "numpy": "2.5.3",
+    "scipy": "1.18.1",
+    "h5py": "3.16.0",
+    "matplotlib": "3.11.2",
+    "nbformat": "5.11.1"
+  },
+  "input_sha256": {
+    "WT_092025.hdf5": "a38986295510ecc1ee103098e9fd586a18cd47ec3cb0b95244e1250e116a56e9",
+    "AA_052026.hdf5": "8950221734ecb403c9e6151fea3f0d975d7528c1d62769108f35d740ad4c73d5"
+  }
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "notebook": "01_reproduce_and_audit_Rg.ipynb",
+    "executed_code_cells": 5,
+    "embedded_pngs": 1,
+    "status": "all cells executed; no cell errors"
+  },
+  {
+    "notebook": "02_windows_profiles_and_EFA.ipynb",
+    "executed_code_cells": 10,
+    "embedded_pngs": 4,
+    "status": "all cells executed; no cell errors"
+  },
+  {
+    "notebook": "03_report_EFA_sensitivity.ipynb",
+    "executed_code_cells": 4,
+    "embedded_pngs": 5,
+    "status": "all cells executed; no cell errors"
+  }
+]

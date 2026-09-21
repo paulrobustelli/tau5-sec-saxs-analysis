@@ -1,0 +1,18 @@
+[
+  {
+    "sample": "WT_092025",
+    "assumed_noise_multiplier": 0.8291275434553121,
+    "observed_s2": 13.483991518163284,
+    "null_s2_99": 12.345679174351577,
+    "p_rank1": 0.0033222591362126247,
+    "interpretation": "Exploratory: noise calibrated from pre-peak frames may not transfer to protein peak or account for correlations."
+  },
+  {
+    "sample": "AA_052026",
+    "assumed_noise_multiplier": 0.7350958027662233,
+    "observed_s2": 13.862660876208073,
+    "null_s2_99": 12.018581639540999,
+    "p_rank1": 0.0033222591362126247,
+    "interpretation": "Exploratory: noise calibrated from pre-peak frames may not transfer to protein peak or account for correlations."
+  }
+]

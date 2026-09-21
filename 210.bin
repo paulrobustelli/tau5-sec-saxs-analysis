@@ -1,0 +1,24 @@
+[
+  {
+    "sample": "WT_092025",
+    "bootstrap_n": 200,
+    "valid": 200,
+    "perturbation_percentiles": [
+      24.703755130706696,
+      25.523497193026483,
+      26.97330930677961
+    ],
+    "background_difference_noise_scale": 0.8291275434553121
+  },
+  {
+    "sample": "AA_052026",
+    "bootstrap_n": 200,
+    "valid": 200,
+    "perturbation_percentiles": [
+      31.236581962728188,
+      32.150577936883735,
+      33.41445624327493
+    ],
+    "background_difference_noise_scale": 0.7350958027662233
+  }
+]

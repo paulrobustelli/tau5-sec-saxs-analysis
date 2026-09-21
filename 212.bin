@@ -1,0 +1,590 @@
+[
+  {
+    "sample": "WT_092025",
+    "frames": [
+      120,
+      205
+    ],
+    "ranges": [
+      [
+        120,
+        153
+      ],
+      [
+        145,
+        205
+      ]
+    ],
+    "q": [
+      0.012,
+      0.25
+    ],
+    "background": "default",
+    "converged": true,
+    "iterations": 12,
+    "components": [
+      {
+        "peak_frame": 140,
+        "guinier": {
+          "Rg": null
+        },
+        "negative_q_fraction": 0.0
+      },
+      {
+        "peak_frame": 167,
+        "guinier": {
+          "Rg": 25.631727153468923,
+          "fit_se": 0.40725502758633453,
+          "I0": 41.354545365898765,
+          "qmin": 0.012,
+          "qmax": 0.038,
+          "qRgmax": 0.974005631831819,
+          "n": 27,
+          "chi2": 1.359005498402145
+        },
+        "negative_q_fraction": 0.0
+      }
+    ],
+    "residual_ms": 1.1813780485174357,
+    "concentration_condition": 1.0333248443736374
+  },
+  {
+    "sample": "WT_092025",
+    "frames": [
+      120,
+      205
+    ],
+    "ranges": [
+      [
+        120,
+        153
+      ],
+      [
+        150,
+        205
+      ]
+    ],
+    "q": [
+      0.012,
+      0.25
+    ],
+    "background": "default",
+    "converged": true,
+    "iterations": 8,
+    "components": [
+      {
+        "peak_frame": 140,
+        "guinier": {
+          "Rg": null
+        },
+        "negative_q_fraction": 0.0
+      },
+      {
+        "peak_frame": 167,
+        "guinier": {
+          "Rg": 25.649247770274016,
+          "fit_se": 0.4073794504734876,
+          "I0": 40.661241183970965,
+          "qmin": 0.012,
+          "qmax": 0.038,
+          "qRgmax": 0.9746714152704126,
+          "n": 27,
+          "chi2": 1.3403388193648047
+        },
+        "negative_q_fraction": 0.0
+      }
+    ],
+    "residual_ms": 1.3044038852979387,
+    "concentration_condition": 1.0111546849853699
+  },
+  {
+    "sample": "WT_092025",
+    "frames": [
+      120,
+      205
+    ],
+    "ranges": [
+      [
+        120,
+        153
+      ],
+      [
+        155,
+        205
+      ]
+    ],
+    "q": [
+      0.012,
+      0.25
+    ],
+    "background": "default",
+    "converged": true,
+    "iterations": 7,
+    "components": [
+      {
+        "peak_frame": 140,
+        "guinier": {
+          "Rg": null
+        },
+        "negative_q_fraction": 0.0
+      },
+      {
+        "peak_frame": 167,
+        "guinier": {
+          "Rg": 25.650701977935633,
+          "fit_se": 0.4085607781189613,
+          "I0": 39.71008955381708,
+          "qmin": 0.012,
+          "qmax": 0.038,
+          "qRgmax": 0.974726675161554,
+          "n": 27,
+          "chi2": 1.290813399466509
+        },
+        "negative_q_fraction": 0.0
+      }
+    ],
+    "residual_ms": 1.6574484750400393,
+    "concentration_condition": 1.0179224186006852
+  },
+  {
+    "sample": "WT_092025",
+    "frames": [
+      120,
+      205
+    ],
+    "ranges": [
+      [
+        120,
+        158
+      ],
+      [
+        145,
+        205
+      ]
+    ],
+    "q": [
+      0.012,
+      0.25
+    ],
+    "background": "default",
+    "converged": true,
+    "iterations": 11,
+    "components": [
+      {
+        "peak_frame": 140,
+        "guinier": {
+          "Rg": null
+        },
+        "negative_q_fraction": 0.0
+      },
+      {
+        "peak_frame": 167,
+        "guinier": {
+          "Rg": 25.50562471574579,
+          "fit_se": 0.38062453747345526,
+          "I0": 40.9347537390251,
+          "qmin": 0.012,
+          "qmax": 0.039,
+          "qRgmax": 0.9947193639140858,
+          "n": 28,
+          "chi2": 1.2166842839894774
+        },
+        "negative_q_fraction": 0.0
+      }
+    ],
+    "residual_ms": 1.0488251946909746,
+    "concentration_condition": 1.0601521633146984
+  },
+  {
+    "sample": "WT_092025",
+    "frames": [
+      120,
+      205
+    ],
+    "ranges": [
+      [
+        120,
+        158
+      ],
+      [
+        150,
+        205
+      ]
+    ],
+    "q": [
+      0.012,
+      0.25
+    ],
+    "background": "default",
+    "converged": true,
+    "iterations": 9,
+    "components": [
+      {
+        "peak_frame": 140,
+        "guinier": {
+          "Rg": null
+        },
+        "negative_q_fraction": 0.0
+      },
+      {
+        "peak_frame": 167,
+        "guinier": {
+          "Rg": 25.518975614635853,
+          "fit_se": 0.3807213605944906,
+          "I0": 40.234586643899625,
+          "qmin": 0.012,
+          "qmax": 0.039,
+          "qRgmax": 0.9952400489707982,
+          "n": 28,
+          "chi2": 1.202685207840483
+        },
+        "negative_q_fraction": 0.0
+      }
+    ],
+    "residual_ms": 1.1548326073698363,
+    "concentration_condition": 1.0585806754819007
+  },
+  {
+    "sample": "WT_092025",
+    "frames": [
+      120,
+      205
+    ],
+    "ranges": [
+      [
+        120,
+        158
+      ],
+      [
+        155,
+        205
+      ]
+    ],
+    "q": [
+      0.012,
+      0.25
+    ],
+    "background": "default",
+    "converged": true,
+    "iterations": 8,
+    "components": [
+      {
+        "peak_frame": 140,
+        "guinier": {
+          "Rg": null
+        },
+        "negative_q_fraction": 0.0
+      },
+      {
+        "peak_frame": 167,
+        "guinier": {
+          "Rg": 25.577502075469866,
+          "fit_se": 0.413034375965207,
+          "I0": 39.35644901723227,
+          "qmin": 0.012,
+          "qmax": 0.038,
+          "qRgmax": 0.9719450788678549,
+          "n": 27,
+          "chi2": 1.2134406976903331
+        },
+        "negative_q_fraction": 0.0
+      }
+    ],
+    "residual_ms": 1.3653532091525042,
+    "concentration_condition": 1.0719259960087828
+  },
+  {
+    "sample": "WT_092025",
+    "frames": [
+      120,
+      205
+    ],
+    "ranges": [
+      [
+        120,
+        163
+      ],
+      [
+        145,
+        205
+      ]
+    ],
+    "q": [
+      0.012,
+      0.25
+    ],
+    "background": "default",
+    "converged": true,
+    "iterations": 15,
+    "components": [
+      {
+        "peak_frame": 140,
+        "guinier": {
+          "Rg": null
+        },
+        "negative_q_fraction": 0.0
+      },
+      {
+        "peak_frame": 167,
+        "guinier": {
+          "Rg": 25.359965967670163,
+          "fit_se": 0.3897597164486319,
+          "I0": 40.25851003748665,
+          "qmin": 0.012,
+          "qmax": 0.039,
+          "qRgmax": 0.9890386727391364,
+          "n": 28,
+          "chi2": 1.0777672673438825
+        },
+        "negative_q_fraction": 0.0
+      }
+    ],
+    "residual_ms": 1.0032978978070664,
+    "concentration_condition": 1.1180878466221755
+  },
+  {
+    "sample": "WT_092025",
+    "frames": [
+      120,
+      205
+    ],
+    "ranges": [
+      [
+        120,
+        163
+      ],
+      [
+        150,
+        205
+      ]
+    ],
+    "q": [
+      0.012,
+      0.25
+    ],
+    "background": "default",
+    "converged": true,
+    "iterations": 15,
+    "components": [
+      {
+        "peak_frame": 140,
+        "guinier": {
+          "Rg": null
+        },
+        "negative_q_fraction": 0.0
+      },
+      {
+        "peak_frame": 167,
+        "guinier": {
+          "Rg": 25.374025746120704,
+          "fit_se": 0.38984067711766174,
+          "I0": 39.54443851017301,
+          "qmin": 0.012,
+          "qmax": 0.039,
+          "qRgmax": 0.9895870040987075,
+          "n": 28,
+          "chi2": 1.063447549456714
+        },
+        "negative_q_fraction": 0.0
+      }
+    ],
+    "residual_ms": 1.1020318929887487,
+    "concentration_condition": 1.1155795271635585
+  },
+  {
+    "sample": "WT_092025",
+    "frames": [
+      120,
+      205
+    ],
+    "ranges": [
+      [
+        120,
+        163
+      ],
+      [
+        155,
+        205
+      ]
+    ],
+    "q": [
+      0.012,
+      0.25
+    ],
+    "background": "default",
+    "converged": true,
+    "iterations": 15,
+    "components": [
+      {
+        "peak_frame": 140,
+        "guinier": {
+          "Rg": null
+        },
+        "negative_q_fraction": 0.0
+      },
+      {
+        "peak_frame": 167,
+        "guinier": {
+          "Rg": 25.390079216186628,
+          "fit_se": 0.39023408614562516,
+          "I0": 38.64135131451191,
+          "qmin": 0.012,
+          "qmax": 0.039,
+          "qRgmax": 0.9902130894312785,
+          "n": 28,
+          "chi2": 1.0318740810079563
+        },
+        "negative_q_fraction": 0.0
+      }
+    ],
+    "residual_ms": 1.30269959031361,
+    "concentration_condition": 1.1243534566688451
+  },
+  {
+    "sample": "WT_092025",
+    "frames": [
+      120,
+      205
+    ],
+    "ranges": [
+      [
+        120,
+        168
+      ],
+      [
+        145,
+        205
+      ]
+    ],
+    "q": [
+      0.012,
+      0.25
+    ],
+    "background": "default",
+    "converged": true,
+    "iterations": 33,
+    "components": [
+      {
+        "peak_frame": 140,
+        "guinier": {
+          "Rg": null
+        },
+        "negative_q_fraction": 0.0
+      },
+      {
+        "peak_frame": 167,
+        "guinier": {
+          "Rg": 25.11001346150759,
+          "fit_se": 0.4072284922457272,
+          "I0": 39.11998881096332,
+          "qmin": 0.012,
+          "qmax": 0.039,
+          "qRgmax": 0.9792905249987961,
+          "n": 28,
+          "chi2": 0.8773387082838375
+        },
+        "negative_q_fraction": 0.0
+      }
+    ],
+    "residual_ms": 0.9639037332047851,
+    "concentration_condition": 1.2125415566575448
+  },
+  {
+    "sample": "WT_092025",
+    "frames": [
+      120,
+      205
+    ],
+    "ranges": [
+      [
+        120,
+        168
+      ],
+      [
+        150,
+        205
+      ]
+    ],
+    "q": [
+      0.012,
+      0.25
+    ],
+    "background": "default",
+    "converged": true,
+    "iterations": 33,
+    "components": [
+      {
+        "peak_frame": 140,
+        "guinier": {
+          "Rg": null
+        },
+        "negative_q_fraction": 0.0
+      },
+      {
+        "peak_frame": 167,
+        "guinier": {
+          "Rg": 25.1243319608098,
+          "fit_se": 0.4073378212451838,
+          "I0": 38.383659895568364,
+          "qmin": 0.012,
+          "qmax": 0.039,
+          "qRgmax": 0.9798489464715823,
+          "n": 28,
+          "chi2": 0.8629422202082577
+        },
+        "negative_q_fraction": 0.0
+      }
+    ],
+    "residual_ms": 1.0545675387437654,
+    "concentration_condition": 1.2078106578086345
+  },
+  {
+    "sample": "WT_092025",
+    "frames": [
+      120,
+      205
+    ],
+    "ranges": [
+      [
+        120,
+        168
+      ],
+      [
+        155,
+        205
+      ]
+    ],
+    "q": [
+      0.012,
+      0.25
+    ],
+    "background": "default",
+    "converged": true,
+    "iterations": 33,
+    "components": [
+      {
+        "peak_frame": 140,
+        "guinier": {
+          "Rg": null
+        },
+        "negative_q_fraction": 0.0
+      },
+      {
+        "peak_frame": 167,
+        "guinier": {
+          "Rg": 25.14073289524872,
+          "fit_se": 0.4077708962735198,
+          "I0": 37.46948110386859,
+          "qmin": 0.012,
+          "qmax": 0.039,
+          "qRgmax": 0.9804885829147001,
+          "n": 28,
+          "chi2": 0.8345327433033544
+        },
+        "negative_q_fraction": 0.0
+      }
+    ],
+    "residual_ms": 1.242595273142091,
+    "concentration_condition": 1.212526569842215
+  }
+]
