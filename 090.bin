@@ -1,0 +1,2761 @@
+[
+  {
+    "sample": "WT_092025",
+    "buffer": "early_25_35",
+    "buffer_frames": [
+      25,
+      35
+    ],
+    "curve": "selected_average",
+    "sample_frames": [
+      159,
+      175
+    ],
+    "path": "buffer_window_test/WT_092025_early_25_35_selected_average.dat",
+    "conventional": {
+      "Rg": 31.33408063029954,
+      "I0": 1.8996009433381835,
+      "Rg_conditional_se": 1.0935843205907787,
+      "qmin": 0.012,
+      "qmax": 0.030000000000000002,
+      "qRgmax": 0.9400224189089862,
+      "chi2_reduced": 0.6424096750768337,
+      "n": 19
+    },
+    "conventional_within_IDP_limit": true,
+    "extended": {
+      "Rg": 28.388064973533716,
+      "nu": 0.5246766730300847,
+      "I0": 1.8282876777381027,
+      "Rg_conditional_se": 0.27115496397443895,
+      "chi2_reduced": 1.0562338251330692,
+      "qmin": 0.012,
+      "qmax": 0.054000000000000006,
+      "qRgmax": 1.5329555085708209,
+      "n": 41,
+      "residues": 120,
+      "boundary": false
+    },
+    "extended_adaptive": {
+      "Rg": 27.432444680350685,
+      "nu": 0.5161433415567281,
+      "I0": 1.7960790066343744,
+      "Rg_conditional_se": 0.16869718898671962,
+      "chi2_reduced": 1.6887025308437822,
+      "qmin": 0.012,
+      "qmax": 0.07200000000000002,
+      "qRgmax": 1.9751360169852499,
+      "n": 50,
+      "residues": 120,
+      "boundary": false
+    },
+    "rotation": null,
+    "extended_bootstrap95": [
+      27.745736209839826,
+      28.899437932970642
+    ],
+    "conventional_bootstrap95": [
+      29.022283159801102,
+      33.689149152016206
+    ],
+    "uncertainty": "Paired input-frame perturbations include shared buffer noise and refitted EFA; fixed supports/windows/q ranges. No source q covariance or buffer-purity uncertainty.",
+    "bift": {
+      "rg": 29.39842986796806,
+      "dmax": 100.95157162157335,
+      "chisq": 1.418892074861768,
+      "uncertainty": "Conditional RAW BIFT settings; Dmax regularization/model sensitivity remains separate."
+    }
+  },
+  {
+    "sample": "WT_092025",
+    "buffer": "early_25_35",
+    "buffer_frames": [
+      25,
+      35
+    ],
+    "curve": "leading_5",
+    "sample_frames": [
+      161,
+      165
+    ],
+    "path": "buffer_window_test/WT_092025_early_25_35_leading_5.dat",
+    "conventional": {
+      "Rg": 32.53576430051133,
+      "I0": 2.0971438068452644,
+      "Rg_conditional_se": 1.3946561989518889,
+      "qmin": 0.012,
+      "qmax": 0.030000000000000002,
+      "qRgmax": 0.97607292901534,
+      "chi2_reduced": 0.6990153982564089,
+      "n": 19
+    },
+    "conventional_within_IDP_limit": true,
+    "extended": {
+      "Rg": 28.283627403367188,
+      "nu": 0.5237587084786769,
+      "I0": 1.9931015743127385,
+      "Rg_conditional_se": 0.3581023843822586,
+      "chi2_reduced": 1.0875962766626042,
+      "qmin": 0.012,
+      "qmax": 0.054000000000000006,
+      "qRgmax": 1.5273158797818283,
+      "n": 41,
+      "residues": 120,
+      "boundary": false
+    },
+    "extended_adaptive": {
+      "Rg": 27.417830104125507,
+      "nu": 0.5160104560348351,
+      "I0": 1.961524478143849,
+      "Rg_conditional_se": 0.22201514359510544,
+      "chi2_reduced": 1.346139447450338,
+      "qmin": 0.012,
+      "qmax": 0.07200000000000002,
+      "qRgmax": 1.974083767497037,
+      "n": 50,
+      "residues": 120,
+      "boundary": false
+    },
+    "rotation": null,
+    "extended_bootstrap95": [
+      27.450429616125646,
+      28.84370263729661
+    ],
+    "conventional_bootstrap95": [
+      29.65833798539186,
+      34.83559704146971
+    ],
+    "uncertainty": "Paired input-frame perturbations include shared buffer noise and refitted EFA; fixed supports/windows/q ranges. No source q covariance or buffer-purity uncertainty."
+  },
+  {
+    "sample": "WT_092025",
+    "buffer": "early_25_35",
+    "buffer_frames": [
+      25,
+      35
+    ],
+    "curve": "apex_5",
+    "sample_frames": [
+      165,
+      169
+    ],
+    "path": "buffer_window_test/WT_092025_early_25_35_apex_5.dat",
+    "conventional": {
+      "Rg": 29.846382499688218,
+      "I0": 2.1232449100507362,
+      "Rg_conditional_se": 1.4660131900884241,
+      "qmin": 0.012,
+      "qmax": 0.030000000000000002,
+      "qRgmax": 0.8953914749906466,
+      "chi2_reduced": 0.7592843264012019,
+      "n": 19
+    },
+    "conventional_within_IDP_limit": true,
+    "extended": {
+      "Rg": 27.952025546075177,
+      "nu": 0.5208205770201082,
+      "I0": 2.0724878153103146,
+      "Rg_conditional_se": 0.34335562387138513,
+      "chi2_reduced": 0.9968244217086831,
+      "qmin": 0.012,
+      "qmax": 0.054000000000000006,
+      "qRgmax": 1.5094093794880596,
+      "n": 41,
+      "residues": 120,
+      "boundary": false
+    },
+    "extended_adaptive": {
+      "Rg": 27.19113782831181,
+      "nu": 0.5139397494342598,
+      "I0": 2.042732598343527,
+      "Rg_conditional_se": 0.21151792070945558,
+      "chi2_reduced": 1.3267260780417434,
+      "qmin": 0.012,
+      "qmax": 0.07200000000000002,
+      "qRgmax": 1.957761923638451,
+      "n": 50,
+      "residues": 120,
+      "boundary": false
+    },
+    "rotation": null,
+    "extended_bootstrap95": [
+      27.227592068891518,
+      28.57345421683153
+    ],
+    "conventional_bootstrap95": [
+      27.45461004674435,
+      33.367968989160545
+    ],
+    "uncertainty": "Paired input-frame perturbations include shared buffer noise and refitted EFA; fixed supports/windows/q ranges. No source q covariance or buffer-purity uncertainty."
+  },
+  {
+    "sample": "WT_092025",
+    "buffer": "early_25_35",
+    "buffer_frames": [
+      25,
+      35
+    ],
+    "curve": "EFA_main",
+    "sample_frames": [
+      159,
+      175
+    ],
+    "path": "buffer_window_test/WT_092025_early_25_35_EFA_main.dat",
+    "conventional": {
+      "Rg": 31.43817821416682,
+      "I0": 1.8705379425489665,
+      "Rg_conditional_se": 1.2025996957539722,
+      "qmin": 0.012,
+      "qmax": 0.030000000000000002,
+      "qRgmax": 0.9431453464250046,
+      "chi2_reduced": 0.7732373079808702,
+      "n": 19
+    },
+    "conventional_within_IDP_limit": true,
+    "extended": {
+      "Rg": 28.241506961497972,
+      "nu": 0.5233874910615693,
+      "I0": 1.797088865968257,
+      "Rg_conditional_se": 0.28914504965900867,
+      "chi2_reduced": 0.9599283611496816,
+      "qmin": 0.012,
+      "qmax": 0.054000000000000006,
+      "qRgmax": 1.5250413759208907,
+      "n": 41,
+      "residues": 120,
+      "boundary": false
+    },
+    "extended_adaptive": {
+      "Rg": 27.281221811724812,
+      "nu": 0.5147647542040189,
+      "I0": 1.7648807907636157,
+      "Rg_conditional_se": 0.1811683242259645,
+      "chi2_reduced": 1.549228665027849,
+      "qmin": 0.012,
+      "qmax": 0.07200000000000002,
+      "qRgmax": 1.964247970444187,
+      "n": 50,
+      "residues": 120,
+      "boundary": false
+    },
+    "rotation": {
+      "converged": true,
+      "iterations": 57,
+      "supports": [
+        [
+          120,
+          175
+        ],
+        [
+          140,
+          205
+        ]
+      ],
+      "q": [
+        0.012,
+        0.25
+      ],
+      "singular_values": [
+        806.7660819646189,
+        60.25477480722178,
+        18.41427002992119,
+        15.564706213065024
+      ],
+      "residual_ms": 1.115264879575013,
+      "rank1_residual_ms": 1.146657229345548,
+      "condition": 1.1834658658761275,
+      "peaks": [
+        140,
+        167
+      ],
+      "negative_fraction": [
+        0.010752688172043012,
+        0.0
+      ],
+      "bootstrap_converged": 100,
+      "bootstrap_requested": 100
+    },
+    "extended_bootstrap95": [
+      27.46750038848529,
+      28.717070109147162
+    ],
+    "conventional_bootstrap95": [
+      28.773246767649184,
+      33.56530085370933
+    ],
+    "uncertainty": "Paired input-frame perturbations include shared buffer noise and refitted EFA; fixed supports/windows/q ranges. No source q covariance or buffer-purity uncertainty.",
+    "bift": {
+      "rg": 29.271325619372,
+      "dmax": 101.53835524154607,
+      "chisq": 1.4157926142335473,
+      "uncertainty": "Conditional RAW BIFT settings; Dmax regularization/model sensitivity remains separate."
+    }
+  },
+  {
+    "sample": "WT_092025",
+    "buffer": "early_25_35",
+    "buffer_frames": [
+      25,
+      35
+    ],
+    "curve": "EFA_other",
+    "sample_frames": [
+      159,
+      175
+    ],
+    "path": "buffer_window_test/WT_092025_early_25_35_EFA_other.dat",
+    "conventional": {
+      "Rg": 50.31250869099721,
+      "I0": 0.0616081742439358,
+      "Rg_conditional_se": 9.261369256939535,
+      "qmin": 0.012,
+      "qmax": 0.030000000000000002,
+      "qRgmax": 1.5093752607299165,
+      "chi2_reduced": 0.10114475794119926,
+      "n": 19
+    },
+    "conventional_within_IDP_limit": false,
+    "extended": null,
+    "extended_adaptive": null,
+    "rotation": {
+      "converged": true,
+      "iterations": 57,
+      "supports": [
+        [
+          120,
+          175
+        ],
+        [
+          140,
+          205
+        ]
+      ],
+      "q": [
+        0.012,
+        0.25
+      ],
+      "singular_values": [
+        806.7660819646189,
+        60.25477480722178,
+        18.41427002992119,
+        15.564706213065024
+      ],
+      "residual_ms": 1.115264879575013,
+      "rank1_residual_ms": 1.146657229345548,
+      "condition": 1.1834658658761275,
+      "peaks": [
+        140,
+        167
+      ],
+      "negative_fraction": [
+        0.010752688172043012,
+        0.0
+      ],
+      "bootstrap_converged": 100,
+      "bootstrap_requested": 100
+    },
+    "extended_bootstrap95": null,
+    "conventional_bootstrap95": [
+      46.3710087042216,
+      55.07519705285207
+    ],
+    "uncertainty": "Paired input-frame perturbations include shared buffer noise and refitted EFA; fixed supports/windows/q ranges. No source q covariance or buffer-purity uncertainty."
+  },
+  {
+    "sample": "WT_092025",
+    "buffer": "early_60_70",
+    "buffer_frames": [
+      60,
+      70
+    ],
+    "curve": "selected_average",
+    "sample_frames": [
+      159,
+      175
+    ],
+    "path": "buffer_window_test/WT_092025_early_60_70_selected_average.dat",
+    "conventional": {
+      "Rg": 30.755423508432564,
+      "I0": 1.8726450570389657,
+      "Rg_conditional_se": 1.1263868250506928,
+      "qmin": 0.012,
+      "qmax": 0.030000000000000002,
+      "qRgmax": 0.922662705252977,
+      "chi2_reduced": 0.6683643551645901,
+      "n": 19
+    },
+    "conventional_within_IDP_limit": true,
+    "extended": {
+      "Rg": 28.174015111927392,
+      "nu": 0.5227914701443593,
+      "I0": 1.8146048193043993,
+      "Rg_conditional_se": 0.27244439096765133,
+      "chi2_reduced": 0.8147576142061208,
+      "qmin": 0.012,
+      "qmax": 0.054000000000000006,
+      "qRgmax": 1.5213968160440794,
+      "n": 41,
+      "residues": 120,
+      "boundary": false
+    },
+    "extended_adaptive": {
+      "Rg": 27.359971806579114,
+      "nu": 0.5154836468878519,
+      "I0": 1.7872231039198707,
+      "Rg_conditional_se": 0.1691383322654987,
+      "chi2_reduced": 1.2383114554143617,
+      "qmin": 0.012,
+      "qmax": 0.07200000000000002,
+      "qRgmax": 1.9699179700736968,
+      "n": 50,
+      "residues": 120,
+      "boundary": false
+    },
+    "rotation": null,
+    "extended_bootstrap95": [
+      27.666387481644488,
+      28.63177006976655
+    ],
+    "conventional_bootstrap95": [
+      28.53627380224636,
+      33.513594479247544
+    ],
+    "uncertainty": "Paired input-frame perturbations include shared buffer noise and refitted EFA; fixed supports/windows/q ranges. No source q covariance or buffer-purity uncertainty.",
+    "bift": {
+      "rg": 29.086327207463402,
+      "dmax": 101.32497556720654,
+      "chisq": 1.049880749012013,
+      "uncertainty": "Conditional RAW BIFT settings; Dmax regularization/model sensitivity remains separate."
+    }
+  },
+  {
+    "sample": "WT_092025",
+    "buffer": "early_60_70",
+    "buffer_frames": [
+      60,
+      70
+    ],
+    "curve": "leading_5",
+    "sample_frames": [
+      161,
+      165
+    ],
+    "path": "buffer_window_test/WT_092025_early_60_70_leading_5.dat",
+    "conventional": {
+      "Rg": 32.089913537893466,
+      "I0": 2.071331980117003,
+      "Rg_conditional_se": 1.427346481326377,
+      "qmin": 0.012,
+      "qmax": 0.030000000000000002,
+      "qRgmax": 0.9626974061368041,
+      "chi2_reduced": 0.6584179238092104,
+      "n": 19
+    },
+    "conventional_within_IDP_limit": true,
+    "extended": {
+      "Rg": 28.088409839688882,
+      "nu": 0.5220333547768047,
+      "I0": 1.9794767988455408,
+      "Rg_conditional_se": 0.35945415741334424,
+      "chi2_reduced": 0.8879135101029773,
+      "qmin": 0.012,
+      "qmax": 0.054000000000000006,
+      "qRgmax": 1.5167741313431997,
+      "n": 41,
+      "residues": 120,
+      "boundary": false
+    },
+    "extended_adaptive": {
+      "Rg": 27.35287685935542,
+      "nu": 0.5154189666589211,
+      "I0": 1.952742045296277,
+      "Rg_conditional_se": 0.2224155450626423,
+      "chi2_reduced": 1.1941978569758687,
+      "qmin": 0.012,
+      "qmax": 0.07200000000000002,
+      "qRgmax": 1.9694071338735908,
+      "n": 50,
+      "residues": 120,
+      "boundary": false
+    },
+    "rotation": null,
+    "extended_bootstrap95": [
+      27.21783455460421,
+      28.83582027821807
+    ],
+    "conventional_bootstrap95": [
+      29.039374753328318,
+      34.6454511125338
+    ],
+    "uncertainty": "Paired input-frame perturbations include shared buffer noise and refitted EFA; fixed supports/windows/q ranges. No source q covariance or buffer-purity uncertainty."
+  },
+  {
+    "sample": "WT_092025",
+    "buffer": "early_60_70",
+    "buffer_frames": [
+      60,
+      70
+    ],
+    "curve": "apex_5",
+    "sample_frames": [
+      165,
+      169
+    ],
+    "path": "buffer_window_test/WT_092025_early_60_70_apex_5.dat",
+    "conventional": {
+      "Rg": 29.28769907284756,
+      "I0": 2.0955931321577945,
+      "Rg_conditional_se": 1.5077660690992596,
+      "qmin": 0.012,
+      "qmax": 0.030000000000000002,
+      "qRgmax": 0.8786309721854269,
+      "chi2_reduced": 0.564051429052415,
+      "n": 19
+    },
+    "conventional_within_IDP_limit": true,
+    "extended": {
+      "Rg": 27.765697993354394,
+      "nu": 0.5191537234662706,
+      "I0": 2.058969150006822,
+      "Rg_conditional_se": 0.3446773855303306,
+      "chi2_reduced": 0.7349652528101313,
+      "qmin": 0.012,
+      "qmax": 0.054000000000000006,
+      "qRgmax": 1.4993476916411375,
+      "n": 41,
+      "residues": 120,
+      "boundary": false
+    },
+    "extended_adaptive": {
+      "Rg": 27.129217010175196,
+      "nu": 0.5133710205548297,
+      "I0": 2.034001475377911,
+      "Rg_conditional_se": 0.21190340851339343,
+      "chi2_reduced": 1.0111328848814571,
+      "qmin": 0.012,
+      "qmax": 0.07200000000000002,
+      "qRgmax": 1.9533036247326148,
+      "n": 50,
+      "residues": 120,
+      "boundary": false
+    },
+    "rotation": null,
+    "extended_bootstrap95": [
+      27.031179765710927,
+      28.325952069222826
+    ],
+    "conventional_bootstrap95": [
+      27.027548156715312,
+      32.435500051013655
+    ],
+    "uncertainty": "Paired input-frame perturbations include shared buffer noise and refitted EFA; fixed supports/windows/q ranges. No source q covariance or buffer-purity uncertainty."
+  },
+  {
+    "sample": "WT_092025",
+    "buffer": "early_60_70",
+    "buffer_frames": [
+      60,
+      70
+    ],
+    "curve": "EFA_main",
+    "sample_frames": [
+      159,
+      175
+    ],
+    "path": "buffer_window_test/WT_092025_early_60_70_EFA_main.dat",
+    "conventional": {
+      "Rg": 30.787200776896753,
+      "I0": 1.8357896053004814,
+      "Rg_conditional_se": 1.3011650039277096,
+      "qmin": 0.012,
+      "qmax": 0.030000000000000002,
+      "qRgmax": 0.9236160233069026,
+      "chi2_reduced": 0.601813869563062,
+      "n": 19
+    },
+    "conventional_within_IDP_limit": true,
+    "extended": {
+      "Rg": 28.03250943231578,
+      "nu": 0.5215370089839243,
+      "I0": 1.7776964136538052,
+      "Rg_conditional_se": 0.3011048191048719,
+      "chi2_reduced": 0.7298975043943289,
+      "qmin": 0.012,
+      "qmax": 0.054000000000000006,
+      "qRgmax": 1.5137555093450523,
+      "n": 41,
+      "residues": 120,
+      "boundary": false
+    },
+    "extended_adaptive": {
+      "Rg": 26.995829610973573,
+      "nu": 0.5121412947364807,
+      "I0": 1.7425431568535632,
+      "Rg_conditional_se": 0.17480547745607086,
+      "chi2_reduced": 1.3569835503091143,
+      "qmin": 0.012,
+      "qmax": 0.07400000000000002,
+      "qRgmax": 1.997691391212045,
+      "n": 51,
+      "residues": 120,
+      "boundary": false
+    },
+    "rotation": {
+      "converged": true,
+      "iterations": 64,
+      "supports": [
+        [
+          120,
+          175
+        ],
+        [
+          140,
+          205
+        ]
+      ],
+      "q": [
+        0.012,
+        0.25
+      ],
+      "singular_values": [
+        802.6695385401405,
+        59.35305880049195,
+        17.15982434072507,
+        15.48254686143322
+      ],
+      "residual_ms": 1.0558552171537567,
+      "rank1_residual_ms": 1.125389238330198,
+      "condition": 1.1930211233134478,
+      "peaks": [
+        140,
+        167
+      ],
+      "negative_fraction": [
+        0.0,
+        0.0
+      ],
+      "bootstrap_converged": 100,
+      "bootstrap_requested": 100
+    },
+    "extended_bootstrap95": [
+      27.411896373225133,
+      28.462941465314035
+    ],
+    "conventional_bootstrap95": [
+      28.172756471264936,
+      33.452959401111855
+    ],
+    "uncertainty": "Paired input-frame perturbations include shared buffer noise and refitted EFA; fixed supports/windows/q ranges. No source q covariance or buffer-purity uncertainty.",
+    "bift": {
+      "rg": 28.981082644194913,
+      "dmax": 102.32700435033662,
+      "chisq": 1.0842011344288722,
+      "uncertainty": "Conditional RAW BIFT settings; Dmax regularization/model sensitivity remains separate."
+    }
+  },
+  {
+    "sample": "WT_092025",
+    "buffer": "early_60_70",
+    "buffer_frames": [
+      60,
+      70
+    ],
+    "curve": "EFA_other",
+    "sample_frames": [
+      159,
+      175
+    ],
+    "path": "buffer_window_test/WT_092025_early_60_70_EFA_other.dat",
+    "conventional": {
+      "Rg": 49.74679319873623,
+      "I0": 0.06850874394783033,
+      "Rg_conditional_se": 8.938539583890698,
+      "qmin": 0.012,
+      "qmax": 0.030000000000000002,
+      "qRgmax": 1.492403795962087,
+      "chi2_reduced": 0.09992879583285615,
+      "n": 19
+    },
+    "conventional_within_IDP_limit": false,
+    "extended": null,
+    "extended_adaptive": {
+      "Rg": 46.10302385719969,
+      "nu": 0.644428260426991,
+      "I0": 0.06351807224497664,
+      "Rg_conditional_se": 7.667277276478494,
+      "chi2_reduced": 0.07722455630106051,
+      "qmin": 0.012,
+      "qmax": 0.043,
+      "qRgmax": 1.9824300258595864,
+      "n": 32,
+      "residues": 120,
+      "boundary": false
+    },
+    "rotation": {
+      "converged": true,
+      "iterations": 64,
+      "supports": [
+        [
+          120,
+          175
+        ],
+        [
+          140,
+          205
+        ]
+      ],
+      "q": [
+        0.012,
+        0.25
+      ],
+      "singular_values": [
+        802.6695385401405,
+        59.35305880049195,
+        17.15982434072507,
+        15.48254686143322
+      ],
+      "residual_ms": 1.0558552171537567,
+      "rank1_residual_ms": 1.125389238330198,
+      "condition": 1.1930211233134478,
+      "peaks": [
+        140,
+        167
+      ],
+      "negative_fraction": [
+        0.0,
+        0.0
+      ],
+      "bootstrap_converged": 100,
+      "bootstrap_requested": 100
+    },
+    "extended_bootstrap95": null,
+    "conventional_bootstrap95": [
+      44.85514362660547,
+      54.584443220759184
+    ],
+    "uncertainty": "Paired input-frame perturbations include shared buffer noise and refitted EFA; fixed supports/windows/q ranges. No source q covariance or buffer-purity uncertainty."
+  },
+  {
+    "sample": "WT_092025",
+    "buffer": "post_210_220",
+    "buffer_frames": [
+      210,
+      220
+    ],
+    "curve": "selected_average",
+    "sample_frames": [
+      159,
+      175
+    ],
+    "path": "buffer_window_test/WT_092025_post_210_220_selected_average.dat",
+    "conventional": {
+      "Rg": 26.15328080120888,
+      "I0": 1.6674138370438871,
+      "Rg_conditional_se": 1.426764039842432,
+      "qmin": 0.012,
+      "qmax": 0.030000000000000002,
+      "qRgmax": 0.7845984240362665,
+      "chi2_reduced": 0.4458163772736745,
+      "n": 19
+    },
+    "conventional_within_IDP_limit": true,
+    "extended": {
+      "Rg": 26.596423802896247,
+      "nu": 0.5084210059168038,
+      "I0": 1.6710361153638733,
+      "Rg_conditional_se": 0.28855590319311275,
+      "chi2_reduced": 0.7842193796611211,
+      "qmin": 0.012,
+      "qmax": 0.054000000000000006,
+      "qRgmax": 1.4362068853563974,
+      "n": 41,
+      "residues": 120,
+      "boundary": false
+    },
+    "extended_adaptive": {
+      "Rg": 25.97092033517058,
+      "nu": 0.5024765043490682,
+      "I0": 1.6505458478687411,
+      "Rg_conditional_se": 0.15978263133423073,
+      "chi2_reduced": 1.094408622790111,
+      "qmin": 0.012,
+      "qmax": 0.07600000000000003,
+      "qRgmax": 1.9737899454729646,
+      "n": 52,
+      "residues": 120,
+      "boundary": false
+    },
+    "rotation": null,
+    "extended_bootstrap95": [
+      26.092769081845525,
+      27.041878711927996
+    ],
+    "conventional_bootstrap95": [
+      23.063089880859234,
+      28.904586951823635
+    ],
+    "uncertainty": "Paired input-frame perturbations include shared buffer noise and refitted EFA; fixed supports/windows/q ranges. No source q covariance or buffer-purity uncertainty.",
+    "bift": {
+      "rg": 27.260074929906953,
+      "dmax": 94.20550865909146,
+      "chisq": 1.1017852661663556,
+      "uncertainty": "Conditional RAW BIFT settings; Dmax regularization/model sensitivity remains separate."
+    }
+  },
+  {
+    "sample": "WT_092025",
+    "buffer": "post_210_220",
+    "buffer_frames": [
+      210,
+      220
+    ],
+    "curve": "leading_5",
+    "sample_frames": [
+      161,
+      165
+    ],
+    "path": "buffer_window_test/WT_092025_post_210_220_leading_5.dat",
+    "conventional": {
+      "Rg": 28.096396333782423,
+      "I0": 1.862547872758794,
+      "Rg_conditional_se": 1.7419078902996854,
+      "qmin": 0.012,
+      "qmax": 0.030000000000000002,
+      "qRgmax": 0.8428918900134728,
+      "chi2_reduced": 0.5539876227938715,
+      "n": 19
+    },
+    "conventional_within_IDP_limit": true,
+    "extended": {
+      "Rg": 26.646099125225316,
+      "nu": 0.5088868573943333,
+      "I0": 1.8358143286443334,
+      "Rg_conditional_se": 0.3786810547122996,
+      "chi2_reduced": 0.8449053282709795,
+      "qmin": 0.012,
+      "qmax": 0.054000000000000006,
+      "qRgmax": 1.4388893527621671,
+      "n": 41,
+      "residues": 120,
+      "boundary": false
+    },
+    "extended_adaptive": {
+      "Rg": 26.06823190508583,
+      "nu": 0.5034110174977617,
+      "I0": 1.8152113463691988,
+      "Rg_conditional_se": 0.2096230884936936,
+      "chi2_reduced": 1.118831278946222,
+      "qmin": 0.012,
+      "qmax": 0.07600000000000003,
+      "qRgmax": 1.9811856247865238,
+      "n": 52,
+      "residues": 120,
+      "boundary": false
+    },
+    "rotation": null,
+    "extended_bootstrap95": [
+      25.893744072693217,
+      27.404197405988697
+    ],
+    "conventional_bootstrap95": [
+      24.089204162544924,
+      31.426274916099388
+    ],
+    "uncertainty": "Paired input-frame perturbations include shared buffer noise and refitted EFA; fixed supports/windows/q ranges. No source q covariance or buffer-purity uncertainty."
+  },
+  {
+    "sample": "WT_092025",
+    "buffer": "post_210_220",
+    "buffer_frames": [
+      210,
+      220
+    ],
+    "curve": "apex_5",
+    "sample_frames": [
+      165,
+      169
+    ],
+    "path": "buffer_window_test/WT_092025_post_210_220_apex_5.dat",
+    "conventional": {
+      "Rg": 24.97400234642594,
+      "I0": 1.8920437617876333,
+      "Rg_conditional_se": 1.8846034470720159,
+      "qmin": 0.012,
+      "qmax": 0.030000000000000002,
+      "qRgmax": 0.7492200703927783,
+      "chi2_reduced": 0.8250670576762462,
+      "n": 19
+    },
+    "conventional_within_IDP_limit": true,
+    "extended": {
+      "Rg": 26.37735765166029,
+      "nu": 0.5063557820081482,
+      "I0": 1.9158492069761879,
+      "Rg_conditional_se": 0.36281820876034376,
+      "chi2_reduced": 0.8040578482997248,
+      "qmin": 0.012,
+      "qmax": 0.054000000000000006,
+      "qRgmax": 1.4243773131896558,
+      "n": 41,
+      "residues": 120,
+      "boundary": false
+    },
+    "extended_adaptive": {
+      "Rg": 25.973933874246544,
+      "nu": 0.502505498851608,
+      "I0": 1.899875157325314,
+      "Rg_conditional_se": 0.20004138664442062,
+      "chi2_reduced": 0.8957571440955195,
+      "qmin": 0.012,
+      "qmax": 0.07600000000000003,
+      "qRgmax": 1.974018974442738,
+      "n": 52,
+      "residues": 120,
+      "boundary": false
+    },
+    "rotation": null,
+    "extended_bootstrap95": [
+      25.790021029425937,
+      27.025742763797556
+    ],
+    "conventional_bootstrap95": [
+      21.425947651280705,
+      28.631008126259083
+    ],
+    "uncertainty": "Paired input-frame perturbations include shared buffer noise and refitted EFA; fixed supports/windows/q ranges. No source q covariance or buffer-purity uncertainty."
+  },
+  {
+    "sample": "WT_092025",
+    "buffer": "post_210_220",
+    "buffer_frames": [
+      210,
+      220
+    ],
+    "curve": "EFA_main",
+    "sample_frames": [
+      159,
+      175
+    ],
+    "path": "buffer_window_test/WT_092025_post_210_220_EFA_main.dat",
+    "conventional": {
+      "Rg": 24.850768820412675,
+      "I0": 1.5325010941847808,
+      "Rg_conditional_se": 1.8888059261666825,
+      "qmin": 0.012,
+      "qmax": 0.030000000000000002,
+      "qRgmax": 0.7455230646123803,
+      "chi2_reduced": 0.3860797110887038,
+      "n": 19
+    },
+    "conventional_within_IDP_limit": true,
+    "extended": {
+      "Rg": 25.859738924651197,
+      "nu": 0.5014043313086048,
+      "I0": 1.5446174023309447,
+      "Rg_conditional_se": 0.36291166229444677,
+      "chi2_reduced": 0.5314409932993991,
+      "qmin": 0.012,
+      "qmax": 0.054000000000000006,
+      "qRgmax": 1.3964259019311647,
+      "n": 41,
+      "residues": 120,
+      "boundary": false
+    },
+    "extended_adaptive": {
+      "Rg": 25.140782127542373,
+      "nu": 0.4943532941859787,
+      "I0": 1.521957758937622,
+      "Rg_conditional_se": 0.17718019309222713,
+      "chi2_reduced": 0.8215728912836457,
+      "qmin": 0.012,
+      "qmax": 0.07800000000000003,
+      "qRgmax": 1.9609810059483057,
+      "n": 53,
+      "residues": 120,
+      "boundary": false
+    },
+    "rotation": {
+      "converged": true,
+      "iterations": 64,
+      "supports": [
+        [
+          120,
+          175
+        ],
+        [
+          140,
+          205
+        ]
+      ],
+      "q": [
+        0.012,
+        0.25
+      ],
+      "singular_values": [
+        761.0850377124642,
+        49.88884455927302,
+        16.57286172912519,
+        15.544569363413192
+      ],
+      "residual_ms": 0.8253109117997206,
+      "rank1_residual_ms": 0.9950497561580985,
+      "condition": 1.350160126756986,
+      "peaks": [
+        140,
+        167
+      ],
+      "negative_fraction": [
+        0.03225806451612903,
+        0.0
+      ],
+      "bootstrap_converged": 100,
+      "bootstrap_requested": 100
+    },
+    "extended_bootstrap95": [
+      25.3081792301317,
+      26.36416550833564
+    ],
+    "conventional_bootstrap95": [
+      21.487269313980047,
+      27.810383946601405
+    ],
+    "uncertainty": "Paired input-frame perturbations include shared buffer noise and refitted EFA; fixed supports/windows/q ranges. No source q covariance or buffer-purity uncertainty.",
+    "bift": {
+      "rg": 26.612689545314062,
+      "dmax": 92.35141526002624,
+      "chisq": 0.8810237796139367,
+      "uncertainty": "Conditional RAW BIFT settings; Dmax regularization/model sensitivity remains separate."
+    }
+  },
+  {
+    "sample": "WT_092025",
+    "buffer": "post_210_220",
+    "buffer_frames": [
+      210,
+      220
+    ],
+    "curve": "EFA_other",
+    "sample_frames": [
+      159,
+      175
+    ],
+    "path": "buffer_window_test/WT_092025_post_210_220_EFA_other.dat",
+    "conventional": {
+      "Rg": 42.226268357623724,
+      "I0": 0.14169192361075622,
+      "Rg_conditional_se": 7.850771907673408,
+      "qmin": 0.012,
+      "qmax": 0.030000000000000002,
+      "qRgmax": 1.2667880507287117,
+      "chi2_reduced": 0.18246259466366294,
+      "n": 19
+    },
+    "conventional_within_IDP_limit": false,
+    "extended": null,
+    "extended_adaptive": {
+      "Rg": 37.47296181755512,
+      "nu": 0.5934809271566611,
+      "I0": 0.1313333040595738,
+      "Rg_conditional_se": 3.5537402707613897,
+      "chi2_reduced": 0.133325432736642,
+      "qmin": 0.012,
+      "qmax": 0.052000000000000005,
+      "qRgmax": 1.9485940145128662,
+      "n": 40,
+      "residues": 120,
+      "boundary": false
+    },
+    "rotation": {
+      "converged": true,
+      "iterations": 64,
+      "supports": [
+        [
+          120,
+          175
+        ],
+        [
+          140,
+          205
+        ]
+      ],
+      "q": [
+        0.012,
+        0.25
+      ],
+      "singular_values": [
+        761.0850377124642,
+        49.88884455927302,
+        16.57286172912519,
+        15.544569363413192
+      ],
+      "residual_ms": 0.8253109117997206,
+      "rank1_residual_ms": 0.9950497561580985,
+      "condition": 1.350160126756986,
+      "peaks": [
+        140,
+        167
+      ],
+      "negative_fraction": [
+        0.03225806451612903,
+        0.0
+      ],
+      "bootstrap_converged": 100,
+      "bootstrap_requested": 100
+    },
+    "extended_bootstrap95": null,
+    "conventional_bootstrap95": [
+      34.73828444212467,
+      50.76127484832253
+    ],
+    "uncertainty": "Paired input-frame perturbations include shared buffer noise and refitted EFA; fixed supports/windows/q ranges. No source q covariance or buffer-purity uncertainty."
+  },
+  {
+    "sample": "WT_092025",
+    "buffer": "Natalie_buffer_reference",
+    "buffer_frames": [
+      220,
+      236
+    ],
+    "curve": "selected_average",
+    "sample_frames": [
+      159,
+      175
+    ],
+    "path": "buffer_window_test/WT_092025_Natalie_buffer_reference_selected_average.dat",
+    "conventional": {
+      "Rg": 27.436229054647818,
+      "I0": 1.6920446695102027,
+      "Rg_conditional_se": 1.2139778488973356,
+      "qmin": 0.012,
+      "qmax": 0.030000000000000002,
+      "qRgmax": 0.8230868716394346,
+      "chi2_reduced": 0.40033253014865194,
+      "n": 19
+    },
+    "conventional_within_IDP_limit": true,
+    "extended": {
+      "Rg": 26.57694526767549,
+      "nu": 0.5082380909661208,
+      "I0": 1.6753679472287057,
+      "Rg_conditional_se": 0.2575945944681636,
+      "chi2_reduced": 0.6098330370547129,
+      "qmin": 0.012,
+      "qmax": 0.054000000000000006,
+      "qRgmax": 1.4351550444544767,
+      "n": 41,
+      "residues": 120,
+      "boundary": false
+    },
+    "extended_adaptive": {
+      "Rg": 26.00672162751134,
+      "nu": 0.5028207376379978,
+      "I0": 1.6567522088612436,
+      "Rg_conditional_se": 0.14273694975023632,
+      "chi2_reduced": 0.8985960206797416,
+      "qmin": 0.012,
+      "qmax": 0.07600000000000003,
+      "qRgmax": 1.9765108436908625,
+      "n": 52,
+      "residues": 120,
+      "boundary": false
+    },
+    "rotation": null,
+    "extended_bootstrap95": [
+      26.04652659901685,
+      27.07840376763647
+    ],
+    "conventional_bootstrap95": [
+      25.14994443366071,
+      30.156278051515542
+    ],
+    "uncertainty": "Paired input-frame perturbations include shared buffer noise and refitted EFA; fixed supports/windows/q ranges. No source q covariance or buffer-purity uncertainty.",
+    "bift": {
+      "rg": 27.22551942415851,
+      "dmax": 93.74825457809158,
+      "chisq": 0.876778442830325,
+      "uncertainty": "Conditional RAW BIFT settings; Dmax regularization/model sensitivity remains separate."
+    }
+  },
+  {
+    "sample": "WT_092025",
+    "buffer": "Natalie_buffer_reference",
+    "buffer_frames": [
+      220,
+      236
+    ],
+    "curve": "leading_5",
+    "sample_frames": [
+      161,
+      165
+    ],
+    "path": "buffer_window_test/WT_092025_Natalie_buffer_reference_leading_5.dat",
+    "conventional": {
+      "Rg": 29.253305700753547,
+      "I0": 1.8891777696170478,
+      "Rg_conditional_se": 1.585564217796173,
+      "qmin": 0.012,
+      "qmax": 0.030000000000000002,
+      "qRgmax": 0.8775991710226064,
+      "chi2_reduced": 0.7192144019046434,
+      "n": 19
+    },
+    "conventional_within_IDP_limit": true,
+    "extended": {
+      "Rg": 26.630169609151597,
+      "nu": 0.5087375698918906,
+      "I0": 1.8402085657480143,
+      "Rg_conditional_se": 0.3591635716669375,
+      "chi2_reduced": 0.8853892158184803,
+      "qmin": 0.012,
+      "qmax": 0.054000000000000006,
+      "qRgmax": 1.4380291588941865,
+      "n": 41,
+      "residues": 120,
+      "boundary": false
+    },
+    "extended_adaptive": {
+      "Rg": 26.101534040819846,
+      "nu": 0.5037299959937561,
+      "I0": 1.8214639780752027,
+      "Rg_conditional_se": 0.1989042840230088,
+      "chi2_reduced": 1.0535417573377424,
+      "qmin": 0.012,
+      "qmax": 0.07600000000000003,
+      "qRgmax": 1.983716587102309,
+      "n": 52,
+      "residues": 120,
+      "boundary": false
+    },
+    "rotation": null,
+    "extended_bootstrap95": [
+      25.904010247910204,
+      27.322328404610673
+    ],
+    "conventional_bootstrap95": [
+      26.17097020704385,
+      32.01173913747428
+    ],
+    "uncertainty": "Paired input-frame perturbations include shared buffer noise and refitted EFA; fixed supports/windows/q ranges. No source q covariance or buffer-purity uncertainty."
+  },
+  {
+    "sample": "WT_092025",
+    "buffer": "Natalie_buffer_reference",
+    "buffer_frames": [
+      220,
+      236
+    ],
+    "curve": "apex_5",
+    "sample_frames": [
+      165,
+      169
+    ],
+    "path": "buffer_window_test/WT_092025_Natalie_buffer_reference_apex_5.dat",
+    "conventional": {
+      "Rg": 26.1781583483587,
+      "I0": 1.9165685192537987,
+      "Rg_conditional_se": 1.705139174060601,
+      "qmin": 0.012,
+      "qmax": 0.030000000000000002,
+      "qRgmax": 0.785344750450761,
+      "chi2_reduced": 0.624252531102166,
+      "n": 19
+    },
+    "conventional_within_IDP_limit": true,
+    "extended": {
+      "Rg": 26.363510728857616,
+      "nu": 0.5062246434746113,
+      "I0": 1.9203137279083549,
+      "Rg_conditional_se": 0.3442845473624077,
+      "chi2_reduced": 0.7666006838122773,
+      "qmin": 0.012,
+      "qmax": 0.054000000000000006,
+      "qRgmax": 1.4236295793583114,
+      "n": 41,
+      "residues": 120,
+      "boundary": false
+    },
+    "extended_adaptive": {
+      "Rg": 26.00753771923979,
+      "nu": 0.5028285787070337,
+      "I0": 1.9062283327836245,
+      "Rg_conditional_se": 0.1899077028942473,
+      "chi2_reduced": 0.8372807202251202,
+      "qmin": 0.012,
+      "qmax": 0.07600000000000003,
+      "qRgmax": 1.9765728666622246,
+      "n": 52,
+      "residues": 120,
+      "boundary": false
+    },
+    "rotation": null,
+    "extended_bootstrap95": [
+      25.714516836427805,
+      27.032888016256667
+    ],
+    "conventional_bootstrap95": [
+      23.13068458827991,
+      29.75714017890459
+    ],
+    "uncertainty": "Paired input-frame perturbations include shared buffer noise and refitted EFA; fixed supports/windows/q ranges. No source q covariance or buffer-purity uncertainty."
+  },
+  {
+    "sample": "WT_092025",
+    "buffer": "Natalie_buffer_reference",
+    "buffer_frames": [
+      220,
+      236
+    ],
+    "curve": "EFA_main",
+    "sample_frames": [
+      159,
+      175
+    ],
+    "path": "buffer_window_test/WT_092025_Natalie_buffer_reference_EFA_main.dat",
+    "conventional": {
+      "Rg": 26.227626931227537,
+      "I0": 1.5458254892697818,
+      "Rg_conditional_se": 1.628362468128577,
+      "qmin": 0.012,
+      "qmax": 0.030000000000000002,
+      "qRgmax": 0.7868288079368262,
+      "chi2_reduced": 0.22878242235284277,
+      "n": 19
+    },
+    "conventional_within_IDP_limit": true,
+    "extended": {
+      "Rg": 25.839657655490885,
+      "nu": 0.501210167838799,
+      "I0": 1.5407393183626235,
+      "Rg_conditional_se": 0.3373918427549068,
+      "chi2_reduced": 0.32594723807253606,
+      "qmin": 0.012,
+      "qmax": 0.054000000000000006,
+      "qRgmax": 1.395341513396508,
+      "n": 41,
+      "residues": 120,
+      "boundary": false
+    },
+    "extended_adaptive": {
+      "Rg": 25.160587195216497,
+      "nu": 0.49455032208293204,
+      "I0": 1.519943696393871,
+      "Rg_conditional_se": 0.1647861401975666,
+      "chi2_reduced": 0.5913131213243364,
+      "qmin": 0.012,
+      "qmax": 0.07800000000000003,
+      "qRgmax": 1.9625258012268874,
+      "n": 53,
+      "residues": 120,
+      "boundary": false
+    },
+    "rotation": {
+      "converged": true,
+      "iterations": 74,
+      "supports": [
+        [
+          120,
+          175
+        ],
+        [
+          140,
+          205
+        ]
+      ],
+      "q": [
+        0.012,
+        0.25
+      ],
+      "singular_values": [
+        775.0966502829863,
+        50.297228463772605,
+        16.243784209390313,
+        15.775472631659389
+      ],
+      "residual_ms": 0.8351335709614787,
+      "rank1_residual_ms": 1.014477931586871,
+      "condition": 1.3642911880960649,
+      "peaks": [
+        140,
+        167
+      ],
+      "negative_fraction": [
+        0.010752688172043012,
+        0.0
+      ],
+      "bootstrap_converged": 100,
+      "bootstrap_requested": 100
+    },
+    "extended_bootstrap95": [
+      25.32971509426973,
+      26.388057660972148
+    ],
+    "conventional_bootstrap95": [
+      23.685811347307553,
+      29.32829293580988
+    ],
+    "uncertainty": "Paired input-frame perturbations include shared buffer noise and refitted EFA; fixed supports/windows/q ranges. No source q covariance or buffer-purity uncertainty.",
+    "bift": {
+      "rg": 26.53625735583012,
+      "dmax": 91.7101357078288,
+      "chisq": 0.6674624110132554,
+      "uncertainty": "Conditional RAW BIFT settings; Dmax regularization/model sensitivity remains separate."
+    }
+  },
+  {
+    "sample": "WT_092025",
+    "buffer": "Natalie_buffer_reference",
+    "buffer_frames": [
+      220,
+      236
+    ],
+    "curve": "EFA_other",
+    "sample_frames": [
+      159,
+      175
+    ],
+    "path": "buffer_window_test/WT_092025_Natalie_buffer_reference_EFA_other.dat",
+    "conventional": {
+      "Rg": 44.96777924006449,
+      "I0": 0.15961743913423532,
+      "Rg_conditional_se": 6.947482212275883,
+      "qmin": 0.012,
+      "qmax": 0.030000000000000002,
+      "qRgmax": 1.3490333772019347,
+      "chi2_reduced": 0.29687537810291714,
+      "n": 19
+    },
+    "conventional_within_IDP_limit": false,
+    "extended": null,
+    "extended_adaptive": {
+      "Rg": 37.52799021451945,
+      "nu": 0.5938428236252211,
+      "I0": 0.1423532049322075,
+      "Rg_conditional_se": 3.3479091625651116,
+      "chi2_reduced": 0.18495566627181736,
+      "qmin": 0.012,
+      "qmax": 0.052000000000000005,
+      "qRgmax": 1.9514554911550115,
+      "n": 40,
+      "residues": 120,
+      "boundary": false
+    },
+    "rotation": {
+      "converged": true,
+      "iterations": 74,
+      "supports": [
+        [
+          120,
+          175
+        ],
+        [
+          140,
+          205
+        ]
+      ],
+      "q": [
+        0.012,
+        0.25
+      ],
+      "singular_values": [
+        775.0966502829863,
+        50.297228463772605,
+        16.243784209390313,
+        15.775472631659389
+      ],
+      "residual_ms": 0.8351335709614787,
+      "rank1_residual_ms": 1.014477931586871,
+      "condition": 1.3642911880960649,
+      "peaks": [
+        140,
+        167
+      ],
+      "negative_fraction": [
+        0.010752688172043012,
+        0.0
+      ],
+      "bootstrap_converged": 100,
+      "bootstrap_requested": 100
+    },
+    "extended_bootstrap95": null,
+    "conventional_bootstrap95": [
+      40.14222566164272,
+      51.03163040431254
+    ],
+    "uncertainty": "Paired input-frame perturbations include shared buffer noise and refitted EFA; fixed supports/windows/q ranges. No source q covariance or buffer-purity uncertainty."
+  },
+  {
+    "sample": "AA_052026",
+    "buffer": "early_25_35",
+    "buffer_frames": [
+      25,
+      35
+    ],
+    "curve": "selected_average",
+    "sample_frames": [
+      169,
+      188
+    ],
+    "path": "buffer_window_test/AA_052026_early_25_35_selected_average.dat",
+    "conventional": {
+      "Rg": 33.172007753130714,
+      "I0": 4.838429968808959,
+      "Rg_conditional_se": 0.5756686618804416,
+      "qmin": 0.012,
+      "qmax": 0.030000000000000002,
+      "qRgmax": 0.9951602325939215,
+      "chi2_reduced": 0.6672251299667487,
+      "n": 19
+    },
+    "conventional_within_IDP_limit": true,
+    "extended": {
+      "Rg": 32.085112749463086,
+      "nu": 0.5550970078419866,
+      "I0": 4.7222796449558535,
+      "Rg_conditional_se": 0.14050044977369272,
+      "chi2_reduced": 1.299012049551086,
+      "qmin": 0.012,
+      "qmax": 0.054000000000000006,
+      "qRgmax": 1.7325960884710068,
+      "n": 41,
+      "residues": 120,
+      "boundary": false
+    },
+    "extended_adaptive": {
+      "Rg": 31.757646448775866,
+      "nu": 0.5525530487819439,
+      "I0": 4.692443693744225,
+      "Rg_conditional_se": 0.1145247223516971,
+      "chi2_reduced": 1.6972468627284087,
+      "qmin": 0.012,
+      "qmax": 0.06200000000000001,
+      "qRgmax": 1.968974079824104,
+      "n": 45,
+      "residues": 120,
+      "boundary": false
+    },
+    "rotation": null,
+    "extended_bootstrap95": [
+      31.829809810746283,
+      32.300326663781604
+    ],
+    "conventional_bootstrap95": [
+      32.152497414134935,
+      34.229285862534304
+    ],
+    "uncertainty": "Paired input-frame perturbations include shared buffer noise and refitted EFA; fixed supports/windows/q ranges. No source q covariance or buffer-purity uncertainty.",
+    "bift": {
+      "rg": 35.907195920381334,
+      "dmax": 165.15726031162822,
+      "chisq": 1.1024655544100892,
+      "uncertainty": "Conditional RAW BIFT settings; Dmax regularization/model sensitivity remains separate."
+    }
+  },
+  {
+    "sample": "AA_052026",
+    "buffer": "early_25_35",
+    "buffer_frames": [
+      25,
+      35
+    ],
+    "curve": "leading_5",
+    "sample_frames": [
+      165,
+      169
+    ],
+    "path": "buffer_window_test/AA_052026_early_25_35_leading_5.dat",
+    "conventional": {
+      "Rg": 34.60049926179385,
+      "I0": 2.578137867892599,
+      "Rg_conditional_se": 1.5076847636894755,
+      "qmin": 0.012,
+      "qmax": 0.030000000000000002,
+      "qRgmax": 1.0380149778538155,
+      "chi2_reduced": 1.0450295653389137,
+      "n": 19
+    },
+    "conventional_within_IDP_limit": true,
+    "extended": {
+      "Rg": 31.57829046231839,
+      "nu": 0.5511481638308029,
+      "I0": 2.4570515767768684,
+      "Rg_conditional_se": 0.38135821125355895,
+      "chi2_reduced": 0.9190521554911515,
+      "qmin": 0.012,
+      "qmax": 0.054000000000000006,
+      "qRgmax": 1.7052276849651933,
+      "n": 41,
+      "residues": 120,
+      "boundary": false
+    },
+    "extended_adaptive": {
+      "Rg": 31.216501333522363,
+      "nu": 0.5482889706691665,
+      "I0": 2.4395306030026505,
+      "Rg_conditional_se": 0.2962202110319999,
+      "chi2_reduced": 0.9032807140529251,
+      "qmin": 0.012,
+      "qmax": 0.06400000000000002,
+      "qRgmax": 1.9978560853454317,
+      "n": 46,
+      "residues": 120,
+      "boundary": false
+    },
+    "rotation": null,
+    "extended_bootstrap95": [
+      30.818615239655923,
+      32.203143462120444
+    ],
+    "conventional_bootstrap95": [
+      31.9888528520873,
+      37.17266638596245
+    ],
+    "uncertainty": "Paired input-frame perturbations include shared buffer noise and refitted EFA; fixed supports/windows/q ranges. No source q covariance or buffer-purity uncertainty."
+  },
+  {
+    "sample": "AA_052026",
+    "buffer": "early_25_35",
+    "buffer_frames": [
+      25,
+      35
+    ],
+    "curve": "apex_5",
+    "sample_frames": [
+      175,
+      179
+    ],
+    "path": "buffer_window_test/AA_052026_early_25_35_apex_5.dat",
+    "conventional": {
+      "Rg": 33.21617153432219,
+      "I0": 5.688417599374533,
+      "Rg_conditional_se": 0.7516012714179399,
+      "qmin": 0.012,
+      "qmax": 0.030000000000000002,
+      "qRgmax": 0.9964851460296659,
+      "chi2_reduced": 0.8601248209127136,
+      "n": 19
+    },
+    "conventional_within_IDP_limit": true,
+    "extended": {
+      "Rg": 32.25923898807192,
+      "nu": 0.556438802146738,
+      "I0": 5.557716433502507,
+      "Rg_conditional_se": 0.18632007561170733,
+      "chi2_reduced": 1.325676389384869,
+      "qmin": 0.012,
+      "qmax": 0.054000000000000006,
+      "qRgmax": 1.741998905355884,
+      "n": 41,
+      "residues": 120,
+      "boundary": false
+    },
+    "extended_adaptive": {
+      "Rg": 31.98061181073041,
+      "nu": 0.5542881123408837,
+      "I0": 5.5281094297476665,
+      "Rg_conditional_se": 0.15244552410949755,
+      "chi2_reduced": 1.467329473483763,
+      "qmin": 0.012,
+      "qmax": 0.06200000000000001,
+      "qRgmax": 1.9827979322652858,
+      "n": 45,
+      "residues": 120,
+      "boundary": false
+    },
+    "rotation": null,
+    "extended_bootstrap95": [
+      31.933881526219952,
+      32.57971714982918
+    ],
+    "conventional_bootstrap95": [
+      31.881561959180615,
+      34.743584340891665
+    ],
+    "uncertainty": "Paired input-frame perturbations include shared buffer noise and refitted EFA; fixed supports/windows/q ranges. No source q covariance or buffer-purity uncertainty."
+  },
+  {
+    "sample": "AA_052026",
+    "buffer": "early_25_35",
+    "buffer_frames": [
+      25,
+      35
+    ],
+    "curve": "EFA_main",
+    "sample_frames": [
+      169,
+      188
+    ],
+    "path": "buffer_window_test/AA_052026_early_25_35_EFA_main.dat",
+    "conventional": {
+      "Rg": 34.57899284572461,
+      "I0": 4.9528058238488235,
+      "Rg_conditional_se": 1.4603655095442147,
+      "qmin": 0.012,
+      "qmax": 0.030000000000000002,
+      "qRgmax": 1.0373697853717385,
+      "chi2_reduced": 0.4556066859824611,
+      "n": 19
+    },
+    "conventional_within_IDP_limit": true,
+    "extended": {
+      "Rg": 32.324476155476496,
+      "nu": 0.5569395815263671,
+      "I0": 4.786113974316488,
+      "Rg_conditional_se": 0.42953757587598396,
+      "chi2_reduced": 0.46069081204406725,
+      "qmin": 0.012,
+      "qmax": 0.054000000000000006,
+      "qRgmax": 1.745521712395731,
+      "n": 41,
+      "residues": 120,
+      "boundary": false
+    },
+    "extended_adaptive": {
+      "Rg": 31.818068801144715,
+      "nu": 0.5530244841000689,
+      "I0": 4.74472445321061,
+      "Rg_conditional_se": 0.35628143635009224,
+      "chi2_reduced": 0.5413357085103662,
+      "qmin": 0.012,
+      "qmax": 0.06200000000000001,
+      "qRgmax": 1.9727202656709728,
+      "n": 45,
+      "residues": 120,
+      "boundary": false
+    },
+    "rotation": {
+      "converged": true,
+      "iterations": 53,
+      "supports": [
+        [
+          145,
+          185
+        ],
+        [
+          160,
+          215
+        ]
+      ],
+      "q": [
+        0.012,
+        0.25
+      ],
+      "singular_values": [
+        1662.0235359648761,
+        17.98992691740626,
+        13.22212829227461,
+        12.757496542104759
+      ],
+      "residual_ms": 0.5920284587330682,
+      "rank1_residual_ms": 0.5820528078844113,
+      "condition": 3.913200103700192,
+      "peaks": [
+        178,
+        177
+      ],
+      "negative_fraction": [
+        0.8064516129032258,
+        0.0
+      ],
+      "bootstrap_converged": 63,
+      "bootstrap_requested": 100
+    },
+    "extended_bootstrap95": [
+      31.863417493789676,
+      32.69472264137096
+    ],
+    "conventional_bootstrap95": [
+      31.997356350616087,
+      37.23586934054488
+    ],
+    "uncertainty": "Paired input-frame perturbations include shared buffer noise and refitted EFA; fixed supports/windows/q ranges. No source q covariance or buffer-purity uncertainty.",
+    "bift": {
+      "rg": 33.40062263665784,
+      "dmax": 119.5037051553142,
+      "chisq": 0.7268011321825532,
+      "uncertainty": "Conditional RAW BIFT settings; Dmax regularization/model sensitivity remains separate."
+    }
+  },
+  {
+    "sample": "AA_052026",
+    "buffer": "early_25_35",
+    "buffer_frames": [
+      25,
+      35
+    ],
+    "curve": "EFA_other",
+    "sample_frames": [
+      169,
+      188
+    ],
+    "path": "buffer_window_test/AA_052026_early_25_35_EFA_other.dat",
+    "conventional": null,
+    "conventional_within_IDP_limit": false,
+    "extended": null,
+    "extended_adaptive": null,
+    "rotation": {
+      "converged": true,
+      "iterations": 53,
+      "supports": [
+        [
+          145,
+          185
+        ],
+        [
+          160,
+          215
+        ]
+      ],
+      "q": [
+        0.012,
+        0.25
+      ],
+      "singular_values": [
+        1662.0235359648761,
+        17.98992691740626,
+        13.22212829227461,
+        12.757496542104759
+      ],
+      "residual_ms": 0.5920284587330682,
+      "rank1_residual_ms": 0.5820528078844113,
+      "condition": 3.913200103700192,
+      "peaks": [
+        178,
+        177
+      ],
+      "negative_fraction": [
+        0.8064516129032258,
+        0.0
+      ],
+      "bootstrap_converged": 63,
+      "bootstrap_requested": 100
+    },
+    "extended_bootstrap95": null,
+    "conventional_bootstrap95": null,
+    "uncertainty": "Paired input-frame perturbations include shared buffer noise and refitted EFA; fixed supports/windows/q ranges. No source q covariance or buffer-purity uncertainty."
+  },
+  {
+    "sample": "AA_052026",
+    "buffer": "early_60_70",
+    "buffer_frames": [
+      60,
+      70
+    ],
+    "curve": "selected_average",
+    "sample_frames": [
+      169,
+      188
+    ],
+    "path": "buffer_window_test/AA_052026_early_60_70_selected_average.dat",
+    "conventional": {
+      "Rg": 32.94506376038359,
+      "I0": 4.8276248382450095,
+      "Rg_conditional_se": 0.5781985329890775,
+      "qmin": 0.012,
+      "qmax": 0.030000000000000002,
+      "qRgmax": 0.9883519128115078,
+      "chi2_reduced": 0.7194898051504252,
+      "n": 19
+    },
+    "conventional_within_IDP_limit": true,
+    "extended": {
+      "Rg": 32.25352826066912,
+      "nu": 0.5563949150573934,
+      "I0": 4.733856480594116,
+      "Rg_conditional_se": 0.14104396912345052,
+      "chi2_reduced": 1.1580147907639633,
+      "qmin": 0.012,
+      "qmax": 0.054000000000000006,
+      "qRgmax": 1.7416905260761328,
+      "n": 41,
+      "residues": 120,
+      "boundary": false
+    },
+    "extended_adaptive": {
+      "Rg": 31.78325201337698,
+      "nu": 0.5527529452264983,
+      "I0": 4.691295436008439,
+      "Rg_conditional_se": 0.11469008618864668,
+      "chi2_reduced": 1.8908843433195652,
+      "qmin": 0.012,
+      "qmax": 0.06200000000000001,
+      "qRgmax": 1.9705616248293731,
+      "n": 45,
+      "residues": 120,
+      "boundary": false
+    },
+    "rotation": null,
+    "extended_bootstrap95": [
+      31.975471459355504,
+      32.59563346934384
+    ],
+    "conventional_bootstrap95": [
+      31.744986614225645,
+      34.121317748167755
+    ],
+    "uncertainty": "Paired input-frame perturbations include shared buffer noise and refitted EFA; fixed supports/windows/q ranges. No source q covariance or buffer-purity uncertainty.",
+    "bift": {
+      "rg": 35.70594374154102,
+      "dmax": 166.37131423287448,
+      "chisq": 0.8938348759689991,
+      "uncertainty": "Conditional RAW BIFT settings; Dmax regularization/model sensitivity remains separate."
+    }
+  },
+  {
+    "sample": "AA_052026",
+    "buffer": "early_60_70",
+    "buffer_frames": [
+      60,
+      70
+    ],
+    "curve": "leading_5",
+    "sample_frames": [
+      165,
+      169
+    ],
+    "path": "buffer_window_test/AA_052026_early_60_70_leading_5.dat",
+    "conventional": {
+      "Rg": 34.22594375128788,
+      "I0": 2.5685201668217728,
+      "Rg_conditional_se": 1.5208476813571086,
+      "qmin": 0.012,
+      "qmax": 0.030000000000000002,
+      "qRgmax": 1.0267783125386365,
+      "chi2_reduced": 1.0235841801644785,
+      "n": 19
+    },
+    "conventional_within_IDP_limit": true,
+    "extended": {
+      "Rg": 31.8963657202084,
+      "nu": 0.5536340057309546,
+      "I0": 2.4683943160588435,
+      "Rg_conditional_se": 0.38405720722447334,
+      "chi2_reduced": 0.9326990061651035,
+      "qmin": 0.012,
+      "qmax": 0.054000000000000006,
+      "qRgmax": 1.7224037488912538,
+      "n": 41,
+      "residues": 120,
+      "boundary": false
+    },
+    "extended_adaptive": {
+      "Rg": 31.37573233599498,
+      "nu": 0.5495515676992262,
+      "I0": 2.4437801204248815,
+      "Rg_conditional_se": 0.30996787633790673,
+      "chi2_reduced": 1.0012312111474218,
+      "qmin": 0.012,
+      "qmax": 0.06200000000000001,
+      "qRgmax": 1.945295404831689,
+      "n": 45,
+      "residues": 120,
+      "boundary": false
+    },
+    "rotation": null,
+    "extended_bootstrap95": [
+      31.13579974920211,
+      32.53388938593714
+    ],
+    "conventional_bootstrap95": [
+      31.600839427740404,
+      36.84234913873238
+    ],
+    "uncertainty": "Paired input-frame perturbations include shared buffer noise and refitted EFA; fixed supports/windows/q ranges. No source q covariance or buffer-purity uncertainty."
+  },
+  {
+    "sample": "AA_052026",
+    "buffer": "early_60_70",
+    "buffer_frames": [
+      60,
+      70
+    ],
+    "curve": "apex_5",
+    "sample_frames": [
+      175,
+      179
+    ],
+    "path": "buffer_window_test/AA_052026_early_60_70_apex_5.dat",
+    "conventional": {
+      "Rg": 33.01287455655607,
+      "I0": 5.676755366313185,
+      "Rg_conditional_se": 0.7552363001909306,
+      "qmin": 0.012,
+      "qmax": 0.030000000000000002,
+      "qRgmax": 0.9903862366966822,
+      "chi2_reduced": 0.80153296057783,
+      "n": 19
+    },
+    "conventional_within_IDP_limit": true,
+    "extended": {
+      "Rg": 32.40133505646956,
+      "nu": 0.5575282320144967,
+      "I0": 5.569063738268376,
+      "Rg_conditional_se": 0.18695501799974146,
+      "chi2_reduced": 1.1911984402226397,
+      "qmin": 0.012,
+      "qmax": 0.054000000000000006,
+      "qRgmax": 1.7496720930493566,
+      "n": 41,
+      "residues": 120,
+      "boundary": false
+    },
+    "extended_adaptive": {
+      "Rg": 32.00253614366178,
+      "nu": 0.5544580455128127,
+      "I0": 5.526975556088478,
+      "Rg_conditional_se": 0.15265027238696913,
+      "chi2_reduced": 1.5240279037327036,
+      "qmin": 0.012,
+      "qmax": 0.06200000000000001,
+      "qRgmax": 1.9841572409070307,
+      "n": 45,
+      "residues": 120,
+      "boundary": false
+    },
+    "rotation": null,
+    "extended_bootstrap95": [
+      32.07900942016853,
+      32.822867920354774
+    ],
+    "conventional_bootstrap95": [
+      31.454712393237994,
+      34.54891077152846
+    ],
+    "uncertainty": "Paired input-frame perturbations include shared buffer noise and refitted EFA; fixed supports/windows/q ranges. No source q covariance or buffer-purity uncertainty."
+  },
+  {
+    "sample": "AA_052026",
+    "buffer": "post_210_220",
+    "buffer_frames": [
+      210,
+      220
+    ],
+    "curve": "selected_average",
+    "sample_frames": [
+      169,
+      188
+    ],
+    "path": "buffer_window_test/AA_052026_post_210_220_selected_average.dat",
+    "conventional": {
+      "Rg": 31.687145476390818,
+      "I0": 4.5899984816310475,
+      "Rg_conditional_se": 0.6312209822224877,
+      "qmin": 0.012,
+      "qmax": 0.030000000000000002,
+      "qRgmax": 0.9506143642917246,
+      "chi2_reduced": 0.44579021920603273,
+      "n": 19
+    },
+    "conventional_within_IDP_limit": true,
+    "extended": {
+      "Rg": 31.977616235855244,
+      "nu": 0.5542648845931968,
+      "I0": 4.560293952136521,
+      "Rg_conditional_se": 0.14529776526179153,
+      "chi2_reduced": 0.7163460963185383,
+      "qmin": 0.012,
+      "qmax": 0.054000000000000006,
+      "qRgmax": 1.7267912767361835,
+      "n": 41,
+      "residues": 120,
+      "boundary": false
+    },
+    "extended_adaptive": {
+      "Rg": 31.73988689197921,
+      "nu": 0.5524143061785821,
+      "I0": 4.5395435212176105,
+      "Rg_conditional_se": 0.11868807624092066,
+      "chi2_reduced": 0.8670057211733458,
+      "qmin": 0.012,
+      "qmax": 0.06200000000000001,
+      "qRgmax": 1.9678729873027114,
+      "n": 45,
+      "residues": 120,
+      "boundary": false
+    },
+    "rotation": null,
+    "extended_bootstrap95": [
+      31.642755516895626,
+      32.27238182379702
+    ],
+    "conventional_bootstrap95": [
+      30.691287404115798,
+      33.01069146009968
+    ],
+    "uncertainty": "Paired input-frame perturbations include shared buffer noise and refitted EFA; fixed supports/windows/q ranges. No source q covariance or buffer-purity uncertainty.",
+    "bift": {
+      "rg": 32.60891067185685,
+      "dmax": 118.14800066497784,
+      "chisq": 0.8256432226090882,
+      "uncertainty": "Conditional RAW BIFT settings; Dmax regularization/model sensitivity remains separate."
+    }
+  },
+  {
+    "sample": "AA_052026",
+    "buffer": "post_210_220",
+    "buffer_frames": [
+      210,
+      220
+    ],
+    "curve": "leading_5",
+    "sample_frames": [
+      165,
+      169
+    ],
+    "path": "buffer_window_test/AA_052026_post_210_220_leading_5.dat",
+    "conventional": {
+      "Rg": 31.76013491585197,
+      "I0": 2.3260926164628954,
+      "Rg_conditional_se": 1.7882341583252532,
+      "qmin": 0.012,
+      "qmax": 0.030000000000000002,
+      "qRgmax": 0.9528040474755592,
+      "chi2_reduced": 0.8098442268512778,
+      "n": 19
+    },
+    "conventional_within_IDP_limit": true,
+    "extended": {
+      "Rg": 31.345616763313387,
+      "nu": 0.5493132806683844,
+      "I0": 2.29576839688574,
+      "Rg_conditional_se": 0.40531112017091764,
+      "chi2_reduced": 0.7143668786314229,
+      "qmin": 0.012,
+      "qmax": 0.054000000000000006,
+      "qRgmax": 1.692663305218923,
+      "n": 41,
+      "residues": 120,
+      "boundary": false
+    },
+    "extended_adaptive": {
+      "Rg": 31.224124238215527,
+      "nu": 0.5483495671605941,
+      "I0": 2.290346308322662,
+      "Rg_conditional_se": 0.3161978800669153,
+      "chi2_reduced": 0.6603403390239603,
+      "qmin": 0.012,
+      "qmax": 0.06400000000000002,
+      "qRgmax": 1.9983439512457941,
+      "n": 46,
+      "residues": 120,
+      "boundary": false
+    },
+    "rotation": null,
+    "extended_bootstrap95": [
+      30.36249554732828,
+      32.0357708942397
+    ],
+    "conventional_bootstrap95": [
+      29.33916887094933,
+      35.27908498227266
+    ],
+    "uncertainty": "Paired input-frame perturbations include shared buffer noise and refitted EFA; fixed supports/windows/q ranges. No source q covariance or buffer-purity uncertainty."
+  },
+  {
+    "sample": "AA_052026",
+    "buffer": "post_210_220",
+    "buffer_frames": [
+      210,
+      220
+    ],
+    "curve": "apex_5",
+    "sample_frames": [
+      175,
+      179
+    ],
+    "path": "buffer_window_test/AA_052026_post_210_220_apex_5.dat",
+    "conventional": {
+      "Rg": 31.899472956463256,
+      "I0": 5.434636346192218,
+      "Rg_conditional_se": 0.8129868533661176,
+      "qmin": 0.012,
+      "qmax": 0.030000000000000002,
+      "qRgmax": 0.9569841886938978,
+      "chi2_reduced": 0.674193427028061,
+      "n": 19
+    },
+    "conventional_within_IDP_limit": true,
+    "extended": {
+      "Rg": 32.15695379814624,
+      "nu": 0.5556515170434804,
+      "I0": 5.393107330561984,
+      "Rg_conditional_se": 0.1914652091961396,
+      "chi2_reduced": 0.9353002400983504,
+      "qmin": 0.012,
+      "qmax": 0.054000000000000006,
+      "qRgmax": 1.7364755050998972,
+      "n": 41,
+      "residues": 120,
+      "boundary": false
+    },
+    "extended_adaptive": {
+      "Rg": 31.959021477220574,
+      "nu": 0.5541206500465968,
+      "I0": 5.372833312478473,
+      "Rg_conditional_se": 0.15688550355548042,
+      "chi2_reduced": 1.008682785554852,
+      "qmin": 0.012,
+      "qmax": 0.06200000000000001,
+      "qRgmax": 1.981459331587676,
+      "n": 45,
+      "residues": 120,
+      "boundary": false
+    },
+    "rotation": null,
+    "extended_bootstrap95": [
+      31.767876438502544,
+      32.53877148949535
+    ],
+    "conventional_bootstrap95": [
+      30.478931516212132,
+      33.7166088276852
+    ],
+    "uncertainty": "Paired input-frame perturbations include shared buffer noise and refitted EFA; fixed supports/windows/q ranges. No source q covariance or buffer-purity uncertainty."
+  },
+  {
+    "sample": "AA_052026",
+    "buffer": "post_210_220",
+    "buffer_frames": [
+      210,
+      220
+    ],
+    "curve": "EFA_main",
+    "sample_frames": [
+      169,
+      188
+    ],
+    "path": "buffer_window_test/AA_052026_post_210_220_EFA_main.dat",
+    "conventional": {
+      "Rg": 30.598015800694306,
+      "I0": 5.103712415767051,
+      "Rg_conditional_se": 2.188951367586043,
+      "qmin": 0.012,
+      "qmax": 0.030000000000000002,
+      "qRgmax": 0.9179404740208292,
+      "chi2_reduced": 0.25766135853362243,
+      "n": 19
+    },
+    "conventional_within_IDP_limit": true,
+    "extended": {
+      "Rg": 31.54356452865,
+      "nu": 0.5508752029858438,
+      "I0": 5.118801409813541,
+      "Rg_conditional_se": 0.6187188611630213,
+      "chi2_reduced": 0.16075844999855407,
+      "qmin": 0.012,
+      "qmax": 0.054000000000000006,
+      "qRgmax": 1.7033524845471002,
+      "n": 41,
+      "residues": 120,
+      "boundary": false
+    },
+    "extended_adaptive": {
+      "Rg": 31.367113286441548,
+      "nu": 0.5494833943715008,
+      "I0": 5.105135558009375,
+      "Rg_conditional_se": 0.5249299870688979,
+      "chi2_reduced": 0.15296315521901435,
+      "qmin": 0.012,
+      "qmax": 0.06200000000000001,
+      "qRgmax": 1.9447610237593764,
+      "n": 45,
+      "residues": 120,
+      "boundary": false
+    },
+    "rotation": {
+      "converged": true,
+      "iterations": 1805,
+      "supports": [
+        [
+          145,
+          185
+        ],
+        [
+          160,
+          215
+        ]
+      ],
+      "q": [
+        0.012,
+        0.25
+      ],
+      "singular_values": [
+        1608.75002325938,
+        16.167620001618193,
+        13.23790498975584,
+        12.787494723981089
+      ],
+      "residual_ms": 1.173252718583883,
+      "rank1_residual_ms": 0.5725683589720972,
+      "condition": 4.09864478531743,
+      "peaks": [
+        178,
+        178
+      ],
+      "negative_fraction": [
+        1.0,
+        0.0
+      ],
+      "bootstrap_converged": 92,
+      "bootstrap_requested": 100
+    },
+    "extended_bootstrap95": [
+      31.319563797694943,
+      32.34668849686829
+    ],
+    "conventional_bootstrap95": [
+      29.320349345702343,
+      33.07948690937787
+    ],
+    "uncertainty": "Paired input-frame perturbations include shared buffer noise and refitted EFA; fixed supports/windows/q ranges. No source q covariance or buffer-purity uncertainty.",
+    "bift": {
+      "rg": 31.743992656012527,
+      "dmax": 107.44308188863279,
+      "chisq": 0.28176536818150283,
+      "uncertainty": "Conditional RAW BIFT settings; Dmax regularization/model sensitivity remains separate."
+    }
+  },
+  {
+    "sample": "AA_052026",
+    "buffer": "post_210_220",
+    "buffer_frames": [
+      210,
+      220
+    ],
+    "curve": "EFA_other",
+    "sample_frames": [
+      169,
+      188
+    ],
+    "path": "buffer_window_test/AA_052026_post_210_220_EFA_other.dat",
+    "conventional": null,
+    "conventional_within_IDP_limit": false,
+    "extended": null,
+    "extended_adaptive": null,
+    "rotation": {
+      "converged": true,
+      "iterations": 1805,
+      "supports": [
+        [
+          145,
+          185
+        ],
+        [
+          160,
+          215
+        ]
+      ],
+      "q": [
+        0.012,
+        0.25
+      ],
+      "singular_values": [
+        1608.75002325938,
+        16.167620001618193,
+        13.23790498975584,
+        12.787494723981089
+      ],
+      "residual_ms": 1.173252718583883,
+      "rank1_residual_ms": 0.5725683589720972,
+      "condition": 4.09864478531743,
+      "peaks": [
+        178,
+        178
+      ],
+      "negative_fraction": [
+        1.0,
+        0.0
+      ],
+      "bootstrap_converged": 92,
+      "bootstrap_requested": 100
+    },
+    "extended_bootstrap95": null,
+    "conventional_bootstrap95": null,
+    "uncertainty": "Paired input-frame perturbations include shared buffer noise and refitted EFA; fixed supports/windows/q ranges. No source q covariance or buffer-purity uncertainty."
+  },
+  {
+    "sample": "AA_052026",
+    "buffer": "Natalie_buffer_reference",
+    "buffer_frames": [
+      24,
+      70
+    ],
+    "curve": "selected_average",
+    "sample_frames": [
+      169,
+      188
+    ],
+    "path": "buffer_window_test/AA_052026_Natalie_buffer_reference_selected_average.dat",
+    "conventional": {
+      "Rg": 32.96149238491758,
+      "I0": 4.827494613882184,
+      "Rg_conditional_se": 0.43496603102946796,
+      "qmin": 0.012,
+      "qmax": 0.030000000000000002,
+      "qRgmax": 0.9888447715475274,
+      "chi2_reduced": 0.7531183518145241,
+      "n": 19
+    },
+    "conventional_within_IDP_limit": true,
+    "extended": {
+      "Rg": 32.18766706092192,
+      "nu": 0.5558881878604444,
+      "I0": 4.7310740986603665,
+      "Rg_conditional_se": 0.10633920959959704,
+      "chi2_reduced": 1.591926577140438,
+      "qmin": 0.012,
+      "qmax": 0.054000000000000006,
+      "qRgmax": 1.7381340212897838,
+      "n": 41,
+      "residues": 120,
+      "boundary": false
+    },
+    "extended_adaptive": {
+      "Rg": 31.777974680920153,
+      "nu": 0.5527117600152961,
+      "I0": 4.694095279561918,
+      "Rg_conditional_se": 0.08646850335698775,
+      "chi2_reduced": 2.628753475407802,
+      "qmin": 0.012,
+      "qmax": 0.06200000000000001,
+      "qRgmax": 1.9702344302170498,
+      "n": 45,
+      "residues": 120,
+      "boundary": false
+    },
+    "rotation": null,
+    "extended_bootstrap95": [
+      32.00065431094779,
+      32.422824798720804
+    ],
+    "conventional_bootstrap95": [
+      32.15864850153994,
+      33.68170836494179
+    ],
+    "uncertainty": "Paired input-frame perturbations include shared buffer noise and refitted EFA; fixed supports/windows/q ranges. No source q covariance or buffer-purity uncertainty.",
+    "bift": {
+      "rg": 35.55529284761285,
+      "dmax": 166.4850755855101,
+      "chisq": 0.8905467100868738,
+      "uncertainty": "Conditional RAW BIFT settings; Dmax regularization/model sensitivity remains separate."
+    }
+  },
+  {
+    "sample": "AA_052026",
+    "buffer": "Natalie_buffer_reference",
+    "buffer_frames": [
+      24,
+      70
+    ],
+    "curve": "leading_5",
+    "sample_frames": [
+      165,
+      169
+    ],
+    "path": "buffer_window_test/AA_052026_Natalie_buffer_reference_leading_5.dat",
+    "conventional": {
+      "Rg": 34.16038815407568,
+      "I0": 2.5643627458217244,
+      "Rg_conditional_se": 1.3585302190917663,
+      "qmin": 0.012,
+      "qmax": 0.030000000000000002,
+      "qRgmax": 1.0248116446222706,
+      "chi2_reduced": 1.0420906416344367,
+      "n": 19
+    },
+    "conventional_within_IDP_limit": true,
+    "extended": {
+      "Rg": 31.75370842327152,
+      "nu": 0.5525222907635446,
+      "I0": 2.464125093852346,
+      "Rg_conditional_se": 0.3407567128355281,
+      "chi2_reduced": 0.942681730837522,
+      "qmin": 0.012,
+      "qmax": 0.054000000000000006,
+      "qRgmax": 1.714700254856662,
+      "n": 41,
+      "residues": 120,
+      "boundary": false
+    },
+    "extended_adaptive": {
+      "Rg": 31.353655228269865,
+      "nu": 0.5493769075617909,
+      "I0": 2.4451393909545365,
+      "Rg_conditional_se": 0.2754698092810744,
+      "chi2_reduced": 0.9685347186893382,
+      "qmin": 0.012,
+      "qmax": 0.06200000000000001,
+      "qRgmax": 1.943926624152732,
+      "n": 45,
+      "residues": 120,
+      "boundary": false
+    },
+    "rotation": null,
+    "extended_bootstrap95": [
+      31.06297687500398,
+      32.28937096166004
+    ],
+    "conventional_bootstrap95": [
+      32.15512418497953,
+      36.28087932189015
+    ],
+    "uncertainty": "Paired input-frame perturbations include shared buffer noise and refitted EFA; fixed supports/windows/q ranges. No source q covariance or buffer-purity uncertainty."
+  },
+  {
+    "sample": "AA_052026",
+    "buffer": "Natalie_buffer_reference",
+    "buffer_frames": [
+      24,
+      70
+    ],
+    "curve": "apex_5",
+    "sample_frames": [
+      175,
+      179
+    ],
+    "path": "buffer_window_test/AA_052026_Natalie_buffer_reference_apex_5.dat",
+    "conventional": {
+      "Rg": 33.00815539833357,
+      "I0": 5.675220124495513,
+      "Rg_conditional_se": 0.6829786064101885,
+      "qmin": 0.012,
+      "qmax": 0.030000000000000002,
+      "qRgmax": 0.9902446619500072,
+      "chi2_reduced": 0.9071283715942979,
+      "n": 19
+    },
+    "conventional_within_IDP_limit": true,
+    "extended": {
+      "Rg": 32.34072674418516,
+      "nu": 0.557064162981634,
+      "I0": 5.565501784615316,
+      "Rg_conditional_se": 0.16908632131719,
+      "chi2_reduced": 1.3399635089401765,
+      "qmin": 0.012,
+      "qmax": 0.054000000000000006,
+      "qRgmax": 1.746399244185999,
+      "n": 41,
+      "residues": 120,
+      "boundary": false
+    },
+    "extended_adaptive": {
+      "Rg": 31.994447346404378,
+      "nu": 0.5543953641414385,
+      "I0": 5.528975868857821,
+      "Rg_conditional_se": 0.13810536894738668,
+      "chi2_reduced": 1.6299741913387777,
+      "qmin": 0.012,
+      "qmax": 0.06200000000000001,
+      "qRgmax": 1.9836557354770719,
+      "n": 45,
+      "residues": 120,
+      "boundary": false
+    },
+    "rotation": null,
+    "extended_bootstrap95": [
+      32.06814785878772,
+      32.658197312424605
+    ],
+    "conventional_bootstrap95": [
+      31.537985967982774,
+      34.38180444205208
+    ],
+    "uncertainty": "Paired input-frame perturbations include shared buffer noise and refitted EFA; fixed supports/windows/q ranges. No source q covariance or buffer-purity uncertainty."
+  },
+  {
+    "sample": "AA_052026",
+    "buffer": "Natalie_buffer_reference",
+    "buffer_frames": [
+      24,
+      70
+    ],
+    "curve": "EFA_main",
+    "sample_frames": [
+      169,
+      188
+    ],
+    "path": "buffer_window_test/AA_052026_Natalie_buffer_reference_EFA_main.dat",
+    "conventional": {
+      "Rg": 33.385079106407645,
+      "I0": 4.610820444533962,
+      "Rg_conditional_se": 0.9313297720221037,
+      "qmin": 0.012,
+      "qmax": 0.030000000000000002,
+      "qRgmax": 1.0015523731922293,
+      "chi2_reduced": 0.8797203107919229,
+      "n": 19
+    },
+    "conventional_within_IDP_limit": true,
+    "extended": {
+      "Rg": 32.144501572271515,
+      "nu": 0.5555554957751604,
+      "I0": 4.501820488593647,
+      "Rg_conditional_se": 0.2500779353310024,
+      "chi2_reduced": 0.8699213616056612,
+      "qmin": 0.012,
+      "qmax": 0.054000000000000006,
+      "qRgmax": 1.735803084902662,
+      "n": 41,
+      "residues": 120,
+      "boundary": false
+    },
+    "extended_adaptive": {
+      "Rg": 31.5119436250052,
+      "nu": 0.5506263781824556,
+      "I0": 4.449887625969049,
+      "Rg_conditional_se": 0.19727689138739668,
+      "chi2_reduced": 1.2438003822374213,
+      "qmin": 0.012,
+      "qmax": 0.06200000000000001,
+      "qRgmax": 1.9537405047503227,
+      "n": 45,
+      "residues": 120,
+      "boundary": false
+    },
+    "rotation": {
+      "converged": true,
+      "iterations": 1703,
+      "supports": [
+        [
+          145,
+          185
+        ],
+        [
+          160,
+          215
+        ]
+      ],
+      "q": [
+        0.012,
+        0.25
+      ],
+      "singular_values": [
+        1710.0020913150192,
+        14.764887611293764,
+        13.56978966653865,
+        12.928591374867507
+      ],
+      "residual_ms": 0.6327689082565582,
+      "rank1_residual_ms": 0.5933146596812853,
+      "condition": 3.561141971192265,
+      "peaks": [
+        178,
+        177
+      ],
+      "negative_fraction": [
+        0.010752688172043012,
+        0.0
+      ],
+      "bootstrap_converged": 99,
+      "bootstrap_requested": 100
+    },
+    "extended_bootstrap95": [
+      31.85322406765601,
+      32.54849760511815
+    ],
+    "conventional_bootstrap95": [
+      31.838198242651075,
+      34.65934869243662
+    ],
+    "uncertainty": "Paired input-frame perturbations include shared buffer noise and refitted EFA; fixed supports/windows/q ranges. No source q covariance or buffer-purity uncertainty.",
+    "bift": {
+      "rg": 33.341241929275675,
+      "dmax": 122.56706455558036,
+      "chisq": 0.9483858295756393,
+      "uncertainty": "Conditional RAW BIFT settings; Dmax regularization/model sensitivity remains separate."
+    }
+  },
+  {
+    "sample": "AA_052026",
+    "buffer": "Natalie_buffer_reference",
+    "buffer_frames": [
+      24,
+      70
+    ],
+    "curve": "EFA_other",
+    "sample_frames": [
+      169,
+      188
+    ],
+    "path": "buffer_window_test/AA_052026_Natalie_buffer_reference_EFA_other.dat",
+    "conventional": {
+      "Rg": 36.34146847589475,
+      "I0": 0.2742473996714432,
+      "Rg_conditional_se": 14.562350386463565,
+      "qmin": 0.012,
+      "qmax": 0.030000000000000002,
+      "qRgmax": 1.0902440542768426,
+      "chi2_reduced": 0.4736453262791346,
+      "n": 19
+    },
+    "conventional_within_IDP_limit": true,
+    "extended": {
+      "Rg": 35.686142535840226,
+      "nu": 0.5814215463212551,
+      "I0": 0.2376165452840899,
+      "Rg_conditional_se": 4.9897292031773866,
+      "chi2_reduced": 0.5897387008368993,
+      "qmin": 0.012,
+      "qmax": 0.054000000000000006,
+      "qRgmax": 1.9270516969353724,
+      "n": 41,
+      "residues": 120,
+      "boundary": false
+    },
+    "extended_adaptive": {
+      "Rg": 35.40869271775764,
+      "nu": 0.579493194610693,
+      "I0": 0.23656487457866,
+      "Rg_conditional_se": 4.743990687172368,
+      "chi2_reduced": 0.5760385315657813,
+      "qmin": 0.012,
+      "qmax": 0.05600000000000001,
+      "qRgmax": 1.982886792194428,
+      "n": 42,
+      "residues": 120,
+      "boundary": false
+    },
+    "rotation": {
+      "converged": true,
+      "iterations": 1703,
+      "supports": [
+        [
+          145,
+          185
+        ],
+        [
+          160,
+          215
+        ]
+      ],
+      "q": [
+        0.012,
+        0.25
+      ],
+      "singular_values": [
+        1710.0020913150192,
+        14.764887611293764,
+        13.56978966653865,
+        12.928591374867507
+      ],
+      "residual_ms": 0.6327689082565582,
+      "rank1_residual_ms": 0.5933146596812853,
+      "condition": 3.561141971192265,
+      "peaks": [
+        178,
+        177
+      ],
+      "negative_fraction": [
+        0.010752688172043012,
+        0.0
+      ],
+      "bootstrap_converged": 99,
+      "bootstrap_requested": 100
+    },
+    "extended_bootstrap95": [
+      26.838477177284478,
+      56.189866660353644
+    ],
+    "conventional_bootstrap95": null,
+    "uncertainty": "Paired input-frame perturbations include shared buffer noise and refitted EFA; fixed supports/windows/q ranges. No source q covariance or buffer-purity uncertainty."
+  }
+]

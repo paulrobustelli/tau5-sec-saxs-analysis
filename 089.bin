@@ -1,0 +1,10 @@
+{
+  "WT_frame180_input_minus_220_236_matches_export_max_abs_difference": 3.2539260175212803e-09,
+  "pre_subtraction_input_profiles_available": true,
+  "buffer_subtraction_count_in_new_test": 1,
+  "AA_notebook_input": "data/AA_052026.hdf5",
+  "AA_notebook_buffer": [
+    24,
+    70
+  ]
+}

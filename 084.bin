@@ -1,0 +1,138 @@
+[
+  {
+    "sample": "WT_092025",
+    "buffer": "early_25_35",
+    "start": 25,
+    "end": 35,
+    "n": 11,
+    "max_band_slope_z": 1.073432240510745,
+    "band_slope_z": [
+      0.2222126831600334,
+      -0.895554406028637,
+      -1.073432240510745,
+      -0.17724592862611444
+    ],
+    "half_profile_ms": 0.6703010525033106,
+    "passes": true,
+    "note": "Stationarity only, not proof of protein-free buffer. 210\u2013220 is explicitly a tail-contamination stress test."
+  },
+  {
+    "sample": "WT_092025",
+    "buffer": "early_60_70",
+    "start": 60,
+    "end": 70,
+    "n": 11,
+    "max_band_slope_z": 1.1152291394442093,
+    "band_slope_z": [
+      -0.40366101139169125,
+      -1.1152291394442093,
+      0.5866102045726665,
+      -0.8367215071285744
+    ],
+    "half_profile_ms": 0.7575176751982987,
+    "passes": true,
+    "note": "Stationarity only, not proof of protein-free buffer. 210\u2013220 is explicitly a tail-contamination stress test."
+  },
+  {
+    "sample": "WT_092025",
+    "buffer": "post_210_220",
+    "start": 210,
+    "end": 220,
+    "n": 11,
+    "max_band_slope_z": 1.263197939648234,
+    "band_slope_z": [
+      -1.263197939648234,
+      -1.2064132294761256,
+      1.0845974229967708,
+      -0.26395219209897075
+    ],
+    "half_profile_ms": 0.8383469337894404,
+    "passes": true,
+    "note": "Stationarity only, not proof of protein-free buffer. 210\u2013220 is explicitly a tail-contamination stress test."
+  },
+  {
+    "sample": "WT_092025",
+    "buffer": "Natalie_buffer_reference",
+    "start": 220,
+    "end": 236,
+    "n": 17,
+    "max_band_slope_z": 1.2431631765782296,
+    "band_slope_z": [
+      -0.132515185712151,
+      -1.2431631765782296,
+      0.11096509264734832,
+      -0.09829635901872293
+    ],
+    "half_profile_ms": 0.6829663947546293,
+    "passes": true,
+    "note": "Stationarity only, not proof of protein-free buffer. 210\u2013220 is explicitly a tail-contamination stress test."
+  },
+  {
+    "sample": "AA_052026",
+    "buffer": "early_25_35",
+    "start": 25,
+    "end": 35,
+    "n": 11,
+    "max_band_slope_z": 0.6396923691806142,
+    "band_slope_z": [
+      0.24366963607333897,
+      0.6396923691806142,
+      0.48858237282154443,
+      0.3309615743828716
+    ],
+    "half_profile_ms": 0.509328072275406,
+    "passes": true,
+    "note": "Stationarity only, not proof of protein-free buffer. 210\u2013220 is explicitly a tail-contamination stress test."
+  },
+  {
+    "sample": "AA_052026",
+    "buffer": "early_60_70",
+    "start": 60,
+    "end": 70,
+    "n": 11,
+    "max_band_slope_z": 0.9268826912681754,
+    "band_slope_z": [
+      -0.9268826912681754,
+      0.06035329308200346,
+      -0.6047610867868065,
+      -0.07364823685981696
+    ],
+    "half_profile_ms": 0.5365419799088925,
+    "passes": true,
+    "note": "Stationarity only, not proof of protein-free buffer. 210\u2013220 is explicitly a tail-contamination stress test."
+  },
+  {
+    "sample": "AA_052026",
+    "buffer": "post_210_220",
+    "start": 210,
+    "end": 220,
+    "n": 11,
+    "max_band_slope_z": 7.013578880480413,
+    "band_slope_z": [
+      -2.397020315015836,
+      -7.013578880480413,
+      -3.8494213613509296,
+      -2.4948789665502833
+    ],
+    "half_profile_ms": 1.2728788491798573,
+    "passes": false,
+    "note": "Stationarity only, not proof of protein-free buffer. 210\u2013220 is explicitly a tail-contamination stress test."
+  },
+  {
+    "sample": "AA_052026",
+    "buffer": "Natalie_buffer_reference",
+    "start": 24,
+    "end": 70,
+    "n": 47,
+    "max_band_slope_z": 1.7848706825699057,
+    "band_slope_z": [
+      -0.3094879243490639,
+      1.7848706825699057,
+      1.6403086506079696,
+      1.043650702174385
+    ],
+    "half_profile_ms": 0.6007722743104961,
+    "passes": true,
+    "note": "Stationarity only, not proof of protein-free buffer. 210\u2013220 is explicitly a tail-contamination stress test."
+  }
+]

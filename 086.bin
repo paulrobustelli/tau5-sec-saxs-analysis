@@ -1,0 +1,93 @@
+[
+  {
+    "notebook": "AA_082024.ipynb",
+    "sha256": "731f0ddad8577240bec050c5e57cda60f002958b4d2e7d1ea719ef3a149d9b82",
+    "cells": [
+      {
+        "cell": 3,
+        "source": "AA_h5='./data/AA_052026.h5'\nAA_hdf5='./data/AA_052026.hdf5'\n\n",
+        "output": []
+      },
+      {
+        "cell": 7,
+        "source": "#Define a list of series filenames to load\nseries_names = [AA_hdf5]\n\n#Load the series\nseries = raw.load_series(series_names)\nprint(series)",
+        "output": []
+      },
+      {
+        "cell": 11,
+        "source": "#Set buffer range\nsuccess, region_start, region_end = raw.find_buffer_range(my_series)\nprint(f\"Buffer range found: {success}, start: {region_start}, end: {region_end}\")\n    \n(sub_profiles, rg, rger, i0, i0er, vcmw, vcmwer,\n    vpmw) = raw.set_buffer_range(my_series, [[region_start, region_end]])\n",
+        "output": [
+          "Buffer range found: True, start: 24, end: 70\n"
+        ]
+      },
+      {
+        "cell": 17,
+        "source": "# Baseline Correction\n# Validate baseline range\n(lin_valid, lin_valid_results, lin_similarity_results, lin_svd_results,\n    lin_intI_results, lin_other_results) = raw.validate_baseline_range(\n    my_series, [0, 10], [439, 449], 'Linear')\n\n#Do baseline correction\n(lin_bl_cor_profiles, lin_rg, lin_rger, lin_i0, lin_i0er, lin_vcmw, lin_vcmwer,\n    lin_vpmw, lin_bl_corr, lin_fit_results) = raw.set_baseline_correction(\n    my_series, [0, 10], [439, 449], 'Linear')",
+        "output": []
+      }
+    ]
+  },
+  {
+    "notebook": "AA_052026.ipynb",
+    "sha256": "e061076da87943dfa456323f94f2ac194f50ce9726976b488bc40dabed75cdef",
+    "cells": [
+      {
+        "cell": 3,
+        "source": "AA_h5='./data/AA_052026.h5'\nAA_hdf5='./data/AA_052026.hdf5'\n\n",
+        "output": []
+      },
+      {
+        "cell": 7,
+        "source": "#Define a list of series filenames to load\nseries_names = [AA_hdf5]\n\n#Load the series\nseries = raw.load_series(series_names)\nprint(series)",
+        "output": []
+      },
+      {
+        "cell": 11,
+        "source": "#Set buffer range\nsuccess, region_start, region_end = raw.find_buffer_range(my_series)\nprint(f\"Buffer range found: {success}, start: {region_start}, end: {region_end}\")\n    \n(sub_profiles, rg, rger, i0, i0er, vcmw, vcmwer,\n    vpmw) = raw.set_buffer_range(my_series, [[region_start, region_end]])\n",
+        "output": [
+          "Buffer range found: True, start: 24, end: 70\n"
+        ]
+      },
+      {
+        "cell": 17,
+        "source": "# Baseline Correction\n# Validate baseline range\n(lin_valid, lin_valid_results, lin_similarity_results, lin_svd_results,\n    lin_intI_results, lin_other_results) = raw.validate_baseline_range(\n    my_series, [0, 10], [439, 449], 'Linear')\n\n#Do baseline correction\n(lin_bl_cor_profiles, lin_rg, lin_rger, lin_i0, lin_i0er, lin_vcmw, lin_vcmwer,\n    lin_vpmw, lin_bl_corr, lin_fit_results) = raw.set_baseline_correction(\n    my_series, [0, 10], [439, 449], 'Linear')",
+        "output": []
+      }
+    ]
+  },
+  {
+    "notebook": "WT_092025.ipynb",
+    "sha256": "c1366e68dfa9ee7627398bc491973367efab8dda294c3163d79a9c09a8112e69",
+    "cells": [
+      {
+        "cell": 3,
+        "source": "WT_hdf5='./data/WT_092025.hdf5'\n\n",
+        "output": []
+      },
+      {
+        "cell": 7,
+        "source": "#Define a list of series filenames to load\nseries_names = [WT_hdf5]\n\n#Load the series\nseries = raw.load_series(series_names)\nprint(series)",
+        "output": []
+      },
+      {
+        "cell": 10,
+        "source": "#Set buffer range\nsuccess, region_start, region_end = raw.find_buffer_range(my_series)\nprint(f\"Buffer range found: {success}, start: {region_start}, end: {region_end}\")\n    \n(sub_profiles, rg, rger, i0, i0er, vcmw, vcmwer,\n    vpmw) = raw.set_buffer_range(my_series, [[region_start, region_end]])\n",
+        "output": [
+          "Buffer range found: True, start: 220, end: 236\n"
+        ]
+      },
+      {
+        "cell": 14,
+        "source": "# #Find an appropriate buffer range for subtraction\nsuccess, region_start, region_end = raw.find_buffer_range(my_series)\n\nprint(f\"Buffer range found: {success}, Start: {region_start}, End: {region_end}\")\n\n#Set the buffer range for the series\nbuffer_range = [[region_start, region_end]]\nprint(f\"Buffer range set to: {buffer_range}\")",
+        "output": [
+          "Buffer range found: True, Start: 220, End: 236\nBuffer range set to: [[220, 236]]\n"
+        ]
+      },
+      {
+        "cell": 15,
+        "source": "(sub_profiles, rg, rger, i0, i0er, vcmw, vcmwer,\n    vpmw) = raw.set_buffer_range(my_series, buffer_range)",
+        "output": []
+      }
+    ]
+  }
+]

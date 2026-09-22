@@ -1,0 +1,295 @@
+[
+  {
+    "sample": "WT_092025",
+    "buffer": "early_25_35",
+    "curve": "selected_average",
+    "reference": "Natalie_buffer_reference",
+    "extended_delta95": [
+      1.2300438721062972,
+      2.23493645506457
+    ],
+    "successful_pairs": 100
+  },
+  {
+    "sample": "WT_092025",
+    "buffer": "early_25_35",
+    "curve": "leading_5",
+    "reference": "Natalie_buffer_reference",
+    "extended_delta95": [
+      1.1255061671150306,
+      2.0439948852620144
+    ],
+    "successful_pairs": 100
+  },
+  {
+    "sample": "WT_092025",
+    "buffer": "early_25_35",
+    "curve": "apex_5",
+    "reference": "Natalie_buffer_reference",
+    "extended_delta95": [
+      1.0725105978125538,
+      1.9671219594260183
+    ],
+    "successful_pairs": 100
+  },
+  {
+    "sample": "WT_092025",
+    "buffer": "early_25_35",
+    "curve": "EFA_main",
+    "reference": "Natalie_buffer_reference",
+    "extended_delta95": [
+      1.621783349666651,
+      2.855093585544166
+    ],
+    "successful_pairs": 100
+  },
+  {
+    "sample": "WT_092025",
+    "buffer": "early_25_35",
+    "curve": "EFA_other",
+    "reference": "Natalie_buffer_reference",
+    "extended_delta95": null,
+    "successful_pairs": 0
+  },
+  {
+    "sample": "WT_092025",
+    "buffer": "early_60_70",
+    "curve": "selected_average",
+    "reference": "Natalie_buffer_reference",
+    "extended_delta95": [
+      1.1244800917143443,
+      2.177042421874722
+    ],
+    "successful_pairs": 100
+  },
+  {
+    "sample": "WT_092025",
+    "buffer": "early_60_70",
+    "curve": "leading_5",
+    "reference": "Natalie_buffer_reference",
+    "extended_delta95": [
+      1.0282803876565805,
+      1.99833182418942
+    ],
+    "successful_pairs": 100
+  },
+  {
+    "sample": "WT_092025",
+    "buffer": "early_60_70",
+    "curve": "apex_5",
+    "reference": "Natalie_buffer_reference",
+    "extended_delta95": [
+      0.9826491069342975,
+      1.9040085451850675
+    ],
+    "successful_pairs": 100
+  },
+  {
+    "sample": "WT_092025",
+    "buffer": "early_60_70",
+    "curve": "EFA_main",
+    "reference": "Natalie_buffer_reference",
+    "extended_delta95": [
+      1.5658609171225146,
+      2.7527894651347955
+    ],
+    "successful_pairs": 100
+  },
+  {
+    "sample": "WT_092025",
+    "buffer": "early_60_70",
+    "curve": "EFA_other",
+    "reference": "Natalie_buffer_reference",
+    "extended_delta95": null,
+    "successful_pairs": 0
+  },
+  {
+    "sample": "WT_092025",
+    "buffer": "post_210_220",
+    "curve": "selected_average",
+    "reference": "Natalie_buffer_reference",
+    "extended_delta95": [
+      -0.5571265766281215,
+      0.5195664283742518
+    ],
+    "successful_pairs": 100
+  },
+  {
+    "sample": "WT_092025",
+    "buffer": "post_210_220",
+    "curve": "leading_5",
+    "reference": "Natalie_buffer_reference",
+    "extended_delta95": [
+      -0.49938631346565054,
+      0.479680034322888
+    ],
+    "successful_pairs": 100
+  },
+  {
+    "sample": "WT_092025",
+    "buffer": "post_210_220",
+    "curve": "apex_5",
+    "reference": "Natalie_buffer_reference",
+    "extended_delta95": [
+      -0.48628653578357356,
+      0.44726553996002016
+    ],
+    "successful_pairs": 100
+  },
+  {
+    "sample": "WT_092025",
+    "buffer": "post_210_220",
+    "curve": "EFA_main",
+    "reference": "Natalie_buffer_reference",
+    "extended_delta95": [
+      -0.6191182189466434,
+      0.5577678522947938
+    ],
+    "successful_pairs": 100
+  },
+  {
+    "sample": "WT_092025",
+    "buffer": "post_210_220",
+    "curve": "EFA_other",
+    "reference": "Natalie_buffer_reference",
+    "extended_delta95": null,
+    "successful_pairs": 0
+  },
+  {
+    "sample": "AA_052026",
+    "buffer": "early_25_35",
+    "curve": "selected_average",
+    "reference": "Natalie_buffer_reference",
+    "extended_delta95": [
+      -0.31399173568084543,
+      0.08417377550589007
+    ],
+    "successful_pairs": 100
+  },
+  {
+    "sample": "AA_052026",
+    "buffer": "early_25_35",
+    "curve": "leading_5",
+    "reference": "Natalie_buffer_reference",
+    "extended_delta95": [
+      -0.5694243625155251,
+      0.17547011468823903
+    ],
+    "successful_pairs": 100
+  },
+  {
+    "sample": "AA_052026",
+    "buffer": "early_25_35",
+    "curve": "apex_5",
+    "reference": "Natalie_buffer_reference",
+    "extended_delta95": [
+      -0.2605057597677608,
+      0.07662679432651875
+    ],
+    "successful_pairs": 100
+  },
+  {
+    "sample": "AA_052026",
+    "buffer": "early_25_35",
+    "curve": "EFA_main",
+    "reference": "Natalie_buffer_reference",
+    "extended_delta95": [
+      -0.2215420068944577,
+      0.4865332142909411
+    ],
+    "successful_pairs": 62
+  },
+  {
+    "sample": "AA_052026",
+    "buffer": "early_25_35",
+    "curve": "EFA_other",
+    "reference": "Natalie_buffer_reference",
+    "extended_delta95": null,
+    "successful_pairs": 0
+  },
+  {
+    "sample": "AA_052026",
+    "buffer": "early_60_70",
+    "curve": "selected_average",
+    "reference": "Natalie_buffer_reference",
+    "extended_delta95": [
+      -0.09505915774245252,
+      0.28178461179365594
+    ],
+    "successful_pairs": 100
+  },
+  {
+    "sample": "AA_052026",
+    "buffer": "early_60_70",
+    "curve": "leading_5",
+    "reference": "Natalie_buffer_reference",
+    "extended_delta95": [
+      -0.1673565263380313,
+      0.544612762153113
+    ],
+    "successful_pairs": 100
+  },
+  {
+    "sample": "AA_052026",
+    "buffer": "early_60_70",
+    "curve": "apex_5",
+    "reference": "Natalie_buffer_reference",
+    "extended_delta95": [
+      -0.07926922128453295,
+      0.24864129534672083
+    ],
+    "successful_pairs": 100
+  },
+  {
+    "sample": "AA_052026",
+    "buffer": "post_210_220",
+    "curve": "selected_average",
+    "reference": "Natalie_buffer_reference",
+    "extended_delta95": [
+      -0.41271483491495803,
+      0.011773307909130133
+    ],
+    "successful_pairs": 100
+  },
+  {
+    "sample": "AA_052026",
+    "buffer": "post_210_220",
+    "curve": "leading_5",
+    "reference": "Natalie_buffer_reference",
+    "extended_delta95": [
+      -0.8070961951865767,
+      0.023353106978927257
+    ],
+    "successful_pairs": 100
+  },
+  {
+    "sample": "AA_052026",
+    "buffer": "post_210_220",
+    "curve": "apex_5",
+    "reference": "Natalie_buffer_reference",
+    "extended_delta95": [
+      -0.35794766576387105,
+      0.011182184664974632
+    ],
+    "successful_pairs": 100
+  },
+  {
+    "sample": "AA_052026",
+    "buffer": "post_210_220",
+    "curve": "EFA_main",
+    "reference": "Natalie_buffer_reference",
+    "extended_delta95": [
+      -0.7937711755145509,
+      0.18596662767757266
+    ],
+    "successful_pairs": 91
+  },
+  {
+    "sample": "AA_052026",
+    "buffer": "post_210_220",
+    "curve": "EFA_other",
+    "reference": "Natalie_buffer_reference",
+    "extended_delta95": null,
+    "successful_pairs": 0
+  }
+]

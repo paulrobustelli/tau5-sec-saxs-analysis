@@ -1,0 +1,21 @@
+{
+  "curves": 38,
+  "buffer_weights_remove_constant_exactly": true,
+  "exported_curves_finite_positive_errors": true,
+  "common_extended_qRg_limits_pass": true,
+  "requested_buffers": [
+    [
+      25,
+      35
+    ],
+    [
+      60,
+      70
+    ],
+    [
+      210,
+      220
+    ]
+  ],
+  "original_input_profiles_used": true
+}
