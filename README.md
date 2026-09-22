@@ -1,5 +1,7 @@
 # Tau-5* SEC-SAXS: reproduction, window selection and EFA
 
+Extended Guinier fits (Zheng & Best) for all six component/average curves: [executed notebook 05](extended_guinier/05_extended_Guinier.ipynb) and [method/results](extended_guinier/README.md). [STARLING input sequences](background/Tau5_STARLING_sequences.fasta).
+
 **Latest update (22 September):** actual EFA component curves and an executed audit are now in [04_EFA_component_Iq.ipynb](04_EFA_component_Iq.ipynb) and [COMPONENT_RESULTS.md](COMPONENT_RESULTS.md). WT has a distinguishable shoulder/main separation; AA purification is not established. The earlier [CHECKPOINT.md](CHECKPOINT.md) is retained as historical context.
 
 Start with the **executed notebooks, in order**:
