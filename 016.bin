@@ -1,0 +1,17 @@
+{
+  "synthetic_recovery_passed": true,
+  "true_nu": 0.53,
+  "recovered": {
+    "Rg": 29.001641634290383,
+    "nu": 0.5300000001179446,
+    "I0": 3.2000000007440565,
+    "Rg_conditional_se": 0.0509304919982704,
+    "chi2_reduced": 1.5498461617842072e-15,
+    "qmin": 0.012,
+    "qmax": 0.06,
+    "qRgmax": 1.740098498057423,
+    "n": 49,
+    "residues": 120,
+    "boundary": false
+  }
+}
