@@ -1,0 +1,698 @@
+[
+  {
+    "id": "results_comparison__curves__WT_092025_Natalie_average",
+    "path": "results_comparison/curves/WT_092025_Natalie_average.dat",
+    "group": "Original averages",
+    "label": "WT Natalie frames 175\u2013185",
+    "sample": "WT_092025",
+    "error_model": "Original independent-frame error propagation; shared baseline uncertainty unavailable"
+  },
+  {
+    "id": "results_comparison__curves__AA_052026_Natalie_average",
+    "path": "results_comparison/curves/AA_052026_Natalie_average.dat",
+    "group": "Original averages",
+    "label": "AA Natalie frames 172\u2013182",
+    "sample": "AA_052026",
+    "error_model": "Original independent-frame error propagation; shared baseline uncertainty unavailable"
+  },
+  {
+    "id": "poster_results__AA_052026_selected_average",
+    "path": "poster_results/AA_052026_selected_average.dat",
+    "group": "Selected non-EFA",
+    "label": "AA_052026_selected_average",
+    "sample": "AA_052026",
+    "error_model": "Exported conditional errors; model and baseline choice excluded"
+  },
+  {
+    "id": "poster_results__WT_092025_selected_average",
+    "path": "poster_results/WT_092025_selected_average.dat",
+    "group": "Selected non-EFA",
+    "label": "WT_092025_selected_average",
+    "sample": "WT_092025",
+    "error_model": "Exported conditional errors; model and baseline choice excluded"
+  },
+  {
+    "id": "independent_baseline__AA_052026_integral_average",
+    "path": "independent_baseline/AA_052026_integral_average.dat",
+    "group": "Baseline variants",
+    "label": "AA_052026_integral_average",
+    "sample": "AA_052026",
+    "error_model": "Exported conditional errors; model and baseline choice excluded"
+  },
+  {
+    "id": "independent_baseline__AA_052026_linear_average",
+    "path": "independent_baseline/AA_052026_linear_average.dat",
+    "group": "Baseline variants",
+    "label": "AA_052026_linear_average",
+    "sample": "AA_052026",
+    "error_model": "Exported conditional errors; model and baseline choice excluded"
+  },
+  {
+    "id": "independent_baseline__AA_052026_post_average",
+    "path": "independent_baseline/AA_052026_post_average.dat",
+    "group": "Baseline variants",
+    "label": "AA_052026_post_average",
+    "sample": "AA_052026",
+    "error_model": "Exported conditional errors; model and baseline choice excluded"
+  },
+  {
+    "id": "independent_baseline__AA_052026_pre_average",
+    "path": "independent_baseline/AA_052026_pre_average.dat",
+    "group": "Baseline variants",
+    "label": "AA_052026_pre_average",
+    "sample": "AA_052026",
+    "error_model": "Exported conditional errors; model and baseline choice excluded"
+  },
+  {
+    "id": "independent_baseline__WT_092025_integral_average",
+    "path": "independent_baseline/WT_092025_integral_average.dat",
+    "group": "Baseline variants",
+    "label": "WT_092025_integral_average",
+    "sample": "WT_092025",
+    "error_model": "Exported conditional errors; model and baseline choice excluded"
+  },
+  {
+    "id": "independent_baseline__WT_092025_linear_average",
+    "path": "independent_baseline/WT_092025_linear_average.dat",
+    "group": "Baseline variants",
+    "label": "WT_092025_linear_average",
+    "sample": "WT_092025",
+    "error_model": "Exported conditional errors; model and baseline choice excluded"
+  },
+  {
+    "id": "independent_baseline__WT_092025_post_average",
+    "path": "independent_baseline/WT_092025_post_average.dat",
+    "group": "Baseline variants",
+    "label": "WT_092025_post_average",
+    "sample": "WT_092025",
+    "error_model": "Exported conditional errors; model and baseline choice excluded"
+  },
+  {
+    "id": "independent_baseline__WT_092025_pre_average",
+    "path": "independent_baseline/WT_092025_pre_average.dat",
+    "group": "Baseline variants",
+    "label": "WT_092025_pre_average",
+    "sample": "WT_092025",
+    "error_model": "Exported conditional errors; model and baseline choice excluded"
+  },
+  {
+    "id": "component_results__AA_052026_EFA_candidate_main",
+    "path": "component_results/AA_052026_EFA_candidate_main.dat",
+    "group": "Audited EFA and matched average",
+    "label": "AA_052026_EFA_candidate_main",
+    "sample": "AA_052026",
+    "error_model": "Pointwise EFA bootstrap SD; paired bootstrap curves retained separately"
+  },
+  {
+    "id": "component_results__AA_052026_EFA_other_component",
+    "path": "component_results/AA_052026_EFA_other_component.dat",
+    "group": "Audited EFA and matched average",
+    "label": "AA_052026_EFA_other_component",
+    "sample": "AA_052026",
+    "error_model": "Exported conditional errors; model and baseline choice excluded"
+  },
+  {
+    "id": "component_results__AA_052026_frame_average_same_baseline",
+    "path": "component_results/AA_052026_frame_average_same_baseline.dat",
+    "group": "Audited EFA and matched average",
+    "label": "AA_052026_frame_average_same_baseline",
+    "sample": "AA_052026",
+    "error_model": "Exported conditional errors; model and baseline choice excluded"
+  },
+  {
+    "id": "component_results__AA_052026_rank1_dominant_not_purified",
+    "path": "component_results/AA_052026_rank1_dominant_not_purified.dat",
+    "group": "Audited EFA and matched average",
+    "label": "AA_052026_rank1_dominant_not_purified",
+    "sample": "AA_052026",
+    "error_model": "Exported conditional errors; model and baseline choice excluded"
+  },
+  {
+    "id": "component_results__WT_092025_EFA_candidate_main",
+    "path": "component_results/WT_092025_EFA_candidate_main.dat",
+    "group": "Audited EFA and matched average",
+    "label": "WT_092025_EFA_candidate_main",
+    "sample": "WT_092025",
+    "error_model": "Pointwise EFA bootstrap SD; paired bootstrap curves retained separately"
+  },
+  {
+    "id": "component_results__WT_092025_EFA_other_component",
+    "path": "component_results/WT_092025_EFA_other_component.dat",
+    "group": "Audited EFA and matched average",
+    "label": "WT_092025_EFA_other_component",
+    "sample": "WT_092025",
+    "error_model": "Exported conditional errors; model and baseline choice excluded"
+  },
+  {
+    "id": "component_results__WT_092025_frame_average_same_baseline",
+    "path": "component_results/WT_092025_frame_average_same_baseline.dat",
+    "group": "Audited EFA and matched average",
+    "label": "WT_092025_frame_average_same_baseline",
+    "sample": "WT_092025",
+    "error_model": "Exported conditional errors; model and baseline choice excluded"
+  },
+  {
+    "id": "component_results__WT_092025_rank1_dominant_not_purified",
+    "path": "component_results/WT_092025_rank1_dominant_not_purified.dat",
+    "group": "Audited EFA and matched average",
+    "label": "WT_092025_rank1_dominant_not_purified",
+    "sample": "WT_092025",
+    "error_model": "Exported conditional errors; model and baseline choice excluded"
+  },
+  {
+    "id": "results__AA_052026_155-215_default_0.012-0.25_rank1_profile",
+    "path": "results/AA_052026_155-215_default_0.012-0.25_rank1_profile.dat",
+    "group": "Legacy rank-one",
+    "label": "AA_052026_155-215_default_0.012-0.25_rank1_profile",
+    "sample": "AA_052026",
+    "error_model": "Exported conditional errors; model and baseline choice excluded"
+  },
+  {
+    "id": "results__AA_052026_163-204_default_0.012-0.25_rank1_profile",
+    "path": "results/AA_052026_163-204_default_0.012-0.25_rank1_profile.dat",
+    "group": "Legacy rank-one",
+    "label": "AA_052026_163-204_default_0.012-0.25_rank1_profile",
+    "sample": "AA_052026",
+    "error_model": "Exported conditional errors; model and baseline choice excluded"
+  },
+  {
+    "id": "results__WT_092025_120-205_default_0.012-0.25_rank1_profile",
+    "path": "results/WT_092025_120-205_default_0.012-0.25_rank1_profile.dat",
+    "group": "Legacy rank-one",
+    "label": "WT_092025_120-205_default_0.012-0.25_rank1_profile",
+    "sample": "WT_092025",
+    "error_model": "Exported conditional errors; model and baseline choice excluded"
+  },
+  {
+    "id": "results__WT_092025_125-195_default_0.012-0.25_rank1_profile",
+    "path": "results/WT_092025_125-195_default_0.012-0.25_rank1_profile.dat",
+    "group": "Legacy rank-one",
+    "label": "WT_092025_125-195_default_0.012-0.25_rank1_profile",
+    "sample": "WT_092025",
+    "error_model": "Exported conditional errors; model and baseline choice excluded"
+  },
+  {
+    "id": "results__WT_092025_155-180_default_0.012-0.25_rank1_profile",
+    "path": "results/WT_092025_155-180_default_0.012-0.25_rank1_profile.dat",
+    "group": "Legacy rank-one",
+    "label": "WT_092025_155-180_default_0.012-0.25_rank1_profile",
+    "sample": "WT_092025",
+    "error_model": "Exported conditional errors; model and baseline choice excluded"
+  },
+  {
+    "id": "results__WT_092025_120-205_rotation_component1",
+    "path": "results/WT_092025_120-205_rotation_component1.dat",
+    "group": "Legacy EFA",
+    "label": "WT_092025_120-205_rotation_component1",
+    "sample": "WT_092025",
+    "error_model": "Exported conditional errors; model and baseline choice excluded"
+  },
+  {
+    "id": "results__WT_092025_120-205_rotation_component2",
+    "path": "results/WT_092025_120-205_rotation_component2.dat",
+    "group": "Legacy EFA",
+    "label": "WT_092025_120-205_rotation_component2",
+    "sample": "WT_092025",
+    "error_model": "Exported conditional errors; model and baseline choice excluded"
+  },
+  {
+    "id": "WT_window_comparison__linear_center",
+    "path": "WT_window_comparison/linear_center.dat",
+    "group": "Non-EFA window and baseline",
+    "label": "WT linear_center",
+    "sample": "WT_092025",
+    "error_model": "Shared baseline propagated within each curve; paired covariance exported separately"
+  },
+  {
+    "id": "WT_window_comparison__linear_late_tail",
+    "path": "WT_window_comparison/linear_late_tail.dat",
+    "group": "Non-EFA window and baseline",
+    "label": "WT linear_late_tail",
+    "sample": "WT_092025",
+    "error_model": "Shared baseline propagated within each curve; paired covariance exported separately"
+  },
+  {
+    "id": "WT_window_comparison__linear_leading",
+    "path": "WT_window_comparison/linear_leading.dat",
+    "group": "Non-EFA window and baseline",
+    "label": "WT linear_leading",
+    "sample": "WT_092025",
+    "error_model": "Shared baseline propagated within each curve; paired covariance exported separately"
+  },
+  {
+    "id": "WT_window_comparison__linear_trailing",
+    "path": "WT_window_comparison/linear_trailing.dat",
+    "group": "Non-EFA window and baseline",
+    "label": "WT linear_trailing",
+    "sample": "WT_092025",
+    "error_model": "Shared baseline propagated within each curve; paired covariance exported separately"
+  },
+  {
+    "id": "WT_window_comparison__post_center",
+    "path": "WT_window_comparison/post_center.dat",
+    "group": "Non-EFA window and baseline",
+    "label": "WT post_center",
+    "sample": "WT_092025",
+    "error_model": "Shared baseline propagated within each curve; paired covariance exported separately"
+  },
+  {
+    "id": "WT_window_comparison__post_late_tail",
+    "path": "WT_window_comparison/post_late_tail.dat",
+    "group": "Non-EFA window and baseline",
+    "label": "WT post_late_tail",
+    "sample": "WT_092025",
+    "error_model": "Shared baseline propagated within each curve; paired covariance exported separately"
+  },
+  {
+    "id": "WT_window_comparison__post_leading",
+    "path": "WT_window_comparison/post_leading.dat",
+    "group": "Non-EFA window and baseline",
+    "label": "WT post_leading",
+    "sample": "WT_092025",
+    "error_model": "Shared baseline propagated within each curve; paired covariance exported separately"
+  },
+  {
+    "id": "WT_window_comparison__post_trailing",
+    "path": "WT_window_comparison/post_trailing.dat",
+    "group": "Non-EFA window and baseline",
+    "label": "WT post_trailing",
+    "sample": "WT_092025",
+    "error_model": "Shared baseline propagated within each curve; paired covariance exported separately"
+  },
+  {
+    "id": "WT_window_comparison__pre_center",
+    "path": "WT_window_comparison/pre_center.dat",
+    "group": "Non-EFA window and baseline",
+    "label": "WT pre_center",
+    "sample": "WT_092025",
+    "error_model": "Shared baseline propagated within each curve; paired covariance exported separately"
+  },
+  {
+    "id": "WT_window_comparison__pre_late_tail",
+    "path": "WT_window_comparison/pre_late_tail.dat",
+    "group": "Non-EFA window and baseline",
+    "label": "WT pre_late_tail",
+    "sample": "WT_092025",
+    "error_model": "Shared baseline propagated within each curve; paired covariance exported separately"
+  },
+  {
+    "id": "WT_window_comparison__pre_leading",
+    "path": "WT_window_comparison/pre_leading.dat",
+    "group": "Non-EFA window and baseline",
+    "label": "WT pre_leading",
+    "sample": "WT_092025",
+    "error_model": "Shared baseline propagated within each curve; paired covariance exported separately"
+  },
+  {
+    "id": "WT_window_comparison__pre_trailing",
+    "path": "WT_window_comparison/pre_trailing.dat",
+    "group": "Non-EFA window and baseline",
+    "label": "WT pre_trailing",
+    "sample": "WT_092025",
+    "error_model": "Shared baseline propagated within each curve; paired covariance exported separately"
+  },
+  {
+    "id": "AA_window_comparison__linear_center",
+    "path": "AA_window_comparison/linear_center.dat",
+    "group": "Non-EFA window and baseline",
+    "label": "AA linear_center",
+    "sample": "AA_052026",
+    "error_model": "Shared baseline propagated within each curve; paired covariance exported separately"
+  },
+  {
+    "id": "AA_window_comparison__linear_late_tail",
+    "path": "AA_window_comparison/linear_late_tail.dat",
+    "group": "Non-EFA window and baseline",
+    "label": "AA linear_late_tail",
+    "sample": "AA_052026",
+    "error_model": "Shared baseline propagated within each curve; paired covariance exported separately"
+  },
+  {
+    "id": "AA_window_comparison__linear_leading",
+    "path": "AA_window_comparison/linear_leading.dat",
+    "group": "Non-EFA window and baseline",
+    "label": "AA linear_leading",
+    "sample": "AA_052026",
+    "error_model": "Shared baseline propagated within each curve; paired covariance exported separately"
+  },
+  {
+    "id": "AA_window_comparison__linear_trailing",
+    "path": "AA_window_comparison/linear_trailing.dat",
+    "group": "Non-EFA window and baseline",
+    "label": "AA linear_trailing",
+    "sample": "AA_052026",
+    "error_model": "Shared baseline propagated within each curve; paired covariance exported separately"
+  },
+  {
+    "id": "AA_window_comparison__post_center",
+    "path": "AA_window_comparison/post_center.dat",
+    "group": "Non-EFA window and baseline",
+    "label": "AA post_center",
+    "sample": "AA_052026",
+    "error_model": "Shared baseline propagated within each curve; paired covariance exported separately"
+  },
+  {
+    "id": "AA_window_comparison__post_late_tail",
+    "path": "AA_window_comparison/post_late_tail.dat",
+    "group": "Non-EFA window and baseline",
+    "label": "AA post_late_tail",
+    "sample": "AA_052026",
+    "error_model": "Shared baseline propagated within each curve; paired covariance exported separately"
+  },
+  {
+    "id": "AA_window_comparison__post_leading",
+    "path": "AA_window_comparison/post_leading.dat",
+    "group": "Non-EFA window and baseline",
+    "label": "AA post_leading",
+    "sample": "AA_052026",
+    "error_model": "Shared baseline propagated within each curve; paired covariance exported separately"
+  },
+  {
+    "id": "AA_window_comparison__post_trailing",
+    "path": "AA_window_comparison/post_trailing.dat",
+    "group": "Non-EFA window and baseline",
+    "label": "AA post_trailing",
+    "sample": "AA_052026",
+    "error_model": "Shared baseline propagated within each curve; paired covariance exported separately"
+  },
+  {
+    "id": "AA_window_comparison__pre_center",
+    "path": "AA_window_comparison/pre_center.dat",
+    "group": "Non-EFA window and baseline",
+    "label": "AA pre_center",
+    "sample": "AA_052026",
+    "error_model": "Shared baseline propagated within each curve; paired covariance exported separately"
+  },
+  {
+    "id": "AA_window_comparison__pre_late_tail",
+    "path": "AA_window_comparison/pre_late_tail.dat",
+    "group": "Non-EFA window and baseline",
+    "label": "AA pre_late_tail",
+    "sample": "AA_052026",
+    "error_model": "Shared baseline propagated within each curve; paired covariance exported separately"
+  },
+  {
+    "id": "AA_window_comparison__pre_leading",
+    "path": "AA_window_comparison/pre_leading.dat",
+    "group": "Non-EFA window and baseline",
+    "label": "AA pre_leading",
+    "sample": "AA_052026",
+    "error_model": "Shared baseline propagated within each curve; paired covariance exported separately"
+  },
+  {
+    "id": "AA_window_comparison__pre_trailing",
+    "path": "AA_window_comparison/pre_trailing.dat",
+    "group": "Non-EFA window and baseline",
+    "label": "AA pre_trailing",
+    "sample": "AA_052026",
+    "error_model": "Shared baseline propagated within each curve; paired covariance exported separately"
+  },
+  {
+    "id": "results_comparison__curves__AA_052026_report_rotation_0_component1",
+    "path": "results_comparison/curves/AA_052026_report_rotation_0_component1.dat",
+    "group": "Report-hypothesis EFA",
+    "label": "AA_052026_report_rotation_0 component 1",
+    "sample": "AA_052026",
+    "error_model": "Fixed-C conditional propagation; report-frame covariance unavailable; exploratory rotation"
+  },
+  {
+    "id": "results_comparison__curves__AA_052026_report_rotation_0_component2",
+    "path": "results_comparison/curves/AA_052026_report_rotation_0_component2.dat",
+    "group": "Report-hypothesis EFA",
+    "label": "AA_052026_report_rotation_0 component 2",
+    "sample": "AA_052026",
+    "error_model": "Fixed-C conditional propagation; report-frame covariance unavailable; exploratory rotation"
+  },
+  {
+    "id": "results_comparison__curves__AA_052026_report_rotation_0_component3",
+    "path": "results_comparison/curves/AA_052026_report_rotation_0_component3.dat",
+    "group": "Report-hypothesis EFA",
+    "label": "AA_052026_report_rotation_0 component 3",
+    "sample": "AA_052026",
+    "error_model": "Fixed-C conditional propagation; report-frame covariance unavailable; exploratory rotation"
+  },
+  {
+    "id": "results_comparison__curves__AA_052026_report_rotation_1_component1",
+    "path": "results_comparison/curves/AA_052026_report_rotation_1_component1.dat",
+    "group": "Report-hypothesis EFA",
+    "label": "AA_052026_report_rotation_1 component 1",
+    "sample": "AA_052026",
+    "error_model": "Fixed-C conditional propagation; report-frame covariance unavailable; exploratory rotation"
+  },
+  {
+    "id": "results_comparison__curves__AA_052026_report_rotation_1_component2",
+    "path": "results_comparison/curves/AA_052026_report_rotation_1_component2.dat",
+    "group": "Report-hypothesis EFA",
+    "label": "AA_052026_report_rotation_1 component 2",
+    "sample": "AA_052026",
+    "error_model": "Fixed-C conditional propagation; report-frame covariance unavailable; exploratory rotation"
+  },
+  {
+    "id": "results_comparison__curves__AA_052026_report_rotation_1_component3",
+    "path": "results_comparison/curves/AA_052026_report_rotation_1_component3.dat",
+    "group": "Report-hypothesis EFA",
+    "label": "AA_052026_report_rotation_1 component 3",
+    "sample": "AA_052026",
+    "error_model": "Fixed-C conditional propagation; report-frame covariance unavailable; exploratory rotation"
+  },
+  {
+    "id": "results_comparison__curves__WT_092025_report_rotation_0_component1",
+    "path": "results_comparison/curves/WT_092025_report_rotation_0_component1.dat",
+    "group": "Report-hypothesis EFA",
+    "label": "WT_092025_report_rotation_0 component 1",
+    "sample": "WT_092025",
+    "error_model": "Fixed-C conditional propagation; report-frame covariance unavailable; exploratory rotation"
+  },
+  {
+    "id": "results_comparison__curves__WT_092025_report_rotation_0_component2",
+    "path": "results_comparison/curves/WT_092025_report_rotation_0_component2.dat",
+    "group": "Report-hypothesis EFA",
+    "label": "WT_092025_report_rotation_0 component 2",
+    "sample": "WT_092025",
+    "error_model": "Fixed-C conditional propagation; report-frame covariance unavailable; exploratory rotation"
+  },
+  {
+    "id": "results_comparison__curves__WT_092025_report_rotation_0_component3",
+    "path": "results_comparison/curves/WT_092025_report_rotation_0_component3.dat",
+    "group": "Report-hypothesis EFA",
+    "label": "WT_092025_report_rotation_0 component 3",
+    "sample": "WT_092025",
+    "error_model": "Fixed-C conditional propagation; report-frame covariance unavailable; exploratory rotation"
+  },
+  {
+    "id": "results_comparison__curves__WT_092025_report_rotation_0_component4",
+    "path": "results_comparison/curves/WT_092025_report_rotation_0_component4.dat",
+    "group": "Report-hypothesis EFA",
+    "label": "WT_092025_report_rotation_0 component 4",
+    "sample": "WT_092025",
+    "error_model": "Fixed-C conditional propagation; report-frame covariance unavailable; exploratory rotation"
+  },
+  {
+    "id": "results_comparison__curves__WT_092025_linear_least_overlap_leading_161-165",
+    "path": "results_comparison/curves/WT_092025_linear_least_overlap_leading_161-165.dat",
+    "group": "EFA-guided direct edges",
+    "label": "WT linear least_overlap_leading 161\u2013165",
+    "sample": "WT_092025",
+    "error_model": "Exact fixed-baseline linear propagation; edge selection uncertainty excluded",
+    "frames": [
+      161,
+      165
+    ]
+  },
+  {
+    "id": "results_comparison__curves__WT_092025_linear_main_apex_5_165-169",
+    "path": "results_comparison/curves/WT_092025_linear_main_apex_5_165-169.dat",
+    "group": "EFA-guided direct edges",
+    "label": "WT linear main_apex_5 165\u2013169",
+    "sample": "WT_092025",
+    "error_model": "Exact fixed-baseline linear propagation; edge selection uncertainty excluded",
+    "frames": [
+      165,
+      169
+    ]
+  },
+  {
+    "id": "results_comparison__curves__WT_092025_pre_least_overlap_leading_161-165",
+    "path": "results_comparison/curves/WT_092025_pre_least_overlap_leading_161-165.dat",
+    "group": "EFA-guided direct edges",
+    "label": "WT pre least_overlap_leading 161\u2013165",
+    "sample": "WT_092025",
+    "error_model": "Exact fixed-baseline linear propagation; edge selection uncertainty excluded",
+    "frames": [
+      161,
+      165
+    ]
+  },
+  {
+    "id": "results_comparison__curves__WT_092025_pre_main_apex_5_165-169",
+    "path": "results_comparison/curves/WT_092025_pre_main_apex_5_165-169.dat",
+    "group": "EFA-guided direct edges",
+    "label": "WT pre main_apex_5 165\u2013169",
+    "sample": "WT_092025",
+    "error_model": "Exact fixed-baseline linear propagation; edge selection uncertainty excluded",
+    "frames": [
+      165,
+      169
+    ]
+  },
+  {
+    "id": "results_comparison__curves__WT_092025_post_least_overlap_leading_161-165",
+    "path": "results_comparison/curves/WT_092025_post_least_overlap_leading_161-165.dat",
+    "group": "EFA-guided direct edges",
+    "label": "WT post least_overlap_leading 161\u2013165",
+    "sample": "WT_092025",
+    "error_model": "Exact fixed-baseline linear propagation; edge selection uncertainty excluded",
+    "frames": [
+      161,
+      165
+    ]
+  },
+  {
+    "id": "results_comparison__curves__WT_092025_post_main_apex_5_165-169",
+    "path": "results_comparison/curves/WT_092025_post_main_apex_5_165-169.dat",
+    "group": "EFA-guided direct edges",
+    "label": "WT post main_apex_5 165\u2013169",
+    "sample": "WT_092025",
+    "error_model": "Exact fixed-baseline linear propagation; edge selection uncertainty excluded",
+    "frames": [
+      165,
+      169
+    ]
+  },
+  {
+    "id": "results_comparison__curves__AA_052026_linear_least_overlap_leading_165-169",
+    "path": "results_comparison/curves/AA_052026_linear_least_overlap_leading_165-169.dat",
+    "group": "EFA-guided direct edges",
+    "label": "AA linear least_overlap_leading 165\u2013169",
+    "sample": "AA_052026",
+    "error_model": "Exact fixed-baseline linear propagation; edge selection uncertainty excluded",
+    "frames": [
+      165,
+      169
+    ]
+  },
+  {
+    "id": "results_comparison__curves__AA_052026_linear_main_apex_5_175-179",
+    "path": "results_comparison/curves/AA_052026_linear_main_apex_5_175-179.dat",
+    "group": "EFA-guided direct edges",
+    "label": "AA linear main_apex_5 175\u2013179",
+    "sample": "AA_052026",
+    "error_model": "Exact fixed-baseline linear propagation; edge selection uncertainty excluded",
+    "frames": [
+      175,
+      179
+    ]
+  },
+  {
+    "id": "results_comparison__curves__AA_052026_pre_least_overlap_leading_165-169",
+    "path": "results_comparison/curves/AA_052026_pre_least_overlap_leading_165-169.dat",
+    "group": "EFA-guided direct edges",
+    "label": "AA pre least_overlap_leading 165\u2013169",
+    "sample": "AA_052026",
+    "error_model": "Exact fixed-baseline linear propagation; edge selection uncertainty excluded",
+    "frames": [
+      165,
+      169
+    ]
+  },
+  {
+    "id": "results_comparison__curves__AA_052026_pre_main_apex_5_175-179",
+    "path": "results_comparison/curves/AA_052026_pre_main_apex_5_175-179.dat",
+    "group": "EFA-guided direct edges",
+    "label": "AA pre main_apex_5 175\u2013179",
+    "sample": "AA_052026",
+    "error_model": "Exact fixed-baseline linear propagation; edge selection uncertainty excluded",
+    "frames": [
+      175,
+      179
+    ]
+  },
+  {
+    "id": "results_comparison__curves__AA_052026_post_least_overlap_leading_165-169",
+    "path": "results_comparison/curves/AA_052026_post_least_overlap_leading_165-169.dat",
+    "group": "EFA-guided direct edges",
+    "label": "AA post least_overlap_leading 165\u2013169",
+    "sample": "AA_052026",
+    "error_model": "Exact fixed-baseline linear propagation; edge selection uncertainty excluded",
+    "frames": [
+      165,
+      169
+    ]
+  },
+  {
+    "id": "results_comparison__curves__AA_052026_post_main_apex_5_175-179",
+    "path": "results_comparison/curves/AA_052026_post_main_apex_5_175-179.dat",
+    "group": "EFA-guided direct edges",
+    "label": "AA post main_apex_5 175\u2013179",
+    "sample": "AA_052026",
+    "error_model": "Exact fixed-baseline linear propagation; edge selection uncertainty excluded",
+    "frames": [
+      175,
+      179
+    ]
+  },
+  {
+    "id": "results_comparison__curves__AA_052026_bift_window_167_188_Iq",
+    "path": "results_comparison/curves/AA_052026_bift_window_167_188_Iq.dat",
+    "group": "Non-EFA BIFT windows",
+    "label": "AA_052026_bift_window_167_188 input I(q)",
+    "sample": "AA_052026",
+    "error_model": "Saved selected-window I(q) errors; q covariance unavailable"
+  },
+  {
+    "id": "results_comparison__curves__AA_052026_bift_window_169_186_Iq",
+    "path": "results_comparison/curves/AA_052026_bift_window_169_186_Iq.dat",
+    "group": "Non-EFA BIFT windows",
+    "label": "AA_052026_bift_window_169_186 input I(q)",
+    "sample": "AA_052026",
+    "error_model": "Saved selected-window I(q) errors; q covariance unavailable"
+  },
+  {
+    "id": "results_comparison__curves__AA_052026_bift_window_169_190_Iq",
+    "path": "results_comparison/curves/AA_052026_bift_window_169_190_Iq.dat",
+    "group": "Non-EFA BIFT windows",
+    "label": "AA_052026_bift_window_169_190 input I(q)",
+    "sample": "AA_052026",
+    "error_model": "Saved selected-window I(q) errors; q covariance unavailable"
+  },
+  {
+    "id": "results_comparison__curves__AA_052026_bift_window_171_188_Iq",
+    "path": "results_comparison/curves/AA_052026_bift_window_171_188_Iq.dat",
+    "group": "Non-EFA BIFT windows",
+    "label": "AA_052026_bift_window_171_188 input I(q)",
+    "sample": "AA_052026",
+    "error_model": "Saved selected-window I(q) errors; q covariance unavailable"
+  },
+  {
+    "id": "results_comparison__curves__WT_092025_bift_window_157_175_Iq",
+    "path": "results_comparison/curves/WT_092025_bift_window_157_175_Iq.dat",
+    "group": "Non-EFA BIFT windows",
+    "label": "WT_092025_bift_window_157_175 input I(q)",
+    "sample": "WT_092025",
+    "error_model": "Saved selected-window I(q) errors; q covariance unavailable"
+  },
+  {
+    "id": "results_comparison__curves__WT_092025_bift_window_159_173_Iq",
+    "path": "results_comparison/curves/WT_092025_bift_window_159_173_Iq.dat",
+    "group": "Non-EFA BIFT windows",
+    "label": "WT_092025_bift_window_159_173 input I(q)",
+    "sample": "WT_092025",
+    "error_model": "Saved selected-window I(q) errors; q covariance unavailable"
+  },
+  {
+    "id": "results_comparison__curves__WT_092025_bift_window_159_177_Iq",
+    "path": "results_comparison/curves/WT_092025_bift_window_159_177_Iq.dat",
+    "group": "Non-EFA BIFT windows",
+    "label": "WT_092025_bift_window_159_177 input I(q)",
+    "sample": "WT_092025",
+    "error_model": "Saved selected-window I(q) errors; q covariance unavailable"
+  },
+  {
+    "id": "results_comparison__curves__WT_092025_bift_window_161_175_Iq",
+    "path": "results_comparison/curves/WT_092025_bift_window_161_175_Iq.dat",
+    "group": "Non-EFA BIFT windows",
+    "label": "WT_092025_bift_window_161_175 input I(q)",
+    "sample": "WT_092025",
+    "error_model": "Saved selected-window I(q) errors; q covariance unavailable"
+  }
+]

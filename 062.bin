@@ -1,0 +1,438 @@
+[
+  {
+    "sample": "WT_092025",
+    "baseline": "linear",
+    "kind": "edge",
+    "comparison": "WT linear least_overlap_leading 161\u2013165 minus WT linear main_apex_5 165\u2013169",
+    "extended_delta95": [
+      -0.4525170830478945,
+      1.1444268509359812
+    ],
+    "valid_draws": 300,
+    "n": 300,
+    "fit_range": [
+      0.012,
+      0.055
+    ],
+    "conditional": true
+  },
+  {
+    "sample": "WT_092025",
+    "baseline": "linear",
+    "kind": "window",
+    "comparison": "WT linear_leading minus WT linear_center",
+    "extended_delta95": [
+      1.504830290998655,
+      3.776875113270058
+    ],
+    "valid_draws": 300,
+    "n": 300,
+    "fit_range": [
+      0.012,
+      0.055
+    ],
+    "conditional": true
+  },
+  {
+    "sample": "WT_092025",
+    "baseline": "linear",
+    "kind": "window",
+    "comparison": "WT linear_trailing minus WT linear_center",
+    "extended_delta95": [
+      -0.7985064064965256,
+      0.7763670423895432
+    ],
+    "valid_draws": 300,
+    "n": 300,
+    "fit_range": [
+      0.012,
+      0.055
+    ],
+    "conditional": true
+  },
+  {
+    "sample": "WT_092025",
+    "baseline": "linear",
+    "kind": "window",
+    "comparison": "WT linear_late_tail minus WT linear_center",
+    "extended_delta95": [
+      -1.627412556490559,
+      2.698368375263314
+    ],
+    "valid_draws": 300,
+    "n": 300,
+    "fit_range": [
+      0.012,
+      0.055
+    ],
+    "conditional": true
+  },
+  {
+    "sample": "WT_092025",
+    "baseline": "pre",
+    "kind": "edge",
+    "comparison": "WT pre least_overlap_leading 161\u2013165 minus WT pre main_apex_5 165\u2013169",
+    "extended_delta95": [
+      -0.4732138373657877,
+      1.1023087744789983
+    ],
+    "valid_draws": 300,
+    "n": 300,
+    "fit_range": [
+      0.012,
+      0.055
+    ],
+    "conditional": true
+  },
+  {
+    "sample": "WT_092025",
+    "baseline": "pre",
+    "kind": "window",
+    "comparison": "WT pre_leading minus WT pre_center",
+    "extended_delta95": [
+      2.625516045316791,
+      4.839182972689698
+    ],
+    "valid_draws": 300,
+    "n": 300,
+    "fit_range": [
+      0.012,
+      0.055
+    ],
+    "conditional": true
+  },
+  {
+    "sample": "WT_092025",
+    "baseline": "pre",
+    "kind": "window",
+    "comparison": "WT pre_trailing minus WT pre_center",
+    "extended_delta95": [
+      -0.12936759416933624,
+      1.4096573273147468
+    ],
+    "valid_draws": 300,
+    "n": 300,
+    "fit_range": [
+      0.012,
+      0.055
+    ],
+    "conditional": true
+  },
+  {
+    "sample": "WT_092025",
+    "baseline": "pre",
+    "kind": "window",
+    "comparison": "WT pre_late_tail minus WT pre_center",
+    "extended_delta95": [
+      2.5381066096066025,
+      6.592161321671424
+    ],
+    "valid_draws": 300,
+    "n": 300,
+    "fit_range": [
+      0.012,
+      0.055
+    ],
+    "conditional": true
+  },
+  {
+    "sample": "WT_092025",
+    "baseline": "post",
+    "kind": "edge",
+    "comparison": "WT post least_overlap_leading 161\u2013165 minus WT post main_apex_5 165\u2013169",
+    "extended_delta95": [
+      -0.4781843645704641,
+      0.9299666089973302
+    ],
+    "valid_draws": 300,
+    "n": 300,
+    "fit_range": [
+      0.012,
+      0.055
+    ],
+    "conditional": true
+  },
+  {
+    "sample": "WT_092025",
+    "baseline": "post",
+    "kind": "window",
+    "comparison": "WT post_leading minus WT post_center",
+    "extended_delta95": [
+      0.14573543678756842,
+      2.5622475484393874
+    ],
+    "valid_draws": 300,
+    "n": 300,
+    "fit_range": [
+      0.012,
+      0.055
+    ],
+    "conditional": true
+  },
+  {
+    "sample": "WT_092025",
+    "baseline": "post",
+    "kind": "window",
+    "comparison": "WT post_trailing minus WT post_center",
+    "extended_delta95": [
+      -0.8576409061082307,
+      0.7033395531535082
+    ],
+    "valid_draws": 300,
+    "n": 300,
+    "fit_range": [
+      0.012,
+      0.055
+    ],
+    "conditional": true
+  },
+  {
+    "sample": "WT_092025",
+    "baseline": "post",
+    "kind": "window",
+    "comparison": "WT post_late_tail minus WT post_center",
+    "extended_delta95": [
+      -2.6319069119393035,
+      1.3874547878112546
+    ],
+    "valid_draws": 300,
+    "n": 300,
+    "fit_range": [
+      0.012,
+      0.055
+    ],
+    "conditional": true
+  },
+  {
+    "sample": "AA_052026",
+    "baseline": "linear",
+    "kind": "edge",
+    "comparison": "AA linear least_overlap_leading 165\u2013169 minus AA linear main_apex_5 175\u2013179",
+    "extended_delta95": [
+      -1.4364858683211839,
+      0.06457195529044993
+    ],
+    "valid_draws": 300,
+    "n": 300,
+    "fit_range": [
+      0.012,
+      0.055
+    ],
+    "conditional": true
+  },
+  {
+    "sample": "AA_052026",
+    "baseline": "linear",
+    "kind": "window",
+    "comparison": "AA linear_leading minus AA linear_center",
+    "extended_delta95": [
+      -1.318679843930124,
+      0.4083419022934226
+    ],
+    "valid_draws": 300,
+    "n": 300,
+    "fit_range": [
+      0.012,
+      0.055
+    ],
+    "conditional": true
+  },
+  {
+    "sample": "AA_052026",
+    "baseline": "linear",
+    "kind": "window",
+    "comparison": "AA linear_trailing minus AA linear_center",
+    "extended_delta95": [
+      -0.6040397635907258,
+      0.11439317804321149
+    ],
+    "valid_draws": 300,
+    "n": 300,
+    "fit_range": [
+      0.012,
+      0.055
+    ],
+    "conditional": true
+  },
+  {
+    "sample": "AA_052026",
+    "baseline": "linear",
+    "kind": "window",
+    "comparison": "AA linear_late_tail minus AA linear_center",
+    "extended_delta95": [
+      -1.0723922357297013,
+      0.3609435645406545
+    ],
+    "valid_draws": 300,
+    "n": 300,
+    "fit_range": [
+      0.012,
+      0.055
+    ],
+    "conditional": true
+  },
+  {
+    "sample": "AA_052026",
+    "baseline": "pre",
+    "kind": "edge",
+    "comparison": "AA pre least_overlap_leading 165\u2013169 minus AA pre main_apex_5 175\u2013179",
+    "extended_delta95": [
+      -1.3282749079750849,
+      0.1957383608754396
+    ],
+    "valid_draws": 300,
+    "n": 300,
+    "fit_range": [
+      0.012,
+      0.055
+    ],
+    "conditional": true
+  },
+  {
+    "sample": "AA_052026",
+    "baseline": "pre",
+    "kind": "window",
+    "comparison": "AA pre_leading minus AA pre_center",
+    "extended_delta95": [
+      -0.9465521126480021,
+      0.6507200577295933
+    ],
+    "valid_draws": 300,
+    "n": 300,
+    "fit_range": [
+      0.012,
+      0.055
+    ],
+    "conditional": true
+  },
+  {
+    "sample": "AA_052026",
+    "baseline": "pre",
+    "kind": "window",
+    "comparison": "AA pre_trailing minus AA pre_center",
+    "extended_delta95": [
+      -0.604402169226873,
+      0.1898018696991555
+    ],
+    "valid_draws": 300,
+    "n": 300,
+    "fit_range": [
+      0.012,
+      0.055
+    ],
+    "conditional": true
+  },
+  {
+    "sample": "AA_052026",
+    "baseline": "pre",
+    "kind": "window",
+    "comparison": "AA pre_late_tail minus AA pre_center",
+    "extended_delta95": [
+      -0.7967998758612618,
+      0.7165982694110317
+    ],
+    "valid_draws": 300,
+    "n": 300,
+    "fit_range": [
+      0.012,
+      0.055
+    ],
+    "conditional": true
+  },
+  {
+    "sample": "AA_052026",
+    "baseline": "post",
+    "kind": "edge",
+    "comparison": "AA post least_overlap_leading 165\u2013169 minus AA post main_apex_5 175\u2013179",
+    "extended_delta95": [
+      -1.5470333600231223,
+      -0.02508509610692906
+    ],
+    "valid_draws": 300,
+    "n": 300,
+    "fit_range": [
+      0.012,
+      0.055
+    ],
+    "conditional": true
+  },
+  {
+    "sample": "AA_052026",
+    "baseline": "post",
+    "kind": "window",
+    "comparison": "AA post_leading minus AA post_center",
+    "extended_delta95": [
+      -1.540687651952342,
+      0.3508619998693206
+    ],
+    "valid_draws": 300,
+    "n": 300,
+    "fit_range": [
+      0.012,
+      0.055
+    ],
+    "conditional": true
+  },
+  {
+    "sample": "AA_052026",
+    "baseline": "post",
+    "kind": "window",
+    "comparison": "AA post_trailing minus AA post_center",
+    "extended_delta95": [
+      -0.6390364927816428,
+      0.1540330658065418
+    ],
+    "valid_draws": 300,
+    "n": 300,
+    "fit_range": [
+      0.012,
+      0.055
+    ],
+    "conditional": true
+  },
+  {
+    "sample": "AA_052026",
+    "baseline": "post",
+    "kind": "window",
+    "comparison": "AA post_late_tail minus AA post_center",
+    "extended_delta95": [
+      -1.211582732257796,
+      0.3664629326530365
+    ],
+    "valid_draws": 300,
+    "n": 300,
+    "fit_range": [
+      0.012,
+      0.055
+    ],
+    "conditional": true
+  },
+  {
+    "sample": "WT_092025",
+    "comparison": "EFA main minus matched average",
+    "extended_delta95": [
+      -1.1128456775438762,
+      -0.45962422597338487
+    ],
+    "valid_draws": 100,
+    "qrange": [
+      0.012,
+      0.055
+    ],
+    "conditional": "Existing paired perturbations refit EFA; baseline/support choice fixed"
+  },
+  {
+    "sample": "AA_052026",
+    "comparison": "EFA main minus matched average",
+    "extended_delta95": [
+      -0.5365679991210797,
+      0.21317784314851904
+    ],
+    "valid_draws": 100,
+    "qrange": [
+      0.012,
+      0.055
+    ],
+    "conditional": "Existing paired perturbations refit EFA; baseline/support choice fixed"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "sample": "WT_092025",
+    "curve": "poster_results/primary",
+    "Rg_from_Pr": 27.218654536365747,
+    "uncertainty": "No new Pr confidence interval: full regularized P(r) covariance unavailable; see original BIFT audit"
+  },
+  {
+    "sample": "WT_092025",
+    "curve": "component_results/average",
+    "Rg_from_Pr": 27.826155375414697,
+    "uncertainty": "No new Pr confidence interval: full regularized P(r) covariance unavailable; see original BIFT audit"
+  },
+  {
+    "sample": "WT_092025",
+    "curve": "component_results/candidate",
+    "Rg_from_Pr": 27.049332234261225,
+    "uncertainty": "No new Pr confidence interval: full regularized P(r) covariance unavailable; see original BIFT audit"
+  },
+  {
+    "sample": "AA_052026",
+    "curve": "poster_results/primary",
+    "Rg_from_Pr": 34.59659851373862,
+    "uncertainty": "No new Pr confidence interval: full regularized P(r) covariance unavailable; see original BIFT audit"
+  },
+  {
+    "sample": "AA_052026",
+    "curve": "component_results/average",
+    "Rg_from_Pr": 34.33760971992535,
+    "uncertainty": "No new Pr confidence interval: full regularized P(r) covariance unavailable; see original BIFT audit"
+  },
+  {
+    "sample": "AA_052026",
+    "curve": "component_results/candidate",
+    "Rg_from_Pr": 32.57050916372072,
+    "uncertainty": "No new Pr confidence interval: full regularized P(r) covariance unavailable; see original BIFT audit"
+  }
+]

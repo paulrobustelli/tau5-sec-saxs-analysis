@@ -1,0 +1,7 @@
+{
+  "curves": 81,
+  "qRg_limits_pass": true,
+  "synthetic_conventional_pass": true,
+  "synthetic_extended_pass": true,
+  "window_covariance_symmetric_PSD": true
+}
