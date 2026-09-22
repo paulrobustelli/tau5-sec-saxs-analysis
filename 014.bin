@@ -1,0 +1,102 @@
+{
+  "converged": true,
+  "iterations": 220,
+  "supports": [
+    [
+      145,
+      185
+    ],
+    [
+      160,
+      215
+    ]
+  ],
+  "q": [
+    0.012,
+    0.25
+  ],
+  "singular_values": [
+    1687.5740212031023,
+    13.770117933886528,
+    13.5904898458204,
+    13.403871215487307
+  ],
+  "residual_ms": 0.5703687102781724,
+  "rank1_residual_ms": 0.5890299804687953,
+  "condition": 3.4720581207955767,
+  "peaks": [
+    176,
+    177
+  ],
+  "negative_fraction": [
+    0.6236559139784946,
+    0.0
+  ],
+  "sample": "AA_052026",
+  "baseline": "linear",
+  "main_guinier": {
+    "Rg": 31.523532027540238,
+    "se": 0.7235157875888595,
+    "I0": 127.59615311630492,
+    "qmin": 0.012,
+    "qmax": 0.030000000000000002,
+    "qRgmax": 0.9457059608262072,
+    "chi2": 1.0725437131810263
+  },
+  "main_guinier_adaptive": {
+    "Rg": 31.197790356785916,
+    "fit_se": 0.5746897662515636,
+    "I0": 127.20190400780766,
+    "qmin": 0.012,
+    "qmax": 0.032,
+    "qRgmax": 0.9983292914171493,
+    "n": 21,
+    "chi2": 1.2396283912995418
+  },
+  "strong_negative_fraction": [
+    0.010752688172043012,
+    0.0
+  ],
+  "main_screen": true,
+  "bootstrap_requested": 100,
+  "bootstrap_converged": 100,
+  "bootstrap_failed": 0,
+  "bootstrap_Rg_95": [
+    30.33010142115153,
+    33.28262072911953
+  ],
+  "bootstrap_delta_Rg_vs_average_95": [
+    -1.5025164101767494,
+    0.8706754488056824
+  ],
+  "average_guinier": {
+    "Rg": 32.15099844078291,
+    "se": 0.44419268867153544,
+    "I0": 4.715585727891926,
+    "qmin": 0.012,
+    "qmax": 0.030000000000000002,
+    "qRgmax": 0.9645299532234872,
+    "chi2": 0.4819387140027647
+  },
+  "candidate_guinier": {
+    "Rg": 31.800395069738123,
+    "se": 0.8322717706489066,
+    "I0": 4.664542147905717,
+    "qmin": 0.012,
+    "qmax": 0.030000000000000002,
+    "qRgmax": 0.9540118520921438,
+    "chi2": 0.768145018123527
+  },
+  "candidate_guinier_fixedC": {
+    "Rg": 31.52353202753937,
+    "se": 0.7235157875888788,
+    "I0": 4.645227234758624,
+    "qmin": 0.012,
+    "qmax": 0.030000000000000002,
+    "qRgmax": 0.9457059608261812,
+    "chi2": 1.0725437131810016
+  },
+  "null_s2_99": 18.7732355590244,
+  "s2_p_rank1": 1.0,
+  "bootstrap_note": "Parametric perturbations of supplied errors; residual-baseline covariance and refitted C included. Conditional on anchors/supports/model. Source facility covariance unknown."
+}

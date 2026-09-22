@@ -1,0 +1,5 @@
+{
+  "known_two_component_curve_recovered": true,
+  "linear_background_removed_exactly": true,
+  "shared_background_variance_MC_check": true
+}

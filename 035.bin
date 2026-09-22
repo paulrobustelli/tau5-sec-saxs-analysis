@@ -1,0 +1,19 @@
+{
+  "dmax": 95.54032125417602,
+  "dmaxer": 4.353241292357464,
+  "rg": 27.826155375414697,
+  "rger": 0.199198235131678,
+  "i0": 1.7390298963226876,
+  "i0er": 0.004897981342623608,
+  "chisq": 1.056377087541292,
+  "chisq_er": 0.018103811246311934,
+  "alpha": 11.46095997165449,
+  "alpha_er": 0.6799250357442469,
+  "evidence": -72.95857784708502,
+  "evidence_er": 0.8483349083214775,
+  "qmin": 0.012,
+  "qmax": 0.24500000000000013,
+  "algorithm": "BIFT",
+  "filename": "average.ift",
+  "warning": "Conditional BIFT display; candidate is not a validated monomer. Bootstrap diagonal errors omit q covariance; Dmax is model dependent."
+}

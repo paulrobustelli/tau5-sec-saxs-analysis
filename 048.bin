@@ -1,0 +1,30 @@
+[
+  {
+    "sample": "WT_092025",
+    "control": "average_matched_candidate_errors",
+    "Rg": 27.81686497747812,
+    "Dmax": 95.45724643803113,
+    "chi2": 0.8580257420650517
+  },
+  {
+    "sample": "WT_092025",
+    "control": "candidate_matched_average_errors",
+    "Rg": 27.066428878829104,
+    "Dmax": 92.07054626505867,
+    "chi2": 0.9697116725262149
+  },
+  {
+    "sample": "AA_052026",
+    "control": "average_matched_candidate_errors",
+    "Rg": 32.87028147555923,
+    "Dmax": 120.23717726890848,
+    "chi2": 0.3341430349849396
+  },
+  {
+    "sample": "AA_052026",
+    "control": "candidate_matched_average_errors",
+    "Rg": 33.68857891033146,
+    "Dmax": 148.5716316788062,
+    "chi2": 2.9596334058110427
+  }
+]
