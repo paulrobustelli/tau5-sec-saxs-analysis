@@ -1,3 +1,5 @@
+**Provenance correction (22 September):** Natalie’s notebooks perform buffer subtraction on the HDF5 input profiles. Both AA_082024.ipynb and AA_052026.ipynb load AA_052026.hdf5 and report buffer frames24–70; the primary WT analysis reports220–236. Earlier claims that the needed pre-subtraction profiles were absent, or that our HDF5-based subtraction was necessarily only a residual correction, were incorrect. The HDF5-based calculations already read `profiles` and subtract their chosen buffer once, so this correction does not itself change their numerical output. Original exported DAT curves are a later processing stage and must not be subtracted again. The new controlled test is in [09_buffer_window_sensitivity.ipynb](09_buffer_window_sensitivity.ipynb).
+
 # Actual EFA component curves — 22 September 2026
 
 The requested **component-level I(q) curves now exist**. These are a tested two-component hypothesis, not verified monomer-only scattering. Open `04_EFA_component_Iq.ipynb`, which has been executed, then `component_results/component_Iq_comparison.png`.

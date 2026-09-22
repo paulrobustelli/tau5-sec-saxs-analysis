@@ -1,5 +1,11 @@
 # Tau-5* SEC-SAXS: reproduction, window selection and EFA
 
+## Buffer-subtraction correction and new controlled test
+
+**Provenance correction (22 September):** Natalie’s notebooks perform buffer subtraction on the HDF5 input profiles. Both AA_082024.ipynb and AA_052026.ipynb load AA_052026.hdf5 and report buffer frames24–70; the primary WT analysis reports220–236. Earlier claims that the needed pre-subtraction profiles were absent, or that our HDF5-based subtraction was necessarily only a residual correction, were incorrect. The HDF5-based calculations already read `profiles` and subtract their chosen buffer once, so this correction does not itself change their numerical output. Original exported DAT curves are a later processing stage and must not be subtracted again. The new controlled test is in [09_buffer_window_sensitivity.ipynb](09_buffer_window_sensitivity.ipynb).
+
+**New result:** fixed-window extended fits give WT28.2–28.4Å with either early buffer and26.6Å with210–220; AA remains32.0–32.3Å. AA210–220 fails stationarity. See notebook09 before treating26/31Å as subtraction-independent values.
+
 ## Start here: all-curve results comparison
 
 **[07_results_comparison.ipynb](07_results_comparison.ipynb)** reads 81 exported I(q) curves, reruns conventional and Zheng–Best extended Guinier fits, and propagates conditional uncertainties. It begins with the leading-edge test, then shows each I(q) before its fit comparison and residuals. The table includes extended fits over both the conventional range and the wider qRg≤2 range.
@@ -24,7 +30,7 @@
 - [Extended-fit figure](extended_guinier/extended_fits.png)
 - [STARLING Rg histograms and means](starling/README.md)
 
-Provenance clarification: both HDF5 files contain identical input and subtracted groups for all 450 frames. S_ filenames and near-zero backgrounds suggest prior subtraction, but empty processing histories do not document where or how it was done. No separately identifiable original sample/buffer export was found. [Audit and direct-window results](AA_window_comparison/README.md).
+Provenance: identical stored HDF5 groups did not establish prior buffer subtraction. Natalie’s notebooks explicitly perform that subtraction on the input profiles; see the correction above.
 
 
 

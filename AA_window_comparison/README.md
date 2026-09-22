@@ -1,3 +1,5 @@
+**Provenance correction (22 September):** Natalie’s notebooks perform buffer subtraction on the HDF5 input profiles. Both AA_082024.ipynb and AA_052026.ipynb load AA_052026.hdf5 and report buffer frames24–70; the primary WT analysis reports220–236. Earlier claims that the needed pre-subtraction profiles were absent, or that our HDF5-based subtraction was necessarily only a residual correction, were incorrect. The HDF5-based calculations already read `profiles` and subtract their chosen buffer once, so this correction does not itself change their numerical output. Original exported DAT curves are a later processing stage and must not be subtracted again. The new controlled test is in [09_buffer_window_sensitivity.ipynb](../09_buffer_window_sensitivity.ipynb).
+
 # AA direct frame-window comparison
 
 Windows fixed before fitting: leading 160–169, center 170–179, trailing 180–189, late tail 190–199 (zero-based inclusive). These are equal-size 10-frame arithmetic averages, without EFA or smoothing. They test the proposed leading-edge selection rather than optimizing windows for low Rg.

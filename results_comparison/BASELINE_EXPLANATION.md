@@ -1,3 +1,5 @@
+**Provenance correction (22 September):** Natalie’s notebooks perform buffer subtraction on the HDF5 input profiles. Both AA_082024.ipynb and AA_052026.ipynb load AA_052026.hdf5 and report buffer frames24–70; the primary WT analysis reports220–236. Earlier claims that the needed pre-subtraction profiles were absent, or that our HDF5-based subtraction was necessarily only a residual correction, were incorrect. The HDF5-based calculations already read `profiles` and subtract their chosen buffer once, so this correction does not itself change their numerical output. Original exported DAT curves are a later processing stage and must not be subtracted again. The new controlled test is in [09_buffer_window_sensitivity.ipynb](../09_buffer_window_sensitivity.ipynb).
+
 ## What do pre, linear and post mean?
 These are **three alternative residual-background subtractions**, applied to the input curves before fitting. They are not EFA components, different polymer models, or three measured protein states. The HDF5 provenance does not establish the upstream subtraction history, so these anchors must not be described as verified original buffer-only exposures.
 
