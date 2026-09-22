@@ -1,0 +1,79 @@
+[
+  {
+    "buffer": "early_25_35",
+    "curve": "selected_average",
+    "AA_minus_WT": 3.69704777592937,
+    "conditional95": [
+      3.083596981414485,
+      4.412692884929742
+    ],
+    "valid_pairs": 100,
+    "note": "Independent sample perturbations; not biological replicate variability. Natalie-reference buffers differ between samples."
+  },
+  {
+    "buffer": "early_25_35",
+    "curve": "EFA_main",
+    "AA_minus_WT": 4.082969193978524,
+    "conditional95": [
+      3.4610388354343637,
+      4.829130667154223
+    ],
+    "valid_pairs": 63,
+    "note": "Independent sample perturbations; not biological replicate variability. Natalie-reference buffers differ between samples."
+  },
+  {
+    "buffer": "early_60_70",
+    "curve": "selected_average",
+    "AA_minus_WT": 4.079513148741729,
+    "conditional95": [
+      3.55590072175439,
+      4.713082068110607
+    ],
+    "valid_pairs": 100,
+    "note": "Independent sample perturbations; not biological replicate variability. Natalie-reference buffers differ between samples."
+  },
+  {
+    "buffer": "post_210_220",
+    "curve": "selected_average",
+    "AA_minus_WT": 5.381192432958997,
+    "conditional95": [
+      4.718308761398024,
+      6.040561308265258
+    ],
+    "valid_pairs": 100,
+    "note": "Independent sample perturbations; not biological replicate variability. Natalie-reference buffers differ between samples."
+  },
+  {
+    "buffer": "post_210_220",
+    "curve": "EFA_main",
+    "AA_minus_WT": 5.683825603998802,
+    "conditional95": [
+      5.129619331310297,
+      6.640052827149533
+    ],
+    "valid_pairs": 92,
+    "note": "Independent sample perturbations; not biological replicate variability. Natalie-reference buffers differ between samples."
+  },
+  {
+    "buffer": "Natalie_buffer_reference",
+    "curve": "selected_average",
+    "AA_minus_WT": 5.610721793246427,
+    "conditional95": [
+      5.063719886289762,
+      6.146288268633156
+    ],
+    "valid_pairs": 100,
+    "note": "Independent sample perturbations; not biological replicate variability. Natalie-reference buffers differ between samples."
+  },
+  {
+    "buffer": "Natalie_buffer_reference",
+    "curve": "EFA_main",
+    "AA_minus_WT": 6.30484391678063,
+    "conditional95": [
+      5.560195309390337,
+      6.864899963393145
+    ],
+    "valid_pairs": 99,
+    "note": "Independent sample perturbations; not biological replicate variability. Natalie-reference buffers differ between samples."
+  }
+]
