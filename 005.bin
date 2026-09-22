@@ -1,0 +1,13 @@
+{
+  "upstream_commit": "4a6ac1c514d25a589e671a91efd1f38c4bcb316c",
+  "upstream_current_main_verified": true,
+  "WT_092025": {
+    "input_and_subtracted_identical": 450,
+    "total": 450
+  },
+  "AA_052026": {
+    "input_and_subtracted_identical": 450,
+    "total": 450
+  },
+  "conclusion": "No separately identifiable original sample/buffer profiles found in current repository. Prior subtraction is inferred from S_ filenames and near-zero background frames, not documented by empty profile histories. RAW input label means input to RAW, not necessarily detector-original."
+}
