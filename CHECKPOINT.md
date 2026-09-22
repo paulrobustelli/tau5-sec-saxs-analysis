@@ -1,3 +1,5 @@
+> Superseded as a work-status checkpoint on 22 September 2026: see COMPONENT_RESULTS.md and notebook 04 for the completed candidate-component recovery. This historical record is retained unchanged below.
+
 # Checkpoint — paused at the user's request, 21 September 2026
 
 ## Scientific objective
