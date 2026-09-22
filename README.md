@@ -11,6 +11,12 @@
 - Notebooks01–06 now include adjacent I(q)/conventional/extended comparisons. Notebook07 is fully executed; new self-contained comparison cells in earlier notebooks were executed while retaining their original EFA/BIFT outputs.
 - [Curve registry and uncertainty assumptions](results_comparison/README.md).
 
+## Kratky and baseline interpretation
+
+- **[08_Kratky_comparisons.ipynb](08_Kratky_comparisons.ipynb)**: executed81-curve atlas with raw, I(0)-normalized and dimensionless Kratky comparisons. Conventional and extended normalizations are separate; pointwise bands jointly propagate intensity, Rg and I(0) uncertainty.
+- Priority leading-edge/apex/EFA comparisons are embedded in notebook07 and notebook06; component Kratky plots are also in notebook04.
+- **[What pre / linear / post mean](results_comparison/BASELINE_EXPLANATION.md)** and an annotated full trace are now at the beginning of notebook06. WT pre-background is frames55–94, **not** the shoulder around130–150. Stationarity does not establish that an anchor is protein-free; the post-anchor's elevated residual can reflect drift or persistent scattering.
+
 ## Latest figures and fits
 
 - **[Extended Guinier fits — executed notebook 05](extended_guinier/05_extended_Guinier.ipynb)**

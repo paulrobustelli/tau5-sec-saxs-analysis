@@ -2,36 +2,41 @@
   "01_reproduce_and_audit_Rg.ipynb": {
     "code_cells": 7,
     "errors": 0,
-    "comparison_cells": 2
+    "all_code_cells_executed": true
   },
   "03_report_EFA_sensitivity.ipynb": {
     "code_cells": 5,
     "errors": 0,
-    "comparison_cells": 1
+    "all_code_cells_executed": true
   },
   "07_results_comparison.ipynb": {
-    "code_cells": 12,
+    "code_cells": 13,
     "errors": 0,
-    "comparison_cells": 0
+    "all_code_cells_executed": true
   },
   "04_EFA_component_Iq.ipynb": {
-    "code_cells": 8,
+    "code_cells": 9,
     "errors": 0,
-    "comparison_cells": 1
+    "all_code_cells_executed": true
   },
   "02_windows_profiles_and_EFA.ipynb": {
-    "code_cells": 12,
+    "code_cells": 13,
     "errors": 0,
-    "comparison_cells": 2
+    "all_code_cells_executed": true
   },
   "06_windows_and_component_Iq.ipynb": {
-    "code_cells": 2,
+    "code_cells": 4,
     "errors": 0,
-    "comparison_cells": 2
+    "all_code_cells_executed": true
+  },
+  "08_Kratky_comparisons.ipynb": {
+    "code_cells": 12,
+    "errors": 0,
+    "all_code_cells_executed": true
   },
   "05_extended_Guinier.ipynb": {
     "code_cells": 5,
     "errors": 0,
-    "comparison_cells": 1
+    "all_code_cells_executed": true
   }
 }
