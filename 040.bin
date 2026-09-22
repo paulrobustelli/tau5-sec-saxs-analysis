@@ -1,0 +1,3763 @@
+[
+  {
+    "id": "results_comparison__curves__WT_092025_Natalie_average",
+    "key": "19dc780855e6",
+    "group": "Original averages",
+    "label": "WT Natalie frames 175\u2013185",
+    "sample": "WT_092025",
+    "basis": "Independent q Gaussian perturbations of exported I(q)",
+    "methods": {
+      "conventional": {
+        "supported": true,
+        "Rg": 25.507984492839824,
+        "I0": 0.7023354129987031,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.8055281977380802,
+            0.009294814335439806
+          ],
+          [
+            0.009294814335439806,
+            0.00013373332396980923
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.042
+        ]
+      },
+      "extended": {
+        "supported": true,
+        "Rg": 25.301212843029525,
+        "I0": 0.6910662164148828,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.08732487516549355,
+            0.0017910273815817635
+          ],
+          [
+            0.0017910273815817635,
+            4.940054423777957e-05
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.078
+        ]
+      }
+    }
+  },
+  {
+    "id": "results_comparison__curves__AA_052026_Natalie_average",
+    "key": "4d1162179b98",
+    "group": "Original averages",
+    "label": "AA Natalie frames 172\u2013182",
+    "sample": "AA_052026",
+    "basis": "Independent q Gaussian perturbations of exported I(q)",
+    "methods": {
+      "conventional": {
+        "supported": true,
+        "Rg": 32.30821392347597,
+        "I0": 5.357444532541999,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.09331830577233577,
+            0.007753195710843649
+          ],
+          [
+            0.007753195710843649,
+            0.0007257907486349599
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.034
+        ]
+      },
+      "extended": {
+        "supported": true,
+        "Rg": 31.92540691576428,
+        "I0": 5.25696628030753,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.007459649964871241,
+            0.0010241237755146658
+          ],
+          [
+            0.0010241237755146658,
+            0.0001733304687449253
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.062
+        ]
+      }
+    }
+  },
+  {
+    "id": "poster_results__AA_052026_selected_average",
+    "key": "aae59e662147",
+    "group": "Selected non-EFA",
+    "label": "AA_052026_selected_average",
+    "sample": "AA_052026",
+    "basis": "Independent q Gaussian perturbations of exported I(q)",
+    "methods": {
+      "conventional": {
+        "supported": true,
+        "Rg": 32.08095368233598,
+        "I0": 4.736373347691776,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.09824644272632393,
+            0.007260690626314469
+          ],
+          [
+            0.007260690626314469,
+            0.0006165254469942131
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.034
+        ]
+      },
+      "extended": {
+        "supported": true,
+        "Rg": 31.730989336286584,
+        "I0": 4.651709488461681,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.009562675099710673,
+            0.001204356679724978
+          ],
+          [
+            0.001204356679724978,
+            0.00017927014827146695
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.06200000000000001
+        ]
+      }
+    }
+  },
+  {
+    "id": "poster_results__WT_092025_selected_average",
+    "key": "f6a62a8133c9",
+    "group": "Selected non-EFA",
+    "label": "WT_092025_selected_average",
+    "sample": "WT_092025",
+    "basis": "Independent q Gaussian perturbations of exported I(q)",
+    "methods": {
+      "conventional": {
+        "supported": true,
+        "Rg": 25.566455321886995,
+        "I0": 1.6625370399851975,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.16275707347846083,
+            0.004378548665268341
+          ],
+          [
+            0.004378548665268341,
+            0.00014990119040942716
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.041999999999999996
+        ]
+      },
+      "extended": {
+        "supported": true,
+        "Rg": 26.006721627510565,
+        "I0": 1.656752208861205,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.021853925447133233,
+            0.0010682619213526396
+          ],
+          [
+            0.0010682619213526396,
+            6.527633272499597e-05
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.07600000000000003
+        ]
+      }
+    }
+  },
+  {
+    "id": "independent_baseline__AA_052026_integral_average",
+    "key": "bbca06506fc6",
+    "group": "Baseline variants",
+    "label": "AA_052026_integral_average",
+    "sample": "AA_052026",
+    "basis": "Independent q Gaussian perturbations of exported I(q)",
+    "methods": {
+      "conventional": {
+        "supported": true,
+        "Rg": 31.954462882728798,
+        "I0": 4.7242009395575915,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.057902921130169406,
+            0.004284062399061234
+          ],
+          [
+            0.004284062399061234,
+            0.00037550252599328045
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.034
+        ]
+      },
+      "extended": {
+        "supported": true,
+        "Rg": 31.743128213639707,
+        "I0": 4.648560548851463,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.0074854518876433926,
+            0.0009679103566236863
+          ],
+          [
+            0.0009679103566236863,
+            0.00014513879195843143
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.06200000000000001
+        ]
+      }
+    }
+  },
+  {
+    "id": "independent_baseline__AA_052026_linear_average",
+    "key": "808b5a82d94d",
+    "group": "Baseline variants",
+    "label": "AA_052026_linear_average",
+    "sample": "AA_052026",
+    "basis": "Independent q Gaussian perturbations of exported I(q)",
+    "methods": {
+      "conventional": {
+        "supported": true,
+        "Rg": 31.862543056856158,
+        "I0": 4.701531968291028,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.0964622200234517,
+            0.0068744119820083665
+          ],
+          [
+            0.0068744119820083665,
+            0.0005439133954430407
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.034
+        ]
+      },
+      "extended": {
+        "supported": true,
+        "Rg": 31.72933758285801,
+        "I0": 4.632434284161585,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.0073184321235663504,
+            0.0008912571427587107
+          ],
+          [
+            0.0008912571427587107,
+            0.00012759644643922313
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.06200000000000001
+        ]
+      }
+    }
+  },
+  {
+    "id": "independent_baseline__AA_052026_post_average",
+    "key": "5e54894b9a90",
+    "group": "Baseline variants",
+    "label": "AA_052026_post_average",
+    "sample": "AA_052026",
+    "basis": "Independent q Gaussian perturbations of exported I(q)",
+    "methods": {
+      "conventional": {
+        "supported": true,
+        "Rg": 31.66567012847337,
+        "I0": 4.657901910898829,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.09933571033243724,
+            0.006961427234393853
+          ],
+          [
+            0.006961427234393853,
+            0.000558371546278743
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.034
+        ]
+      },
+      "extended": {
+        "supported": true,
+        "Rg": 31.708314879526927,
+        "I0": 4.602330932094127,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.00885321498350583,
+            0.0010839714055473054
+          ],
+          [
+            0.0010839714055473054,
+            0.00015615407461606597
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.06200000000000001
+        ]
+      }
+    }
+  },
+  {
+    "id": "independent_baseline__AA_052026_pre_average",
+    "key": "e15b8214f3ec",
+    "group": "Baseline variants",
+    "label": "AA_052026_pre_average",
+    "sample": "AA_052026",
+    "basis": "Independent q Gaussian perturbations of exported I(q)",
+    "methods": {
+      "conventional": {
+        "supported": true,
+        "Rg": 32.25148963009991,
+        "I0": 4.790389320764131,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.08150856147807212,
+            0.006458893802536176
+          ],
+          [
+            0.006458893802536176,
+            0.0005896023344814721
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.034
+        ]
+      },
+      "extended": {
+        "supported": true,
+        "Rg": 31.767318935289985,
+        "I0": 4.692628100247104,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.009801193913386687,
+            0.0012667536048705447
+          ],
+          [
+            0.0012667536048705447,
+            0.00019174574696538194
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.06200000000000001
+        ]
+      }
+    }
+  },
+  {
+    "id": "independent_baseline__WT_092025_integral_average",
+    "key": "80c61f3a620f",
+    "group": "Baseline variants",
+    "label": "WT_092025_integral_average",
+    "sample": "WT_092025",
+    "basis": "Independent q Gaussian perturbations of exported I(q)",
+    "methods": {
+      "conventional": {
+        "supported": true,
+        "Rg": 26.187991724163773,
+        "I0": 1.708867395779774,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.12096368048748789,
+            0.003304139664496292
+          ],
+          [
+            0.003304139664496292,
+            0.00011161504410129963
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.041999999999999996
+        ]
+      },
+      "extended": {
+        "supported": true,
+        "Rg": 26.448513576914433,
+        "I0": 1.6977337900808127,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.014271934875329234,
+            0.0006922290715079233
+          ],
+          [
+            0.0006922290715079233,
+            4.4780134852501644e-05
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.07400000000000002
+        ]
+      }
+    }
+  },
+  {
+    "id": "independent_baseline__WT_092025_linear_average",
+    "key": "dde04aeb4330",
+    "group": "Baseline variants",
+    "label": "WT_092025_linear_average",
+    "sample": "WT_092025",
+    "basis": "Independent q Gaussian perturbations of exported I(q)",
+    "methods": {
+      "conventional": {
+        "supported": true,
+        "Rg": 26.542587404082703,
+        "I0": 1.7158547252922558,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.14768777760597512,
+            0.00436917662350614
+          ],
+          [
+            0.00436917662350614,
+            0.00015573299432169842
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.041
+        ]
+      },
+      "extended": {
+        "supported": true,
+        "Rg": 26.48081722336081,
+        "I0": 1.6973670500499738,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.018646034291238837,
+            0.0009273127005025898
+          ],
+          [
+            0.0009273127005025898,
+            6.0201027215863096e-05
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.07400000000000002
+        ]
+      }
+    }
+  },
+  {
+    "id": "independent_baseline__WT_092025_post_average",
+    "key": "5a9480834346",
+    "group": "Baseline variants",
+    "label": "WT_092025_post_average",
+    "sample": "WT_092025",
+    "basis": "Independent q Gaussian perturbations of exported I(q)",
+    "methods": {
+      "conventional": {
+        "supported": true,
+        "Rg": 25.474547582090594,
+        "I0": 1.653877141067316,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.12737217957798835,
+            0.00352681018742761
+          ],
+          [
+            0.00352681018742761,
+            0.0001240294096924778
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.043
+        ]
+      },
+      "extended": {
+        "supported": true,
+        "Rg": 26.053860420202703,
+        "I0": 1.651571188958553,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.015876528692313027,
+            0.0007841362468551793
+          ],
+          [
+            0.0007841362468551793,
+            5.2991874525296446e-05
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.07600000000000003
+        ]
+      }
+    }
+  },
+  {
+    "id": "independent_baseline__WT_092025_pre_average",
+    "key": "bf2881cdec4e",
+    "group": "Baseline variants",
+    "label": "WT_092025_pre_average",
+    "sample": "WT_092025",
+    "basis": "Independent q Gaussian perturbations of exported I(q)",
+    "methods": {
+      "conventional": {
+        "supported": true,
+        "Rg": 28.407040753831694,
+        "I0": 1.8374900809399968,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.19088073498663713,
+            0.005229686138637433
+          ],
+          [
+            0.005229686138637433,
+            0.00017295010952258732
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.038
+        ]
+      },
+      "extended": {
+        "supported": true,
+        "Rg": 27.26854608115218,
+        "I0": 1.7871957020144513,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.016439390087538707,
+            0.0008514349325895805
+          ],
+          [
+            0.0008514349325895805,
+            5.635406100592222e-05
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.07200000000000002
+        ]
+      }
+    }
+  },
+  {
+    "id": "component_results__AA_052026_EFA_candidate_main",
+    "key": "18005d989a04",
+    "group": "Audited EFA and matched average",
+    "label": "AA_052026_EFA_candidate_main",
+    "sample": "AA_052026",
+    "basis": "Existing EFA refit perturbations",
+    "methods": {
+      "conventional": {
+        "supported": true,
+        "Rg": 31.33744921399736,
+        "I0": 4.643606972324851,
+        "valid_draws": 100,
+        "normalization_covariance": [
+          [
+            0.28102436805001907,
+            0.02105588794960616
+          ],
+          [
+            0.02105588794960616,
+            0.0020811291795434185
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.034
+        ]
+      },
+      "extended": {
+        "supported": true,
+        "Rg": 31.228633800862625,
+        "I0": 4.5688299385250755,
+        "valid_draws": 100,
+        "normalization_covariance": [
+          [
+            0.031114764600033536,
+            0.004477379916956945
+          ],
+          [
+            0.004477379916956945,
+            0.0009133170837209792
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.06400000000000002
+        ]
+      }
+    }
+  },
+  {
+    "id": "component_results__AA_052026_EFA_other_component",
+    "key": "65457188a2b2",
+    "group": "Audited EFA and matched average",
+    "label": "AA_052026_EFA_other_component",
+    "sample": "AA_052026",
+    "basis": "Independent q Gaussian perturbations of exported I(q)",
+    "methods": {
+      "conventional": {
+        "supported": false
+      },
+      "extended": {
+        "supported": false
+      }
+    }
+  },
+  {
+    "id": "component_results__AA_052026_frame_average_same_baseline",
+    "key": "be9713d49a2f",
+    "group": "Audited EFA and matched average",
+    "label": "AA_052026_frame_average_same_baseline",
+    "sample": "AA_052026",
+    "basis": "Existing matched-average perturbations",
+    "methods": {
+      "conventional": {
+        "supported": true,
+        "Rg": 31.862543056855902,
+        "I0": 4.701531968291019,
+        "valid_draws": 100,
+        "normalization_covariance": [
+          [
+            0.08381557539131423,
+            0.005726724105893962
+          ],
+          [
+            0.005726724105893962,
+            0.00045086323364976254
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.034
+        ]
+      },
+      "extended": {
+        "supported": true,
+        "Rg": 31.72933758285837,
+        "I0": 4.63243428416163,
+        "valid_draws": 100,
+        "normalization_covariance": [
+          [
+            0.006502746348040109,
+            0.0008460934121690426
+          ],
+          [
+            0.0008460934121690426,
+            0.0001315204109554872
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.06200000000000001
+        ]
+      }
+    }
+  },
+  {
+    "id": "component_results__AA_052026_rank1_dominant_not_purified",
+    "key": "ac96329396f5",
+    "group": "Audited EFA and matched average",
+    "label": "AA_052026_rank1_dominant_not_purified",
+    "sample": "AA_052026",
+    "basis": "Independent q Gaussian perturbations of exported I(q)",
+    "methods": {
+      "conventional": {
+        "supported": true,
+        "Rg": 31.78482419101387,
+        "I0": 4.693482652751232,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.08957457140801166,
+            0.006267152205351169
+          ],
+          [
+            0.006267152205351169,
+            0.0004906175509371006
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.034
+        ]
+      },
+      "extended": {
+        "supported": true,
+        "Rg": 31.695371971853113,
+        "I0": 4.625671725212894,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.008002125288441634,
+            0.0009267320570384199
+          ],
+          [
+            0.0009267320570384199,
+            0.0001297412026772984
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.06200000000000001
+        ]
+      }
+    }
+  },
+  {
+    "id": "component_results__WT_092025_EFA_candidate_main",
+    "key": "720efb17bf43",
+    "group": "Audited EFA and matched average",
+    "label": "WT_092025_EFA_candidate_main",
+    "sample": "WT_092025",
+    "basis": "Existing EFA refit perturbations",
+    "methods": {
+      "conventional": {
+        "supported": true,
+        "Rg": 25.65418605398995,
+        "I0": 1.6035757015661833,
+        "valid_draws": 100,
+        "normalization_covariance": [
+          [
+            0.20214214461415156,
+            0.009512891834886537
+          ],
+          [
+            0.009512891834886537,
+            0.0007878880416105485
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.041999999999999996
+        ]
+      },
+      "extended": {
+        "supported": true,
+        "Rg": 25.74916667765796,
+        "I0": 1.588808447314673,
+        "valid_draws": 100,
+        "normalization_covariance": [
+          [
+            0.030766207999914315,
+            0.0035445375998606693
+          ],
+          [
+            0.0035445375998606693,
+            0.0005678883319331609
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.07600000000000003
+        ]
+      }
+    }
+  },
+  {
+    "id": "component_results__WT_092025_EFA_other_component",
+    "key": "8982e1779e1f",
+    "group": "Audited EFA and matched average",
+    "label": "WT_092025_EFA_other_component",
+    "sample": "WT_092025",
+    "basis": "Independent q Gaussian perturbations of exported I(q)",
+    "methods": {
+      "conventional": {
+        "supported": false
+      },
+      "extended": {
+        "supported": true,
+        "Rg": 40.86640256343632,
+        "I0": 0.128224660766131,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            1.0816166077620208,
+            0.0027588800897757025
+          ],
+          [
+            0.0027588800897757025,
+            7.925147830758415e-06
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.048
+        ]
+      }
+    }
+  },
+  {
+    "id": "component_results__WT_092025_frame_average_same_baseline",
+    "key": "85e29733ee89",
+    "group": "Audited EFA and matched average",
+    "label": "WT_092025_frame_average_same_baseline",
+    "sample": "WT_092025",
+    "basis": "Existing matched-average perturbations",
+    "methods": {
+      "conventional": {
+        "supported": true,
+        "Rg": 26.707766779371568,
+        "I0": 1.7263345603481963,
+        "valid_draws": 100,
+        "normalization_covariance": [
+          [
+            0.15746471473213583,
+            0.004440973099828038
+          ],
+          [
+            0.004440973099828038,
+            0.00015161233565705318
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.041
+        ]
+      },
+      "extended": {
+        "supported": true,
+        "Rg": 26.489480301979764,
+        "I0": 1.703774749245074,
+        "valid_draws": 100,
+        "normalization_covariance": [
+          [
+            0.018782939765372632,
+            0.0009038268263723509
+          ],
+          [
+            0.0009038268263723509,
+            5.597698370585331e-05
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.07400000000000002
+        ]
+      }
+    }
+  },
+  {
+    "id": "component_results__WT_092025_rank1_dominant_not_purified",
+    "key": "281e67f270ce",
+    "group": "Audited EFA and matched average",
+    "label": "WT_092025_rank1_dominant_not_purified",
+    "sample": "WT_092025",
+    "basis": "Independent q Gaussian perturbations of exported I(q)",
+    "methods": {
+      "conventional": {
+        "supported": true,
+        "Rg": 28.003965477918204,
+        "I0": 1.8017985614611287,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.1472428713175671,
+            0.004356465850401457
+          ],
+          [
+            0.004356465850401457,
+            0.0001511470674629852
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.039
+        ]
+      },
+      "extended": {
+        "supported": true,
+        "Rg": 27.508647489012443,
+        "I0": 1.7704698466057567,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.01624612154741125,
+            0.0007823040169674207
+          ],
+          [
+            0.0007823040169674207,
+            4.81377712351246e-05
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.07200000000000002
+        ]
+      }
+    }
+  },
+  {
+    "id": "results__AA_052026_155-215_default_0.012-0.25_rank1_profile",
+    "key": "6ab3f308f7eb",
+    "group": "Legacy rank-one",
+    "label": "AA_052026_155-215_default_0.012-0.25_rank1_profile",
+    "sample": "AA_052026",
+    "basis": "Independent q Gaussian perturbations of exported I(q)",
+    "methods": {
+      "conventional": {
+        "supported": true,
+        "Rg": 32.076085947766465,
+        "I0": 131.07622802114923,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.06462315187832518,
+            0.1275812933724785
+          ],
+          [
+            0.1275812933724785,
+            0.2868108609336653
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.034
+        ]
+      },
+      "extended": {
+        "supported": true,
+        "Rg": 31.70847992011249,
+        "I0": 128.67942604996966,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.00515147133950038,
+            0.01876210949939908
+          ],
+          [
+            0.01876210949939908,
+            0.07859159401329369
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.06200000000000001
+        ]
+      }
+    }
+  },
+  {
+    "id": "results__AA_052026_163-204_default_0.012-0.25_rank1_profile",
+    "key": "80f18d54517c",
+    "group": "Legacy rank-one",
+    "label": "AA_052026_163-204_default_0.012-0.25_rank1_profile",
+    "sample": "AA_052026",
+    "basis": "Independent q Gaussian perturbations of exported I(q)",
+    "methods": {
+      "conventional": {
+        "supported": true,
+        "Rg": 32.067604555337084,
+        "I0": 128.050591426211,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.055605431958211084,
+            0.10722861335042497
+          ],
+          [
+            0.10722861335042497,
+            0.23087763790317492
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.034
+        ]
+      },
+      "extended": {
+        "supported": true,
+        "Rg": 31.706269956726803,
+        "I0": 125.72207765584125,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.004990682582790742,
+            0.01653726278702833
+          ],
+          [
+            0.01653726278702833,
+            0.06434211322667611
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.06200000000000001
+        ]
+      }
+    }
+  },
+  {
+    "id": "results__WT_092025_120-205_default_0.012-0.25_rank1_profile",
+    "key": "6049737d8041",
+    "group": "Legacy rank-one",
+    "label": "WT_092025_120-205_default_0.012-0.25_rank1_profile",
+    "sample": "WT_092025",
+    "basis": "Independent q Gaussian perturbations of exported I(q)",
+    "methods": {
+      "conventional": {
+        "supported": true,
+        "Rg": 26.66704253347899,
+        "I0": 53.621727813544204,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.07074790430792847,
+            0.058313254715821536
+          ],
+          [
+            0.058313254715821536,
+            0.06325464496023686
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.041
+        ]
+      },
+      "extended": {
+        "supported": true,
+        "Rg": 26.70729008803462,
+        "I0": 53.155819818325455,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.009756370778606168,
+            0.015315672268024473
+          ],
+          [
+            0.015315672268024473,
+            0.030472637846136515
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.07400000000000002
+        ]
+      }
+    }
+  },
+  {
+    "id": "results__WT_092025_125-195_default_0.012-0.25_rank1_profile",
+    "key": "c2a3d9d7aec2",
+    "group": "Legacy rank-one",
+    "label": "WT_092025_125-195_default_0.012-0.25_rank1_profile",
+    "sample": "WT_092025",
+    "basis": "Independent q Gaussian perturbations of exported I(q)",
+    "methods": {
+      "conventional": {
+        "supported": true,
+        "Rg": 26.656750198975065,
+        "I0": 53.07858991782137,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.09751757793744768,
+            0.08650153099278358
+          ],
+          [
+            0.08650153099278358,
+            0.09045072142627555
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.041
+        ]
+      },
+      "extended": {
+        "supported": true,
+        "Rg": 26.704200286375567,
+        "I0": 52.623573198701045,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.008724292876731748,
+            0.01384411780498229
+          ],
+          [
+            0.01384411780498229,
+            0.02790856787332226
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.07400000000000002
+        ]
+      }
+    }
+  },
+  {
+    "id": "results__WT_092025_155-180_default_0.012-0.25_rank1_profile",
+    "key": "db879f89a9c6",
+    "group": "Legacy rank-one",
+    "label": "WT_092025_155-180_default_0.012-0.25_rank1_profile",
+    "sample": "WT_092025",
+    "basis": "Independent q Gaussian perturbations of exported I(q)",
+    "methods": {
+      "conventional": {
+        "supported": true,
+        "Rg": 25.513786322582067,
+        "I0": 35.77608813121184,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.09269878529627405,
+            0.05410547454408042
+          ],
+          [
+            0.05410547454408042,
+            0.03973999029628018
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.041999999999999996
+        ]
+      },
+      "extended": {
+        "supported": true,
+        "Rg": 26.000884905379053,
+        "I0": 35.67751502618356,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.011014954570312237,
+            0.011809424244247364
+          ],
+          [
+            0.011809424244247364,
+            0.016396352420257394
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.07600000000000003
+        ]
+      }
+    }
+  },
+  {
+    "id": "results__WT_092025_120-205_rotation_component1",
+    "key": "c5ebceddda4a",
+    "group": "Legacy EFA",
+    "label": "WT_092025_120-205_rotation_component1",
+    "sample": "WT_092025",
+    "basis": "Independent q Gaussian perturbations of exported I(q)",
+    "methods": {
+      "conventional": {
+        "supported": false
+      },
+      "extended": {
+        "supported": true,
+        "Rg": 35.32872704607886,
+        "I0": 18.011831763293806,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.31352851901566303,
+            0.13237356481449808
+          ],
+          [
+            0.13237356481449808,
+            0.06501591069942297
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.05600000000000001
+        ]
+      }
+    }
+  },
+  {
+    "id": "results__WT_092025_120-205_rotation_component2",
+    "key": "690bdb4601fa",
+    "group": "Legacy EFA",
+    "label": "WT_092025_120-205_rotation_component2",
+    "sample": "WT_092025",
+    "basis": "Independent q Gaussian perturbations of exported I(q)",
+    "methods": {
+      "conventional": {
+        "supported": true,
+        "Rg": 25.39481507961732,
+        "I0": 39.5492427172907,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.06833172836408166,
+            0.04472970816161399
+          ],
+          [
+            0.04472970816161399,
+            0.03673796217670334
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.043
+        ]
+      },
+      "extended": {
+        "supported": true,
+        "Rg": 25.765359518711367,
+        "I0": 39.38178251081882,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.011363209790588684,
+            0.012661242267938359
+          ],
+          [
+            0.012661242267938359,
+            0.017485189992345974
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.07600000000000003
+        ]
+      }
+    }
+  },
+  {
+    "id": "WT_window_comparison__linear_center",
+    "key": "40438ddf0165",
+    "group": "Non-EFA window and baseline",
+    "label": "WT linear_center",
+    "sample": "WT_092025",
+    "basis": "Independent q Gaussian perturbations of exported I(q)",
+    "methods": {
+      "conventional": {
+        "supported": true,
+        "Rg": 26.784191695568733,
+        "I0": 1.8891396028986374,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.1783427929651939,
+            0.005856472937720557
+          ],
+          [
+            0.005856472937720557,
+            0.0002228674235963596
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.041
+        ]
+      },
+      "extended": {
+        "supported": true,
+        "Rg": 26.591872146877186,
+        "I0": 1.866938945466382,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.01753445063801629,
+            0.0009679565034634079
+          ],
+          [
+            0.0009679565034634079,
+            7.070755804668273e-05
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.07400000000000002
+        ]
+      }
+    }
+  },
+  {
+    "id": "WT_window_comparison__linear_late_tail",
+    "key": "1573e0c7db92",
+    "group": "Non-EFA window and baseline",
+    "label": "WT linear_late_tail",
+    "sample": "WT_092025",
+    "basis": "Independent q Gaussian perturbations of exported I(q)",
+    "methods": {
+      "conventional": {
+        "supported": true,
+        "Rg": 29.91444142407429,
+        "I0": 0.4345792465018862,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            6.241796923813028,
+            0.04093074488900176
+          ],
+          [
+            0.04093074488900176,
+            0.0003163590947841549
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.036
+        ]
+      },
+      "extended": {
+        "supported": true,
+        "Rg": 25.704340555754097,
+        "I0": 0.40061792772881105,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.4395282851846842,
+            0.0053915486162040005
+          ],
+          [
+            0.0053915486162040005,
+            7.735665752582758e-05
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.07600000000000003
+        ]
+      }
+    }
+  },
+  {
+    "id": "WT_window_comparison__linear_leading",
+    "key": "bffa3fe93fc3",
+    "group": "Non-EFA window and baseline",
+    "label": "WT linear_leading",
+    "sample": "WT_092025",
+    "basis": "Independent q Gaussian perturbations of exported I(q)",
+    "methods": {
+      "conventional": {
+        "supported": true,
+        "Rg": 30.791752336003405,
+        "I0": 0.8086981368918035,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            2.2041208753692536,
+            0.026424105506172177
+          ],
+          [
+            0.026424105506172177,
+            0.00037570917036071615
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.034999999999999996
+        ]
+      },
+      "extended": {
+        "supported": true,
+        "Rg": 29.50990645743898,
+        "I0": 0.786152848882625,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.22812639591883513,
+            0.004806613999208608
+          ],
+          [
+            0.004806613999208608,
+            0.00012201498283830883
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.06600000000000002
+        ]
+      }
+    }
+  },
+  {
+    "id": "WT_window_comparison__linear_trailing",
+    "key": "16118f26a6b6",
+    "group": "Non-EFA window and baseline",
+    "label": "WT linear_trailing",
+    "sample": "WT_092025",
+    "basis": "Independent q Gaussian perturbations of exported I(q)",
+    "methods": {
+      "conventional": {
+        "supported": true,
+        "Rg": 26.546714037245774,
+        "I0": 1.2894762389381715,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.32610755388141094,
+            0.006912093797745264
+          ],
+          [
+            0.006912093797745264,
+            0.0001831818278308722
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.041
+        ]
+      },
+      "extended": {
+        "supported": true,
+        "Rg": 26.1254126490419,
+        "I0": 1.2658490462586272,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.041928631479385275,
+            0.0015988391200691865
+          ],
+          [
+            0.0015988391200691865,
+            7.70750057924373e-05
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.07600000000000003
+        ]
+      }
+    }
+  },
+  {
+    "id": "WT_window_comparison__post_center",
+    "key": "c5d108be3ac3",
+    "group": "Non-EFA window and baseline",
+    "label": "WT post_center",
+    "sample": "WT_092025",
+    "basis": "Independent q Gaussian perturbations of exported I(q)",
+    "methods": {
+      "conventional": {
+        "supported": true,
+        "Rg": 25.56813511114475,
+        "I0": 1.8171218931501636,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.16986373226917878,
+            0.005098581162330146
+          ],
+          [
+            0.005098581162330146,
+            0.00019549974962273332
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.043
+        ]
+      },
+      "extended": {
+        "supported": true,
+        "Rg": 26.125715269216194,
+        "I0": 1.8153125505222218,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.021171835413172198,
+            0.0011879245962361548
+          ],
+          [
+            0.0011879245962361548,
+            8.807145859128228e-05
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.07600000000000003
+        ]
+      }
+    }
+  },
+  {
+    "id": "WT_window_comparison__post_late_tail",
+    "key": "fbe8c39bad7c",
+    "group": "Non-EFA window and baseline",
+    "label": "WT post_late_tail",
+    "sample": "WT_092025",
+    "basis": "Independent q Gaussian perturbations of exported I(q)",
+    "methods": {
+      "conventional": {
+        "supported": true,
+        "Rg": 25.445620289499765,
+        "I0": 0.3823055786081591,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            4.184641612669644,
+            0.028540775214072743
+          ],
+          [
+            0.028540775214072743,
+            0.00022979459708928195
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.043
+        ]
+      },
+      "extended": {
+        "supported": true,
+        "Rg": 24.60951314629982,
+        "I0": 0.3705850800623503,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.38179067644866277,
+            0.004401594113448242
+          ],
+          [
+            0.004401594113448242,
+            6.464403644668626e-05
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.08000000000000003
+        ]
+      }
+    }
+  },
+  {
+    "id": "WT_window_comparison__post_leading",
+    "key": "439bdc0ac1c8",
+    "group": "Non-EFA window and baseline",
+    "label": "WT post_leading",
+    "sample": "WT_092025",
+    "basis": "Independent q Gaussian perturbations of exported I(q)",
+    "methods": {
+      "conventional": {
+        "supported": true,
+        "Rg": 26.79699472832578,
+        "I0": 0.7164324552754024,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            1.469423422889291,
+            0.016982247699864426
+          ],
+          [
+            0.016982247699864426,
+            0.0002444917089905574
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.04
+        ]
+      },
+      "extended": {
+        "supported": true,
+        "Rg": 28.213606656844238,
+        "I0": 0.7235881210317372,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.21335216015019748,
+            0.004509510227275865
+          ],
+          [
+            0.004509510227275865,
+            0.00011563339601976373
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.07000000000000002
+        ]
+      }
+    }
+  },
+  {
+    "id": "WT_window_comparison__post_trailing",
+    "key": "cf0ba1fcd8a1",
+    "group": "Non-EFA window and baseline",
+    "label": "WT post_trailing",
+    "sample": "WT_092025",
+    "basis": "Independent q Gaussian perturbations of exported I(q)",
+    "methods": {
+      "conventional": {
+        "supported": true,
+        "Rg": 25.496798857602517,
+        "I0": 1.2368615261935594,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.37024176979509715,
+            0.007607643292118916
+          ],
+          [
+            0.007607643292118916,
+            0.00019498916738371693
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.041999999999999996
+        ]
+      },
+      "extended": {
+        "supported": true,
+        "Rg": 25.597300012100597,
+        "I0": 1.2246375067778876,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.04480123297046057,
+            0.0016800537773723277
+          ],
+          [
+            0.0016800537773723277,
+            8.088637630297565e-05
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.07800000000000003
+        ]
+      }
+    }
+  },
+  {
+    "id": "WT_window_comparison__pre_center",
+    "key": "ee73fa4de6d2",
+    "group": "Non-EFA window and baseline",
+    "label": "WT pre_center",
+    "sample": "WT_092025",
+    "basis": "Independent q Gaussian perturbations of exported I(q)",
+    "methods": {
+      "conventional": {
+        "supported": true,
+        "Rg": 28.191340719162508,
+        "I0": 1.9946427571300551,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.19663131159535086,
+            0.006143219608918082
+          ],
+          [
+            0.006143219608918082,
+            0.00023998267542902537
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.039
+        ]
+      },
+      "extended": {
+        "supported": true,
+        "Rg": 27.285528380217993,
+        "I0": 1.9481968986203133,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.025214848417287345,
+            0.001423334548040427
+          ],
+          [
+            0.001423334548040427,
+            0.00010187486508949001
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.07200000000000002
+        ]
+      }
+    }
+  },
+  {
+    "id": "WT_window_comparison__pre_late_tail",
+    "key": "4d51872c962a",
+    "group": "Non-EFA window and baseline",
+    "label": "WT pre_late_tail",
+    "sample": "WT_092025",
+    "basis": "Independent q Gaussian perturbations of exported I(q)",
+    "methods": {
+      "conventional": {
+        "supported": true,
+        "Rg": 45.51225097118401,
+        "I0": 0.6486836437389344,
+        "valid_draws": 198,
+        "normalization_covariance": [
+          [
+            64.17689128908951,
+            0.3745158275354412
+          ],
+          [
+            0.3745158275354412,
+            0.002489473774367922
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.021
+        ]
+      },
+      "extended": {
+        "supported": true,
+        "Rg": 31.041222422809817,
+        "I0": 0.5195416041810406,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.6454101980484371,
+            0.008648241400735682
+          ],
+          [
+            0.008648241400735682,
+            0.0001359940340589757
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.06400000000000002
+        ]
+      }
+    }
+  },
+  {
+    "id": "WT_window_comparison__pre_leading",
+    "key": "5484087b2b46",
+    "group": "Non-EFA window and baseline",
+    "label": "WT pre_leading",
+    "sample": "WT_092025",
+    "basis": "Independent q Gaussian perturbations of exported I(q)",
+    "methods": {
+      "conventional": {
+        "supported": true,
+        "Rg": 48.93280980461999,
+        "I0": 1.0661784401707886,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            23.521707881433667,
+            0.26172877602309585
+          ],
+          [
+            0.26172877602309585,
+            0.003237044925639715
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.022000000000000002
+        ]
+      },
+      "extended": {
+        "supported": true,
+        "Rg": 31.202947606107614,
+        "I0": 0.8671257712543188,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.21804981775005283,
+            0.004742090501221846
+          ],
+          [
+            0.004742090501221846,
+            0.00012436249749412428
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.06400000000000002
+        ]
+      }
+    }
+  },
+  {
+    "id": "WT_window_comparison__pre_trailing",
+    "key": "f2e2ae70a39c",
+    "group": "Non-EFA window and baseline",
+    "label": "WT pre_trailing",
+    "sample": "WT_092025",
+    "basis": "Independent q Gaussian perturbations of exported I(q)",
+    "methods": {
+      "conventional": {
+        "supported": true,
+        "Rg": 29.315795853832388,
+        "I0": 1.4155001762497286,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.531284997942968,
+            0.011501228260671962
+          ],
+          [
+            0.011501228260671962,
+            0.00030681773123318975
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.037
+        ]
+      },
+      "extended": {
+        "supported": true,
+        "Rg": 27.27763563656337,
+        "I0": 1.3567094315063402,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.04902518598823055,
+            0.0020573860798619916
+          ],
+          [
+            0.0020573860798619916,
+            0.00010868050627693858
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.07200000000000002
+        ]
+      }
+    }
+  },
+  {
+    "id": "AA_window_comparison__linear_center",
+    "key": "da65d3376f81",
+    "group": "Non-EFA window and baseline",
+    "label": "AA linear_center",
+    "sample": "AA_052026",
+    "basis": "Independent q Gaussian perturbations of exported I(q)",
+    "methods": {
+      "conventional": {
+        "supported": true,
+        "Rg": 32.33059317203239,
+        "I0": 5.152953770212073,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.12469566639661991,
+            0.010018991053191333
+          ],
+          [
+            0.010018991053191333,
+            0.0009159407436010449
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.034
+        ]
+      },
+      "extended": {
+        "supported": true,
+        "Rg": 31.874059533216837,
+        "I0": 5.054743475675915,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.011784779467052073,
+            0.0015917684546343433
+          ],
+          [
+            0.0015917684546343433,
+            0.0002532759546632602
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.06200000000000001
+        ]
+      }
+    }
+  },
+  {
+    "id": "AA_window_comparison__linear_late_tail",
+    "key": "ba1f0206b72f",
+    "group": "Non-EFA window and baseline",
+    "label": "AA linear_late_tail",
+    "sample": "AA_052026",
+    "basis": "Independent q Gaussian perturbations of exported I(q)",
+    "methods": {
+      "conventional": {
+        "supported": true,
+        "Rg": 31.077328738657897,
+        "I0": 1.6378930220871903,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.8302314333653281,
+            0.018711738467122874
+          ],
+          [
+            0.018711738467122874,
+            0.0005140334720550001
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.034
+        ]
+      },
+      "extended": {
+        "supported": true,
+        "Rg": 31.009162690627704,
+        "I0": 1.6025277399769042,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.09530153672108534,
+            0.003956416368541711
+          ],
+          [
+            0.003956416368541711,
+            0.00019554892635550858
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.06400000000000002
+        ]
+      }
+    }
+  },
+  {
+    "id": "AA_window_comparison__linear_leading",
+    "key": "628db84094ec",
+    "group": "Non-EFA window and baseline",
+    "label": "AA linear_leading",
+    "sample": "AA_052026",
+    "basis": "Independent q Gaussian perturbations of exported I(q)",
+    "methods": {
+      "conventional": {
+        "supported": true,
+        "Rg": 31.33961862815544,
+        "I0": 1.4164057584619913,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            1.4742053688421628,
+            0.03260461418466031
+          ],
+          [
+            0.03260461418466031,
+            0.0008189327224646706
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.034
+        ]
+      },
+      "extended": {
+        "supported": true,
+        "Rg": 31.407860737167287,
+        "I0": 1.3981362248214049,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.13679536717954424,
+            0.005149409492524775
+          ],
+          [
+            0.005149409492524775,
+            0.00022811893039531315
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.06200000000000001
+        ]
+      }
+    }
+  },
+  {
+    "id": "AA_window_comparison__linear_trailing",
+    "key": "a28ee46557c8",
+    "group": "Non-EFA window and baseline",
+    "label": "AA linear_trailing",
+    "sample": "AA_052026",
+    "basis": "Independent q Gaussian perturbations of exported I(q)",
+    "methods": {
+      "conventional": {
+        "supported": true,
+        "Rg": 31.40434498969472,
+        "I0": 4.203646029114218,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.14807240390047932,
+            0.010029494256086968
+          ],
+          [
+            0.010029494256086968,
+            0.0007904649939646431
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.034999999999999996
+        ]
+      },
+      "extended": {
+        "supported": true,
+        "Rg": 31.60569020929756,
+        "I0": 4.162337415637248,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.02022021880041165,
+            0.0023594101274920713
+          ],
+          [
+            0.0023594101274920713,
+            0.0003088424469527842
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.06200000000000001
+        ]
+      }
+    }
+  },
+  {
+    "id": "AA_window_comparison__post_center",
+    "key": "d7a0df11f0f6",
+    "group": "Non-EFA window and baseline",
+    "label": "AA post_center",
+    "sample": "AA_052026",
+    "basis": "Independent q Gaussian perturbations of exported I(q)",
+    "methods": {
+      "conventional": {
+        "supported": true,
+        "Rg": 32.14364968347314,
+        "I0": 5.1063980199113415,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.12288162999042937,
+            0.009698759309397
+          ],
+          [
+            0.009698759309397,
+            0.0008778149291169396
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.034
+        ]
+      },
+      "extended": {
+        "supported": true,
+        "Rg": 31.85289698778835,
+        "I0": 5.022468074520396,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.011241835058367145,
+            0.0015298042146572844
+          ],
+          [
+            0.0015298042146572844,
+            0.0002468509426455538
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.06200000000000001
+        ]
+      }
+    }
+  },
+  {
+    "id": "AA_window_comparison__post_late_tail",
+    "key": "4f9cce2c7e21",
+    "group": "Non-EFA window and baseline",
+    "label": "AA post_late_tail",
+    "sample": "AA_052026",
+    "basis": "Independent q Gaussian perturbations of exported I(q)",
+    "methods": {
+      "conventional": {
+        "supported": true,
+        "Rg": 31.194160695974567,
+        "I0": 1.6168481304902886,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            1.0797036672231841,
+            0.027048316891432975
+          ],
+          [
+            0.027048316891432975,
+            0.0007739343082367878
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.034999999999999996
+        ]
+      },
+      "extended": {
+        "supported": true,
+        "Rg": 30.953716573373555,
+        "I0": 1.5806010576576894,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.10402700071411143,
+            0.004719406144898536
+          ],
+          [
+            0.004719406144898536,
+            0.00024478305747379286
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.06400000000000002
+        ]
+      }
+    }
+  },
+  {
+    "id": "AA_window_comparison__post_leading",
+    "key": "2a936426ee9a",
+    "group": "Non-EFA window and baseline",
+    "label": "AA post_leading",
+    "sample": "AA_052026",
+    "basis": "Independent q Gaussian perturbations of exported I(q)",
+    "methods": {
+      "conventional": {
+        "supported": true,
+        "Rg": 31.144540532310806,
+        "I0": 1.3739431995595783,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            1.6139304643529004,
+            0.036138937612521835
+          ],
+          [
+            0.036138937612521835,
+            0.0008916715121432551
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.034999999999999996
+        ]
+      },
+      "extended": {
+        "supported": true,
+        "Rg": 31.33487460759133,
+        "I0": 1.362302378518427,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.11191613851265277,
+            0.0042025542652950575
+          ],
+          [
+            0.0042025542652950575,
+            0.00018936130674195332
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.06200000000000001
+        ]
+      }
+    }
+  },
+  {
+    "id": "AA_window_comparison__post_trailing",
+    "key": "1d6990688a09",
+    "group": "Non-EFA window and baseline",
+    "label": "AA post_trailing",
+    "sample": "AA_052026",
+    "basis": "Independent q Gaussian perturbations of exported I(q)",
+    "methods": {
+      "conventional": {
+        "supported": true,
+        "Rg": 31.20967475728668,
+        "I0": 4.164824097096918,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.17912938678963872,
+            0.011853122826695518
+          ],
+          [
+            0.011853122826695518,
+            0.0008899058955480159
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.034999999999999996
+        ]
+      },
+      "extended": {
+        "supported": true,
+        "Rg": 31.58526137480871,
+        "I0": 4.135426818797359,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.017126843507270964,
+            0.001938880055853628
+          ],
+          [
+            0.001938880055853628,
+            0.0002585905967360234
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.06200000000000001
+        ]
+      }
+    }
+  },
+  {
+    "id": "AA_window_comparison__pre_center",
+    "key": "be71c341534a",
+    "group": "Non-EFA window and baseline",
+    "label": "AA pre_center",
+    "sample": "AA_052026",
+    "basis": "Independent q Gaussian perturbations of exported I(q)",
+    "methods": {
+      "conventional": {
+        "supported": true,
+        "Rg": 32.818146503365334,
+        "I0": 5.248607387092701,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.15920319011192033,
+            0.01271106714420755
+          ],
+          [
+            0.01271106714420755,
+            0.0011551514403273944
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.033
+        ]
+      },
+      "extended": {
+        "supported": true,
+        "Rg": 31.90870075896145,
+        "I0": 5.113429398229094,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.012554143300180327,
+            0.001690152348920243
+          ],
+          [
+            0.001690152348920243,
+            0.0002712845062374581
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.06200000000000001
+        ]
+      }
+    }
+  },
+  {
+    "id": "AA_window_comparison__pre_late_tail",
+    "key": "9040eb70e549",
+    "group": "Non-EFA window and baseline",
+    "label": "AA pre_late_tail",
+    "sample": "AA_052026",
+    "basis": "Independent q Gaussian perturbations of exported I(q)",
+    "methods": {
+      "conventional": {
+        "supported": true,
+        "Rg": 32.30863794594739,
+        "I0": 1.7374620851073102,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            1.126857654162281,
+            0.029708710495228788
+          ],
+          [
+            0.029708710495228788,
+            0.000886770266385445
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.034
+        ]
+      },
+      "extended": {
+        "supported": true,
+        "Rg": 31.177730130190067,
+        "I0": 1.6709010760014913,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.08822796289491688,
+            0.0040453654546281975
+          ],
+          [
+            0.0040453654546281975,
+            0.00022053896827016424
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.06400000000000002
+        ]
+      }
+    }
+  },
+  {
+    "id": "AA_window_comparison__pre_leading",
+    "key": "dffeae70e253",
+    "group": "Non-EFA window and baseline",
+    "label": "AA pre_leading",
+    "sample": "AA_052026",
+    "basis": "Independent q Gaussian perturbations of exported I(q)",
+    "methods": {
+      "conventional": {
+        "supported": true,
+        "Rg": 32.10216876369507,
+        "I0": 1.488947144501036,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            1.5470173672463337,
+            0.035810222244212764
+          ],
+          [
+            0.035810222244212764,
+            0.0009295056516952718
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.033
+        ]
+      },
+      "extended": {
+        "supported": true,
+        "Rg": 31.512280969053048,
+        "I0": 1.45083082327215,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.12363995168662312,
+            0.004812841822288039
+          ],
+          [
+            0.004812841822288039,
+            0.0002154549341759227
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.06200000000000001
+        ]
+      }
+    }
+  },
+  {
+    "id": "AA_window_comparison__pre_trailing",
+    "key": "ba790f2afeff",
+    "group": "Non-EFA window and baseline",
+    "label": "AA pre_trailing",
+    "sample": "AA_052026",
+    "basis": "Independent q Gaussian perturbations of exported I(q)",
+    "methods": {
+      "conventional": {
+        "supported": true,
+        "Rg": 31.800699520447587,
+        "I0": 4.293148532211994,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.1861465338459751,
+            0.012373166075203003
+          ],
+          [
+            0.012373166075203003,
+            0.0009398630555405889
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.034
+        ]
+      },
+      "extended": {
+        "supported": true,
+        "Rg": 31.651951372411933,
+        "I0": 4.225584987280011,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.01526398199669004,
+            0.00176810424722996
+          ],
+          [
+            0.00176810424722996,
+            0.00024384347131083776
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.06200000000000001
+        ]
+      }
+    }
+  },
+  {
+    "id": "results_comparison__curves__AA_052026_report_rotation_0_component1",
+    "key": "68c665919362",
+    "group": "Report-hypothesis EFA",
+    "label": "AA_052026_report_rotation_0 component 1",
+    "sample": "AA_052026",
+    "basis": "Independent q Gaussian perturbations of exported I(q)",
+    "methods": {
+      "conventional": {
+        "supported": true,
+        "Rg": 31.43097229768295,
+        "I0": 129.35826027523612,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.6449074395630688,
+            1.2197287480996162
+          ],
+          [
+            1.2197287480996162,
+            2.7021971742861806
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.034
+        ]
+      },
+      "extended": {
+        "supported": true,
+        "Rg": 30.662304248928795,
+        "I0": 125.7698113572514,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.06453930040767043,
+            0.21871299929111152
+          ],
+          [
+            0.21871299929111152,
+            0.8654788933002522
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.06400000000000002
+        ]
+      }
+    }
+  },
+  {
+    "id": "results_comparison__curves__AA_052026_report_rotation_0_component2",
+    "key": "26c75d1fc3ed",
+    "group": "Report-hypothesis EFA",
+    "label": "AA_052026_report_rotation_0 component 2",
+    "sample": "AA_052026",
+    "basis": "Independent q Gaussian perturbations of exported I(q)",
+    "methods": {
+      "conventional": {
+        "supported": false
+      },
+      "extended": {
+        "supported": false
+      }
+    }
+  },
+  {
+    "id": "results_comparison__curves__AA_052026_report_rotation_0_component3",
+    "key": "f8d64dfe6b0f",
+    "group": "Report-hypothesis EFA",
+    "label": "AA_052026_report_rotation_0 component 3",
+    "sample": "AA_052026",
+    "basis": "Independent q Gaussian perturbations of exported I(q)",
+    "methods": {
+      "conventional": {
+        "supported": false
+      },
+      "extended": {
+        "supported": false
+      }
+    }
+  },
+  {
+    "id": "results_comparison__curves__AA_052026_report_rotation_1_component1",
+    "key": "363a288f5c44",
+    "group": "Report-hypothesis EFA",
+    "label": "AA_052026_report_rotation_1 component 1",
+    "sample": "AA_052026",
+    "basis": "Independent q Gaussian perturbations of exported I(q)",
+    "methods": {
+      "conventional": {
+        "supported": true,
+        "Rg": 31.224827811996832,
+        "I0": 129.25110913330957,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.3821980602349957,
+            0.7807322462128578
+          ],
+          [
+            0.7807322462128578,
+            1.8328888382649093
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.034999999999999996
+        ]
+      },
+      "extended": {
+        "supported": true,
+        "Rg": 30.73052714756111,
+        "I0": 126.19883764094195,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.03521228916683366,
+            0.12651971966248557
+          ],
+          [
+            0.12651971966248557,
+            0.5339273148854711
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.06400000000000002
+        ]
+      }
+    }
+  },
+  {
+    "id": "results_comparison__curves__AA_052026_report_rotation_1_component2",
+    "key": "aba8f6fc2f56",
+    "group": "Report-hypothesis EFA",
+    "label": "AA_052026_report_rotation_1 component 2",
+    "sample": "AA_052026",
+    "basis": "Independent q Gaussian perturbations of exported I(q)",
+    "methods": {
+      "conventional": {
+        "supported": false
+      },
+      "extended": {
+        "supported": false
+      }
+    }
+  },
+  {
+    "id": "results_comparison__curves__AA_052026_report_rotation_1_component3",
+    "key": "d3b4380617dd",
+    "group": "Report-hypothesis EFA",
+    "label": "AA_052026_report_rotation_1 component 3",
+    "sample": "AA_052026",
+    "basis": "Independent q Gaussian perturbations of exported I(q)",
+    "methods": {
+      "conventional": {
+        "supported": false
+      },
+      "extended": {
+        "supported": false
+      }
+    }
+  },
+  {
+    "id": "results_comparison__curves__WT_092025_report_rotation_0_component1",
+    "key": "d4daff379119",
+    "group": "Report-hypothesis EFA",
+    "label": "WT_092025_report_rotation_0 component 1",
+    "sample": "WT_092025",
+    "basis": "Independent q Gaussian perturbations of exported I(q)",
+    "methods": {
+      "conventional": {
+        "supported": false
+      },
+      "extended": {
+        "supported": true,
+        "Rg": 50.47337396773799,
+        "I0": 14.685671656895012,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            40.865097546914356,
+            8.958721878549781
+          ],
+          [
+            8.958721878549781,
+            1.9846258502868745
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.039
+        ]
+      }
+    }
+  },
+  {
+    "id": "results_comparison__curves__WT_092025_report_rotation_0_component2",
+    "key": "da072ad8b201",
+    "group": "Report-hypothesis EFA",
+    "label": "WT_092025_report_rotation_0 component 2",
+    "sample": "WT_092025",
+    "basis": "Independent q Gaussian perturbations of exported I(q)",
+    "methods": {
+      "conventional": {
+        "supported": true,
+        "Rg": 25.29050278971244,
+        "I0": 50.73237453715758,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.32071504534634354,
+            0.27785874718055437
+          ],
+          [
+            0.27785874718055437,
+            0.2871085132062444
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.043
+        ]
+      },
+      "extended": {
+        "supported": true,
+        "Rg": 26.545700669110502,
+        "I0": 51.256077597135835,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.03895045633695672,
+            0.056843567712632076
+          ],
+          [
+            0.056843567712632076,
+            0.10860903701558092
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.07400000000000002
+        ]
+      }
+    }
+  },
+  {
+    "id": "results_comparison__curves__WT_092025_report_rotation_0_component3",
+    "key": "2c3b2846c06d",
+    "group": "Report-hypothesis EFA",
+    "label": "WT_092025_report_rotation_0 component 3",
+    "sample": "WT_092025",
+    "basis": "Independent q Gaussian perturbations of exported I(q)",
+    "methods": {
+      "conventional": {
+        "supported": false
+      },
+      "extended": {
+        "supported": false
+      }
+    }
+  },
+  {
+    "id": "results_comparison__curves__WT_092025_report_rotation_0_component4",
+    "key": "02c173c82c3f",
+    "group": "Report-hypothesis EFA",
+    "label": "WT_092025_report_rotation_0 component 4",
+    "sample": "WT_092025",
+    "basis": "Independent q Gaussian perturbations of exported I(q)",
+    "methods": {
+      "conventional": {
+        "supported": false
+      },
+      "extended": {
+        "supported": false
+      }
+    }
+  },
+  {
+    "id": "results_comparison__curves__WT_092025_linear_least_overlap_leading_161-165",
+    "key": "f75080b711ac",
+    "group": "EFA-guided direct edges",
+    "label": "WT linear least_overlap_leading 161\u2013165",
+    "sample": "WT_092025",
+    "basis": "Independent q Gaussian perturbations of exported I(q)",
+    "methods": {
+      "conventional": {
+        "supported": true,
+        "Rg": 26.712124031331395,
+        "I0": 1.8943155124933728,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.37751858853435444,
+            0.011538312722070024
+          ],
+          [
+            0.011538312722070024,
+            0.0004140153026437457
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.041
+        ]
+      },
+      "extended": {
+        "supported": true,
+        "Rg": 26.59813351124247,
+        "I0": 1.873234275049702,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.037406522772068226,
+            0.0019791864663649197
+          ],
+          [
+            0.0019791864663649197,
+            0.0001347734059375926
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.07400000000000002
+        ]
+      }
+    }
+  },
+  {
+    "id": "results_comparison__curves__WT_092025_linear_main_apex_5_165-169",
+    "key": "54ac843dd524",
+    "group": "EFA-guided direct edges",
+    "label": "WT linear main_apex_5 165\u2013169",
+    "sample": "WT_092025",
+    "basis": "Independent q Gaussian perturbations of exported I(q)",
+    "methods": {
+      "conventional": {
+        "supported": true,
+        "Rg": 25.97333094482415,
+        "I0": 1.9610508408356133,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.31654072335399086,
+            0.010515645107602443
+          ],
+          [
+            0.010515645107602443,
+            0.00041017129360523846
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.041999999999999996
+        ]
+      },
+      "extended": {
+        "supported": true,
+        "Rg": 26.431248001963827,
+        "I0": 1.9533372227136236,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.04141348503794873,
+            0.002305108383649302
+          ],
+          [
+            0.002305108383649302,
+            0.00016044933720358253
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.07400000000000002
+        ]
+      }
+    }
+  },
+  {
+    "id": "results_comparison__curves__WT_092025_pre_least_overlap_leading_161-165",
+    "key": "2ab57feeefe7",
+    "group": "EFA-guided direct edges",
+    "label": "WT pre least_overlap_leading 161\u2013165",
+    "sample": "WT_092025",
+    "basis": "Independent q Gaussian perturbations of exported I(q)",
+    "methods": {
+      "conventional": {
+        "supported": true,
+        "Rg": 28.83770536679447,
+        "I0": 2.015743664008069,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.4818959903923985,
+            0.015502797525062702
+          ],
+          [
+            0.015502797525062702,
+            0.0005843466302579861
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.038
+        ]
+      },
+      "extended": {
+        "supported": true,
+        "Rg": 27.2734540471002,
+        "I0": 1.9529733451422726,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.0414888185633075,
+            0.0022401832771462246
+          ],
+          [
+            0.0022401832771462246,
+            0.0001587279737450482
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.07200000000000002
+        ]
+      }
+    }
+  },
+  {
+    "id": "results_comparison__curves__WT_092025_pre_main_apex_5_165-169",
+    "key": "7159dbc8de5d",
+    "group": "EFA-guided direct edges",
+    "label": "WT pre main_apex_5 165\u2013169",
+    "sample": "WT_092025",
+    "basis": "Independent q Gaussian perturbations of exported I(q)",
+    "methods": {
+      "conventional": {
+        "supported": true,
+        "Rg": 27.439975879034748,
+        "I0": 2.0701043990892396,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.2940204465825623,
+            0.010044232985931661
+          ],
+          [
+            0.010044232985931661,
+            0.00043656780175323207
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.04
+        ]
+      },
+      "extended": {
+        "supported": true,
+        "Rg": 26.991419388279553,
+        "I0": 2.031474920602697,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.046240959890820166,
+            0.002822848531535493
+          ],
+          [
+            0.002822848531535493,
+            0.00021252041137441812
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.07400000000000002
+        ]
+      }
+    }
+  },
+  {
+    "id": "results_comparison__curves__WT_092025_post_least_overlap_leading_161-165",
+    "key": "2b070892a9f1",
+    "group": "EFA-guided direct edges",
+    "label": "WT post least_overlap_leading 161\u2013165",
+    "sample": "WT_092025",
+    "basis": "Independent q Gaussian perturbations of exported I(q)",
+    "methods": {
+      "conventional": {
+        "supported": true,
+        "Rg": 25.54887033012439,
+        "I0": 1.8222049184063067,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.3167546040099951,
+            0.009576018002776087
+          ],
+          [
+            0.009576018002776087,
+            0.000346435664220214
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.043
+        ]
+      },
+      "extended": {
+        "supported": true,
+        "Rg": 26.112157989842203,
+        "I0": 1.8198778766328851,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.03601228455883032,
+            0.0018116239611358582
+          ],
+          [
+            0.0018116239611358582,
+            0.0001183908089142205
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.07600000000000003
+        ]
+      }
+    }
+  },
+  {
+    "id": "results_comparison__curves__WT_092025_post_main_apex_5_165-169",
+    "key": "8dd9117ecc5c",
+    "group": "EFA-guided direct edges",
+    "label": "WT post main_apex_5 165\u2013169",
+    "sample": "WT_092025",
+    "basis": "Independent q Gaussian perturbations of exported I(q)",
+    "methods": {
+      "conventional": {
+        "supported": true,
+        "Rg": 25.273018170200455,
+        "I0": 1.9026616282678963,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.28216824513225697,
+            0.00890247573996786
+          ],
+          [
+            0.00890247573996786,
+            0.0003424139417258036
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.043
+        ]
+      },
+      "extended": {
+        "supported": true,
+        "Rg": 26.01590577003323,
+        "I0": 1.9045156904547826,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.03330990848042583,
+            0.0018473432695240175
+          ],
+          [
+            0.0018473432695240175,
+            0.00013738936321553645
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.07600000000000003
+        ]
+      }
+    }
+  },
+  {
+    "id": "results_comparison__curves__AA_052026_linear_least_overlap_leading_165-169",
+    "key": "3b2e698fbe64",
+    "group": "EFA-guided direct edges",
+    "label": "AA linear least_overlap_leading 165\u2013169",
+    "sample": "AA_052026",
+    "basis": "Independent q Gaussian perturbations of exported I(q)",
+    "methods": {
+      "conventional": {
+        "supported": true,
+        "Rg": 31.372076584047,
+        "I0": 2.424552347894358,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.8200963680347793,
+            0.03093375228833365
+          ],
+          [
+            0.03093375228833365,
+            0.0013571887189978476
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.034
+        ]
+      },
+      "extended": {
+        "supported": true,
+        "Rg": 31.156159882772556,
+        "I0": 2.384395889163102,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.07253402762549245,
+            0.004911364251941592
+          ],
+          [
+            0.004911364251941592,
+            0.00038939268075423967
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.06400000000000002
+        ]
+      }
+    }
+  },
+  {
+    "id": "results_comparison__curves__AA_052026_linear_main_apex_5_175-179",
+    "key": "9a4fb686ead7",
+    "group": "EFA-guided direct edges",
+    "label": "AA linear main_apex_5 175\u2013179",
+    "sample": "AA_052026",
+    "basis": "Independent q Gaussian perturbations of exported I(q)",
+    "methods": {
+      "conventional": {
+        "supported": true,
+        "Rg": 32.00220379647631,
+        "I0": 5.544393291214595,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.20711451741019263,
+            0.017560931375852025
+          ],
+          [
+            0.017560931375852025,
+            0.0016807913174659173
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.034
+        ]
+      },
+      "extended": {
+        "supported": true,
+        "Rg": 31.951458872805595,
+        "I0": 5.467232210613438,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.01893072383640271,
+            0.0027014699124961873
+          ],
+          [
+            0.0027014699124961873,
+            0.000464182733865177
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.06200000000000001
+        ]
+      }
+    }
+  },
+  {
+    "id": "results_comparison__curves__AA_052026_pre_least_overlap_leading_165-169",
+    "key": "2f9162bf8040",
+    "group": "EFA-guided direct edges",
+    "label": "AA pre least_overlap_leading 165\u2013169",
+    "sample": "AA_052026",
+    "basis": "Independent q Gaussian perturbations of exported I(q)",
+    "methods": {
+      "conventional": {
+        "supported": true,
+        "Rg": 32.07901541439538,
+        "I0": 2.506045996135492,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.8086425033358979,
+            0.031978142140417075
+          ],
+          [
+            0.031978142140417075,
+            0.0014209547599496341
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.034
+        ]
+      },
+      "extended": {
+        "supported": true,
+        "Rg": 31.24782719513612,
+        "I0": 2.4395535096206253,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.06917077252567695,
+            0.004617079662917379
+          ],
+          [
+            0.004617079662917379,
+            0.0003597553378534334
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.06400000000000002
+        ]
+      }
+    }
+  },
+  {
+    "id": "results_comparison__curves__AA_052026_pre_main_apex_5_175-179",
+    "key": "6ba3c7affe63",
+    "group": "EFA-guided direct edges",
+    "label": "AA pre main_apex_5 175\u2013179",
+    "sample": "AA_052026",
+    "basis": "Independent q Gaussian perturbations of exported I(q)",
+    "methods": {
+      "conventional": {
+        "supported": true,
+        "Rg": 32.337194238694906,
+        "I0": 5.633256463373663,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.1589837829799302,
+            0.014053844861451637
+          ],
+          [
+            0.014053844861451637,
+            0.0015075146004269872
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.034
+        ]
+      },
+      "extended": {
+        "supported": true,
+        "Rg": 31.985321950643232,
+        "I0": 5.527524563590774,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.022103146650263396,
+            0.0034361633803065175
+          ],
+          [
+            0.0034361633803065175,
+            0.0006168533618955938
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.06200000000000001
+        ]
+      }
+    }
+  },
+  {
+    "id": "results_comparison__curves__AA_052026_post_least_overlap_leading_165-169",
+    "key": "f75f726e5b8f",
+    "group": "EFA-guided direct edges",
+    "label": "AA post least_overlap_leading 165\u2013169",
+    "sample": "AA_052026",
+    "basis": "Independent q Gaussian perturbations of exported I(q)",
+    "methods": {
+      "conventional": {
+        "supported": true,
+        "Rg": 30.898609271418476,
+        "I0": 2.3726184959425027,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.9707166674640701,
+            0.03584576125990847
+          ],
+          [
+            0.03584576125990847,
+            0.001528366974041012
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.034
+        ]
+      },
+      "extended": {
+        "supported": true,
+        "Rg": 31.095330807733482,
+        "I0": 2.3488478260484538,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.08689945086462719,
+            0.005721750720727542
+          ],
+          [
+            0.005721750720727542,
+            0.00042571696019660124
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.06400000000000002
+        ]
+      }
+    }
+  },
+  {
+    "id": "results_comparison__curves__AA_052026_post_main_apex_5_175-179",
+    "key": "c0da0b4511c1",
+    "group": "EFA-guided direct edges",
+    "label": "AA post main_apex_5 175\u2013179",
+    "sample": "AA_052026",
+    "basis": "Independent q Gaussian perturbations of exported I(q)",
+    "methods": {
+      "conventional": {
+        "supported": true,
+        "Rg": 31.82840055706403,
+        "I0": 5.4992563007798845,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.22877311891445795,
+            0.01920387363410399
+          ],
+          [
+            0.01920387363410399,
+            0.0018492287404615238
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.034
+        ]
+      },
+      "extended": {
+        "supported": true,
+        "Rg": 31.932896553100232,
+        "I0": 5.436210782756609,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.020182183507339135,
+            0.002925832705108128
+          ],
+          [
+            0.002925832705108128,
+            0.0005185052494060656
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.06200000000000001
+        ]
+      }
+    }
+  },
+  {
+    "id": "results_comparison__curves__AA_052026_bift_window_167_188_Iq",
+    "key": "c0db84e537e5",
+    "group": "Non-EFA BIFT windows",
+    "label": "AA_052026_bift_window_167_188 input I(q)",
+    "sample": "AA_052026",
+    "basis": "Independent q Gaussian perturbations of exported I(q)",
+    "methods": {
+      "conventional": {
+        "supported": true,
+        "Rg": 32.08972908449795,
+        "I0": 4.55484221873961,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.12397226049078448,
+            0.008558859356639251
+          ],
+          [
+            0.008558859356639251,
+            0.0006804220397656296
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.034
+        ]
+      },
+      "extended": {
+        "supported": true,
+        "Rg": 31.713871943406474,
+        "I0": 4.4730640638764,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.011576124173712789,
+            0.0014591437926802157
+          ],
+          [
+            0.0014591437926802157,
+            0.00020897147340626754
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.06200000000000001
+        ]
+      }
+    }
+  },
+  {
+    "id": "results_comparison__curves__AA_052026_bift_window_169_186_Iq",
+    "key": "955ec3ea94fe",
+    "group": "Non-EFA BIFT windows",
+    "label": "AA_052026_bift_window_169_186 input I(q)",
+    "sample": "AA_052026",
+    "basis": "Independent q Gaussian perturbations of exported I(q)",
+    "methods": {
+      "conventional": {
+        "supported": true,
+        "Rg": 32.08621568953846,
+        "I0": 4.880807228801505,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.11907686777676679,
+            0.009650150805942082
+          ],
+          [
+            0.009650150805942082,
+            0.0008579605243282307
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.034
+        ]
+      },
+      "extended": {
+        "supported": true,
+        "Rg": 31.736989307638723,
+        "I0": 4.793409963862321,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.0106316045737346,
+            0.0013628924329455246
+          ],
+          [
+            0.0013628924329455246,
+            0.00020685774445003787
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.06200000000000001
+        ]
+      }
+    }
+  },
+  {
+    "id": "results_comparison__curves__AA_052026_bift_window_169_190_Iq",
+    "key": "6a624ded9c3b",
+    "group": "Non-EFA BIFT windows",
+    "label": "AA_052026_bift_window_169_190 input I(q)",
+    "sample": "AA_052026",
+    "basis": "Independent q Gaussian perturbations of exported I(q)",
+    "methods": {
+      "conventional": {
+        "supported": true,
+        "Rg": 32.005758866132446,
+        "I0": 4.557852930076865,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.1085806096719734,
+            0.007863928486914867
+          ],
+          [
+            0.007863928486914867,
+            0.0006330651482352969
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.034
+        ]
+      },
+      "extended": {
+        "supported": true,
+        "Rg": 31.693459134926226,
+        "I0": 4.477956870075207,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.0103308505941669,
+            0.0011802621921733441
+          ],
+          [
+            0.0011802621921733441,
+            0.00016032781219251505
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.06200000000000001
+        ]
+      }
+    }
+  },
+  {
+    "id": "results_comparison__curves__AA_052026_bift_window_171_188_Iq",
+    "key": "c62340371d87",
+    "group": "Non-EFA BIFT windows",
+    "label": "AA_052026_bift_window_171_188 input I(q)",
+    "sample": "AA_052026",
+    "basis": "Independent q Gaussian perturbations of exported I(q)",
+    "methods": {
+      "conventional": {
+        "supported": true,
+        "Rg": 31.999222829121194,
+        "I0": 4.838112623341298,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.11103719820584114,
+            0.008230217212357982
+          ],
+          [
+            0.008230217212357982,
+            0.0006961962225834713
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.034
+        ]
+      },
+      "extended": {
+        "supported": true,
+        "Rg": 31.773398014839472,
+        "I0": 4.760414354456994,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.010630743488185613,
+            0.0013528960633601998
+          ],
+          [
+            0.0013528960633601998,
+            0.0002039901674464732
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.06200000000000001
+        ]
+      }
+    }
+  },
+  {
+    "id": "results_comparison__curves__WT_092025_bift_window_157_175_Iq",
+    "key": "589aa828c32b",
+    "group": "Non-EFA BIFT windows",
+    "label": "WT_092025_bift_window_157_175 input I(q)",
+    "sample": "WT_092025",
+    "basis": "Independent q Gaussian perturbations of exported I(q)",
+    "methods": {
+      "conventional": {
+        "supported": true,
+        "Rg": 25.504037658869493,
+        "I0": 1.590536131642215,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.20793269035284834,
+            0.005569129282678015
+          ],
+          [
+            0.005569129282678015,
+            0.00017505215717572765
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.041999999999999996
+        ]
+      },
+      "extended": {
+        "supported": true,
+        "Rg": 26.016460808214564,
+        "I0": 1.5864527545219154,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.021900103362039354,
+            0.0009929651781329363
+          ],
+          [
+            0.0009929651781329363,
+            5.8171647829638224e-05
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.07600000000000003
+        ]
+      }
+    }
+  },
+  {
+    "id": "results_comparison__curves__WT_092025_bift_window_159_173_Iq",
+    "key": "538f72643449",
+    "group": "Non-EFA BIFT windows",
+    "label": "WT_092025_bift_window_159_173 input I(q)",
+    "sample": "WT_092025",
+    "basis": "Independent q Gaussian perturbations of exported I(q)",
+    "methods": {
+      "conventional": {
+        "supported": true,
+        "Rg": 25.575439284298184,
+        "I0": 1.717650539166739,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.16918908988858974,
+            0.004954839691319197
+          ],
+          [
+            0.004954839691319197,
+            0.00018128333549164292
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.043
+        ]
+      },
+      "extended": {
+        "supported": true,
+        "Rg": 26.009428454514698,
+        "I0": 1.7119929334316069,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.02128785082584654,
+            0.0011732177675905467
+          ],
+          [
+            0.0011732177675905467,
+            8.090799521204525e-05
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.07600000000000003
+        ]
+      }
+    }
+  },
+  {
+    "id": "results_comparison__curves__WT_092025_bift_window_159_177_Iq",
+    "key": "b41bcdd121cd",
+    "group": "Non-EFA BIFT windows",
+    "label": "WT_092025_bift_window_159_177 input I(q)",
+    "sample": "WT_092025",
+    "basis": "Independent q Gaussian perturbations of exported I(q)",
+    "methods": {
+      "conventional": {
+        "supported": true,
+        "Rg": 25.568674293345214,
+        "I0": 1.5940136588233842,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.15493621920432843,
+            0.004220596119844034
+          ],
+          [
+            0.004220596119844034,
+            0.00014576280802253266
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.043
+        ]
+      },
+      "extended": {
+        "supported": true,
+        "Rg": 25.99945763748893,
+        "I0": 1.588561683549056,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.022954078647988433,
+            0.0011250963890529098
+          ],
+          [
+            0.0011250963890529098,
+            6.945897436470385e-05
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.07600000000000003
+        ]
+      }
+    }
+  },
+  {
+    "id": "results_comparison__curves__WT_092025_bift_window_161_175_Iq",
+    "key": "323390a2fb6e",
+    "group": "Non-EFA BIFT windows",
+    "label": "WT_092025_bift_window_161_175 input I(q)",
+    "sample": "WT_092025",
+    "basis": "Independent q Gaussian perturbations of exported I(q)",
+    "methods": {
+      "conventional": {
+        "supported": true,
+        "Rg": 25.55404470961663,
+        "I0": 1.697768250811459,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.16465472732235797,
+            0.004682195119170653
+          ],
+          [
+            0.004682195119170653,
+            0.00016791789368846084
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.043
+        ]
+      },
+      "extended": {
+        "supported": true,
+        "Rg": 25.890639879753916,
+        "I0": 1.6891969972405805,
+        "valid_draws": 200,
+        "normalization_covariance": [
+          [
+            0.021744793765251673,
+            0.0011326499960777683
+          ],
+          [
+            0.0011326499960777683,
+            7.543878858722226e-05
+          ]
+        ],
+        "fit_qrange": [
+          0.012,
+          0.07600000000000003
+        ]
+      }
+    }
+  }
+]

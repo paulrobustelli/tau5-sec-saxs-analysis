@@ -1,0 +1,6 @@
+{
+  "curves": 81,
+  "scale_invariance_pass": true,
+  "raw_error_propagation_pass": true,
+  "uncertainty": "Pointwise conditional intervals; each perturbed curve refits Rg and I0 jointly; fixed-x interpolation propagates horizontal scaling; no extrapolation"
+}
