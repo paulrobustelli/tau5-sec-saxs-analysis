@@ -1,5 +1,16 @@
 # Tau-5* SEC-SAXS: reproduction, window selection and EFA
 
+## Latest figures and fits
+
+- **[Extended Guinier fits — executed notebook 05](extended_guinier/05_extended_Guinier.ipynb)**
+- **[WT shoulder I(q), all components, and direct-window comparisons — notebook 06](06_windows_and_component_Iq.ipynb)**
+- [Extended-fit figure](extended_guinier/extended_fits.png)
+- [STARLING Rg histograms and means](starling/README.md)
+
+Provenance clarification: both HDF5 files contain identical input and subtracted groups for all 450 frames. S_ filenames and near-zero backgrounds suggest prior subtraction, but empty processing histories do not document where or how it was done. No separately identifiable original sample/buffer export was found. [Audit and direct-window results](AA_window_comparison/README.md).
+
+
+
 Extended Guinier fits (Zheng & Best) for all six component/average curves: [executed notebook 05](extended_guinier/05_extended_Guinier.ipynb) and [method/results](extended_guinier/README.md). [STARLING input sequences](background/Tau5_STARLING_sequences.fasta).
 
 **Latest update (22 September):** actual EFA component curves and an executed audit are now in [04_EFA_component_Iq.ipynb](04_EFA_component_Iq.ipynb) and [COMPONENT_RESULTS.md](COMPONENT_RESULTS.md). WT has a distinguishable shoulder/main separation; AA purification is not established. The earlier [CHECKPOINT.md](CHECKPOINT.md) is retained as historical context.
@@ -37,7 +48,7 @@ python3 -m venv .venv
 
 `execute_notebooks.py` locates the project-local kernel automatically. To browse interactively, open the notebooks in Jupyter or VS Code and select this environment. `analysis/build_*notebook*.py` regenerates notebook sources and clears outputs; use only when intentionally rebuilding, then execute again.
 
-The package contains all source-repository files, the supplied context documents, results, code and the minimal unchanged BioXTAS RAW modules needed for BIFT. Environments, caches and duplicate Git history are omitted. The full upstream RAW checkout remains in the Desktop working folder. The original two requested HDF5 series are already facility-subtracted; no second subtraction of the original facility buffer is performed. Residual background models are explicit. q is interpreted in Å⁻¹ from the source notebooks; the HDF5 unit field is blank.
+The package contains all source-repository files, the supplied context documents, results, code and the minimal unchanged BioXTAS RAW modules needed for BIFT. Environments, caches and duplicate Git history are omitted. The full upstream RAW checkout remains in the Desktop working folder. The original two HDF5 series appear previously subtracted, but upstream subtraction provenance is not established; see the audit above. Residual background models are explicit. q is interpreted in Å⁻¹ from the source notebooks; the HDF5 unit field is blank.
 
 ## Provenance and licenses
 
