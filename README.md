@@ -1,5 +1,16 @@
 # Tau-5* SEC-SAXS: reproduction, window selection and EFA
 
+## Start here: all-curve results comparison
+
+**[07_results_comparison.ipynb](07_results_comparison.ipynb)** reads 81 exported I(q) curves, reruns conventional and Zheng–Best extended Guinier fits, and propagates conditional uncertainties. It begins with the leading-edge test, then shows each I(q) before its fit comparison and residuals. The table includes extended fits over both the conventional range and the wider qRg≤2 range.
+
+- AA least-overlapped five-frame leading window: **165–169**, estimated other contribution ≤1.23% under the fiducial EFA model.
+- WT least-overlapped five-frame leading window: **161–165**, estimated other contribution up to10.04%; no five-frame leading interval passes the descriptive5% rule.
+- These are model-based overlap estimates, not purity measurements. Windows were chosen without optimizing Rg.
+- Paired window comparisons preserve shared-baseline and overlapping-frame covariance. Existing paired EFA perturbations are refitted. Model/baseline sensitivity remains separate from conditional confidence intervals.
+- Notebooks01–06 now include adjacent I(q)/conventional/extended comparisons. Notebook07 is fully executed; new self-contained comparison cells in earlier notebooks were executed while retaining their original EFA/BIFT outputs.
+- [Curve registry and uncertainty assumptions](results_comparison/README.md).
+
 ## Latest figures and fits
 
 - **[Extended Guinier fits — executed notebook 05](extended_guinier/05_extended_Guinier.ipynb)**
@@ -21,7 +32,7 @@ Start with the **executed notebooks, in order**:
 2. `02_windows_profiles_and_EFA.ipynb` recomputes candidate averaging windows, Guinier and Bayesian P(r) fits, and clean-region EFA/noise checks. It includes the poster-style I(q), P(r), Guinier/residual and SEC plots.
 3. `03_report_EFA_sensitivity.ipynb` reconstructs the settings in the supplied RAW reports and checks the proposed four-WT/three-AA component rotations against q-range changes. This is not an exact recreation of the unavailable RAW sessions.
 
-All code cells have been run in fresh Python kernels. The original source notebooks remain unchanged in `BNL_SAXS/`; they are references, not the executed notebooks created here. Original RAW GUI/ATSAS dependencies are not required for the new notebooks.
+Original code cells were run in fresh Python kernels. Added comparison cells were executed independently against the newly computed notebook07 results. The original source notebooks remain unchanged in `BNL_SAXS/`; they are references, not the executed notebooks created here. Original RAW GUI/ATSAS dependencies are not required for the new notebooks.
 
 ## Main interpretation
 
