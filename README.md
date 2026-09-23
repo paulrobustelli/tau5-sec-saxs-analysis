@@ -1,3 +1,7 @@
+## Updated figure format and uncertainties
+
+[Paper Figures.ipynb](Paper%20Figures.ipynb) now opens with Natalie-style log–log I(q) to0.6Å⁻¹, blue/orange colors, paired conventional/extended Guinier with transparent out-of-range points, visible error bars, Rg±SE, and P(r)/Kratky/EFA uncertainty displays. A qmax sensitivity test shows WT P(r) Rg26.91→26.78Å and AA35.46→33.08Å from qmax0.25→0.6Å⁻¹. The original baseline and low-q fit limits are unchanged. [New figures and numerical uncertainties](paper_figures/natalie_style/).
+
 ## Paper Figures — WT/AA comparison and buffer-dependent EFA
 
 [Paper Figures.ipynb](Paper%20Figures.ipynb) is the executed presentation notebook: documented frame selection, I(q), conventional/extended Guinier, P(r), normalized and dimensionless Kratky, and a minimal WT shoulder/main decomposition. It includes matched baseline alternatives, conditional error propagation, EFA rank/noise controls and P(r) sensitivity. The shoulder is not assigned a multimer identity. [Exports and interpretation](paper_figures/README.md).

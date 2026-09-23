@@ -33,7 +33,7 @@ def control_figures():
   ax[k,0].set(xlabel='r (Å)',ylabel='Normalized P(r)',title=sample[:2]+' baseline / Dmax sensitivity');ax[k,0].legend(fontsize=7)
   for r in rows:
    if r['sample']!=sample or r['kind'] not in ['chosen','leading','apex','trailing','previous']:continue
-   p=np.load(OUT/(r['key']+'_Pr.npz'));area=np.trapezoid(p['p'],p['r']);ax[k,1].plot(p['r'],p['p']/area,label=r['kind'])
+   p=np.load(OUT/(r['key']+'_Pr.npz'));area=np.trapezoid(p['p'],p['r']);ax[k,1].plot(p['r'],p['p']/area,label=r['kind']);ax[k,1].fill_between(p['r'],(p['p']-p['error'])/area,(p['p']+p['error'])/area,alpha=.18)
   ax[k,1].set(xlabel='r (Å)',ylabel='Normalized P(r)',title='Fixed primary buffer: frame-window comparison');ax[k,1].legend(fontsize=7)
  emit(fig,'05_Pr_controls')
  # Full-frame baseline overview with the anchors used in the primary figure.
@@ -59,6 +59,6 @@ def window_kratky():
  for k,sample in enumerate(SPECS):
   for r in rows:
    if r['sample']!=sample or r['kind'] not in ['chosen','leading','apex','trailing','previous']:continue
-   q,y,e=np.loadtxt(OUT/(r['key']+'.dat')).T;m=(q>=.012)&(q<=.25);f=r['extended'];ax[k,0].plot(q[m],q[m]**2*y[m]/f['I0'],'.-',ms=2,lw=.7,label=r['kind']);ax[k,1].plot(q[m]*f['Rg'],(q[m]*f['Rg'])**2*y[m]/f['I0'],'.-',ms=2,lw=.7,label=r['kind'])
+   q,y,e=np.loadtxt(OUT/(r['key']+'.dat')).T;m=(q>=.012)&(q<=.25);f=r['extended'];ax[k,0].errorbar(q[m],q[m]**2*y[m]/f['I0'],q[m]**2*e[m]/f['I0'],fmt='.-',ms=2,lw=.7,capsize=2,label=r['kind']);ax[k,1].errorbar(q[m]*f['Rg'],(q[m]*f['Rg'])**2*y[m]/f['I0'],(q[m]*f['Rg'])**2*e[m]/f['I0'],fmt='.-',ms=2,lw=.7,capsize=2,label=r['kind'])
   ax[k,0].set(xlabel='q (Å⁻¹)',ylabel='q² I / I0 (Å⁻²)',title=sample[:2]+' window Kratky comparison');ax[k,1].set(xlabel='q Rg',ylabel='(q Rg)² I / I0',title='Dimensionless Kratky');ax[k,0].legend(fontsize=8)
  emit(fig,'08_window_Kratky')

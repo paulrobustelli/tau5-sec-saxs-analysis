@@ -14,7 +14,7 @@ sys.path.insert(0,str(ROOT/'bioxtasraw-source'))
 from bioxtasraw import BIFT
 OUT=ROOT/'paper_figures';OUT.mkdir(exist_ok=True)
 MODELS={'early25':(25,35),'early60':(60,70),'early47':(24,70),'post11':(210,220),'post17':(220,236)}
-COLORS={'WT_092025':'#2563a6','AA_052026':'#d55e00'}
+COLORS={'WT_092025':'tab:blue','AA_052026':'tab:orange'}
 
 def save(obj,name):
  (OUT/name).write_text(json.dumps(obj,indent=2,default=lambda x:x.item() if isinstance(x,np.generic) else x.tolist()))
@@ -132,8 +132,8 @@ def figures():
   ax[0,0].errorbar(q[m],y[m]/f['I0'],e[m]/f['I0'],fmt='.',ms=3,elinewidth=.5,color=color,label=sample[:2]);ax[0,0].set(yscale='log',xlabel='q (Å⁻¹)',ylabel='I(q) / I(0)',title='A  Measured scattering')
   qq=q[(q>=.012)&(q<=.055)];yy=y[(q>=.012)&(q<=.055)];ee=e[(q>=.012)&(q<=.055)]
   ax[0,1].errorbar(qq**2,np.log(yy/f['I0']),ee/yy,fmt='.',ms=3,elinewidth=.5,color=color)
-  ax[0,1].plot(qq**2,np.log(shape(qq,f['nu'])),color=color,label=f"{sample[:2]} extended {f['Rg']:.2f} Å")
-  mm=(q>=g['qmin'])&(q<=g['qmax']);ax[0,1].plot(q[mm]**2,np.log(g['I0']/f['I0'])-q[mm]**2*g['Rg']**2/3,'--',color=color,label=f"{sample[:2]} Guinier {g['Rg']:.2f} Å")
+  ax[0,1].plot(qq**2,np.log(shape(qq,f['nu'])),color=color,label=f"{sample[:2]} extended {f['Rg']:.2f} ± {f['Rg_conditional_se']:.2f} Å")
+  mm=(q>=g['qmin'])&(q<=g['qmax']);ax[0,1].plot(q[mm]**2,np.log(g['I0']/f['I0'])-q[mm]**2*g['Rg']**2/3,'--',color=color,label=f"{sample[:2]} Guinier {g['Rg']:.2f} ± {g['Rg_conditional_se']:.2f} Å")
   ax[0,1].set(xlabel='q² (Å⁻²)',ylabel='ln[I(q) / I(0)]',title='B  Conventional and extended Guinier')
   ax[1,0].errorbar(q[m],q[m]**2*y[m]/f['I0'],q[m]**2*e[m]/f['I0'],fmt='.',ms=3,elinewidth=.5,color=color);ax[1,0].set(xlabel='q (Å⁻¹)',ylabel='q² I(q) / I(0) (Å⁻²)',title='D  Normalized Kratky')
   ax[1,1].errorbar(q[m]*f['Rg'],(q[m]*f['Rg'])**2*y[m]/f['I0'],(q[m]*f['Rg'])**2*e[m]/f['I0'],fmt='.',ms=3,elinewidth=.5,color=color);ax[1,1].set(xlabel='q Rg',ylabel='(q Rg)² I(q) / I(0)',title='E  Dimensionless Kratky')
