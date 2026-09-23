@@ -1,0 +1,16 @@
+{
+  "WT": {
+    "threshold": 0.06170622631907463,
+    "density_fraction": 0.9,
+    "map": "WT_refined.mrc",
+    "smoothing": "lighting normals only; unchanged density and mesh vertices",
+    "voxel_A": 4.299645900726318
+  },
+  "AA": {
+    "threshold": 0.018618540838360786,
+    "density_fraction": 0.9,
+    "map": "AA_refined.mrc",
+    "smoothing": "lighting normals only; unchanged density and mesh vertices",
+    "voxel_A": 7.814677715301514
+  }
+}
