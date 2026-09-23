@@ -1,0 +1,110 @@
+[
+  {
+    "sample": "WT_092025",
+    "model": "early25",
+    "observed_s2": 60.25477480722178,
+    "rank1_noise_s2_95": 22.78744448677059,
+    "null_exceedances": 0,
+    "n": 60,
+    "note": "Conditional rank-one noise diagnostic; shared-buffer covariance retained; no q covariance or baseline-model uncertainty."
+  },
+  {
+    "sample": "WT_092025",
+    "model": "early60",
+    "observed_s2": 59.35305880049195,
+    "rank1_noise_s2_95": 23.105811779709356,
+    "null_exceedances": 0,
+    "n": 60,
+    "note": "Conditional rank-one noise diagnostic; shared-buffer covariance retained; no q covariance or baseline-model uncertainty."
+  },
+  {
+    "sample": "WT_092025",
+    "model": "early47",
+    "observed_s2": 60.872099002961086,
+    "rank1_noise_s2_95": 18.87297083323895,
+    "null_exceedances": 0,
+    "n": 60,
+    "note": "Conditional rank-one noise diagnostic; shared-buffer covariance retained; no q covariance or baseline-model uncertainty."
+  },
+  {
+    "sample": "WT_092025",
+    "model": "post11",
+    "observed_s2": 49.88884455927302,
+    "rank1_noise_s2_95": 23.812208037970265,
+    "null_exceedances": 0,
+    "n": 60,
+    "note": "Conditional rank-one noise diagnostic; shared-buffer covariance retained; no q covariance or baseline-model uncertainty."
+  },
+  {
+    "sample": "WT_092025",
+    "model": "post17",
+    "observed_s2": 50.297228463772605,
+    "rank1_noise_s2_95": 21.661531883739084,
+    "null_exceedances": 0,
+    "n": 60,
+    "note": "Conditional rank-one noise diagnostic; shared-buffer covariance retained; no q covariance or baseline-model uncertainty."
+  },
+  {
+    "sample": "WT_092025",
+    "model": "linear",
+    "observed_s2": 55.71155368158059,
+    "rank1_noise_s2_95": 19.461786143420728,
+    "null_exceedances": 0,
+    "n": 60,
+    "note": "Conditional rank-one noise diagnostic; shared-buffer covariance retained; no q covariance or baseline-model uncertainty."
+  },
+  {
+    "sample": "AA_052026",
+    "model": "early25",
+    "observed_s2": 17.98992691740626,
+    "rank1_noise_s2_95": 22.9629714631095,
+    "null_exceedances": 60,
+    "n": 60,
+    "note": "Conditional rank-one noise diagnostic; shared-buffer covariance retained; no q covariance or baseline-model uncertainty."
+  },
+  {
+    "sample": "AA_052026",
+    "model": "early60",
+    "observed_s2": 16.755631391219207,
+    "rank1_noise_s2_95": 22.766689021369764,
+    "null_exceedances": 60,
+    "n": 60,
+    "note": "Conditional rank-one noise diagnostic; shared-buffer covariance retained; no q covariance or baseline-model uncertainty."
+  },
+  {
+    "sample": "AA_052026",
+    "model": "early47",
+    "observed_s2": 14.764887611293764,
+    "rank1_noise_s2_95": 18.479013285591616,
+    "null_exceedances": 60,
+    "n": 60,
+    "note": "Conditional rank-one noise diagnostic; shared-buffer covariance retained; no q covariance or baseline-model uncertainty."
+  },
+  {
+    "sample": "AA_052026",
+    "model": "post11",
+    "observed_s2": 16.167620001618193,
+    "rank1_noise_s2_95": 21.96371159937139,
+    "null_exceedances": 60,
+    "n": 60,
+    "note": "Conditional rank-one noise diagnostic; shared-buffer covariance retained; no q covariance or baseline-model uncertainty."
+  },
+  {
+    "sample": "AA_052026",
+    "model": "post17",
+    "observed_s2": 14.807934648401458,
+    "rank1_noise_s2_95": 20.654266378121566,
+    "null_exceedances": 60,
+    "n": 60,
+    "note": "Conditional rank-one noise diagnostic; shared-buffer covariance retained; no q covariance or baseline-model uncertainty."
+  },
+  {
+    "sample": "AA_052026",
+    "model": "linear",
+    "observed_s2": 14.17214271382898,
+    "rank1_noise_s2_95": 18.431066643643234,
+    "null_exceedances": 60,
+    "n": 60,
+    "note": "Conditional rank-one noise diagnostic; shared-buffer covariance retained; no q covariance or baseline-model uncertainty."
+  }
+]

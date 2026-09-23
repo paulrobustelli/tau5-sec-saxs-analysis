@@ -1,0 +1,11 @@
+{
+  "executed_cells": 6,
+  "notebook_errors": 0,
+  "curves_validated": 27,
+  "source_weights_sum_zero": true,
+  "guinier_qRg_limits_pass": true,
+  "source_hashes": {
+    "WT_092025": "a38986295510ecc1ee103098e9fd586a18cd47ec3cb0b95244e1250e116a56e9",
+    "AA_052026": "8950221734ecb403c9e6151fea3f0d975d7528c1d62769108f35d740ad4c73d5"
+  }
+}
