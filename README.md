@@ -1,3 +1,7 @@
+## Paper Figures — WT/AA comparison and buffer-dependent EFA
+
+[Paper Figures.ipynb](Paper%20Figures.ipynb) is the executed presentation notebook: documented frame selection, I(q), conventional/extended Guinier, P(r), normalized and dimensionless Kratky, and a minimal WT shoulder/main decomposition. It includes matched baseline alternatives, conditional error propagation, EFA rank/noise controls and P(r) sensitivity. The shoulder is not assigned a multimer identity. [Exports and interpretation](paper_figures/README.md).
+
 # Tau-5* SEC-SAXS: reproduction, window selection and EFA
 
 ## Buffer-subtraction correction and new controlled test
