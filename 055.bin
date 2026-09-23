@@ -1,0 +1,78 @@
+{
+  "WT": {
+    "grid": [
+      64,
+      64,
+      64
+    ],
+    "box_A": 275.1773376464844,
+    "voxel_A": 4.299645900726318,
+    "surface_density_threshold": 0.021238908171653748,
+    "enclosed_positive_density_fraction": 0.9,
+    "dmax_input_A": 91.7257817,
+    "map_density_Rg_A": 26.42486813448129,
+    "alignment_log": "2026-09-23 14:04:29,528 - BEGIN\n2026-09-23 14:04:29,528 - Command: /Users/f0044gk/Documents/Codex/2026-09-21/i-h/work/denss_runtime/denss/scripts/denss_all.py -f WT.dat -d 91.7257817 -m SLOW -nm 20 -j 4 --plot_off --write_freq 10000 -o WT_denss\n2026-09-23 14:04:29,528 - DENSS Version: 1.8.7\n2026-09-23 14:04:29,528 - Data filename: WT.dat\n2026-09-23 14:04:29,529 - Enantiomer selection: True\n2026-09-23 14:04:29,551 - Starting DENSS runs\n2026-09-23 14:08:08,173 - Finished DENSS runs\n2026-09-23 14:08:08,176 - Average |Rg|.............: 25.366 +- 0.622\n2026-09-23 14:08:08,177 - Average Chi2.............: 1.183e+00 +- 5.708e-01\n2026-09-23 14:08:08,177 - Average Support Volume...: 59424.755 +- 2262.585\n2026-09-23 14:08:08,351 - Generating robust reference\n2026-09-23 14:11:11,786 - Aligning all maps to reference\n2026-09-23 14:11:48,645 - Correlation score to reference: WT_denss/WT_denss_0_aligned.mrc 0.871  \n2026-09-23 14:11:48,651 - Correlation score to reference: WT_denss/WT_denss_1_aligned.mrc 0.840  \n2026-09-23 14:11:48,658 - Correlation score to reference: WT_denss/WT_denss_2_aligned.mrc 0.814  \n2026-09-23 14:11:48,665 - Correlation score to reference: WT_denss/WT_denss_3_aligned.mrc 0.802  \n2026-09-23 14:11:48,671 - Correlation score to reference: WT_denss/WT_denss_4_aligned.mrc 0.819  \n2026-09-23 14:11:48,678 - Correlation score to reference: WT_denss/WT_denss_5_aligned.mrc 0.849  \n2026-09-23 14:11:48,684 - Correlation score to reference: WT_denss/WT_denss_6_aligned.mrc 0.821  \n2026-09-23 14:11:48,691 - Correlation score to reference: WT_denss/WT_denss_7_aligned.mrc 0.763  \n2026-09-23 14:11:48,697 - Correlation score to reference: WT_denss/WT_denss_8_aligned.mrc 0.767  \n2026-09-23 14:11:48,704 - Correlation score to reference: WT_denss/WT_denss_9_aligned.mrc 0.883  \n2026-09-23 14:11:48,710 - Correlation score to reference: WT_denss/WT_denss_10_aligned.mrc 0.811  \n2026-09-23 14:11:48,716 - Correlation score to reference: WT_denss/WT_denss_11_aligned.mrc 0.862  \n2026-09-23 14:11:48,723 - Correlation score to reference: WT_denss/WT_denss_12_aligned.mrc 0.847  \n2026-09-23 14:11:48,730 - Correlation score to reference: WT_denss/WT_denss_13_aligned.mrc 0.857  \n2026-09-23 14:11:48,736 - Correlation score to reference: WT_denss/WT_denss_14_aligned.mrc 0.752  \n2026-09-23 14:11:48,742 - Correlation score to reference: WT_denss/WT_denss_15_aligned.mrc 0.856  \n2026-09-23 14:11:48,749 - Correlation score to reference: WT_denss/WT_denss_16_aligned.mrc 0.871  \n2026-09-23 14:11:48,755 - Correlation score to reference: WT_denss/WT_denss_17_aligned.mrc 0.872  \n2026-09-23 14:11:48,761 - Correlation score to reference: WT_denss/WT_denss_18_aligned.mrc 0.755  \n2026-09-23 14:11:48,767 - Correlation score to reference: WT_denss/WT_denss_19_aligned.mrc 0.858  \n2026-09-23 14:11:48,771 - Mean of correlation scores: 0.828\n2026-09-23 14:11:48,772 - Standard deviation of the scores: 0.041\n2026-09-23 14:11:48,772 - Total number of input maps for alignment: 20\n2026-09-23 14:11:48,772 - Number of aligned maps accepted: 20\n2026-09-23 14:11:48,773 - Correlation score between average and reference: 0.994\n2026-09-23 14:11:48,773 - Mean Density of Avg Map (all voxels): 0.00048\n2026-09-23 14:11:48,774 - Std. Dev. of Density (all voxels): 0.00907\n2026-09-23 14:11:48,774 - RMSD of Density (all voxels): 0.00908\n2026-09-23 14:11:49,099 - Resolution = 20.6 +- 2.6 A\n2026-09-23 14:11:49,099 - END\n",
+    "individual_measured_mean_chi2": [
+      1.44998743498301,
+      1.0308465021617628,
+      0.901046860738245,
+      1.3137387052534086,
+      0.8225086350772419,
+      0.9437663030134892,
+      1.340707239789615,
+      0.8449726526296258,
+      0.7079425665700402,
+      0.8274046650433076,
+      3.2807779602566853,
+      1.2272732731124008,
+      1.457225073223246,
+      0.5642930259572378,
+      1.5423436282642575,
+      1.1469049285762234,
+      1.59294126948049,
+      0.7025148764676675,
+      0.6854710702099146,
+      1.2802688064307617
+    ],
+    "average_measured_mean_chi2": 18.804704726967934,
+    "refined_measured_mean_chi2": 0.6212651703051741
+  },
+  "AA": {
+    "grid": [
+      64,
+      64,
+      64
+    ],
+    "box_A": 500.1393737792969,
+    "voxel_A": 7.814677715301514,
+    "surface_density_threshold": 0.005984716583043337,
+    "enclosed_positive_density_fraction": 0.9,
+    "dmax_input_A": 166.7131223,
+    "map_density_Rg_A": 33.49234434012303,
+    "alignment_log": "2026-09-23 14:04:29,599 - BEGIN\n2026-09-23 14:04:29,599 - Command: /Users/f0044gk/Documents/Codex/2026-09-21/i-h/work/denss_runtime/denss/scripts/denss_all.py -f AA.dat -d 166.7131223 -m SLOW -nm 20 -j 4 --plot_off --write_freq 10000 -o AA_denss\n2026-09-23 14:04:29,599 - DENSS Version: 1.8.7\n2026-09-23 14:04:29,599 - Data filename: AA.dat\n2026-09-23 14:04:29,600 - Enantiomer selection: True\n2026-09-23 14:04:29,627 - Starting DENSS runs\n2026-09-23 14:08:05,813 - Finished DENSS runs\n2026-09-23 14:08:05,816 - Average |Rg|.............: 31.416 +- 0.821\n2026-09-23 14:08:05,816 - Average Chi2.............: 2.423e+00 +- 7.197e-01\n2026-09-23 14:08:05,817 - Average Support Volume...: 158871.865 +- 13322.409\n2026-09-23 14:08:05,996 - Generating robust reference\n2026-09-23 14:11:08,366 - Aligning all maps to reference\n2026-09-23 14:11:44,528 - Correlation score to reference: AA_denss/AA_denss_0_aligned.mrc 0.783  \n2026-09-23 14:11:44,536 - Correlation score to reference: AA_denss/AA_denss_1_aligned.mrc 0.801  \n2026-09-23 14:11:44,543 - Correlation score to reference: AA_denss/AA_denss_2_aligned.mrc 0.751  \n2026-09-23 14:11:44,550 - Correlation score to reference: AA_denss/AA_denss_3_aligned.mrc 0.784  \n2026-09-23 14:11:44,558 - Correlation score to reference: AA_denss/AA_denss_4_aligned.mrc 0.852  \n2026-09-23 14:11:44,565 - Correlation score to reference: AA_denss/AA_denss_5_aligned.mrc 0.767  \n2026-09-23 14:11:44,572 - Correlation score to reference: AA_denss/AA_denss_6_aligned.mrc 0.733  \n2026-09-23 14:11:44,579 - Correlation score to reference: AA_denss/AA_denss_7_aligned.mrc 0.800  \n2026-09-23 14:11:44,587 - Correlation score to reference: AA_denss/AA_denss_8_aligned.mrc 0.833  \n2026-09-23 14:11:44,594 - Correlation score to reference: AA_denss/AA_denss_9_aligned.mrc 0.799  \n2026-09-23 14:11:44,601 - Correlation score to reference: AA_denss/AA_denss_10_aligned.mrc 0.879  \n2026-09-23 14:11:44,609 - Correlation score to reference: AA_denss/AA_denss_11_aligned.mrc 0.745  \n2026-09-23 14:11:44,616 - Correlation score to reference: AA_denss/AA_denss_12_aligned.mrc 0.796  \n2026-09-23 14:11:44,623 - Correlation score to reference: AA_denss/AA_denss_13_aligned.mrc 0.814  \n2026-09-23 14:11:44,630 - Correlation score to reference: AA_denss/AA_denss_14_aligned.mrc 0.745  \n2026-09-23 14:11:44,638 - Correlation score to reference: AA_denss/AA_denss_15_aligned.mrc 0.736  \n2026-09-23 14:11:44,645 - Correlation score to reference: AA_denss/AA_denss_16_aligned.mrc 0.737  \n2026-09-23 14:11:44,652 - Correlation score to reference: AA_denss/AA_denss_17_aligned.mrc 0.834  \n2026-09-23 14:11:44,659 - Correlation score to reference: AA_denss/AA_denss_18_aligned.mrc 0.803  \n2026-09-23 14:11:44,666 - Correlation score to reference: AA_denss/AA_denss_19_aligned.mrc 0.734  \n2026-09-23 14:11:44,670 - Mean of correlation scores: 0.786\n2026-09-23 14:11:44,670 - Standard deviation of the scores: 0.042\n2026-09-23 14:11:44,671 - Total number of input maps for alignment: 20\n2026-09-23 14:11:44,671 - Number of aligned maps accepted: 20\n2026-09-23 14:11:44,672 - Correlation score between average and reference: 0.991\n2026-09-23 14:11:44,673 - Mean Density of Avg Map (all voxels): 0.00008\n2026-09-23 14:11:44,673 - Std. Dev. of Density (all voxels): 0.00252\n2026-09-23 14:11:44,673 - RMSD of Density (all voxels): 0.00252\n2026-09-23 14:11:45,045 - Resolution = 29.3 +- 6.0 A\n2026-09-23 14:11:45,045 - END\n",
+    "individual_measured_mean_chi2": [
+      3.139124627498042,
+      3.8317006457910012,
+      1.0855431950888246,
+      3.5147881903909246,
+      1.5915300075348457,
+      2.512505535389905,
+      2.120954162847949,
+      1.5214641845324908,
+      2.7524393509599063,
+      2.9188807577312246,
+      1.1860587071477222,
+      2.4823593605809338,
+      2.4534025328835725,
+      2.3557896479997384,
+      2.5664010324541553,
+      2.651419285562324,
+      1.6428599764044352,
+      2.7083737699913333,
+      2.236703609588038,
+      3.1889499019207523
+    ],
+    "average_measured_mean_chi2": 885.1121212402608,
+    "refined_measured_mean_chi2": 0.7701612177977675
+  }
+}

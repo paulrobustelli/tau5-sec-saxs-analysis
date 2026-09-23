@@ -1,0 +1,66 @@
+2026-09-23 02:12:32 PM BEGIN
+2026-09-23 02:12:32 PM Command: /Users/f0044gk/Documents/Codex/2026-09-21/i-h/work/denss_runtime/denss/scripts/denss_refine.py -f WT.dat -d 91.7257817 -rho WT_denss/WT_denss_avg.mrc --seed 20260923 --plot_off --write_freq 10000 -o WT_refined
+2026-09-23 02:12:32 PM DENSS Version: 1.8.7
+2026-09-23 02:12:32 PM Data filename: WT.dat
+2026-09-23 02:12:32 PM Output prefix: WT_refined
+2026-09-23 02:12:32 PM Mode: SLOW
+2026-09-23 02:12:32 PM q range of input data: 0.000 < q < 0.735
+2026-09-23 02:12:32 PM Maximum dimension: 91.726
+2026-09-23 02:12:32 PM Sampling ratio: 3.000
+2026-09-23 02:12:32 PM Requested real space voxel size: 4.300
+2026-09-23 02:12:32 PM Number of electrons: 10000.000
+2026-09-23 02:12:32 PM Recenter: False
+2026-09-23 02:12:32 PM Recenter Steps: [501, 1001, 1501, 2001, 2501, 3001, 3501, 4001, 4501, 5001, 5501, 6001, 6501, 7001, 7501, 8001]
+2026-09-23 02:12:32 PM Recenter Mode: com
+2026-09-23 02:12:32 PM NCS: 0
+2026-09-23 02:12:32 PM NCS Type: cyclical
+2026-09-23 02:12:32 PM NCS Steps: [3000, 5000, 7000, 9000]
+2026-09-23 02:12:32 PM NCS Axis: 1
+2026-09-23 02:12:32 PM Positivity: True
+2026-09-23 02:12:32 PM Extrapolate high q: True
+2026-09-23 02:12:32 PM Shrinkwrap: True
+2026-09-23 02:12:32 PM Shrinkwrap Old Method: False
+2026-09-23 02:12:32 PM Shrinkwrap sigma start (angstroms): 12.898938051562501
+2026-09-23 02:12:32 PM Shrinkwrap sigma end (angstroms): 6.449469025781251
+2026-09-23 02:12:32 PM Shrinkwrap sigma start (voxels): 3.0
+2026-09-23 02:12:32 PM Shrinkwrap sigma end (voxels): 1.5
+2026-09-23 02:12:32 PM Shrinkwrap sigma decay: 0.99
+2026-09-23 02:12:32 PM Shrinkwrap threshold fraction: 0.2
+2026-09-23 02:12:32 PM Shrinkwrap iterations: 20
+2026-09-23 02:12:32 PM Shrinkwrap starting step: 0
+2026-09-23 02:12:32 PM Enforce connectivity: True
+2026-09-23 02:12:32 PM Enforce connectivity steps: [1000]
+2026-09-23 02:12:32 PM Chi2 end fraction: 1.000e-03
+2026-09-23 02:12:32 PM Maximum number of steps: 10000
+2026-09-23 02:12:32 PM Grid size (voxels): 64 x 64 x 64
+2026-09-23 02:12:32 PM Real space box width (angstroms): 275.177
+2026-09-23 02:12:32 PM Real space box range (angstroms): -137.589 < x < 133.289
+2026-09-23 02:12:32 PM Real space box volume (angstroms^3): 20837136.122
+2026-09-23 02:12:32 PM Real space voxel size (angstroms): 4.300
+2026-09-23 02:12:32 PM Real space voxel volume (angstroms^3): 79.487
+2026-09-23 02:12:32 PM Reciprocal space box width (angstroms^(-1)): 1.438
+2026-09-23 02:12:32 PM Reciprocal space box range (angstroms^(-1)): -0.731 < qx < 0.708
+2026-09-23 02:12:32 PM Maximum q vector (diagonal) (angstroms^(-1)): 1.266
+2026-09-23 02:12:32 PM Number of q shells: 55
+2026-09-23 02:12:32 PM Width of q shells (angstroms^(-1)): 0.023
+2026-09-23 02:12:32 PM Random seed: 20260923
+2026-09-23 02:12:32 PM Step     0:  1.84e+01 26.95        20837136          
+2026-09-23 02:12:34 PM Step   500:  5.84e-01 29.83        831040          
+2026-09-23 02:12:35 PM Step  1000:  1.61e+00 24.89        74638          
+2026-09-23 02:12:36 PM Step  1500:  2.03e+00 24.63        57469          
+2026-09-23 02:12:37 PM Step  2000:  1.53e+00 24.87        58900          
+2026-09-23 02:12:38 PM Step  2500:  1.41e+00 24.95        59536          
+2026-09-23 02:12:39 PM Step  3000:  1.35e+00 25.00        60012          
+2026-09-23 02:12:40 PM Step  3500:  1.31e+00 25.03        60171          
+2026-09-23 02:12:41 PM Step  4000:  1.27e+00 25.06        60330          
+2026-09-23 02:12:42 PM Step  4500:  1.25e+00 25.09        60569          
+2026-09-23 02:12:43 PM Step  5000:  1.22e+00 25.12        60887          
+2026-09-23 02:12:44 PM FINISHED DENSITY REFINEMENT
+2026-09-23 02:12:44 PM Number of steps: 5202
+2026-09-23 02:12:44 PM Final Chi2: 1.213e+00
+2026-09-23 02:12:44 PM Final Rg: 25.124
+2026-09-23 02:12:44 PM Final Support Volume: 60887.323
+2026-09-23 02:12:44 PM Mean Density (all voxels): 0.00048
+2026-09-23 02:12:44 PM Std. Dev. of Density (all voxels): 0.01287
+2026-09-23 02:12:44 PM RMSD of Density (all voxels): 0.01288
+2026-09-23 02:12:44 PM END
