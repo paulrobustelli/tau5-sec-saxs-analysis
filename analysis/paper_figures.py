@@ -14,7 +14,7 @@ sys.path.insert(0,str(ROOT/'bioxtasraw-source'))
 from bioxtasraw import BIFT
 OUT=ROOT/'paper_figures';OUT.mkdir(exist_ok=True)
 MODELS={'early25':(25,35),'early60':(60,70),'early47':(24,70),'post11':(210,220),'post17':(220,236)}
-COLORS={'WT_092025':'tab:blue','AA_052026':'tab:orange'}
+COLORS={'WT_092025':'navy','AA_052026':'orangered'}
 
 def save(obj,name):
  (OUT/name).write_text(json.dumps(obj,indent=2,default=lambda x:x.item() if isinstance(x,np.generic) else x.tolist()))

@@ -2,7 +2,7 @@
 from paper_figures import *
 from IPython.display import display,Markdown
 STYLE=OUT/'natalie_style';STYLE.mkdir(exist_ok=True)
-COL={'WT_092025':'tab:blue','AA_052026':'tab:orange'}
+COL={'WT_092025':'navy','AA_052026':'orangered'}
 def output(fig,name):
  fig.tight_layout();fig.savefig(STYLE/(name+'.png'),dpi=180);fig.savefig(STYLE/(name+'.pdf'));plt.close(fig)
 def calculate():
@@ -80,7 +80,7 @@ def efa_bands():
 def efa_plot():
  if not (STYLE/'WT_elution95.npz').exists():efa_bands()
  b=np.load(STYLE/'WT_elution95.npz');d=np.load(OUT/'WT_092025_post17_efa.npz');fig,ax=plt.subplots(1,2,figsize=(12,4))
- for j,(kind,label,color) in enumerate([('EFA_shoulder_or_other','Early shoulder','grey'),('EFA_main','Main component','tab:blue')]):
+ for j,(kind,label,color) in enumerate([('EFA_shoulder_or_other','Early shoulder','grey'),('EFA_main','Main component','navy')]):
   q,y,e=np.loadtxt(OUT/f'WT_092025_{kind}.dat').T;m=(q>=.006)&(q<=.25);ax[0].errorbar(q[m],y[m],e[m],fmt='.',ms=3,capsize=2,color=color,label=label);ax[0].fill_between(q[m],y[m]-e[m],y[m]+e[m],color=color,alpha=.2)
   ax[1].plot(d['frames'],d['C'][:,j]/d['C'][:,j].max(),color=color,label=label);ax[1].fill_between(b['frames'],b['interval'][0,:,j],b['interval'][1,:,j],color=color,alpha=.25)
  ax[0].set_yscale('symlog',linthresh=.003);ax[0].set(xlabel='q (Å⁻¹)',ylabel='Component contribution I(q)',title='WT EFA curves ±1σ');ax[1].set(xlabel='Frame',ylabel='Elution / own maximum',title='WT EFA — conditional95% bands')
