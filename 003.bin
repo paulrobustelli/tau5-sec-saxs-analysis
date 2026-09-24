@@ -1,0 +1,33 @@
+{
+  "EOM": {
+    "WT": {
+      "project": "WT120EOM",
+      "url": "https://www.embl-hamburg.de/biosaxs/atsas-online/eom.php?project=WT120EOM",
+      "status": "submission confirmed; results pending"
+    },
+    "AA": {
+      "project": "AA120EOM",
+      "url": "https://www.embl-hamburg.de/biosaxs/atsas-online/eom.php?project=AA120EOM",
+      "status": "submission confirmed; results pending"
+    },
+    "settings": {
+      "residues": 120,
+      "chain": "A",
+      "type": "disordered",
+      "pool_size": 10000,
+      "keep_models": true,
+      "maximum_q": 0.6,
+      "calculated_points": 601,
+      "harmonics": 70,
+      "generations": 1000,
+      "ensembles": 50,
+      "fixed_ensemble_size": 50,
+      "curve_repetition": false,
+      "fit_background_constant": false
+    }
+  },
+  "DAMMIF": {
+    "status": "not submitted",
+    "blocker": "Requires GNOM .out; no local ATSAS executables; official macOS installer browser download did not complete."
+  }
+}
