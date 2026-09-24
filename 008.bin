@@ -1,0 +1,18 @@
+WARNING: The directory '/Users/f0044gk/Library/Caches/pip' or its parent directory is not owned or is not writable by the current user. The cache has been disabled. Check the permissions and owner of that directory. If executing pip with sudo, you should use sudo's -H flag.
+Processing ./work/denss_source/denss-1.8.7.tar.gz
+  File was already downloaded /Users/f0044gk/Documents/Codex/2026-09-21/i-h/work/denss_source/denss-1.8.7.tar.gz
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Building wheels for collected packages: denss
+  Building wheel for denss (pyproject.toml): started
+  Building wheel for denss (pyproject.toml): finished with status 'done'
+  Created wheel for denss: filename=denss-1.8.7-py3-none-any.whl size=410177 sha256=8c5c1ee341f7c91df218251f6e685cad423fb1d30bbc07ea4ef1ee85c3fab0ae
+  Stored in directory: /private/var/folders/zm/62hvy99n2d3_c1tvvs4hmr180000gp/T/pip-ephem-wheel-cache-ee_kx1pw/wheels/6b/6a/02/915b6fc46a6429e02e813e88e2590859f2451a4e8ec085cba2
+Successfully built denss
+
+[notice] A new release of pip is available: 25.0.1 -> 26.2.1
+[notice] To update, run: /Users/f0044gk/Desktop/SAXS/.venv/bin/python -m pip install --upgrade pip
