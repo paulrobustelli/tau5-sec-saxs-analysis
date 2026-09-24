@@ -1,0 +1,47 @@
+{
+  "converged": true,
+  "iterations": 74,
+  "supports": [
+    [
+      120,
+      175
+    ],
+    [
+      140,
+      205
+    ]
+  ],
+  "q": [
+    0.012,
+    0.25
+  ],
+  "singular_values": [
+    775.0966502829863,
+    50.297228463772605,
+    16.243784209390313,
+    15.775472631659389
+  ],
+  "residual_ms": 0.8351335709614787,
+  "rank1_residual_ms": 1.014477931586871,
+  "condition": 1.3642911880960649,
+  "peaks": [
+    140,
+    167
+  ],
+  "negative_fraction": [
+    0.010752688172043012,
+    0.0
+  ],
+  "bootstrap_success": 200,
+  "bootstrap_attempts": 200,
+  "buffer": [
+    220,
+    236
+  ],
+  "component_order": [
+    "oligomer_candidate",
+    "monomer"
+  ],
+  "noise_handling": "Rank-two signal reconstruction; remaining modes stay in the residual, not displayed as species.",
+  "normalization": "Each component concentration profile has maximum 1; profiles are not molecular concentrations."
+}

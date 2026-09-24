@@ -1,0 +1,11 @@
+**Figure S: WT SEC–SAXS component separation.** (A) EFA-guided rank-two rotation resolves the main peak and early-eluting oligomer candidate. The component amplitudes are independently normalized to their maxima; shaded bands are conditional 95% intervals from 200 parametric bootstrap repetitions. (B) Extracted scattering profiles at each component’s peak, with ±1σ errors from refitting the decomposition. Signed points are retained using a symmetric logarithmic intensity axis. (C–F) Conventional and extended Guinier fits, with intensity-space standardized residuals below each fit. Faint points were excluded from regression.
+
+WT buffer frames 220–236 were subtracted from the analysis region 120–205 (zero-based, inclusive). Temporal supports were fixed at 120–175 and 140–205. Higher modes are left in the reconstruction residual and are not displayed as species; this is a rank-two model, not a rank-three fit with a hidden third component. No profile was smoothed.
+
+Main-component fits start at q=0.012 Å⁻¹. Early-component fits start at 0.015 Å⁻¹ to exclude its low-q upturn; this choice is explicit and the qmin sensitivity is tabulated below. Each fit uses the widest eligible range satisfying qmax Rg≤1.1 for conventional or ≤2 for extended Guinier, with the existing minimum-point and signal screens. Intervals refit each bootstrap profile at the selected fixed range, preserving q-correlations induced by buffer subtraction and decomposition. They exclude baseline/support/model uncertainty.
+
+The extended model is Zheng & Best (2018), equations 5–6, with the supplied 120-residue sequence. Its application to the early component is diagnostic: a multichain oligomer is not a single chain of 120 residues. Neither this fit nor EFA assigns oligomer stoichiometry. “Monomer” denotes the main-peak working interpretation.
+
+Compared with earlier exports, component intensities here are scaled to their own peak rather than their small contribution in the monomer averaging window. Uncertainties were recalculated after this normalization. Extended fits use the admissible range out to qRg≈2 rather than the earlier fixed qmax≈0.055 Å⁻¹; that accounts for the modest main-component Rg difference.
+
+Reference: https://pmc.ncbi.nlm.nih.gov/articles/PMC6093220/
