@@ -1,6 +1,6 @@
-# DAMMIF and EOM — prepared, awaiting ATSAS access
+# DAMMIF and EOM — EOM submitted
 
-No DAMMIF or EOM jobs have been submitted yet. Local ATSAS executables were not found; official ATSAS online requires account sign-in.
+WT120EOM and AA120EOM submissions were confirmed by ATSAS online. Results are pending. DAMMIF is not yet submitted: GNOM preprocessing requires local ATSAS, and the official macOS browser download stalled. See submission_status.json.
 
 Inputs are the final WT/AA frame-averaged curves, with original propagated errors. WT uses buffer frames 220–236 and averaging frames 162–178; AA uses buffer 24–70 and averaging frames 168–188. Frame numbering is zero-based, inclusive. The supplied WT construct has 120 residues including the initial GP; the AA sequence replaces the two tryptophans with alanines. See inputs/manifest.json.
 

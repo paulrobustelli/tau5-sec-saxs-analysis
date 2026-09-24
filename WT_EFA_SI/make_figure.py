@@ -32,8 +32,8 @@ for row,j in enumerate([1,0],1):
   for b in a['bootstrap_S'][:,:,j]:
    ff=conventional(q,b,e,f['qmin'],f['qmax']) if col==0 else fit(q[inside],b[inside],e[inside],120)
    if ff and (col==0 or not ff['boundary']):vals.append(ff['Rg'])
-  ci=np.percentile(vals,[2.5,97.5]);f['bootstrap95']=ci.tolist();f['bootstrap_valid']=len(vals)
-  top.text(.98,.97,f"Rg = {f['Rg']:.1f} Å\n95% interval: {ci[0]:.1f}–{ci[1]:.1f} Å\nqRg max = {f['qRgmax']:.2f}",ha='right',va='top',transform=top.transAxes,fontsize=9,bbox=dict(facecolor='white',edgecolor='none',alpha=.8))
+  ci=np.percentile(vals,[2.5,97.5]);f['bootstrap95']=ci.tolist();f['bootstrap_valid']=len(vals);f['bootstrap_mean_Rg']=float(np.mean(vals));f['bootstrap_sd_Rg']=float(np.std(vals,ddof=1))
+  top.text(.98,.97,f"Rg = {f['bootstrap_mean_Rg']:.1f} ± {f['bootstrap_sd_Rg']:.1f} Å\nMean ± bootstrap SD (1σ)\nqRg max = {f['qRgmax']:.2f}",ha='right',va='top',transform=top.transAxes,fontsize=9,bbox=dict(facecolor='white',edgecolor='none',alpha=.8))
   label='CDEF'[(row-1)*2+col];title=f'{label}  {names[j]} — {typ}'
   if j==0 and col==1:title+='*'
   top.set(title=title,ylabel='ln I(q)');top.tick_params(labelbottom=False)

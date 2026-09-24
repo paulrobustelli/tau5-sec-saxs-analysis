@@ -13,7 +13,9 @@
         24.02653442443529,
         25.787293769789358
       ],
-      "bootstrap_valid": 200
+      "bootstrap_valid": 200,
+      "bootstrap_mean_Rg": 24.90661770801702,
+      "bootstrap_sd_Rg": 0.4420202443246371
     },
     "extended": {
       "Rg": 25.188759805778652,
@@ -31,7 +33,9 @@
         24.831089148949786,
         25.610729285401096
       ],
-      "bootstrap_valid": 200
+      "bootstrap_valid": 200,
+      "bootstrap_mean_Rg": 25.19442418646617,
+      "bootstrap_sd_Rg": 0.20622697312849878
     },
     "qmin_sensitivity": {
       "0.01": {
@@ -150,7 +154,9 @@
         27.834004335083495,
         40.16240241136477
       ],
-      "bootstrap_valid": 200
+      "bootstrap_valid": 200,
+      "bootstrap_mean_Rg": 34.74761538212238,
+      "bootstrap_sd_Rg": 3.0508163686593077
     },
     "extended_single_chain_diagnostic": {
       "Rg": 35.5901488163926,
@@ -168,7 +174,9 @@
         33.796538486552585,
         37.93434200976669
       ],
-      "bootstrap_valid": 200
+      "bootstrap_valid": 200,
+      "bootstrap_mean_Rg": 35.84394787011694,
+      "bootstrap_sd_Rg": 1.1418897569542612
     },
     "qmin_sensitivity": {
       "0.01": {
