@@ -1,0 +1,424 @@
+*******  ------------------------------------------------------  *******
+*******     GAJOE - version 2.1 - (r14885)                       *******
+*******     Copyright (c) ATSAS Team                             *******
+*******     EMBL, Hamburg Outstation, 2007 - 2015                *******
+*******                                                          *******
+*******     For doubts/questions please visit SAXIER forum:      *******
+*******     http://www.saxier.org/forum/viewforum.php?f=10       *******
+*******                                                          *******
+*******     In case of bugs please refer to:                     *******
+*******     G. Tria, D.I. Svergun, EMBL BioSAXS group            *******
+*******     atsas@embl-hamburg.de                                *******
+*******  ------------------------------------------------------  *******
+ Experimental data file name ............................ : WT_fullq.dat
+ Intensities file name .................................. : ranch_int.csv
+ Number of cycles of the genetic algorithm to run (min. 1): 100
+ Random number generator has not been initialised; using current time
+ Random seed is:   3112141632882929817
+ Curve: WT_fullq.dat - Loading values and configuration ...
+   Number of theoretical curves :       10000
+ Starting the Genetic Algorithm ...
+ CYCLE:   1
+    Chi^2:  0.595
+    No. unique models: 50
+    Ensemble size: 50
+ CYCLE:   2
+    Chi^2:  0.627
+    No. unique models: 50
+    Ensemble size: 50
+ CYCLE:   3
+    Chi^2:  0.645
+    No. unique models: 50
+    Ensemble size: 50
+ CYCLE:   4
+    Chi^2:  0.687
+    No. unique models: 50
+    Ensemble size: 50
+ CYCLE:   5
+    Chi^2:  0.585
+    No. unique models: 50
+    Ensemble size: 50
+ CYCLE:   6
+    Chi^2:  0.681
+    No. unique models: 50
+    Ensemble size: 50
+ CYCLE:   7
+    Chi^2:  0.753
+    No. unique models: 50
+    Ensemble size: 50
+ CYCLE:   8
+    Chi^2:  0.703
+    No. unique models: 50
+    Ensemble size: 50
+ CYCLE:   9
+    Chi^2:  0.606
+    No. unique models: 50
+    Ensemble size: 50
+ CYCLE:  10
+    Chi^2:  0.670
+    No. unique models: 50
+    Ensemble size: 50
+ CYCLE:  11
+    Chi^2:  0.603
+    No. unique models: 50
+    Ensemble size: 50
+ CYCLE:  12
+    Chi^2:  0.673
+    No. unique models: 50
+    Ensemble size: 50
+ CYCLE:  13
+    Chi^2:  0.647
+    No. unique models: 50
+    Ensemble size: 50
+ CYCLE:  14
+    Chi^2:  0.638
+    No. unique models: 50
+    Ensemble size: 50
+ CYCLE:  15
+    Chi^2:  0.653
+    No. unique models: 50
+    Ensemble size: 50
+ CYCLE:  16
+    Chi^2:  0.654
+    No. unique models: 50
+    Ensemble size: 50
+ CYCLE:  17
+    Chi^2:  0.625
+    No. unique models: 50
+    Ensemble size: 50
+ CYCLE:  18
+    Chi^2:  0.725
+    No. unique models: 50
+    Ensemble size: 50
+ CYCLE:  19
+    Chi^2:  0.624
+    No. unique models: 50
+    Ensemble size: 50
+ CYCLE:  20
+    Chi^2:  0.684
+    No. unique models: 50
+    Ensemble size: 50
+ CYCLE:  21
+    Chi^2:  0.650
+    No. unique models: 50
+    Ensemble size: 50
+ CYCLE:  22
+    Chi^2:  0.639
+    No. unique models: 50
+    Ensemble size: 50
+ CYCLE:  23
+    Chi^2:  0.631
+    No. unique models: 50
+    Ensemble size: 50
+ CYCLE:  24
+    Chi^2:  0.619
+    No. unique models: 50
+    Ensemble size: 50
+ CYCLE:  25
+    Chi^2:  0.624
+    No. unique models: 50
+    Ensemble size: 50
+ CYCLE:  26
+    Chi^2:  0.622
+    No. unique models: 50
+    Ensemble size: 50
+ CYCLE:  27
+    Chi^2:  0.677
+    No. unique models: 50
+    Ensemble size: 50
+ CYCLE:  28
+    Chi^2:  0.624
+    No. unique models: 50
+    Ensemble size: 50
+ CYCLE:  29
+    Chi^2:  0.611
+    No. unique models: 50
+    Ensemble size: 50
+ CYCLE:  30
+    Chi^2:  0.592
+    No. unique models: 50
+    Ensemble size: 50
+ CYCLE:  31
+    Chi^2:  0.666
+    No. unique models: 50
+    Ensemble size: 50
+ CYCLE:  32
+    Chi^2:  0.645
+    No. unique models: 50
+    Ensemble size: 50
+ CYCLE:  33
+    Chi^2:  0.663
+    No. unique models: 50
+    Ensemble size: 50
+ CYCLE:  34
+    Chi^2:  0.649
+    No. unique models: 50
+    Ensemble size: 50
+ CYCLE:  35
+    Chi^2:  0.695
+    No. unique models: 50
+    Ensemble size: 50
+ CYCLE:  36
+    Chi^2:  0.623
+    No. unique models: 50
+    Ensemble size: 50
+ CYCLE:  37
+    Chi^2:  0.621
+    No. unique models: 50
+    Ensemble size: 50
+ CYCLE:  38
+    Chi^2:  0.691
+    No. unique models: 50
+    Ensemble size: 50
+ CYCLE:  39
+    Chi^2:  0.599
+    No. unique models: 50
+    Ensemble size: 50
+ CYCLE:  40
+    Chi^2:  0.636
+    No. unique models: 50
+    Ensemble size: 50
+ CYCLE:  41
+    Chi^2:  0.648
+    No. unique models: 50
+    Ensemble size: 50
+ CYCLE:  42
+    Chi^2:  0.674
+    No. unique models: 50
+    Ensemble size: 50
+ CYCLE:  43
+    Chi^2:  0.625
+    No. unique models: 50
+    Ensemble size: 50
+ CYCLE:  44
+    Chi^2:  0.655
+    No. unique models: 50
+    Ensemble size: 50
+ CYCLE:  45
+    Chi^2:  0.675
+    No. unique models: 50
+    Ensemble size: 50
+ CYCLE:  46
+    Chi^2:  0.656
+    No. unique models: 50
+    Ensemble size: 50
+ CYCLE:  47
+    Chi^2:  0.705
+    No. unique models: 50
+    Ensemble size: 50
+ CYCLE:  48
+    Chi^2:  0.669
+    No. unique models: 50
+    Ensemble size: 50
+ CYCLE:  49
+    Chi^2:  0.622
+    No. unique models: 50
+    Ensemble size: 50
+ CYCLE:  50
+    Chi^2:  0.673
+    No. unique models: 50
+    Ensemble size: 50
+ CYCLE:  51
+    Chi^2:  0.624
+    No. unique models: 50
+    Ensemble size: 50
+ CYCLE:  52
+    Chi^2:  0.673
+    No. unique models: 50
+    Ensemble size: 50
+ CYCLE:  53
+    Chi^2:  0.661
+    No. unique models: 50
+    Ensemble size: 50
+ CYCLE:  54
+    Chi^2:  0.579
+    No. unique models: 50
+    Ensemble size: 50
+ CYCLE:  55
+    Chi^2:  0.699
+    No. unique models: 50
+    Ensemble size: 50
+ CYCLE:  56
+    Chi^2:  0.662
+    No. unique models: 50
+    Ensemble size: 50
+ CYCLE:  57
+    Chi^2:  0.625
+    No. unique models: 50
+    Ensemble size: 50
+ CYCLE:  58
+    Chi^2:  0.739
+    No. unique models: 50
+    Ensemble size: 50
+ CYCLE:  59
+    Chi^2:  0.631
+    No. unique models: 50
+    Ensemble size: 50
+ CYCLE:  60
+    Chi^2:  0.658
+    No. unique models: 50
+    Ensemble size: 50
+ CYCLE:  61
+    Chi^2:  0.730
+    No. unique models: 50
+    Ensemble size: 50
+ CYCLE:  62
+    Chi^2:  0.636
+    No. unique models: 50
+    Ensemble size: 50
+ CYCLE:  63
+    Chi^2:  0.698
+    No. unique models: 50
+    Ensemble size: 50
+ CYCLE:  64
+    Chi^2:  0.649
+    No. unique models: 50
+    Ensemble size: 50
+ CYCLE:  65
+    Chi^2:  0.597
+    No. unique models: 50
+    Ensemble size: 50
+ CYCLE:  66
+    Chi^2:  0.643
+    No. unique models: 50
+    Ensemble size: 50
+ CYCLE:  67
+    Chi^2:  0.641
+    No. unique models: 50
+    Ensemble size: 50
+ CYCLE:  68
+    Chi^2:  0.623
+    No. unique models: 50
+    Ensemble size: 50
+ CYCLE:  69
+    Chi^2:  0.662
+    No. unique models: 50
+    Ensemble size: 50
+ CYCLE:  70
+    Chi^2:  0.658
+    No. unique models: 50
+    Ensemble size: 50
+ CYCLE:  71
+    Chi^2:  0.616
+    No. unique models: 50
+    Ensemble size: 50
+ CYCLE:  72
+    Chi^2:  0.702
+    No. unique models: 50
+    Ensemble size: 50
+ CYCLE:  73
+    Chi^2:  0.655
+    No. unique models: 50
+    Ensemble size: 50
+ CYCLE:  74
+    Chi^2:  0.618
+    No. unique models: 50
+    Ensemble size: 50
+ CYCLE:  75
+    Chi^2:  0.679
+    No. unique models: 50
+    Ensemble size: 50
+ CYCLE:  76
+    Chi^2:  0.711
+    No. unique models: 50
+    Ensemble size: 50
+ CYCLE:  77
+    Chi^2:  0.616
+    No. unique models: 50
+    Ensemble size: 50
+ CYCLE:  78
+    Chi^2:  0.617
+    No. unique models: 50
+    Ensemble size: 50
+ CYCLE:  79
+    Chi^2:  0.620
+    No. unique models: 50
+    Ensemble size: 50
+ CYCLE:  80
+    Chi^2:  0.663
+    No. unique models: 50
+    Ensemble size: 50
+ CYCLE:  81
+    Chi^2:  0.629
+    No. unique models: 50
+    Ensemble size: 50
+ CYCLE:  82
+    Chi^2:  0.655
+    No. unique models: 50
+    Ensemble size: 50
+ CYCLE:  83
+    Chi^2:  0.601
+    No. unique models: 50
+    Ensemble size: 50
+ CYCLE:  84
+    Chi^2:  0.618
+    No. unique models: 50
+    Ensemble size: 50
+ CYCLE:  85
+    Chi^2:  0.674
+    No. unique models: 50
+    Ensemble size: 50
+ CYCLE:  86
+    Chi^2:  0.653
+    No. unique models: 50
+    Ensemble size: 50
+ CYCLE:  87
+    Chi^2:  0.676
+    No. unique models: 50
+    Ensemble size: 50
+ CYCLE:  88
+    Chi^2:  0.697
+    No. unique models: 50
+    Ensemble size: 50
+ CYCLE:  89
+    Chi^2:  0.675
+    No. unique models: 50
+    Ensemble size: 50
+ CYCLE:  90
+    Chi^2:  0.676
+    No. unique models: 50
+    Ensemble size: 50
+ CYCLE:  91
+    Chi^2:  0.628
+    No. unique models: 50
+    Ensemble size: 50
+ CYCLE:  92
+    Chi^2:  0.638
+    No. unique models: 50
+    Ensemble size: 50
+ CYCLE:  93
+    Chi^2:  0.722
+    No. unique models: 50
+    Ensemble size: 50
+ CYCLE:  94
+    Chi^2:  0.650
+    No. unique models: 50
+    Ensemble size: 50
+ CYCLE:  95
+    Chi^2:  0.633
+    No. unique models: 50
+    Ensemble size: 50
+ CYCLE:  96
+    Chi^2:  0.693
+    No. unique models: 50
+    Ensemble size: 50
+ CYCLE:  97
+    Chi^2:  0.706
+    No. unique models: 50
+    Ensemble size: 50
+ CYCLE:  98
+    Chi^2:  0.706
+    No. unique models: 50
+    Ensemble size: 50
+ CYCLE:  99
+    Chi^2:  0.712
+    No. unique models: 50
+    Ensemble size: 50
+ CYCLE: 100
+    Chi^2:  0.702
+    No. unique models: 50
+    Ensemble size: 50
+ ... finished the Genetic Algorithm!
+ Rflex (random) / Rsigma: ~ 86.1% (~ 85.1%) / 1.08
+ Copying the selected models ...
+[  2%] [  4%] [  6%] [  8%] [ 10%] [ 12%] [ 14%] [ 16%] [ 18%] [ 20%] [ 22%] [ 24%] [ 26%] [ 28%] [ 30%] [ 32%] [ 34%] [ 36%] [ 38%] [ 40%] [ 42%] [ 44%] [ 46%] [ 48%] [ 50%] [ 52%] [ 54%] [ 56%] [ 58%] [ 60%] [ 62%] [ 64%] [ 66%] [ 68%] [ 70%] [ 72%] [ 74%] [ 76%] [ 78%] [ 80%] [ 82%] [ 84%] [ 86%] [ 88%] [ 90%] [ 92%] [ 94%] [ 96%] [ 98%] [100%]  ... done!

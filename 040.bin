@@ -1,0 +1,34 @@
+{
+  "WT": {
+    "best_ensemble_mean_Rg_A": 26.664,
+    "best_ensemble_Rg_SD_A": 6.09346403944423,
+    "best_ensemble_RMS_Rg_A": 27.351402157841928,
+    "best_mean_Dmax_A": 81.69200000000001,
+    "pool_mean_Rg_A": 30.412409999999998,
+    "pool_Rg_SD_A": 6.166696278551425,
+    "server_selected_distribution_mean_Rg_A": 27.4,
+    "server_chi2": 0.579,
+    "mean_squared_standardized_residual": 0.575063580247461,
+    "q_min": 0.012,
+    "q_max": 0.5,
+    "fit_points": 144,
+    "residual_mean": 0.09833036670216294,
+    "residual_lag1": -0.0041534506522133115
+  },
+  "AA": {
+    "best_ensemble_mean_Rg_A": 31.958000000000002,
+    "best_ensemble_Rg_SD_A": 5.945152310916853,
+    "best_ensemble_RMS_Rg_A": 32.5062855460294,
+    "best_mean_Dmax_A": 100.23,
+    "pool_mean_Rg_A": 30.507929999999998,
+    "pool_Rg_SD_A": 6.295408653542675,
+    "server_selected_distribution_mean_Rg_A": 31.68,
+    "server_chi2": 1.334,
+    "mean_squared_standardized_residual": 1.32500940557891,
+    "q_min": 0.012,
+    "q_max": 0.5,
+    "fit_points": 144,
+    "residual_mean": 0.05112583396581954,
+    "residual_lag1": 0.5492670682365617
+  }
+}

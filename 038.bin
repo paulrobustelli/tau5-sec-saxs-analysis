@@ -1,0 +1,10 @@
+{
+  "WT": {
+    "job": "WT120EOM",
+    "archive_sha256": "949d1a997d467d2c3f30c64c90776032aac9a3c9ba828a4a204cd2ab49230c41"
+  },
+  "AA": {
+    "job": "AA120EOM",
+    "archive_sha256": "058550a34be3d7df319acbfeb5557a6538a969b4efe36eda5cf2af4cb63c2f3c"
+  }
+}

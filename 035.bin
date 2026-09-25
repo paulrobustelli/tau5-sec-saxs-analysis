@@ -1,0 +1,100 @@
+*******  ------------------------------------------------------  *******
+*******     GAJOE - version 2.1 - (r14885)                       *******
+*******     Copyright (c) ATSAS Team                             *******
+*******     EMBL, Hamburg Outstation, 2007 - 2015                *******
+*******                                                          *******
+*******     For doubts/questions please visit SAXIER forum:      *******
+*******     http://www.saxier.org/forum/viewforum.php?f=10       *******
+*******                                                          *******
+*******     In case of bugs please refer to:                     *******
+*******     G. Tria, D.I. Svergun, EMBL BioSAXS group            *******
+*******     atsas@embl-hamburg.de                                *******
+*******  ------------------------------------------------------  *******
+
+ Experimental data file name ............................ : WT_fullq.dat
+ -------------------------------------------
+ -- Pool(s)
+ Intensities file name .................................. : ranch_int.csv
+ SIZE_list file name .................................... : ranch_size.csv
+ ---
+ -------------------------------------------
+ -- Standard Mode
+ Maximum number of curves per ensemble (min. 1, max. 50)  : 50
+ Minimum number of curves per ensemble (min. 1) ......... : 50
+ Constant subtraction allowed? .......................... : N
+ Curve repetition in the ensemble allowed? .............. : N
+ Number of cycles of the genetic algorithm to run (min. 1): 100
+ -------------------------------------------
+ -- Number of theoretical curves :        10000
+ -------------------------------------------
+ Start:  Thu Sep 24 21:09:58 2026
+ End:    Thu Sep 24 21:18:18 2026
+ -------------------------------------------
+ -- Chi^2 :  0.579
+ -------------------------------------------
+ -- Rflex (random) / Rsigma: ~ 86.06% (~ 85.11%) / 1.08
+ -------------------------------------------
+ -- Constant subtracted :  0.000
+ -------------------------------------------
+ -- Files created:
+ Fit to the experimental data (in 1/angstrom) ........... : profiles_001_1.fit
+ Radius of gyration distribution (in angstrom) .......... : Rg_distr_001_1.txt
+ Max Dimensions distribution (in angstrom) .............. : Size_distr_001_1.txt
+ Ca(N)-Ca(C) distances distribution (in angstrom) ....... : CaCa_distr_001_1.txt
+ Volume distribution (in angstrom) ...................... : Volume_distr_001_1.txt
+ -------------------------------------------
+ -- PDB models in the folder "GA001/curve_1/pdb":
+  #  Filename                 Rg       Dmax     Fraction        
+
+  1) ranch00160.cif         23.80      69.50    ~0.02 ( 1/50)
+  2) ranch00328.cif         22.20      56.80    ~0.02 ( 1/50)
+  3) ranch00875.cif         33.70      89.40    ~0.02 ( 1/50)
+  4) ranch01309.cif         32.80      97.30    ~0.02 ( 1/50)
+  5) ranch01423.cif         25.20      89.40    ~0.02 ( 1/50)
+  6) ranch01492.cif         29.40      73.60    ~0.02 ( 1/50)
+  7) ranch01793.cif         22.20      75.00    ~0.02 ( 1/50)
+  8) ranch02138.cif         34.10     101.30    ~0.02 ( 1/50)
+  9) ranch02317.cif         29.20      88.70    ~0.02 ( 1/50)
+ 10) ranch02359.cif         42.50     131.70    ~0.02 ( 1/50)
+ 11) ranch02503.cif         23.10      78.90    ~0.02 ( 1/50)
+ 12) ranch02782.cif         32.60     105.90    ~0.02 ( 1/50)
+ 13) ranch02919.cif         23.70      85.10    ~0.02 ( 1/50)
+ 14) ranch02950.cif         21.30      65.40    ~0.02 ( 1/50)
+ 15) ranch02986.cif         24.50      79.20    ~0.02 ( 1/50)
+ 16) ranch03067.cif         18.70      49.20    ~0.02 ( 1/50)
+ 17) ranch03302.cif         20.60      76.10    ~0.02 ( 1/50)
+ 18) ranch03319.cif         27.00      80.50    ~0.02 ( 1/50)
+ 19) ranch03617.cif         29.30      97.20    ~0.02 ( 1/50)
+ 20) ranch03799.cif         31.20      93.00    ~0.02 ( 1/50)
+ 21) ranch03863.cif         36.40     109.30    ~0.02 ( 1/50)
+ 22) ranch03873.cif         17.40      51.20    ~0.02 ( 1/50)
+ 23) ranch04250.cif         32.70      95.10    ~0.02 ( 1/50)
+ 24) ranch04572.cif         23.20      78.50    ~0.02 ( 1/50)
+ 25) ranch04732.cif         32.80     108.00    ~0.02 ( 1/50)
+ 26) ranch05267.cif         22.50      59.30    ~0.02 ( 1/50)
+ 27) ranch05379.cif         16.80      53.10    ~0.02 ( 1/50)
+ 28) ranch05470.cif         32.10      86.90    ~0.02 ( 1/50)
+ 29) ranch05752.cif         19.20      69.10    ~0.02 ( 1/50)
+ 30) ranch05807.cif         33.70      96.00    ~0.02 ( 1/50)
+ 31) ranch05923.cif         30.00     105.50    ~0.02 ( 1/50)
+ 32) ranch05932.cif         27.30      93.50    ~0.02 ( 1/50)
+ 33) ranch05945.cif         25.20      79.20    ~0.02 ( 1/50)
+ 34) ranch06310.cif         17.30      53.20    ~0.02 ( 1/50)
+ 35) ranch06343.cif         19.30      60.90    ~0.02 ( 1/50)
+ 36) ranch06450.cif         28.80      83.60    ~0.02 ( 1/50)
+ 37) ranch07072.cif         19.60      64.90    ~0.02 ( 1/50)
+ 38) ranch07361.cif         26.00      77.00    ~0.02 ( 1/50)
+ 39) ranch07396.cif         29.10     100.00    ~0.02 ( 1/50)
+ 40) ranch07428.cif         30.20      81.60    ~0.02 ( 1/50)
+ 41) ranch07588.cif         27.70      70.70    ~0.02 ( 1/50)
+ 42) ranch07921.cif         17.80      49.20    ~0.02 ( 1/50)
+ 43) ranch08075.cif         30.60      97.40    ~0.02 ( 1/50)
+ 44) ranch08277.cif         34.00      91.70    ~0.02 ( 1/50)
+ 45) ranch08414.cif         17.90      51.90    ~0.02 ( 1/50)
+ 46) ranch09483.cif         33.80     114.20    ~0.02 ( 1/50)
+ 47) ranch09878.cif         26.20      72.10    ~0.02 ( 1/50)
+ 48) ranch09888.cif         29.40      86.20    ~0.02 ( 1/50)
+ 49) ranch09971.cif         33.00     105.80    ~0.02 ( 1/50)
+ 50) ranch09974.cif         16.10      56.30    ~0.02 ( 1/50)
+
+ Final ensemble :           26.66      81.69
