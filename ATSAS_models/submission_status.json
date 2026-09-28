@@ -3,12 +3,12 @@
     "WT": {
       "project": "WT120EOM",
       "url": "https://www.embl-hamburg.de/biosaxs/atsas-online/eom.php?project=WT120EOM",
-      "status": "submission confirmed; results pending"
+      "status": "finished; downloaded and analyzed 2026-09-25; see EOM/EOM Results.ipynb"
     },
     "AA": {
       "project": "AA120EOM",
       "url": "https://www.embl-hamburg.de/biosaxs/atsas-online/eom.php?project=AA120EOM",
-      "status": "submission confirmed; results pending"
+      "status": "finished; downloaded and analyzed 2026-09-25; see EOM/EOM Results.ipynb"
     },
     "settings": {
       "residues": 120,
@@ -27,7 +27,6 @@
     }
   },
   "DAMMIF": {
-    "status": "not submitted",
-    "blocker": "Requires GNOM .out; no local ATSAS executables; official macOS installer browser download did not complete."
+    "status": "40 reconstructions finished; 40 successful; alignment and averaging pending"
   }
 }
