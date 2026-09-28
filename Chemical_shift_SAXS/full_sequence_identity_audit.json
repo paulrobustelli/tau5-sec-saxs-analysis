@@ -1,0 +1,36 @@
+{
+  "WT": {
+    "counts": {
+      "generated_PDBs": 1477,
+      "fitted_protonated_PDBs": 500,
+      "SPARTA_tables": 500,
+      "restraints": 415
+    },
+    "mismatches": [],
+    "AR397": "W",
+    "AR433": "W"
+  },
+  "AA": {
+    "counts": {
+      "generated_PDBs": 1451,
+      "fitted_protonated_PDBs": 500,
+      "SPARTA_tables": 500,
+      "restraints": 509
+    },
+    "mismatches": [],
+    "AR397": "A",
+    "AR433": "A"
+  },
+  "sequence_differences": [
+    {
+      "AR": 397,
+      "WT": "W",
+      "AA": "A"
+    },
+    {
+      "AR": 433,
+      "WT": "W",
+      "AA": "A"
+    }
+  ]
+}

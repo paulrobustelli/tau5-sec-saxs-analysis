@@ -1,0 +1,21 @@
+{
+  "Tau5_current_results.ipynb": "8c43a9dd47d2d721203b06d7feaa06e5ee0663b6a408ee59b1a3ee9de4a5f186",
+  "CB_Exp_minus_Calc.png": "9ee8e12cba4b107549a8876aabf96f0b7add9d1f97e2d00bf2f68dd08516f35f",
+  "C_Exp_minus_Calc.png": "92d1e0c19a717736ba22c837459e3d8a04b1dd165a6f39c6035319a6fb0b8baf",
+  "N_Exp_minus_Calc.png": "c3d5420275e6a1997bffa49d651f902ee9b2a0d6b373032e8b11499aef962986",
+  "numbering_audit.json": "7ad0beb484dfa0d832ccd02fe52a16d7416e638c445b076341cee9c00d46eda9",
+  "CA_Exp_minus_Calc.png": "26012300a726ded1117431f47326c9fa25fd827c541e542e0d290668cd64640d",
+  "README.md": "9088aa57e77e03b7d1b058fe1cdfeb6ba6540b5571458385aa009f6fc0c62ec2",
+  "NH_Exp_minus_Calc.png": "472304a5ccbe70ef09a5426fb74f7f10bd08e5fcdfc0c0a4478acecd26761af5",
+  "full_sequence_identity_audit.json": "5b38e404b3a252dd148c8dae2f350703c646e28e096a3fda7ba45f1e24e09472",
+  "snapshot_data.json": "2007e5e25e50d14f6c9422b5c814d7e992eda68af4202f7d1702f7eb8701a76f",
+  "scripts/helix_metrics.py": "c1bde276e31132c66e0e9b3bbabddbc6214997b004d091098cf83d14065cad7b",
+  "scripts/fit_joint.py": "15f1c09f34d1dc4541017774f131c3e3de28aa96f5595ea3bfa3e5d511c2977c",
+  "scripts/fit_shifts_direct.py": "bdb223617db5268dec3c3f4126666a055b71943d7f3aa7db5b977cc1bc95b2ce",
+  "scripts/build_helix_lengths.py": "a2e7f6dabbeaf9c13036b873961c11ad65a50ee299397de7b8e0dfd57e1faf74",
+  "scripts/verify_helix_lengths.py": "d5699405eb71fe97b57d7a41a4de7dcc6e37bf08d935271b624d5dc7cad6ff37",
+  "weights/AA/earlier_joint_weights.csv": "e5e4fb1d7a4cb087c8f921bef9db5d254cb80730f1e12b631445340f775022d8",
+  "weights/AA/direct_shift_weights.csv": "570251b4fcfc8c94967376868ee2b24bede584244d0ac9d87ef82ebdf3e2a108",
+  "weights/WT/earlier_joint_weights.csv": "ff7328e3f0fbda34a94c7efc1e6de3d7a0317c87e8eb0c2373e4c6ca5090f451",
+  "weights/WT/direct_shift_weights.csv": "fd26a69954f08496d47f186269b850699f36677e83372914e6c2ef90c8569509"
+}

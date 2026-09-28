@@ -1,0 +1,92 @@
+{
+  "WT": {
+    "sequence_checks_pass": true,
+    "D2D_table_and_CSSS_checks_pass": true,
+    "landmarks": {
+      "330": {
+        "model": 3,
+        "AA": "A"
+      },
+      "397": {
+        "model": 70,
+        "AA": "W"
+      },
+      "398": {
+        "model": 71,
+        "AA": "A"
+      },
+      "433": {
+        "model": 106,
+        "AA": "W"
+      },
+      "447": {
+        "model": 120,
+        "AA": "P"
+      }
+    },
+    "D2D_peak": {
+      "model": 71,
+      "AR": 398,
+      "value": 0.452485
+    },
+    "DSSP_H_peak_by_replicate": {
+      "1": {
+        "AR_residues": [
+          399
+        ],
+        "value": 0.468
+      },
+      "2": {
+        "AR_residues": [
+          399
+        ],
+        "value": 0.468
+      }
+    }
+  },
+  "AA": {
+    "sequence_checks_pass": true,
+    "D2D_table_and_CSSS_checks_pass": true,
+    "landmarks": {
+      "330": {
+        "model": 3,
+        "AA": "A"
+      },
+      "397": {
+        "model": 70,
+        "AA": "A"
+      },
+      "398": {
+        "model": 71,
+        "AA": "A"
+      },
+      "433": {
+        "model": 106,
+        "AA": "A"
+      },
+      "447": {
+        "model": 120,
+        "AA": "P"
+      }
+    },
+    "D2D_peak": {
+      "model": 71,
+      "AR": 398,
+      "value": 0.658137
+    },
+    "DSSP_H_peak_by_replicate": {
+      "1": {
+        "AR_residues": [
+          399
+        ],
+        "value": 0.52
+      },
+      "2": {
+        "AR_residues": [
+          399
+        ],
+        "value": 0.488
+      }
+    }
+  }
+}
