@@ -9,7 +9,7 @@
   "Contact_Maps/full_WT_AA.png": "2354b68275f01a439f973fb87e8daee36db5af5920bae3d41795d5e33bbf4964",
   "Contact_Maps/manifest.json": "502735d1b0c105b58cd8800ac5f6654c3baad630424347b9347b39582d4528c2",
   "Contact_Maps/original_contact_cells.py": "1cbca1cff116e108605c1c9d4f57d717b7dba1f4916b4b60f666cdd3a98f39ba",
-  "README.md": "49d176fe9dd9ee6eaa13cdca5f8cd8bdbfa4ce379f9eb9288d856f74e75aeb60",
+  "README.md": "3a6195055a464e45eb2c1c0cc89f9589b830ca4e3552be810e755b29044997c8",
   "Sa_Rg/R2R3_side_by_side.pdf": "b2120ab1c6568e5ab4a58ff58b006017656eec78c467af86d85845d80fcc4b00",
   "Sa_Rg/R2R3_side_by_side.png": "0fc862a8971bccea64f10d2b4501bf4cb580443f09188b8f65b726fcba311cab",
   "Sa_Rg/README.md": "fb2c3f3e2614e47650cfe9b3d4d303b8f0d215549ef63304fefd2d3fbdec5071",
@@ -22,5 +22,12 @@
   "Sa_Rg/summary.json": "8a10c3859d415f5d7a557e01949e2a9b40ffb1e1320cc2c5e55b833fd1618c8c",
   "scripts/compute_sa_rg.py": "b2e484aa198d002fc209a48c1592ff81635958be2e3b1bba86a4bfa233d8f033",
   "scripts/plot_contact_comparisons.py": "f924e14f88bb4d2152a370f3f7626a4d72bdf1755abaff911c70b617939cffd5",
-  "scripts/plot_sa_rg_repo_style.py": "b5b3da8d322376925de4649d28e9ccc1322063397f4f71d946494537d857b653"
+  "scripts/plot_sa_rg_repo_style.py": "b5b3da8d322376925de4649d28e9ccc1322063397f4f71d946494537d857b653",
+  "scripts/plot_md_contact_comparison.py": "7bb41c99611f4148295919dfb3e830c64ca94c78e4e7c455391212c107915484",
+  "Contact_Maps/MD_R2R3.csv": "4415f5972282877324af557d19db47f7b6e45335c919cdacc7d4d7c7f5bc25fc",
+  "Contact_Maps/MD_R2R3.png": "169ce82495fc88602867222239790497a3e95b33d6cca09d2696be960b72b066",
+  "Contact_Maps/MD_R2R3.pdf": "c04c1ce18933a10b5293f812ece8a7ec48f9fa663beca91554399527db3da2ce",
+  "Contact_Maps/MD_provenance.json": "cb247babbe49216c305dda9805e519c3884352c70aedffb65fc4d2af9a4c7425",
+  "Contact_Maps/R2R3_WT_AA_MD.png": "f7678a93ec2695971b1da8f7ed471f787b2baa347c3fe1ed064c9dc44d4c71b8",
+  "Contact_Maps/R2R3_WT_AA_MD.pdf": "21a4f4f326139581f14efcfb58abd6966d295be5c5b301ed42f12933c03db22f"
 }

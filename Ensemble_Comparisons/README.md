@@ -30,11 +30,15 @@ These use the original AR_ligand_binding notebook plotting cell: 30-bin density 
 
 [PDF](Contact_Maps/full_WT_AA.pdf)
 
-### R2–R3 zoom: AR391–446
+### R2–R3 zoom: WT, AA, and original apo MD
 
-![R2–R3 contact maps](Contact_Maps/R2R3_WT_AA.png)
+![R2–R3 contact maps](Contact_Maps/R2R3_WT_AA_MD.png)
 
-[PDF](Contact_Maps/R2R3_WT_AA.pdf)
+[PDF](Contact_Maps/R2R3_WT_AA_MD.pdf)
+
+The original apo WT MD map averages **57,144 saved frames**, using the original topology indices 1–56 (AR391–446), excluding ACE/NH2 caps. The trajectory and topology are retained locally from [Zenodo 7120845](https://zenodo.org/records/7120845). No MD reweighting or additional equilibration trimming is applied. This short, capped construct differs from the full-chain context of the WT/AA zoom-ins.
+
+[MD map PNG](Contact_Maps/MD_R2R3.png) · [MD map PDF](Contact_Maps/MD_R2R3.pdf) · [MD numerical matrix](Contact_Maps/MD_R2R3.csv) · [Local file paths, checksums, and provenance](Contact_Maps/MD_provenance.json)
 
 ### Contact definition and implementation
 

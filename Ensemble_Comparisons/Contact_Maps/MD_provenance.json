@@ -1,0 +1,31 @@
+{
+  "frames": 57144,
+  "sequence": "LDYGSAWAAAAAQCRYGDLASLHGAGAAGPGSGSPSAAASSSWHTLFTAEEGQLYG",
+  "AR_residues": [
+    391,
+    446
+  ],
+  "topology_residue_indices": [
+    1,
+    56
+  ],
+  "caps_excluded": [
+    "ACE",
+    "NH2"
+  ],
+  "cutoff_nm": 1.2,
+  "scheme": "closest-heavy",
+  "periodic": true,
+  "weighting": "uniform over all saved frames, no reweighting or burn-in exclusion",
+  "source": "https://zenodo.org/records/7120845",
+  "local_files": {
+    "outputs/Tau5_joint_refinement/reference_2022/archive/Zhu_et_al_NatComms_9.27.22/AndrogenReceptor_LigandBinding_Trajectory_Files_9.27.22/Tau5R2R3_apo.pdb": {
+      "bytes": 58629,
+      "sha256": "2979108cf47c977a874662bf7fef7225eb80b37d80a1e6c50a65c0f42386e1ed"
+    },
+    "outputs/Tau5_joint_refinement/reference_2022/archive/Zhu_et_al_NatComms_9.27.22/AndrogenReceptor_LigandBinding_Trajectory_Files_9.27.22/Tau5R2R3_apo.xtc": {
+      "bytes": 164106484,
+      "sha256": "477720ff94769938629e66818aacfb528a4eeecb8b784e05954aafde8ecec970"
+    }
+  }
+}
