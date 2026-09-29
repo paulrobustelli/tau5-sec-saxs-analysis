@@ -1,0 +1,75 @@
+{
+  "WT": {
+    "full": {
+      "n": 2000,
+      "mean_Salpha": 4.212196289998018,
+      "mean_Rg_nm": 3.342090167174167,
+      "Sa_Rg_correlation": -0.005043189121889769,
+      "fraction_Rg_lt_1p3_Sa_gt_6": null
+    },
+    "R2R3": {
+      "n": 2000,
+      "mean_Salpha": 2.930695070641118,
+      "mean_Rg_nm": 1.9252151768465477,
+      "Sa_Rg_correlation": -0.03977528044642397,
+      "fraction_Rg_lt_1p3_Sa_gt_6": 0.003
+    }
+  },
+  "WT_calibrated": {
+    "full": {
+      "n": 1000,
+      "mean_Salpha": 3.9585454135140847,
+      "mean_Rg_nm": 3.339305443603515,
+      "Sa_Rg_correlation": -0.004187300044264496,
+      "fraction_Rg_lt_1p3_Sa_gt_6": null
+    },
+    "R2R3": {
+      "n": 1000,
+      "mean_Salpha": 2.7259538935729313,
+      "mean_Rg_nm": 1.9317414477611843,
+      "Sa_Rg_correlation": -0.045310332033943315,
+      "fraction_Rg_lt_1p3_Sa_gt_6": 0.004
+    }
+  },
+  "AA": {
+    "full": {
+      "n": 2000,
+      "mean_Salpha": 4.441990261464331,
+      "mean_Rg_nm": 3.2736169436647855,
+      "Sa_Rg_correlation": -0.031936750734528285,
+      "fraction_Rg_lt_1p3_Sa_gt_6": null
+    },
+    "R2R3": {
+      "n": 2000,
+      "mean_Salpha": 3.092541091480454,
+      "mean_Rg_nm": 1.8733897429170874,
+      "Sa_Rg_correlation": -0.07221048924872525,
+      "fraction_Rg_lt_1p3_Sa_gt_6": 0.0055
+    }
+  },
+  "AA_calibrated": {
+    "full": {
+      "n": 500,
+      "mean_Salpha": 4.137335242536982,
+      "mean_Rg_nm": 3.288560904560119,
+      "Sa_Rg_correlation": -0.016992464164438347,
+      "fraction_Rg_lt_1p3_Sa_gt_6": null
+    },
+    "R2R3": {
+      "n": 500,
+      "mean_Salpha": 2.892844764356924,
+      "mean_Rg_nm": 1.8866208650675709,
+      "Sa_Rg_correlation": -0.12843301322064438,
+      "fraction_Rg_lt_1p3_Sa_gt_6": 0.008
+    }
+  },
+  "2022 apo MD": {
+    "R2R3": {
+      "n": 57144,
+      "mean_Salpha": 6.5473419292859125,
+      "mean_Rg_nm": 1.2491276572060388,
+      "Sa_Rg_correlation": -0.36250792186161906,
+      "fraction_Rg_lt_1p3_Sa_gt_6": 0.40719935601287977
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "R2R3_WT": {
+    "n": 2000,
+    "n_in_histogram_range": 1861,
+    "Rg_range_nm": [
+      0.9,
+      2.5
+    ]
+  },
+  "R2R3_AA": {
+    "n": 2000,
+    "n_in_histogram_range": 1912,
+    "Rg_range_nm": [
+      0.9,
+      2.5
+    ]
+  },
+  "R2R3_original_apo": {
+    "n": 57144,
+    "n_in_histogram_range": 56896,
+    "Rg_range_nm": [
+      0.9,
+      2.5
+    ]
+  },
+  "full_WT": {
+    "n": 2000,
+    "n_in_histogram_range": 2000,
+    "Rg_range_nm": [
+      1.5,
+      6.5
+    ]
+  },
+  "full_AA": {
+    "n": 2000,
+    "n_in_histogram_range": 2000,
+    "Rg_range_nm": [
+      1.5,
+      6.5
+    ]
+  },
+  "method": "Exact notebook histogram/log transform: -0.001987*300*log(density+1e-6), no minimum subtraction; 30 bins; Gaussian display interpolation; jet; clim 0.1\u20133.0. R2R3 uses original ranges. Full chain changes only Rg histogram extent to 1.5\u20136.5 nm. Calculated observables retained from prior analysis."
+}
