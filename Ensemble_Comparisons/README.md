@@ -1,5 +1,7 @@
 # Ensemble Comparisons
 
+[Methods, equations and current results: PowerPoint and PDF](Presentations/)
+
 ## Ensembles and residue mapping
 
 WT Tau-5* and W397A/W433A (AA): the first **2,000-member IDPConfGen base pool** for each sequence, uniformly averaged, without the supplemental long-helix structures or fitted weights. These are the same frozen member lists used for the Sα–Rg comparison. This page does not show bAIes trajectories; those have not yet been generated.
