@@ -1,5 +1,7 @@
 # Ensemble Comparisons
 
+[**Master ASTEROIDS-style notebook: all pools, 12 selected ensembles, MD comparisons and summary tables**](ASTEROIDS_Master/)
+
 [Methods, equations and current results: PowerPoint and PDF](Presentations/)
 
 ## Ensembles and residue mapping

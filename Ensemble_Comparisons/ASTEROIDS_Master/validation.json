@@ -1,0 +1,11 @@
+{
+  "WT_base_contacts_match": true,
+  "WT_Sa_Rg_matches_existing": 2.806142175515447e-06,
+  "AA_base_contacts_match": true,
+  "AA_Sa_Rg_matches_existing": 3.017857710396754e-06,
+  "helix_profiles_and_run_length_accounting": true,
+  "all_RMSDs_and_SAXS_metrics_match_published": true,
+  "summary_rows": 33,
+  "plot_figures": 40,
+  "MD_frames": 57144
+}
