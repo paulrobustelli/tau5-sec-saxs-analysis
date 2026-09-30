@@ -26,7 +26,7 @@ SCHEDULES = {
 
 
 def guinier_i0(q, intensity, sigma=None, cutoff=0.03):
-    mask = (q <= cutoff) & (intensity > 0)
+    mask = (q <= cutoff + 1e-12) & (intensity > 0)
     x = q[mask] ** 2
     y = np.log(intensity[mask])
     if sigma is None:

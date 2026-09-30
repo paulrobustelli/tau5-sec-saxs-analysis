@@ -14,7 +14,7 @@ COLORS = {"Raw pool": "#777777", "Current fit": "#2876b8", "2x low / 0.5x tail":
 
 
 def guinier(q, intensity, sigma=None, cutoff=0.03):
-    mask = (q <= cutoff) & (intensity > 0)
+    mask = (q <= cutoff + 1e-12) & (intensity > 0)
     w = np.ones(mask.sum()) if sigma is None else intensity[mask] / sigma[mask]
     slope, intercept = np.polyfit(q[mask] ** 2, np.log(intensity[mask]), 1, w=w)
     return float(np.exp(intercept)), float(np.sqrt(max(0, -3 * slope)))
@@ -145,7 +145,7 @@ def main():
     for label in ["Raw pool", "Current fit", "2x low / 0.5x tail", "4x low / 0.25x tail"]:
         r = pivot.loc[label]
         summary_lines.append(f"| {label} | {r.C:.3f} | {r.CA:.3f} | {r.N:.3f} | {r.NH:.3f} | {r.SAXS_chi2_low_q_lt_0p04:.3f} | {r.SAXS_chi2_all:.3f} | {r.calculated_Guinier_Rg_A:.2f} |")
-    summary_lines += ["", "Experimental diagnostic Guinier Rg: 27.82 A.", "", "The aggressive schedules improve C and CA only slightly beyond the current fit, do not improve N or NH, and leave the selected DSSP-H profile essentially unchanged. The 4x schedule gives the best low-q SAXS agreement, but sacrifices tail agreement. These results should not yet be propagated to every pool.", ""]
+    summary_lines += ["", f"Experimental diagnostic Guinier Rg: {exp_rg:.2f} A.", "", "The aggressive schedules improve C and CA only slightly beyond the current fit, do not materially improve N or NH, and leave the selected DSSP-H profile essentially unchanged. The 4x schedule gives the best low-q SAXS agreement, but sacrifices tail agreement. These results should not yet be propagated to every pool.", ""]
     (TRIAL / "README.md").write_text("\n".join(summary_lines))
 
 

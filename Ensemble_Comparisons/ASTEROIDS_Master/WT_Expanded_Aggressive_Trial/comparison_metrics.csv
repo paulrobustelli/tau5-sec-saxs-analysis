@@ -7,29 +7,29 @@ Current fit,CA,0.3026134604326584,ppm
 Current fit,C,0.41652869828616146,ppm
 Current fit,N,0.7727207552027324,ppm
 Current fit,NH,0.21848206867490533,ppm
-2x low / 0.5x tail,CA,0.28530743935628283,ppm
-2x low / 0.5x tail,C,0.4032583056396969,ppm
-2x low / 0.5x tail,N,0.7885597364775631,ppm
-2x low / 0.5x tail,NH,0.2176881935941657,ppm
-4x low / 0.25x tail,CA,0.2895663707910928,ppm
-4x low / 0.25x tail,C,0.41007269121764506,ppm
-4x low / 0.25x tail,N,0.7878295202081108,ppm
-4x low / 0.25x tail,NH,0.21670052076917398,ppm
-Raw pool,SAXS_chi2_all,72.1896129999741,chi2/point
-Raw pool,SAXS_chi2_low_q_lt_0p04,26.13661596510398,chi2/point
-Raw pool,SAXS_chi2_middle_0p04_to_0p10,221.55257753046072,chi2/point
-Raw pool,SAXS_chi2_tail_ge_0p10,23.569614955644862,chi2/point
-Raw pool,calculated_Guinier_Rg_A,32.9012716976504,A
-2x low / 0.5x tail,SAXS_chi2_all,24.24123626264647,chi2/point
-2x low / 0.5x tail,SAXS_chi2_low_q_lt_0p04,3.6065845481884566,chi2/point
-2x low / 0.5x tail,SAXS_chi2_middle_0p04_to_0p10,57.97872147655616,chi2/point
-2x low / 0.5x tail,SAXS_chi2_tail_ge_0p10,16.79627657768333,chi2/point
-2x low / 0.5x tail,calculated_Guinier_Rg_A,28.943845310260645,A
-4x low / 0.25x tail,SAXS_chi2_all,24.149302272540112,chi2/point
-4x low / 0.25x tail,SAXS_chi2_low_q_lt_0p04,2.4876491036744537,chi2/point
-4x low / 0.25x tail,SAXS_chi2_middle_0p04_to_0p10,53.965522861041144,chi2/point
-4x low / 0.25x tail,SAXS_chi2_tail_ge_0p10,18.753729039585817,chi2/point
-4x low / 0.25x tail,calculated_Guinier_Rg_A,28.48049338620782,A
+2x low / 0.5x tail,CA,0.2855703866248216,ppm
+2x low / 0.5x tail,C,0.4067706720894753,ppm
+2x low / 0.5x tail,N,0.7765731615332792,ppm
+2x low / 0.5x tail,NH,0.21803740344555914,ppm
+4x low / 0.25x tail,CA,0.2867223828848707,ppm
+4x low / 0.25x tail,C,0.4063893773730229,ppm
+4x low / 0.25x tail,N,0.7660552569736802,ppm
+4x low / 0.25x tail,NH,0.2169214652202964,ppm
+Raw pool,SAXS_chi2_all,73.61916517530359,chi2/point
+Raw pool,SAXS_chi2_low_q_lt_0p04,27.437251517138826,chi2/point
+Raw pool,SAXS_chi2_middle_0p04_to_0p10,225.5779718236528,chi2/point
+Raw pool,SAXS_chi2_tail_ge_0p10,23.922070727604712,chi2/point
+Raw pool,calculated_Guinier_Rg_A,32.83346704687853,A
+2x low / 0.5x tail,SAXS_chi2_all,25.783946988782,chi2/point
+2x low / 0.5x tail,SAXS_chi2_low_q_lt_0p04,4.125210549217756,chi2/point
+2x low / 0.5x tail,SAXS_chi2_middle_0p04_to_0p10,62.10337419824752,chi2/point
+2x low / 0.5x tail,SAXS_chi2_tail_ge_0p10,17.577337951454904,chi2/point
+2x low / 0.5x tail,calculated_Guinier_Rg_A,28.898476843345815,A
+4x low / 0.25x tail,SAXS_chi2_all,25.241669163838836,chi2/point
+4x low / 0.25x tail,SAXS_chi2_low_q_lt_0p04,2.9726904152246902,chi2/point
+4x low / 0.25x tail,SAXS_chi2_middle_0p04_to_0p10,57.097180396607364,chi2/point
+4x low / 0.25x tail,SAXS_chi2_tail_ge_0p10,19.174860667719056,chi2/point
+4x low / 0.25x tail,calculated_Guinier_Rg_A,28.481108795325547,A
 Current fit,SAXS_chi2_all,31.186060635515275,chi2/point
 Current fit,SAXS_chi2_low_q_lt_0p04,13.050271895930413,chi2/point
 Current fit,SAXS_chi2_middle_0p04_to_0p10,87.41557296863218,chi2/point

@@ -6,11 +6,11 @@ SAXS curves are multiplicatively normalized to the experimental Guinier-extrapol
 
 | Ensemble | C RMSD | CA RMSD | N RMSD | NH RMSD | low-q chi2/point | all-q chi2/point | Guinier Rg (A) |
 |---|---:|---:|---:|---:|---:|---:|---:|
-| Raw pool | 0.496 | 0.376 | 0.787 | 0.217 | 26.137 | 72.190 | 32.90 |
+| Raw pool | 0.496 | 0.376 | 0.787 | 0.217 | 27.437 | 73.619 | 32.83 |
 | Current fit | 0.417 | 0.303 | 0.773 | 0.218 | 13.050 | 31.186 | 31.06 |
-| 2x low / 0.5x tail | 0.403 | 0.285 | 0.789 | 0.218 | 3.607 | 24.241 | 28.94 |
-| 4x low / 0.25x tail | 0.410 | 0.290 | 0.788 | 0.217 | 2.488 | 24.149 | 28.48 |
+| 2x low / 0.5x tail | 0.407 | 0.286 | 0.777 | 0.218 | 4.125 | 25.784 | 28.90 |
+| 4x low / 0.25x tail | 0.406 | 0.287 | 0.766 | 0.217 | 2.973 | 25.242 | 28.48 |
 
-Experimental diagnostic Guinier Rg: 27.82 A.
+Experimental diagnostic Guinier Rg: 27.36 A.
 
-The aggressive schedules improve C and CA only slightly beyond the current fit, do not improve N or NH, and leave the selected DSSP-H profile essentially unchanged. The 4x schedule gives the best low-q SAXS agreement, but sacrifices tail agreement. These results should not yet be propagated to every pool.
+The aggressive schedules improve C and CA only slightly beyond the current fit, do not materially improve N or NH, and leave the selected DSSP-H profile essentially unchanged. The 4x schedule gives the best low-q SAXS agreement, but sacrifices tail agreement. These results should not yet be propagated to every pool.
