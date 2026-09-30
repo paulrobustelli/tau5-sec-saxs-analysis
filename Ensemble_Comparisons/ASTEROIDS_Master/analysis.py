@@ -10,10 +10,13 @@ Z={p:dict(np.load(DATA/f'{p}_structural.npz')) for p in ['WT','AA']}
 MD=dict(np.load(DATA/'MD_structural.npz'))
 COLORS=['#777777','#2876b8','#df762f','#24946d','#ab3bb2']
 plt.rcParams.update({'font.size':11,'axes.spines.top':False,'axes.spines.right':False,'figure.dpi':100})
-def curves(key,stem):return [pd.read_csv(DATA/f'{key}_ens{i}_{stem}.csv') for i in range(1,4)]
+def curves(key,stem):
+ c=META['conditions'][key]
+ return [pd.read_csv(DATA/f'{key}_ens{i}_{stem}.csv') for i in range(1,len(c['selected'])+1)]
 def members(key,view='full',with_md=True):
  c=META['conditions'][key];z=Z[c['protein']];sl=slice(None) if view=='full' else slice(63,119);cols=[0,1] if view=='full' else [2,3];pairs=z['pairs'];ans=[]
- for label,ids in [('Raw pool',c['pool'])]+[(f'Ens {i}',v) for i,v in enumerate(c['selected'],1)]:
+ labels=c.get('selection_labels',[f'Ens {i}' for i in range(1,len(c['selected'])+1)])
+ for label,ids in [('Raw pool',c['pool'])]+list(zip(labels,c['selected'])):
   mat=np.zeros((120,120));mat[pairs[:,0],pairs[:,1]]=z['contacts'][ids].mean(0);mat+=mat.T
   ans.append({'name':label,'v':z['values'][ids][:,cols],'h':z['helix'][ids,sl],'c':mat[sl,sl],'n':len(ids),'ids':ids})
  if view=='R2R3' and with_md:ans.append({'name':'2022 apo WT MD','v':MD['values'],'h':MD['helix'],'c':MD['contacts'],'n':len(MD['values'])})
@@ -93,21 +96,24 @@ def helicity(key):
  for ax,view in zip(axs,['full','R2R3']):
   xx=np.arange(328,448) if view=='full' else np.arange(391,447)
   for g,col in zip(members(key,view),COLORS):ax.plot(xx,g['h'].mean(0),label=g['name'],color=col)
-  d=d2d if view=='full' else d2d[d2d.author_residue.between(391,446)];ax.plot(d.author_residue,d.helix,'k--',lw=2,label='δ2D '+c['protein']);ax.set(ylim=(0,1),xlim=(330,446) if view=='full' else (391,446),ylabel='DSSP-H population',xlabel='AR residue',title=view);ax.legend(ncol=6,fontsize=9)
+  if not c.get('omit_d2d',False):
+   d=d2d if view=='full' else d2d[d2d.author_residue.between(391,446)];ax.plot(d.author_residue,d.helix,'k--',lw=2,label='δ2D '+c['protein'])
+  ax.set(ylim=(0,1),xlim=(330,446) if view=='full' else (391,446),ylabel='DSSP-H population',xlabel='AR residue',title=view);ax.legend(ncol=6,fontsize=9)
  fig.suptitle(key+' | before/after equal-weight subset selection');plt.show()
 
 def chemical_shifts(key,secondary=False):
+ c=META['conditions'][key];labels=c.get('selection_labels',[f'Ens {i}' for i in range(1,len(c['selected'])+1)])
  ds=curves(key,'shifts');atoms=[a for a in ['CA','C','CB','N','NH','HA'] if a in set(ds[0].atom)];fig,axs=plt.subplots(len(atoms),1 if secondary else 2,figsize=(17,3*len(atoms)),squeeze=False,layout='constrained')
  for row,atom in enumerate(atoms):
   s=[d[d.atom==atom].set_index('AR_residue') for d in ds];x=s[0].index.to_numpy()
   if secondary:
    ax=axs[row,0];ax.plot(x,s[0].experimental_secondary_ppm,'k.-',label='Experiment');ax.plot(x,s[0].pool_secondary_ppm,color=COLORS[0],label='Raw pool')
-   for i,d in enumerate(s,1):ax.plot(d.index,d.selected_secondary_ppm,color=COLORS[i],label=f'Ens {i}')
+   for i,(d,label) in enumerate(zip(s,labels),1):ax.plot(d.index,d.selected_secondary_ppm,color=COLORS[i],label=label)
    ax.set(ylabel=f'Δδ {atom} (ppm)',xlim=(330,446));ax.legend(ncol=5,fontsize=9)
   else:
    vals=[s[0].Exp_minus_pool_ppm]+[v.Exp_minus_selected_ppm for v in s]
    for ax,absolute in zip(axs[row],[False,True]):
-    for i,y in enumerate(vals):ax.bar(x+(i-1.5)*.2,np.abs(y) if absolute else y,width=.2,color=COLORS[i],label='Raw pool' if i==0 else f'Ens {i}')
+    for i,y in enumerate(vals):ax.bar(x+(i-1.5)*.2,np.abs(y) if absolute else y,width=.2,color=COLORS[i],label='Raw pool' if i==0 else labels[i-1])
     ax.axhline(0,color='k',lw=.5);ax.set(ylabel=f"{atom}: {'|Exp − Calc|' if absolute else 'Exp − Calc'} (ppm)",xlim=(329,447));ax.legend(ncol=4,fontsize=8)
  for ax in axs[-1]:ax.set_xlabel('AR residue')
  fig.suptitle(key+' | '+('secondary shifts' if secondary else 'signed and absolute residuals'));plt.show()
@@ -117,14 +123,16 @@ def guinier_estimate(q,I,sigma):
  return np.sqrt(-3*slope) if slope<0 else np.nan,mask
 
 def saxs(key):
+ c=META['conditions'][key];labels=c.get('selection_labels',[f'Ens {i}' for i in range(1,len(c['selected'])+1)])
  ds=curves(key,'saxs');d=ds[0];q=d.q_Ainv;exp=d.I_exp;err=d.sigma_exp;vals=[d.I_pool]+[s.I_selected for s in ds];fig,axs=plt.subplots(2,2,figsize=(16,9),layout='constrained')
  axs[0,0].errorbar(q,exp,yerr=err,fmt='k.',ms=2,alpha=.5,label='Experiment');mask=q<=.06;axs[1,0].plot(q[mask]**2,np.log(exp[mask]),'k.',label='Experiment')
  er,gm=guinier_estimate(q,exp,err)
  for i,v in enumerate(vals):
-  label='Raw pool' if i==0 else f'Ens {i}';r=(exp-v)/err;rg,_=guinier_estimate(q,v,err)
+  label='Raw pool' if i==0 else labels[i-1];r=(exp-v)/err;rg,_=guinier_estimate(q,v,err)
   axs[0,0].plot(q,v,color=COLORS[i],label=label);axs[0,1].plot(q,r,color=COLORS[i],label=label);axs[1,0].plot(q[mask]**2,np.log(v[mask]),color=COLORS[i],label=f'{label}: Rg={rg:.1f} Å');axs[1,1].plot(q,np.cumsum(r*r)/np.sum(r*r),color=COLORS[i],label=label)
  axs[0,0].set(yscale='log',xlabel='q (Å⁻¹)',ylabel='I(q), experimental scale');axs[0,1].set(xlabel='q (Å⁻¹)',ylabel='(Exp − Calc)/σ');axs[0,1].axhline(0,color='k',lw=.5)
  axs[1,0].axvline(.03**2,color='k',ls=':',label='Slope fit qmax=.03 Å⁻¹');axs[1,0].set(xlabel='q² (Å⁻²)',ylabel='ln I(q)',title=f'Low-q diagnostic: exp Rg={er:.1f} Å; qmax·Rg={.03*er:.2f}')
  axs[1,1].axvline(.04,color='k',ls=':');axs[1,1].set(xlabel='q (Å⁻¹)',ylabel='Cumulative fraction of SAXS χ²',ylim=(0,1));
  for ax in axs.flat:ax.legend(fontsize=9)
- fig.suptitle(key+' | raw and selected curves, each with its own analytical intensity scale');plt.show()
+ scaling='fixed experimental-I(0) normalization' if c.get('saxs_normalization') else 'individual analytical intensity scale'
+ fig.suptitle(key+' | raw and selected curves; '+scaling);plt.show()

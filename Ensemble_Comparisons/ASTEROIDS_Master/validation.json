@@ -4,8 +4,19 @@
   "AA_base_contacts_match": true,
   "AA_Sa_Rg_matches_existing": 3.017857710396754e-06,
   "helix_profiles_and_run_length_accounting": true,
-  "all_RMSDs_and_SAXS_metrics_match_published": true,
-  "summary_rows": 33,
-  "plot_figures": 40,
+  "historical_RMSDs_and_SAXS_metrics_match_published": true,
+  "aggressive_conditions_added": [
+    "WT_aggressive",
+    "AA_aggressive"
+  ],
+  "aggressive_schedules": [
+    "2x low q / 0.5x tail",
+    "4x low q / 0.25x tail"
+  ],
+  "aggressive_selection_size": 500,
+  "aggressive_selections_are_distinct_members": true,
+  "summary_rows": 45,
+  "plot_figures": 60,
+  "executed_code_cells": 63,
   "MD_frames": 57144
 }
