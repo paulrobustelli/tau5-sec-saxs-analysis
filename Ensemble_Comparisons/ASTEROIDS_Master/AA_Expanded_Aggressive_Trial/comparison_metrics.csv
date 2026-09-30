@@ -1,0 +1,41 @@
+ensemble,observable,RMSD,unit
+Raw pool,CA,0.39204251159974574,ppm
+Raw pool,C,0.4892799052297442,ppm
+Raw pool,CB,0.3432732057005327,ppm
+Raw pool,N,1.3538218999678746,ppm
+Raw pool,NH,0.16465420945622125,ppm
+Current fit,CA,0.30654385721275457,ppm
+Current fit,C,0.39565306722678145,ppm
+Current fit,CB,0.29143020294285105,ppm
+Current fit,N,1.3383182008174008,ppm
+Current fit,NH,0.15591602178195343,ppm
+2x low / 0.5x tail,CA,0.2951895401016064,ppm
+2x low / 0.5x tail,C,0.38330040245587116,ppm
+2x low / 0.5x tail,CB,0.2826364720543182,ppm
+2x low / 0.5x tail,N,1.3185567287370437,ppm
+2x low / 0.5x tail,NH,0.1538058893449921,ppm
+4x low / 0.25x tail,CA,0.29311766539358547,ppm
+4x low / 0.25x tail,C,0.38342892214510416,ppm
+4x low / 0.25x tail,CB,0.2792999510590551,ppm
+4x low / 0.25x tail,N,1.339732640669604,ppm
+4x low / 0.25x tail,NH,0.15289114912314003,ppm
+Raw pool,SAXS_chi2_all,9.181568297604569,chi2/point
+Raw pool,SAXS_chi2_low_q_lt_0p04,1.8233671630178931,chi2/point
+Raw pool,SAXS_chi2_middle_0p04_to_0p10,4.381580890096915,chi2/point
+Raw pool,SAXS_chi2_tail_ge_0p10,13.79921263132302,chi2/point
+Raw pool,calculated_Guinier_Rg_A,32.29627874825334,A
+2x low / 0.5x tail,SAXS_chi2_all,7.991946831342592,chi2/point
+2x low / 0.5x tail,SAXS_chi2_low_q_lt_0p04,1.8354318817124515,chi2/point
+2x low / 0.5x tail,SAXS_chi2_middle_0p04_to_0p10,0.9200970064284127,chi2/point
+2x low / 0.5x tail,SAXS_chi2_tail_ge_0p10,13.17586241728877,chi2/point
+2x low / 0.5x tail,calculated_Guinier_Rg_A,32.304721667934245,A
+4x low / 0.25x tail,SAXS_chi2_all,9.298263387500382,chi2/point
+4x low / 0.25x tail,SAXS_chi2_low_q_lt_0p04,1.0483370899711542,chi2/point
+4x low / 0.25x tail,SAXS_chi2_middle_0p04_to_0p10,1.6764633611251518,chi2/point
+4x low / 0.25x tail,SAXS_chi2_tail_ge_0p10,15.443460143722007,chi2/point
+4x low / 0.25x tail,calculated_Guinier_Rg_A,32.48991639824315,A
+Current fit,SAXS_chi2_all,18.317283198955792,chi2/point
+Current fit,SAXS_chi2_low_q_lt_0p04,18.19218164898937,chi2/point
+Current fit,SAXS_chi2_middle_0p04_to_0p10,36.39545602326587,chi2/point
+Current fit,SAXS_chi2_tail_ge_0p10,10.54897202053859,chi2/point
+Current fit,calculated_Guinier_Rg_A,31.164389747815793,A
