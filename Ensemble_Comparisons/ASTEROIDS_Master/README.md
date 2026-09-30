@@ -2,6 +2,10 @@
 
 [Open the executed notebook](Tau5_ASTEROIDS_master.ipynb) · [Download notebook](Tau5_ASTEROIDS_master.ipynb?raw=true) · [Standalone HTML](Tau5_ASTEROIDS_master.html?raw=true) · [Download portable bundle](Tau5_ASTEROIDS_master_bundle.zip?raw=true)
 
+## WT expanded aggressive-fit trial
+
+[Trial results: tighter CS scales plus 2x/0.5x and 4x/0.25x SAXS regional weighting](WT_Expanded_Aggressive_Trial/)
+
 All four starting pools and12 equal-weight selections; full-chain and matched AR391–446 structural comparisons with57,144 apo WT MD frames. Includes SAXS before/after, low-q diagnostics, secondary shifts, signed/absolute residuals, DSSP-H populations, Sα–Rg, contact maps and helix-length/Sα histograms.
 
 [Numerical ensemble summary](ensemble_summary.csv) · [SAXS error by q region](saxs_q_region_summary.csv)
