@@ -1,6 +1,9 @@
 {
   "simulation": "complete",
   "analysis": "complete",
-  "push": "pending",
-  "email": "pending"
+  "push": "verified",
+  "github_commit": "1cf6432756005f9e01dd24f1bb85be0cf4040d2a",
+  "email": "sent",
+  "email_message_id": "1a1284d673e2304b",
+  "recipient": "paulrobustelli@gmail.com"
 }
