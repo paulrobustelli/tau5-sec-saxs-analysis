@@ -1,0 +1,82 @@
+[
+  {
+    "variant": "WT",
+    "production_start_step": 4695000,
+    "segments": [
+      {
+        "file": "trajectory_partial.xtc",
+        "kind": "equilibration",
+        "unique_frames": 934,
+        "first_time_ps": 10.0,
+        "last_time_ps": 9340.0,
+        "sha256": "04d11c9d32d6e21b22afc8b4cf7060560fd2a794bafd0c6fa16f8f84ebe3a240"
+      },
+      {
+        "file": "trajectory_continuation.xtc",
+        "kind": "equilibration",
+        "unique_frames": 5,
+        "first_time_ps": 9350.0,
+        "last_time_ps": 9390.0,
+        "sha256": "3f3e3243858e000b0b84cd1c965f2766da6f5875fcf188d053a401084bec1a1d"
+      },
+      {
+        "file": "production_2us.xtc",
+        "kind": "production_cpu",
+        "unique_frames": 2,
+        "first_time_ps": 9400.0,
+        "last_time_ps": 9500.0,
+        "sha256": "3af30281d025fd9e66e80de598d6d6ac9e542397b4d5650d36ad7f7901e29c2a"
+      },
+      {
+        "file": "production_2us_gpu.xtc",
+        "kind": "production_gpu",
+        "unique_frames": 19998,
+        "first_time_ps": 9600.0,
+        "last_time_ps": 2009300.0,
+        "sha256": "c091d61f1fa622733db099dbc0f41b3ab861e0924e7e13368a22bed9cd4e025a"
+      }
+    ],
+    "analyzed_frames": 20000,
+    "final_time_ns": 2009.300048828125
+  },
+  {
+    "variant": "AA",
+    "production_start_step": 4675000,
+    "segments": [
+      {
+        "file": "trajectory_partial.xtc",
+        "kind": "equilibration",
+        "unique_frames": 930,
+        "first_time_ps": 10.0,
+        "last_time_ps": 9300.0,
+        "sha256": "dd9869ffe7a54a3ea1e5c94d1c402014db755af6104a286ac893e69a4d7faef6"
+      },
+      {
+        "file": "trajectory_continuation.xtc",
+        "kind": "equilibration",
+        "unique_frames": 5,
+        "first_time_ps": 9310.0,
+        "last_time_ps": 9350.0,
+        "sha256": "14a54f5a7b95caf71ceab44e9748078745c2b0b90e32c4e19d24d700d082aa80"
+      },
+      {
+        "file": "production_2us.xtc",
+        "kind": "production_cpu",
+        "unique_frames": 2,
+        "first_time_ps": 9400.0,
+        "last_time_ps": 9500.0,
+        "sha256": "85bfbeaa55e5c4c307d52fd9d39442ed2d4c19e1048fc29c357d28fb2ea60973"
+      },
+      {
+        "file": "production_2us_gpu.xtc",
+        "kind": "production_gpu",
+        "unique_frames": 19998,
+        "first_time_ps": 9600.0,
+        "last_time_ps": 2009300.0,
+        "sha256": "1749fc34df13f42b994714119a2622e49e62a35ce4bc020a0f451bcd2303b905"
+      }
+    ],
+    "analyzed_frames": 20000,
+    "final_time_ns": 2009.300048828125
+  }
+]

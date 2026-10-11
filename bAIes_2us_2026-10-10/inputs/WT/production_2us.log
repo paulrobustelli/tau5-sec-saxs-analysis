@@ -1,0 +1,7 @@
+CMAP torsions: 118
+bAIes restraints: 19
+OpenMM platforms: ['Reference', 'CPU', 'OpenCL']; using CPU {}
+Restarted from /Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/Tau5_bAIes_OpenMM_restart_2026-10-09/WT/continuation.chk at step 4695000
+#"Step"	"Potential Energy (kJ/mole)"	"Temperature (K)"	"Speed (ns/day)"	"Time Remaining"
+4700000	9863.011750251548	300.9065488974691	0	--
+4750000	9603.480162562173	297.7853911876498	121	16:13:51:29
