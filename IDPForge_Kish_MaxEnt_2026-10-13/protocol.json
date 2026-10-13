@@ -1,0 +1,12 @@
+{
+  "method": "Borthakur_MaxEnt_IDPs_2024",
+  "repository": "https://github.com/paulrobustelli/Borthakur_MaxEnt_IDPs_2024",
+  "commit": "44ef852f64fac7aa04e9c8216cafbafaf9629910",
+  "Kish_minimum_ratio": 0.1,
+  "conformers_per_variant": 200,
+  "minimum_effective_count": 20,
+  "error_adaptation": "IID ensemble SEM rather than MD time-block error; documented for independently generated IDPForge conformers",
+  "ASTEROIDS": "historical baseline only; selection algorithm not run",
+  "status": "corrected fits complete and verified; publication prepared",
+  "experimental_mapping": "one-based model residue = AR residue - 327; checked against native predictions"
+}

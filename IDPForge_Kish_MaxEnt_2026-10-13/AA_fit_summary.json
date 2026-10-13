@@ -1,0 +1,53 @@
+{
+  "variant": "AA",
+  "method": "Borthakur per-datatype and global Kish-calibrated maximum entropy",
+  "source_objective_sha256": "26c75a909ed72db764d4c4904637d8f268805ce9e87cfe20d10c9dd660ae0f49",
+  "Kish_min": 0.1,
+  "N": 200,
+  "single_datatype_sigma_reg": {
+    "C": 0.9011078310230439,
+    "CA": 0.6889628438268923,
+    "CB": 0.8512582625645495,
+    "H": 1.3946875887661867,
+    "N": 1.3534356570495982,
+    "SAXS": 0.05418119404427333
+  },
+  "global_factor": 0.05042659070834512,
+  "final_Kish_ratio": 0.10000240870267159,
+  "final_Neff": 20.00048174053432,
+  "largest_weight": 0.11506650513686258,
+  "ensemble_error": "IID standard error over independently generated conformers, replacing MD time-block error",
+  "metrics": {
+    "uniform": {
+      "Rg_CA_A": 31.3280426760115,
+      "Rg_allatom_equalweight_A": 31.241240849463303,
+      "DSSP_alpha_fraction": 0.006737288135593211,
+      "R2_alpha": 0.007727272727272727,
+      "R3_alpha": 0.009545454545454544,
+      "SAXS_chi2_mean": 120.65894616156899,
+      "Kish_ratio": 1.0,
+      "Kish_Neff": 200.0,
+      "RMSE_C_ppm": 0.5880616891438211,
+      "RMSE_CA_ppm": 0.5408342468331416,
+      "RMSE_CB_ppm": 0.5687787389914999,
+      "RMSE_H_ppm": 0.8091512987356763,
+      "RMSE_N_ppm": 1.2070422238053744
+    },
+    "Kish_MaxEnt": {
+      "Rg_CA_A": 34.149780180997205,
+      "Rg_allatom_equalweight_A": 33.8305032513269,
+      "DSSP_alpha_fraction": 0.006075951540136742,
+      "R2_alpha": 0.007044734765875786,
+      "R3_alpha": 0.0,
+      "SAXS_chi2_mean": 73.14030687912157,
+      "Kish_ratio": 0.10000240870267159,
+      "Kish_Neff": 20.00048174053432,
+      "RMSE_C_ppm": 0.5175289428462274,
+      "RMSE_CA_ppm": 0.5046718647853556,
+      "RMSE_CB_ppm": 0.5242858026217534,
+      "RMSE_H_ppm": 0.7683098331269668,
+      "RMSE_N_ppm": 1.102408769115584
+    }
+  },
+  "independent_validation": false
+}
