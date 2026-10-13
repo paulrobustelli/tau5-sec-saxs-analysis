@@ -1,0 +1,86 @@
+[
+  {
+    "case": "initial",
+    "term": "CMAPTorsionForce",
+    "RMS_difference": 1.7448149080976092e-07,
+    "max_difference": 2.98959815836497e-06,
+    "reference_RMS": 44.40373700391924
+  },
+  {
+    "case": "initial",
+    "term": "PeriodicTorsionForce",
+    "RMS_difference": 0.011328261544033488,
+    "max_difference": 0.215031843713831,
+    "reference_RMS": 72.7089150450381
+  },
+  {
+    "case": "initial",
+    "term": "CustomNonbondedForce",
+    "RMS_difference": 0.000883263540888339,
+    "max_difference": 0.00990467600968259,
+    "reference_RMS": 76.16345970874667
+  },
+  {
+    "case": "initial",
+    "term": "bond_plus_angle",
+    "RMS_difference": 2.682007264422159e-10,
+    "max_difference": 2.270098775625229e-09,
+    "reference_RMS": 1209.0603524253108
+  },
+  {
+    "case": "perturbed",
+    "term": "CMAPTorsionForce",
+    "RMS_difference": 1.924346557362504e-07,
+    "max_difference": 4.0642813701197156e-06,
+    "reference_RMS": 45.394510752688305
+  },
+  {
+    "case": "perturbed",
+    "term": "PeriodicTorsionForce",
+    "RMS_difference": 0.011531787260965229,
+    "max_difference": 0.2191228836707495,
+    "reference_RMS": 85.5099882428969
+  },
+  {
+    "case": "perturbed",
+    "term": "CustomNonbondedForce",
+    "RMS_difference": 0.0008738027517692884,
+    "max_difference": 0.009807356263706879,
+    "reference_RMS": 75.60866026738076
+  },
+  {
+    "case": "perturbed",
+    "term": "bond_plus_angle",
+    "RMS_difference": 2.627042356122115e-10,
+    "max_difference": 2.2552342215931276e-09,
+    "reference_RMS": 1309.3419700659683
+  },
+  {
+    "case": "expanded",
+    "term": "CMAPTorsionForce",
+    "RMS_difference": 1.7275431909208795e-07,
+    "max_difference": 2.9600077482427878e-06,
+    "reference_RMS": 43.964096043402506
+  },
+  {
+    "case": "expanded",
+    "term": "PeriodicTorsionForce",
+    "RMS_difference": 0.011216100540739278,
+    "max_difference": 0.21290281555445745,
+    "reference_RMS": 71.98902479638976
+  },
+  {
+    "case": "expanded",
+    "term": "CustomNonbondedForce",
+    "RMS_difference": 0.0007661745611561068,
+    "max_difference": 0.00862974761167834,
+    "reference_RMS": 65.09376922581852
+  },
+  {
+    "case": "expanded",
+    "term": "bond_plus_angle",
+    "RMS_difference": 2.8576426071350625e-10,
+    "max_difference": 2.8444731015042635e-09,
+    "reference_RMS": 1169.0764193679388
+  }
+]

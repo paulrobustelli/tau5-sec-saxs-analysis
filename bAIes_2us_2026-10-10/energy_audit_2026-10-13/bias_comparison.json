@@ -1,0 +1,16 @@
+[
+  {
+    "variant": "WT",
+    "frames": 5,
+    "max_energy_difference_kJ_mol": 1.461728516005678e-10,
+    "max_force_difference_kJ_mol_nm": 2.751638916720367e-10,
+    "force_RMS_difference": 5.568991496983341e-12
+  },
+  {
+    "variant": "AA",
+    "frames": 5,
+    "max_energy_difference_kJ_mol": 6.013323172737728e-11,
+    "max_force_difference_kJ_mol_nm": 2.808517862717963e-10,
+    "force_RMS_difference": 5.216315795104465e-12
+  }
+]
