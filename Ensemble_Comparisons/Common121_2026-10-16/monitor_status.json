@@ -1,0 +1,34 @@
+{
+  "checked_utc": "2026-10-16T07:10:07.510692+00:00",
+  "datasets": {
+    "bAIes_AA": {
+      "native_SAXS_done": 1000,
+      "fit_complete": true
+    },
+    "REST_WT": {
+      "native_SAXS_done": 1866,
+      "fit_complete": true
+    },
+    "IDPForge_WT": {
+      "native_SAXS_done": 1000,
+      "fit_complete": true
+    },
+    "bAIes_WT": {
+      "native_SAXS_done": 1000,
+      "fit_complete": true
+    },
+    "IDPForge_AA": {
+      "native_SAXS_done": 1000,
+      "fit_complete": true
+    }
+  },
+  "native_driver_pid": 90361,
+  "fit_watcher_pid": 244,
+  "publication": "pending all requested fits and comparisons",
+  "email_sent": false,
+  "next_steps": "Visually inspect final HTML/figures; curate report and provenance publication bundles; publish scoped repos, verify remote hashes; send one email.",
+  "notebook_executed": true,
+  "notebook_code_cells": 17,
+  "notebook_errors": 0,
+  "native_vm": "Safely stopped after all current native jobs completed; Common_SAXS/completed_shutdown.json"
+}

@@ -1,0 +1,55 @@
+{
+  "ensemble": "bAIes_WT",
+  "N": 1000,
+  "datatype_theta": {
+    "C": 1.2879247063132233,
+    "CA": 1.1792990483606385,
+    "H": 1.4643780706753105,
+    "N": 2.2457924645656173,
+    "SAXS": 0.6005183824980108
+  },
+  "global_theta": 1.4748259961933703,
+  "scale_uniform": 191.70266710513383,
+  "scale_MaxEnt": 151.0861276885727,
+  "Kish_ratio": 0.1000001859059818,
+  "max_dual_gradient": 2.01742606509292e-08,
+  "logscale_primal_gradient": 5.919046330848943e-08,
+  "metrics": {
+    "uniform": {
+      "Rg_CA_A": 41.859564752581,
+      "Rg_AR391446_CA_A": 23.199440646972665,
+      "Sa_full": 5.041615060604326,
+      "Sa_AR391446": 4.178061489461248,
+      "Kish_ratio": 0.9999999999999887,
+      "Neff": 999.9999999999887,
+      "SAXS_chi2_mean": 69.50023876604399,
+      "RMSE_C_ppm": 0.5759937207803596,
+      "RMSE_CA_ppm": 0.5947766626135158,
+      "RMSE_H_ppm": 0.7695445987876877,
+      "RMSE_N_ppm": 0.9969950973782975,
+      "R2_main_DSSP_H": 0.12999999999999956,
+      "R2_minor_DSSP_H": 0.0007142857142857142,
+      "R3_DSSP_H": 0.0004545454545454546
+    },
+    "MaxEnt": {
+      "Rg_CA_A": 38.49474193419052,
+      "Rg_AR391446_CA_A": 22.409778224205695,
+      "Sa_full": 5.195434946977245,
+      "Sa_AR391446": 4.300021472787272,
+      "Kish_ratio": 0.10000018590598182,
+      "Neff": 100.00018590598182,
+      "SAXS_chi2_mean": 110.36619340638089,
+      "RMSE_C_ppm": 0.5316329015271918,
+      "RMSE_CA_ppm": 0.5388681597350438,
+      "RMSE_H_ppm": 0.7202788886826399,
+      "RMSE_N_ppm": 0.8639482191676792,
+      "R2_main_DSSP_H": 0.14720073316357307,
+      "R2_minor_DSSP_H": 0.0010233939001682635,
+      "R3_DSSP_H": 3.4986194045612254e-05
+    }
+  },
+  "sampling_error": "MDblocks;100ns blocks for correlated ensembles, fixed uniform-prior sampling error during calibration",
+  "CS_reuse": "Original120res predictions retained for terminallyextendedIDPForge/bAIes by explicituserinstruction; comparisonobservationscommonAR330446",
+  "SAXS": "IdenticalcanonicalPepsi3.0dro5defaultFraserradius,oneglobalensemblescale/nooffset,noindividualscales",
+  "independent_validation": false
+}

@@ -1,0 +1,55 @@
+{
+  "ensemble": "IDPForge_WT",
+  "N": 1000,
+  "datatype_theta": {
+    "C": 1.1075590578843366,
+    "CA": 1.4551433745337248,
+    "H": 1.239366107232336,
+    "N": 3.4838095858597193,
+    "SAXS": 0.41653894155324556
+  },
+  "global_theta": 1.8036929770427363,
+  "scale_uniform": 171.28050191106865,
+  "scale_MaxEnt": 137.85580365361693,
+  "Kish_ratio": 0.10000062354521096,
+  "max_dual_gradient": 1.844819569329914e-08,
+  "logscale_primal_gradient": -2.0791144449971988e-06,
+  "metrics": {
+    "uniform": {
+      "Rg_CA_A": 34.43413765350559,
+      "Rg_AR391446_CA_A": 24.13990606371806,
+      "Sa_full": 4.869427063850194,
+      "Sa_AR391446": 4.00972018655378,
+      "Kish_ratio": 0.9999999999999887,
+      "Neff": 999.9999999999887,
+      "SAXS_chi2_mean": 87.58031899002182,
+      "RMSE_C_ppm": 0.5146383237547891,
+      "RMSE_CA_ppm": 0.6366639728824963,
+      "RMSE_H_ppm": 0.6946611233743321,
+      "RMSE_N_ppm": 1.3582636213124304,
+      "R2_main_DSSP_H": 0.123933333333333,
+      "R2_minor_DSSP_H": 0.04757142857142854,
+      "R3_DSSP_H": 0.011545454545454546
+    },
+    "MaxEnt": {
+      "Rg_CA_A": 29.868050624574234,
+      "Rg_AR391446_CA_A": 21.598602473869285,
+      "Sa_full": 5.790667569198152,
+      "Sa_AR391446": 4.417924463916965,
+      "Kish_ratio": 0.1000006235452109,
+      "Neff": 100.0006235452109,
+      "SAXS_chi2_mean": 70.28793917111334,
+      "RMSE_C_ppm": 0.4787613562800092,
+      "RMSE_CA_ppm": 0.5799192359586705,
+      "RMSE_H_ppm": 0.6718049718289264,
+      "RMSE_N_ppm": 1.1506302218362763,
+      "R2_main_DSSP_H": 0.14602336351700068,
+      "R2_minor_DSSP_H": 0.052964687981036915,
+      "R3_DSSP_H": 0.010461281065098504
+    }
+  },
+  "sampling_error": "IID;100ns blocks for correlated ensembles, fixed uniform-prior sampling error during calibration",
+  "CS_reuse": "Original120res predictions retained for terminallyextendedIDPForge/bAIes by explicituserinstruction; comparisonobservationscommonAR330446",
+  "SAXS": "IdenticalcanonicalPepsi3.0dro5defaultFraserradius,oneglobalensemblescale/nooffset,noindividualscales",
+  "independent_validation": false
+}

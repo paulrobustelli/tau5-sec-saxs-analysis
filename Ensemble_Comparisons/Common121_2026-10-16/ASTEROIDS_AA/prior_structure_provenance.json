@@ -1,0 +1,8 @@
+{
+  "N": 2000,
+  "residues": 121,
+  "archive": "/Users/paulrobustelli/Documents/Codex/2026-09-28/is-th/outputs/Ensemble-Selection/refined_reproducibility/W397A_W433A/prepared_pool.tar.gz",
+  "archive_sha256": "c86d96da3c41e2c99de04240ce17787d52e38443edacc66d9c657867457e2c98",
+  "order": "predicted_dro5.csv conformer_id",
+  "selection": "uniform original prior"
+}

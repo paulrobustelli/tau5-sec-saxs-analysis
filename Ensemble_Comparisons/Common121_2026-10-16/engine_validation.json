@@ -1,0 +1,11 @@
+{
+  "scale": 2.2999487800489464,
+  "Kish_ratio": 0.4324684745787364,
+  "dual": -0.434313748876597,
+  "max_gradient": 1.2273067114034202e-07,
+  "logscale_primal_gradient": 2.719914314783592e-06,
+  "primal": 0.43431374887664215,
+  "dual_gradient_fd": 0.1107500173513909,
+  "scale_gradient_fd": 2.7198243657267085e-06,
+  "checks": "dual finite differences; sharedscale envelope finite differences; independent primal/dual equality; scale stationary"
+}
