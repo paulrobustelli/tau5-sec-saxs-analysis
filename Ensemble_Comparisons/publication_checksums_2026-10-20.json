@@ -16,8 +16,8 @@
   },
   {
     "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/Tau5_All_Ensembles_Master.ipynb",
-    "sha256": "e28b42300326c328551efe52e466ce52397fa1c103103be1c92e32acc6f67e9f",
-    "bytes": 35018628
+    "sha256": "4396ccb5d8b6e1fd23de5e6cadb4f33c279a9876b949472378024dfd3679c331",
+    "bytes": 516128
   },
   {
     "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/execution_validation.json",
@@ -7428,5 +7428,695 @@
     "path": "Ensemble_Comparisons/Hydrophobic_SAXS_audit_2026-10-16/ASTEROIDS_AA/chunk_01780.npz",
     "sha256": "a9e4479416b25cd0e5daf52e8335621a9a86a5c19b23a6d45c3682d825a2a62f",
     "bytes": 4889
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_028.png",
+    "sha256": "5516b345c3e0f154dd5d48dca745870a59d6eff549278edecddf5cfe16b60041",
+    "bytes": 348097
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_014.png",
+    "sha256": "6d2e0e8d0cf3b6acd182c284f4366aaf53f120ec8a8f66e62ce43222fecef860",
+    "bytes": 374206
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_001.png",
+    "sha256": "e507b076231c04ec4332ea9446ea41092c488b3f0c7e512d292a1e17b67e409f",
+    "bytes": 337944
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_015.png",
+    "sha256": "de3753a2e454647eebeeffaba368c71281e7e7fc92e9c0e57f89aa239154f091",
+    "bytes": 286630
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_029.png",
+    "sha256": "47aa54ff826c617f2ae2130415488471a603c2475c3908509344db5aea2358a4",
+    "bytes": 188116
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_003.png",
+    "sha256": "a37ecdb7be8aaa6f99672b829ab7e82450a89dc7caee93c012bbd227738ca929",
+    "bytes": 147389
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_017.png",
+    "sha256": "381dc71a820b82c60a8f0b5d4ea12de20b0cf41f7ecaf273b38b7cfeda96cfda",
+    "bytes": 540434
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_016.png",
+    "sha256": "b5af35b1e2171633aee29dc158ee4f4e4569406ce037c5c1afd907e1b3587587",
+    "bytes": 309645
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_002.png",
+    "sha256": "2b7b1fa785eaa591f411dec1bd600a17580af206b838677757c361e8b5f319cd",
+    "bytes": 153411
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_006.png",
+    "sha256": "45d73c154c6e21b5ec18806158c393529e09b3f7bbad4c35db5492d36d49e11a",
+    "bytes": 222296
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_012.png",
+    "sha256": "152c888054b8d4faf59ca052f52b2b565af9c5539f6943bbae25490e53116391",
+    "bytes": 177946
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_013.png",
+    "sha256": "3859088c300282319f1bbaa597132766483b9d82da3328632ffc5e1c1b3658be",
+    "bytes": 166020
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_007.png",
+    "sha256": "c4be8c6ff0b286d963e76372263a07fa229753c74c92380b701d1fb878b21c47",
+    "bytes": 89347
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_011.png",
+    "sha256": "f43b19797e4da91dcf0022c0ea51d8f69d9ed7153e072908ef0ae739c92db49b",
+    "bytes": 418993
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_005.png",
+    "sha256": "bdfe4298731fdf92c691bd3c1bd1b1093cf83c5128fd295fc0849daa30b4a4d2",
+    "bytes": 224961
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_039.png",
+    "sha256": "301be00e72d44a3e40a1c7b478a307a446802b0ba5f1f289646fe7c7090049dd",
+    "bytes": 107198
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_038.png",
+    "sha256": "513dca1f2f02de4f8857005e1968b9dffc22c9f375820e48f5457877a5f10013",
+    "bytes": 189152
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_004.png",
+    "sha256": "013fc4e1fd866060fcd8a315cca761c39b161e1eaf0d97d892f674373980947e",
+    "bytes": 150510
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_010.png",
+    "sha256": "2b878670acb2e5739ceb16b1ec3ba2946f47c536c3d62d0776670e1c0ee9e413",
+    "bytes": 388822
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_088.png",
+    "sha256": "8691c8069307c0d518db03c9e99bffd2f9081041dfb0240b60f1b55dec0cee33",
+    "bytes": 127734
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_077.png",
+    "sha256": "153e0fb188660a1469bf286ecc85c67fc25533e30f295a17db1af81e6a980b02",
+    "bytes": 196472
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_063.png",
+    "sha256": "a341eb9593d790db72c16075d2dffca366cfbb5cc9dfd693cc84e0c3f9d877f5",
+    "bytes": 145846
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_103.png",
+    "sha256": "d9058d5432f579434ac132e1e2b458804bf386f53ba4b1555a17f15b238f197e",
+    "bytes": 110025
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_117.png",
+    "sha256": "6ee27a69c07a2cf2523bef1d5b7a9ac33ccc180f75d10326208cf9d7cc7d8c82",
+    "bytes": 69951
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_116.png",
+    "sha256": "bde5acac39e9426685f9a69fe22fdb0d3c933a270341d7d16446db1d3adeae2b",
+    "bytes": 113133
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_102.png",
+    "sha256": "c8b84b52c2553c361e848ec7f03d80e85f28580f2450ff33a638372e93539597",
+    "bytes": 124035
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_062.png",
+    "sha256": "53af8abba028bebf5363d777c0fdbbe348385d6c5ce4f8df058ff737040bb4e4",
+    "bytes": 104957
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_076.png",
+    "sha256": "33b466c864c8668b2d066e3ee45fcf26522b4376605344f0c07bdebe8a914cb7",
+    "bytes": 66505
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_089.png",
+    "sha256": "2398bfdee76744629f11c4af1a575c33cacc1efaa34b43bf6deb1bfd026f2f40",
+    "bytes": 71871
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_048.png",
+    "sha256": "02991aff7d9a31aed8fccdeb344a8186213aaf4ae68547e7b4d16e1fee17e85b",
+    "bytes": 211283
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_060.png",
+    "sha256": "fc633f2febeb8bc10f30321f0087db38dd51551182115018559f8917c4bea6a6",
+    "bytes": 154298
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_074.png",
+    "sha256": "07548629ba26323237429ab39379732bdcc1cf5a1baa76910d270cb0bd5b9a98",
+    "bytes": 34409
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_128.png",
+    "sha256": "efd772e43590d6440960349490dc90db6b751fc79d9ea9e79b240596198926d2",
+    "bytes": 73488
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_114.png",
+    "sha256": "11eef3a88e120993147bc8255bd36375978ff0a0b035ab259af0173cd890c81f",
+    "bytes": 182518
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_100.png",
+    "sha256": "2726bd0a06ba6d32b710903994e416fb9b7cb445c58e20214114b845db42fb5c",
+    "bytes": 78939
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_101.png",
+    "sha256": "765d654156a7d37c7517696873f846a098da54b2c94de3ce4cfd2318b2bd8df3",
+    "bytes": 190411
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_115.png",
+    "sha256": "b7f913a528d744252e3c0bf42319f6555f00466cb06b20e1be31015f3f1fdbac",
+    "bytes": 174671
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_129.png",
+    "sha256": "1af3d7a5c2e4579b5b2d5e6a6d98d4ada91d533342266baa2d6b02ff6d31dcf7",
+    "bytes": 204954
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_075.png",
+    "sha256": "2989ab7a5f9b373d4ac0cfa51c09366e07e087a7be915158203c344468a16117",
+    "bytes": 157391
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_061.png",
+    "sha256": "b02d5e11a1ae00c3cff8609bdf2cbba7f645d563b6d62a2068b1db107b10b835",
+    "bytes": 126875
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_049.png",
+    "sha256": "65d02861f4c67f65609342405defb01d1800f4d87d9a30e423b52b9b1a9df5a3",
+    "bytes": 143667
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_065.png",
+    "sha256": "56278394f76b3ccc6c84ed0509490847be3e04bf3d815ed282c13d50977631ee",
+    "bytes": 142053
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_071.png",
+    "sha256": "ac288c9469d50e3ac548084da5212c3fcbf169d6334b997e92d45bea3d73a15d",
+    "bytes": 452862
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_059.png",
+    "sha256": "e63ae4cf6559259e53e1c5eb9b774c9c408719c5674b5b18fe00dd68883c7f05",
+    "bytes": 142416
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_111.png",
+    "sha256": "e8a898bde135355b884b33fe31e372b906419064df73d50a178c5d601d3bd590",
+    "bytes": 126046
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_105.png",
+    "sha256": "f99bfbb46867baa6859ce42f6c877a1be56f1d984b9d0d1c18aedd9b3879b4b6",
+    "bytes": 178484
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_138.png",
+    "sha256": "37d82b86825fecf15a2f250252a94dd31df062b0f7b6906903bde689b1a2519c",
+    "bytes": 76819
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_104.png",
+    "sha256": "16df5ccf34d3550b2dd2b678f11cc0a6b1504cd6a6db74a67cd2980428d450ca",
+    "bytes": 110877
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_110.png",
+    "sha256": "08f8f80dc44f4ae8dfd6681f5778a17a600e1164601c706b1894384a6d73340c",
+    "bytes": 193499
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_058.png",
+    "sha256": "77c7b3e5bc209867c01a735e52eca964d696c3905ef768af8001d62374b86c35",
+    "bytes": 103546
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_070.png",
+    "sha256": "32671ba41313ce4719d26c688233ba8e85dcf22f1181517ca53a274b10f61123",
+    "bytes": 106274
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_064.png",
+    "sha256": "c2d66f8f9359b8723e9565ed193bc9eabe4863f060ca56997c1ff693a951c852",
+    "bytes": 182772
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_099.png",
+    "sha256": "d880293bc9cb8f5bfe91ac298a43d014e5a1859eb15dd68ba3214bf55eb5591d",
+    "bytes": 61334
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_072.png",
+    "sha256": "e1dd9d9d2aa0228bbae2476f16469781e54d5beef2562d93be23ec073c1830b7",
+    "bytes": 400584
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_066.png",
+    "sha256": "ae3886a82ad64a5d103159ad6d282b828c5eb438c4e47b44379735586197d112",
+    "bytes": 107345
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_106.png",
+    "sha256": "105ede3add88ff0c785e96f252a3f6f991605464403b9937f424a68587686c4e",
+    "bytes": 173800
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_112.png",
+    "sha256": "2aca56c2faa7f497c56f5ceb50b20a2406d4acb3ef2b5deb2afac60eb0ba04e9",
+    "bytes": 110595
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_113.png",
+    "sha256": "ce07f5672ea96353b286bb64bc9f94c3852cc6a0a418aae5fa2460f56fac8abf",
+    "bytes": 108399
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_107.png",
+    "sha256": "358c82de94a98f3470104c484327dafcbd679de6b91bc8913f209b590e86812c",
+    "bytes": 112556
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_067.png",
+    "sha256": "70c07ffc7301e78c6ed5887edad98cc8e2e46fba94889da01eeb1d08febcd317",
+    "bytes": 151129
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_073.png",
+    "sha256": "f26c3609e4d30841411ef1ba7652c67f577cfc57963c24a430f8c5fa43935ead",
+    "bytes": 401167
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_098.png",
+    "sha256": "d44fb6cb842f4b4bb8dad705731e17bb05b68cca9e6a0dfb67bd9fa8c885405f",
+    "bytes": 126834
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_095.png",
+    "sha256": "a5cbac6ef011926cf1c0e50f531729e85affa3f500c22ade2f91f6874ae8b525",
+    "bytes": 86910
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_081.png",
+    "sha256": "d11a8674d536de3c2ce9b318c4a548054577e2618b6cf1d220ce868ff4d530b7",
+    "bytes": 198283
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_056.png",
+    "sha256": "9fe569024d351c854c96291960450617f1dd57ae8a53e9364a83ad62e8e65d36",
+    "bytes": 154058
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_042.png",
+    "sha256": "8197cb5d765e58e2627110d0e4595f7dd28ce8c3f8a6968ddb14cbb109e7f2fc",
+    "bytes": 127337
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_122.png",
+    "sha256": "638975eee0272b3483363920f25f3e6a779584795e734f41615987af369c23ee",
+    "bytes": 137366
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_136.png",
+    "sha256": "efd9060e4dbee09cf0c0ab699666eccfa0b7b21420160f1226a5286c1a707c3d",
+    "bytes": 111704
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_137.png",
+    "sha256": "b0c6fdf824262379edd32df3e75ba8a82dc86a5620b46536bfb082c2a4e36f14",
+    "bytes": 61955
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_123.png",
+    "sha256": "384a0590cf59b42fddd48286f942a7007fccdcfc9f7cd9e16bc6931a8d86b02b",
+    "bytes": 105673
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_043.png",
+    "sha256": "6a404662ec3abb914c22d8bbdd918c2438a5d926cc0589d79d9020d2b39104bc",
+    "bytes": 152781
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_057.png",
+    "sha256": "928ea78c639408f401914f6526e65a15c003e74706b70453185eb08e6d0d39c4",
+    "bytes": 122951
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_080.png",
+    "sha256": "654c0c68bc52f7b5efdffae4014fbd14c8c78b0c9e3c476320b403ed6fe2dc7f",
+    "bytes": 207155
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_094.png",
+    "sha256": "e6580e5f74b9099e57f7974434fc36f2465b902fcf1b01acf3ba96660bf18564",
+    "bytes": 106443
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_082.png",
+    "sha256": "6e9a9d6ecda2fcef54910e7791d2b3777b8487bafebb1b67c11ca5b26bcdf909",
+    "bytes": 118917
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_096.png",
+    "sha256": "af5eb5787ea7b1873429216c4598c484f485d354d4489ea099bbfcd291af5f32",
+    "bytes": 158074
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_069.png",
+    "sha256": "93627adba021c618df9789b92277a68b5e21faca83c8e6c9f02e170a411003bd",
+    "bytes": 136435
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_041.png",
+    "sha256": "36e0fde0c5efffb416549c7483be7999453aeac452f2df8762a58cabd24e48b8",
+    "bytes": 183772
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_055.png",
+    "sha256": "87bf9ee973194a017d527214d490592aaf37f7977d6ca8bc72cbd7b5ffd540b2",
+    "bytes": 142290
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_109.png",
+    "sha256": "38563999ac0399a0dfa8f2e797e05395effb35ff9692a9602ccced522de7fa52",
+    "bytes": 76861
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_135.png",
+    "sha256": "937bd8546fc2a1e212c887ab66237a70281ac769b5f6e4fb1fad43325360669d",
+    "bytes": 171697
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_121.png",
+    "sha256": "b2d0b7c33a5a2b69155ca88a9f5ab2eebed51fdb87ce53b3658172a5ba791f6f",
+    "bytes": 552185
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_120.png",
+    "sha256": "81f0bcf1bac4460875c7b685d4cf2dfb8e9911fac599b27496797083fe298b5a",
+    "bytes": 126346
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_134.png",
+    "sha256": "5fca84a0b8162b617c9bda12c84ca20faf9f64f172891a24e4edcb01e8e6954b",
+    "bytes": 193356
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_108.png",
+    "sha256": "a2f9554e09c12b904ae5dd22e91aeb39358a59813b7b929f91be660eb66da9c1",
+    "bytes": 62159
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_054.png",
+    "sha256": "0a160b4177e7edd6b2104c7863c94b441bd3c7ab6049fcaa2da4f306c7a8c2e0",
+    "bytes": 115007
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_040.png",
+    "sha256": "f48c1065b82951db907284bc9c229df4ac159394d6177e7af7ebc85671d1be6d",
+    "bytes": 440932
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_068.png",
+    "sha256": "4b91b71cfb91f33c1c413cff9707434e7982e6e1c2f6f3f52b1ddaafd51f4e71",
+    "bytes": 171779
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_097.png",
+    "sha256": "fb3a8249ee99361924c7663884421ce018c27a64437c89e1d5295106fdbbe922",
+    "bytes": 132517
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_083.png",
+    "sha256": "9956e32ee29e191361b90aba5783d208616630959f7cb73dd0d5640cf1c02d87",
+    "bytes": 458781
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_087.png",
+    "sha256": "905b9e70f222394d724b3143b4dabb5e7f9d1e4865db3fd663d30f0b88126b5a",
+    "bytes": 137025
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_093.png",
+    "sha256": "4e989bed2872a84c7f34724ca0d0b62823312214d60a2b842c05b3f004c54050",
+    "bytes": 529640
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_044.png",
+    "sha256": "54b9aa4ea1dfc78e0493505d81576220ef1969813ff710ba92866c906a9b4a9b",
+    "bytes": 204091
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_050.png",
+    "sha256": "0f491f046c3d555b0d791798bc17860521ae06997ecf032951fe15ca108838a4",
+    "bytes": 109748
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_078.png",
+    "sha256": "067c261a34ad7c941fb0108c8284520ae600e52f7c7aaebee320e73c409505dc",
+    "bytes": 200081
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_130.png",
+    "sha256": "34a755d75957578a39a85e7fad65ccb75991e5cc5f8bf8308e8d238627cf0ac4",
+    "bytes": 125046
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_124.png",
+    "sha256": "c61eaed8e4265963303131cc94718d54b0d4ccf39084bfd2b7da58c11130ed11",
+    "bytes": 187221
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_118.png",
+    "sha256": "b58df3f040382cfb57e9876b4e9a46ac725763860884f100759b21bb3be3ff9b",
+    "bytes": 77864
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_119.png",
+    "sha256": "5f99293768d26500fc4c01b51875b529ad08fd16b866e7d46a362c6be49b2297",
+    "bytes": 203732
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_125.png",
+    "sha256": "29f7a514e6bd503e11b7747be60b0c09ec313f4d25c481a4828eed810b260f27",
+    "bytes": 171236
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_131.png",
+    "sha256": "2a3f54ba1272041ee57c0b251b47b529517e396268988cab9b482adcce44a104",
+    "bytes": 550466
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_079.png",
+    "sha256": "1525a1082f777a72cd9e94b47950a4ef8681350aae776cbfb2ac9292502fd874",
+    "bytes": 200995
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_051.png",
+    "sha256": "bbdb13ff24d54c5f05c9a399ca6084d4eaa64a22f553a4f922968a2fc065aa41",
+    "bytes": 133961
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_045.png",
+    "sha256": "350c4f5de725a33c229e7756a7ae87915153747727b71404e6058b8d5917a058",
+    "bytes": 147369
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_092.png",
+    "sha256": "25fb098cf07e4e4c25336535ae0df3d2bbe3ff1ae65a0f5f2cd30b7b5edaa535",
+    "bytes": 144845
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_086.png",
+    "sha256": "6abb7d1722d50c407a231b6019b6d491240cd580a88bb8ff6aa91452431167a2",
+    "bytes": 150051
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_090.png",
+    "sha256": "7eb5c0298aa3446ca2c2440adecc280736506117dff399eb18a051c610255a9f",
+    "bytes": 79988
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_084.png",
+    "sha256": "944626b261de689a6faf28f588d168bb8489ce8f76167dd9c000935e99881e47",
+    "bytes": 106745
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_053.png",
+    "sha256": "db97525ddb6980742e70ac566d87cfa9fa9c174852738d96b3289dc4056ec365",
+    "bytes": 171454
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_047.png",
+    "sha256": "57465f986c27c69657b4f6e74b77820879c58f8399a6d6022b4b77fd32767293",
+    "bytes": 157067
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_127.png",
+    "sha256": "15cfd0d4337abcd48b7efbf00cb5212d35052c91a1322ccb632771fecb68812b",
+    "bytes": 67024
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_133.png",
+    "sha256": "95ea7e2b5f17b73cedf546799ad40fa0d0940399f427e92f5a90869fdf67f41d",
+    "bytes": 109377
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_132.png",
+    "sha256": "05dd90a166afb1f9d1feae96a84c7d5b1c045fd0cb0e0fadc593f8d99f3736cc",
+    "bytes": 137567
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_126.png",
+    "sha256": "4bcfea9a3ce3c64b3005e8f513130bfc311b0cd468406eccd88d7d47db620b16",
+    "bytes": 111244
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_046.png",
+    "sha256": "edcef536e7b6367d4e289559404016d4e9e7ad1961a7c089d2e181728e0ab027",
+    "bytes": 110512
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_052.png",
+    "sha256": "6591e403c7c5cec0f673fdd2f2af9cf41649cd063d1beddbe316d1ea1d667f24",
+    "bytes": 197049
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_085.png",
+    "sha256": "1190da07bdf57cfc6aaa1b32a70e58027a2936e5d4690f1cf5ac648b892b881e",
+    "bytes": 80270
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_091.png",
+    "sha256": "7ef1477669ab5ad0af61df74fa72e4747382a81bd34c4139a907824289cce87e",
+    "bytes": 202691
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_009.png",
+    "sha256": "4bc13ab89fb14533e7e971689d593daab659dbbba8ca3ad51450bf824ae262bc",
+    "bytes": 200164
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_035.png",
+    "sha256": "a6a7f4c4651b461f4bfdb9431c50ab1d70b50e37f83999327c6c50cd56cc954b",
+    "bytes": 178738
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_021.png",
+    "sha256": "1aa60743d82555e883ad86f8990536cb2b22099e5feb65f1b9ba88964d7b5d1b",
+    "bytes": 122478
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_020.png",
+    "sha256": "8ff73c7adb61b748ab3aac413cac6912ab530e57446b452dc34a04bac3e6b8ba",
+    "bytes": 239882
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_034.png",
+    "sha256": "68266cf0984a72b278092618ac42840f914368c3d7c52bc037be5ba029f561a7",
+    "bytes": 422478
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_008.png",
+    "sha256": "adbe0d36158fbbc4bb28f950d34021ed3ac225f6c080af17729685e25a30a8af",
+    "bytes": 79062
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_022.png",
+    "sha256": "741d6eeea65d25983b0b63b3ff8e41fa99992ad564c6d39eff241db3373191f7",
+    "bytes": 348307
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_036.png",
+    "sha256": "8a1b0b42f1257ab68ac922276381d769483223ceb3484a4709061bbbb8400a7e",
+    "bytes": 113411
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_037.png",
+    "sha256": "fee5b4e13b38532d856bdd8c4dd6113d08aaa5e21c98218a895fbe99b6b75149",
+    "bytes": 344948
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_023.png",
+    "sha256": "3f9b3e35f2b8808e8f04121dd361cd48364c1b281d366970215451f3d8ecbf0b",
+    "bytes": 185041
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_027.png",
+    "sha256": "3ac8fa2f624b59878b63f3dc4f658a2d0de24208a19953e8c102c34e869a610b",
+    "bytes": 121760
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_033.png",
+    "sha256": "f3e0f9e30df85a324bdc49970382d3354f738fe0f0c20ba211cbca9736dd0b9e",
+    "bytes": 107539
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_032.png",
+    "sha256": "3c88cfcf516d6304ae52ce15ec9b7f6641bb408ecfc7d017043baeebbd0ac73b",
+    "bytes": 174457
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_026.png",
+    "sha256": "4aa5450755adf45cb0e62e80205056173795a9fcfc02a80994ccb85ff9d55382",
+    "bytes": 182783
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_030.png",
+    "sha256": "0814a3716d993f0125442a7049aac848f862645efe580b0b0b6dc345432e6d55",
+    "bytes": 115243
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_024.png",
+    "sha256": "73a4d5db4946b77fbb04d9f9602b6ad7e16e08b1a44e43cd46b98f1fddbf1b8a",
+    "bytes": 123273
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_018.png",
+    "sha256": "798a51760ff4384815d3a0dba0edcf5a4230d6b81883f161c96336322c39b27a",
+    "bytes": 972840
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_019.png",
+    "sha256": "9cf7dc3584bc51b052b1a95a940ff35ce549afcf8e1d6f5e5bb29d190b2b6e23",
+    "bytes": 209130
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_025.png",
+    "sha256": "71f6d6a11841ed610a6dc193aa41d00f8240906a0ad1d8f11f22a1538f4a4433",
+    "bytes": 422107
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_031.png",
+    "sha256": "19ada3d2db65bfa6824dbbb8749a69b8a519fce6fdbf29c90f79950d1cc9b2ca",
+    "bytes": 341164
   }
 ]
