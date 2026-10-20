@@ -71,7 +71,7 @@ for i,v in enumerate(['WT','AA']):
 save(fig,'CA_residuals_all_methods');pd.DataFrame(coverage).to_csv(D/'CA_common_coverage.csv',index=False)
 # Weighted density contours let all methods be visible on the same axes.
 for view,rgcol,sacol in [('full',0,2),('R2R3',1,3)]:
- fig,axs=setup('All methods: Sα–Rg '+view+' — solid 50%, dashed 80% contours (1.2-bin Gaussian smoothing)')
+ fig,axs=setup('All methods: Sα–Rg '+view+' — dotted 50%, solid 75% contours (1.2-bin Gaussian smoothing)')
  allv=np.concatenate([arrays(n,j)[0][:,[rgcol,sacol]] for n in names for j in [0,1]]);rb=np.linspace(0,np.ceil(allv[:,0].max()/5)*5,51);sb=np.linspace(0,np.ceil(allv[:,1].max()/5)*5,51)
  for i,v in enumerate(['WT','AA']):
   for j in range(2):
@@ -80,7 +80,7 @@ for view,rgcol,sacol in [('full',0,2),('R2R3',1,3)]:
     vals,w=arrays(n,j);hist,_,_=np.histogram2d(vals[:,sacol],vals[:,rgcol],bins=[sb,rb],weights=w);assert np.isclose(hist.sum(),1)
     hist=gaussian_filter(hist,1.2,mode="reflect");hist/=hist.sum()
     ordered=np.sort(hist.ravel())[::-1];cum=ordered.cumsum()
-    for mass,ls in [(.8,'--'),(.5,'-')]:
+    for mass,ls in [(.75,'-'),(.5,':')]:
      level=ordered[min(np.searchsorted(cum,mass),len(ordered)-1)]
      if level>0:ax.contour((sb[1:]+sb[:-1])/2,(rb[1:]+rb[:-1])/2,hist.T,levels=[level],colors=[colors[method(n)]],linestyles=[ls],linewidths=1.2)
     ax.scatter(w@vals[:,sacol],w@vals[:,rgcol],color=colors[method(n)],s=22,marker='x')
@@ -91,7 +91,7 @@ def add(kind,text):
  c=dict(cell_type=kind,source=text,metadata={},id='overlay-'+str(len(extra)))
  if kind=='code':c.update(execution_count=None,outputs=[])
  extra.append(c)
-add('markdown','## All-method overlays: before versus after\nWT and AA are separated to retain their correct experiments. Each panel overlays all completed methods under the common121 protocol. “Unweighted” means uniform weights in the supplied pool, not unbiased molecular dynamics; bAIes pools already contain AF2 restraints. SAXS prior curves retain their fitted ensemble intensity scale. ASTEROIDS after is selected, other after is combined Kish MaxEnt. Historical incompatible protocols remain in their separate sections.\n\nRg means and the experimental reference use dotted lines. Experimental Rg is a weighted Guinier fit to the exact experimental SAXS curve used here over q=0.012–0.035 Å⁻¹, with qmaxRg<1.3; this is explicitly distinct from geometric Cα Rg and from earlier P(r)/other-window estimates. Cα residuals use the common observed residue intersection within each sequence. Sα–Rg overlays show 50%/80% weighted histogram probability contours (solid/dashed; 1.2-bin Gaussian smoothing for display), x marks means, and include the full data range; individual paper-style heatmaps remain below.')
+add('markdown','## All-method overlays: before versus after\nWT and AA are separated to retain their correct experiments. Each panel overlays all completed methods under the common121 protocol. “Unweighted” means uniform weights in the supplied pool, not unbiased molecular dynamics; bAIes pools already contain AF2 restraints. SAXS prior curves retain their fitted ensemble intensity scale. ASTEROIDS after is selected, other after is combined Kish MaxEnt. Historical incompatible protocols remain in their separate sections.\n\nRg means and the experimental reference use dotted lines. Experimental Rg is a weighted Guinier fit to the exact experimental SAXS curve used here over q=0.012–0.035 Å⁻¹, with qmaxRg<1.3; this is explicitly distinct from geometric Cα Rg and from earlier P(r)/other-window estimates. Cα residuals use the common observed residue intersection within each sequence. Sα–Rg overlays show 50%/75% weighted histogram probability contours (dotted/solid; 1.2-bin Gaussian smoothing for display), x marks means, and include the full data range; individual paper-style heatmaps remain below.')
 for name in ['SAXS_all_methods','Rg_all_methods','helicity_all_methods','SaRg_all_methods_full','SaRg_all_methods_R2R3','CA_residuals_all_methods']:add('code',f"figures('method_overlays',['{name}.png'])")
 add('code',"display(json.loads((assets/'method_overlays/experimental_Rg_reference.json').read_text()))\ntable('method_overlays','CA_common_coverage.csv')")
 idx=next(i for i,c in enumerate(nb['cells']) if '## Full Jeffreys bAIes production' in ''.join(c['source']));# place earlier, immediately after setup

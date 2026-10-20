@@ -11,13 +11,13 @@
   },
   {
     "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/add_method_overlays.py",
-    "sha256": "93cb814addf803606131a2ceb189bf9c792e276db1ea1aa087bd0bd869c7b0c2",
+    "sha256": "8de03306e06b693c4124bcbd5590909f19ab678a467d2648f3e44aed49840597",
     "bytes": 9034
   },
   {
     "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/Tau5_All_Ensembles_Master.ipynb",
-    "sha256": "69bc78d1ee858c283ba65a56ed4fac00da230a65304a897d62c75895e12dae01",
-    "bytes": 407954
+    "sha256": "65c0e670020c035d5548ad4f6a3f8fd251921e48e8fbf397ca0b8b4c11701317",
+    "bytes": 406964
   },
   {
     "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/execution_validation.json",
@@ -31,13 +31,13 @@
   },
   {
     "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/Tau5_All_Ensembles_Master.html",
-    "sha256": "79e2915a494fbe6659ab839978381b73e2bc0a8f634d5a7ec72f3caa1d5c3cef",
-    "bytes": 629129
+    "sha256": "5a77b6be0786b5b2418d6af68e6fe887ce2e4157efd290f38a8d695fbb13814b",
+    "bytes": 630468
   },
   {
     "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/add_harmonic_production.py",
-    "sha256": "fcae456162cb6d371f81f839ddb36d54da023e64f9f085fe4c3e9efeac607e4d",
-    "bytes": 8932
+    "sha256": "25e12d936207381375b608efd68cc662754a559919f88fd8bd820b34d5ccddb6",
+    "bytes": 9038
   },
   {
     "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/assets/harmonic/harmonic_validation.json",
@@ -711,13 +711,13 @@
   },
   {
     "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/assets/method_overlays/SaRg_all_methods_full.pdf",
-    "sha256": "4186732a189c67ca4b25536a57c705b9f6ceb9e76339340dcf76fceaa4a9be94",
-    "bytes": 45171
+    "sha256": "45a4f5d66d8be3e94c10e2908898a3741ca59dd91c5368d471151f8d85106be1",
+    "bytes": 42645
   },
   {
     "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/assets/method_overlays/SaRg_all_methods_full.png",
-    "sha256": "381dc71a820b82c60a8f0b5d4ea12de20b0cf41f7ecaf273b38b7cfeda96cfda",
-    "bytes": 540434
+    "sha256": "73b284d63251f2f43ec7459dc87ec08055a33c6178589ba60bc85ce9be3ec083",
+    "bytes": 471824
   },
   {
     "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/assets/method_overlays/experimental_Rg_reference.json",
@@ -2346,8 +2346,8 @@
   },
   {
     "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/assets/harmonic_production/all_methods_SaRg_full.pdf",
-    "sha256": "1b142c7648f369195f2807e4060ef16dcfde79ab3efd9a4d7eaeeae042b00653",
-    "bytes": 25157
+    "sha256": "ee59058b7812f318d29575458810119a64efcae14791f39e37c999a6164abd54",
+    "bytes": 31193
   },
   {
     "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/assets/harmonic_production/AA_residue_helicity.csv",
@@ -2381,8 +2381,8 @@
   },
   {
     "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/assets/harmonic_production/all_methods_SaRg_full.png",
-    "sha256": "2b7b1fa785eaa591f411dec1bd600a17580af206b838677757c361e8b5f319cd",
-    "bytes": 153411
+    "sha256": "9f50ef342f0a91bbcc429aca7f8bdf91a5b5198a5b289571610cae120b573e00",
+    "bytes": 247376
   },
   {
     "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/assets/harmonic_production/production_validation.json",
@@ -2671,8 +2671,8 @@
   },
   {
     "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/assets/harmonic_production/all_methods_SaRg_R2R3.png",
-    "sha256": "a37ecdb7be8aaa6f99672b829ab7e82450a89dc7caee93c012bbd227738ca929",
-    "bytes": 147389
+    "sha256": "1c4a41763ffc26e759c65f5ce5df51bca40dfc6707917422ac0426ae5727cad4",
+    "bytes": 239464
   },
   {
     "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/assets/harmonic_production/Jeffreys_AA_packing.csv",
@@ -2681,8 +2681,8 @@
   },
   {
     "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/assets/harmonic_production/all_methods_SaRg_R2R3.pdf",
-    "sha256": "7f2457ff622c449b19d64714075eb6ad4cb7a344d72cd1588bee3d9b8d3b7412",
-    "bytes": 24125
+    "sha256": "65270940b1c8eef8f19d24ff3b841e82274563f6d1ce6f7a9121b3079b10fcd5",
+    "bytes": 29080
   },
   {
     "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/assets/harmonic_production/harmonic_AA_packing.csv",
@@ -7456,13 +7456,13 @@
   },
   {
     "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_003.png",
-    "sha256": "a37ecdb7be8aaa6f99672b829ab7e82450a89dc7caee93c012bbd227738ca929",
-    "bytes": 147389
+    "sha256": "1c4a41763ffc26e759c65f5ce5df51bca40dfc6707917422ac0426ae5727cad4",
+    "bytes": 239464
   },
   {
     "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_017.png",
-    "sha256": "381dc71a820b82c60a8f0b5d4ea12de20b0cf41f7ecaf273b38b7cfeda96cfda",
-    "bytes": 540434
+    "sha256": "73b284d63251f2f43ec7459dc87ec08055a33c6178589ba60bc85ce9be3ec083",
+    "bytes": 471824
   },
   {
     "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_016.png",
@@ -7471,8 +7471,8 @@
   },
   {
     "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_002.png",
-    "sha256": "2b7b1fa785eaa591f411dec1bd600a17580af206b838677757c361e8b5f319cd",
-    "bytes": 153411
+    "sha256": "9f50ef342f0a91bbcc429aca7f8bdf91a5b5198a5b289571610cae120b573e00",
+    "bytes": 247376
   },
   {
     "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_006.png",
@@ -8118,5 +8118,65 @@
     "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/rendered_figures/figure_031.png",
     "sha256": "19ada3d2db65bfa6824dbbb8749a69b8a519fce6fdbf29c90f79950d1cc9b2ca",
     "bytes": 341164
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/assets/hydrophobic_burial/HSA_Sa_Rg_plot_data.csv",
+    "sha256": "26e0c1efc4deafdc57ec7cbb195b320b6506e8ca16a9ce3224abc16623a269d6",
+    "bytes": 929787
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/assets/hydrophobic_burial/buried_HSA_vs_Rg.pdf",
+    "sha256": "97e7b271dde250744704d7d1ff2a7f8fd747f4e9941937a064944feecc764ad0",
+    "bytes": 36073
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/assets/hydrophobic_burial/buried_HSA_vs_Sa.png",
+    "sha256": "93182b246ac26dcd7609fc9175361aa2a02195359957a1df3c2f742a59dde340",
+    "bytes": 436516
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/assets/hydrophobic_burial/buried_HSA_vs_Rg.png",
+    "sha256": "3c81e72f7934c2413e181c34057486ca973aa74deb1ad9fa66259d406f3eaf24",
+    "bytes": 325061
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/assets/hydrophobic_burial/buried_HSA_vs_Sa.pdf",
+    "sha256": "92ba1c027c4e7dba85a118327c45326bbd367961119fab8e564eb803fa1f60ab",
+    "bytes": 43254
+  },
+  {
+    "path": "Ensemble_Comparisons/All_Ensembles_Master_2026-10-20/assets/hydrophobic_burial/plot_HSA_Sa_Rg.py",
+    "sha256": "2dd38ee26070bd339550ca776658a9e4aaabe5814be5cd84efe49fa13cd3d0b8",
+    "bytes": 2876
+  },
+  {
+    "path": "Ensemble_Comparisons/Hydrophobic_SAXS_audit_2026-10-16/HSA_Sa_Rg_plot_data.csv",
+    "sha256": "26e0c1efc4deafdc57ec7cbb195b320b6506e8ca16a9ce3224abc16623a269d6",
+    "bytes": 929787
+  },
+  {
+    "path": "Ensemble_Comparisons/Hydrophobic_SAXS_audit_2026-10-16/buried_HSA_vs_Rg.pdf",
+    "sha256": "97e7b271dde250744704d7d1ff2a7f8fd747f4e9941937a064944feecc764ad0",
+    "bytes": 36073
+  },
+  {
+    "path": "Ensemble_Comparisons/Hydrophobic_SAXS_audit_2026-10-16/buried_HSA_vs_Sa.png",
+    "sha256": "93182b246ac26dcd7609fc9175361aa2a02195359957a1df3c2f742a59dde340",
+    "bytes": 436516
+  },
+  {
+    "path": "Ensemble_Comparisons/Hydrophobic_SAXS_audit_2026-10-16/buried_HSA_vs_Rg.png",
+    "sha256": "3c81e72f7934c2413e181c34057486ca973aa74deb1ad9fa66259d406f3eaf24",
+    "bytes": 325061
+  },
+  {
+    "path": "Ensemble_Comparisons/Hydrophobic_SAXS_audit_2026-10-16/buried_HSA_vs_Sa.pdf",
+    "sha256": "92ba1c027c4e7dba85a118327c45326bbd367961119fab8e564eb803fa1f60ab",
+    "bytes": 43254
+  },
+  {
+    "path": "Ensemble_Comparisons/Hydrophobic_SAXS_audit_2026-10-16/plot_HSA_Sa_Rg.py",
+    "sha256": "2dd38ee26070bd339550ca776658a9e4aaabe5814be5cd84efe49fa13cd3d0b8",
+    "bytes": 2876
   }
 ]

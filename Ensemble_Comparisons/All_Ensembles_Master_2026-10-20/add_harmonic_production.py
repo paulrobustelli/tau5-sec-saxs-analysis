@@ -35,9 +35,9 @@ for view in ['full','R2R3']:
   datasets.append(('Harmonic',t.Rg_CA_A.to_numpy() if view=='full' else s.Rg_R2R3_CA_A.to_numpy(),s.Sa_full.to_numpy() if view=='full' else s.Sa_AR391_446.to_numpy(),np.ones(len(t))/len(t)))
   from scipy.ndimage import gaussian_filter
   for label,rg,sa,w in datasets:
-   hist,xe,ye=np.histogram2d(sa,rg,bins=(np.linspace(0,60,101),np.linspace(0,90 if view=='full' else 60,101)),weights=w);assert np.isclose(hist.sum(),1);hist=gaussian_filter(hist,1.2);rank=np.sort(hist.ravel())[::-1];cut=rank[np.searchsorted(np.cumsum(rank),.5*rank.sum())];ax.contour((xe[:-1]+xe[1:])/2,(ye[:-1]+ye[1:])/2,hist.T,levels=[cut],colors=[colors[label]],linewidths=1.8);ax.plot([],[],color=colors[label],label=label)
+   hist,xe,ye=np.histogram2d(sa,rg,bins=(np.linspace(0,60,101),np.linspace(0,90 if view=='full' else 60,101)),weights=w);assert np.isclose(hist.sum(),1);hist=gaussian_filter(hist,1.2);rank=np.sort(hist.ravel())[::-1];cut=rank[np.searchsorted(np.cumsum(rank),.5*rank.sum())];outer=rank[np.searchsorted(np.cumsum(rank),.75*rank.sum())];ax.contour((xe[:-1]+xe[1:])/2,(ye[:-1]+ye[1:])/2,hist.T,levels=[outer,cut],colors=[colors[label]],linestyles=['-',':'],linewidths=1.8);ax.plot([],[],color=colors[label],label=label)
   ax.set(title=v,xlabel='Sα',ylabel='CA Rg (Å)',xlim=(0,30),ylim=(10,70) if view=='full' else (5,35));ax.legend()
- fig.suptitle('Unweighted '+view+' • 50% probability contours, common bins and smoothing\nHarmonic full chain native120; other pools121. R2R3 crop AR391–446 identical.')
+ fig.suptitle('Unweighted '+view+' • dotted 50% / solid 75% probability contours, common bins and smoothing\nHarmonic full chain native120; other pools121. R2R3 crop AR391–446 identical.')
  for ext in ['png','pdf']:fig.savefig(D/f'all_methods_SaRg_{view}.{ext}',dpi=170)
  plt.close(fig)
 # Harmonic full/cropped contacts, same closest-heavy12A linear convention.
