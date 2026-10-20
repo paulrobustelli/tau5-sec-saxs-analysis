@@ -1,0 +1,8 @@
+{
+  "N": 2000,
+  "residues": 121,
+  "archive": "/Users/paulrobustelli/Documents/Codex/2026-09-28/is-th/outputs/Ensemble-Selection/refined_reproducibility/WT/prepared_pool.tar.gz",
+  "archive_sha256": "82bc9495a081cdad8911a82cf9a6b4be96401af71fc783a4aa0029208fa68d51",
+  "order": "predicted_dro5.csv conformer_id",
+  "selection": "uniform original prior"
+}

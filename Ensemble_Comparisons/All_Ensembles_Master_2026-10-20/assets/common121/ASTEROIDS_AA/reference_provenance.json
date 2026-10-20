@@ -1,0 +1,12 @@
+{
+  "variant": "AA",
+  "N_selected": 500,
+  "N_prior": 2000,
+  "SAXS_prior_chi2_mean_common_dro5": 12.895345509061784,
+  "SAXS_selected_chi2_mean_common_dro5": 14.099728390040223,
+  "scale_prior": 407.51297621002357,
+  "scale_selected": 399.8741426796656,
+  "selection_provenance": "Existing ASTEROIDS final selection preserved. Re-evaluated with canonicaldro5 and shared experimentalgrid, independently optimized global ensemble scale/nooffset; originalselectionoptimizedhydration maydiffer. Not a newly rerun ASTEROIDS selection or KishMaxEnt.",
+  "source_SAXS_sha256": "f54c78530937450a35cc75bdb6bb1ba1b8df24aac50155bf9b43618b222766ea",
+  "source_ensemble_sha256": "f30ed95dedbd939076d3f5517653dc794c09a53b2a7aaa620b29c451264dccbe"
+}

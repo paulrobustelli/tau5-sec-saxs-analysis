@@ -1,0 +1,37 @@
+{
+  "files": 1000,
+  "unique_CA_coordinate_hashes": 1000,
+  "sequences_verified": true,
+  "region_helicity": {
+    "R1": {
+      "all_residues_DSSP_H_percent": 0.5636363636363636,
+      "delta2D_matched_DSSP_H_percent": 0.5636363636363636,
+      "delta2D_percent": 1.406027272727273,
+      "matched_residue_count": 11
+    },
+    "R2_main": {
+      "all_residues_DSSP_H_percent": 15.379999999999999,
+      "delta2D_matched_DSSP_H_percent": 15.379999999999999,
+      "delta2D_percent": 25.840646666666668,
+      "matched_residue_count": 15
+    },
+    "R2_minor": {
+      "all_residues_DSSP_H_percent": 3.1285714285714286,
+      "delta2D_matched_DSSP_H_percent": 3.1285714285714286,
+      "delta2D_percent": 3.457528571428572,
+      "matched_residue_count": 7
+    },
+    "R2_historical_core": {
+      "all_residues_DSSP_H_percent": 22.81111111111111,
+      "delta2D_matched_DSSP_H_percent": 22.81111111111111,
+      "delta2D_percent": 40.91738888888889,
+      "matched_residue_count": 9
+    },
+    "R3": {
+      "all_residues_DSSP_H_percent": 0.17272727272727273,
+      "delta2D_matched_DSSP_H_percent": 0.17272727272727273,
+      "delta2D_percent": 0.1744363636363636,
+      "matched_residue_count": 11
+    }
+  }
+}

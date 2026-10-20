@@ -1,0 +1,50 @@
+[
+  {
+    "protein": "WT",
+    "pool": "base",
+    "max_seed_helix_range": 0.03999999999999998,
+    "mean_seed_helix_range": 0.006888888888888888,
+    "last100_objective_improvement_percent": [
+      1.5563008658513386,
+      0.6809762582542006,
+      0.9348418255850212
+    ],
+    "independent_pool_convergence_tested": false
+  },
+  {
+    "protein": "WT",
+    "pool": "expanded",
+    "max_seed_helix_range": 0.03600000000000003,
+    "mean_seed_helix_range": 0.006632478632478633,
+    "last100_objective_improvement_percent": [
+      0.7036117033997671,
+      1.0268637636197218,
+      0.7056615811055647
+    ],
+    "independent_pool_convergence_tested": false
+  },
+  {
+    "protein": "AA",
+    "pool": "base",
+    "max_seed_helix_range": 0.022000000000000006,
+    "mean_seed_helix_range": 0.006358974358974359,
+    "last100_objective_improvement_percent": [
+      0.3369605838190186,
+      0.4771374572352779,
+      0.5854418521305355
+    ],
+    "independent_pool_convergence_tested": false
+  },
+  {
+    "protein": "AA",
+    "pool": "expanded",
+    "max_seed_helix_range": 0.026000000000000023,
+    "mean_seed_helix_range": 0.0058461538461538455,
+    "last100_objective_improvement_percent": [
+      0.57765753355051,
+      0.49320573638495185,
+      0.4606295321561666
+    ],
+    "independent_pool_convergence_tested": false
+  }
+]

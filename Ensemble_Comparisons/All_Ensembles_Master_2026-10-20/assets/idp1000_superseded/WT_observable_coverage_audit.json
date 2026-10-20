@@ -1,0 +1,44 @@
+{
+  "variant": "WT",
+  "range_coverage": [
+    {
+      "datatype": "C",
+      "observations": 100,
+      "outside_sampled_range": 0,
+      "largest_absolute_gap": 0.0
+    },
+    {
+      "datatype": "CA",
+      "observations": 107,
+      "outside_sampled_range": 0,
+      "largest_absolute_gap": 0.0
+    },
+    {
+      "datatype": "H",
+      "observations": 103,
+      "outside_sampled_range": 40,
+      "largest_absolute_gap": 0.8549999999999995
+    },
+    {
+      "datatype": "N",
+      "observations": 103,
+      "outside_sampled_range": 0,
+      "largest_absolute_gap": 0.0
+    },
+    {
+      "datatype": "SAXS",
+      "observations": 144,
+      "outside_sampled_range": 28,
+      "largest_absolute_gap": 0.01319111897838223
+    }
+  ],
+  "SAXS_chi2_mean_componentwise_lower_bound": 0.7978680108529568,
+  "single_conformer_SAXS_chi2_mean_percentiles": {
+    "min": 7.188602010902969,
+    "p25": 59.36499984248538,
+    "median": 88.33917815561773,
+    "p75": 121.59070498077064,
+    "max": 234.9840145334699
+  },
+  "note": "Componentwise bounds ignore joint observable correlations. Single-conformer fits do not bound the fit of mixtures. No alternate ensemble selection or reweighting is performed."
+}

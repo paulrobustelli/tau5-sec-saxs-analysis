@@ -1,0 +1,24 @@
+{
+  "method": "PyMOL fab; full-length extended backbone with R2/R3 torsions adjusted; peptide fab alpha-helix mode",
+  "regions_AR_inclusive": {
+    "R2": [
+      390,
+      410
+    ],
+    "R3": [
+      430,
+      440
+    ]
+  },
+  "target_phi_psi_degrees": [
+    -57,
+    -47
+  ],
+  "exception": "Full-length Pro390 phi retains ring-constrained geometry near -70 degrees; isolated N-terminal Pro390 phi undefined. Other defined target torsions verified within 1 degree.",
+  "construct": "GP + AR330-448 including Cys448; GP numbered 328/329 for convenience, not AR residues",
+  "AA_mutations": [
+    "W397A",
+    "W433A"
+  ],
+  "status": "Constructed unminimized models, not predictions or equilibrated ensembles; heavy atoms only"
+}

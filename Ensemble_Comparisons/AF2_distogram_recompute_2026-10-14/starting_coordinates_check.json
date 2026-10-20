@@ -1,0 +1,10 @@
+{
+  "WT": {
+    "starting_CA_max_difference_nm": 0.0,
+    "original_R2_H": 1.0
+  },
+  "AA": {
+    "starting_CA_max_difference_nm": 0.0,
+    "original_R2_H": 1.0
+  }
+}

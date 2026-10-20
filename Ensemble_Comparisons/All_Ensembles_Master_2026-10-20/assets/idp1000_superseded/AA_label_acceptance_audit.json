@@ -1,0 +1,53 @@
+{
+  "variant": "AA",
+  "attempts": 1052,
+  "accepted": 1000,
+  "rejected": 52,
+  "acceptance_rate": 0.9505703422053232,
+  "mapping": "model residue = AR residue - 327",
+  "regions_inclusive": {
+    "R1": [
+      350,
+      360
+    ],
+    "R2_main": [
+      390,
+      404
+    ],
+    "R2_minor": [
+      404,
+      410
+    ],
+    "R2_historical_core": [
+      394,
+      402
+    ],
+    "R3": [
+      430,
+      440
+    ]
+  },
+  "region_H_label_fractions": {
+    "all_attempts": {
+      "R1": 0.0632561354994815,
+      "R2_main": 0.5002534854245881,
+      "R2_minor": 0.18766974470396525,
+      "R2_historical_core": 0.7133502323616392,
+      "R3": 0.0077773937089526445
+    },
+    "accepted": {
+      "R1": 0.062,
+      "R2_main": 0.5012,
+      "R2_minor": 0.18857142857142858,
+      "R2_historical_core": 0.7136666666666667,
+      "R3": 0.006727272727272728
+    },
+    "rejected": {
+      "R1": 0.08741258741258741,
+      "R2_main": 0.48205128205128206,
+      "R2_minor": 0.17032967032967034,
+      "R2_historical_core": 0.7072649572649573,
+      "R3": 0.027972027972027972
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "variant": "AA",
+  "N": 1000,
+  "Kish_Neff": 100.00107563454507,
+  "Shannon_effective_size": 211.82354559246346,
+  "largest_weight": 0.0372364769902462,
+  "weight_top10": 0.22634349442655616,
+  "weight_top100": 0.7221825769950767,
+  "members_for_50_percent": 36,
+  "members_for_90_percent": 259,
+  "weighted_geometry_rechecked": {
+    "Rg_CA_A": 33.35107683172801,
+    "Rg_R2R3_CA_A": 24.311400856540757,
+    "Sa_full": 5.419811660860724,
+    "Sa_AR391_446": 4.294531115752471
+  },
+  "interpretation": "Effective support describes weighting within this sampled pool, not independent validation or complete conformational coverage."
+}

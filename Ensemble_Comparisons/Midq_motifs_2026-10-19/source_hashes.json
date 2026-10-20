@@ -1,0 +1,58 @@
+[
+  {
+    "path": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/Hydrophobic_SAXS_audit_2026-10-16/REST_WT/metrics.csv",
+    "sha256": "81ebb628ed5eeb420bfafe708559c1038ac09251f2bd82e3dc992c8bf715f27b"
+  },
+  {
+    "path": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/Ensemble_Comparison_121_2026-10-15/REST_WT/observable_matrix.npz",
+    "sha256": "8edb4c74586b7fd793c8d2cd19f48777d6b7817c748a47df2811b9d134821580"
+  },
+  {
+    "path": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/Hydrophobic_SAXS_audit_2026-10-16/IDPForge_WT/metrics.csv",
+    "sha256": "48ea7e15387bd783d9ec5381c5f1c7db6794328193e7e877d25f61ef0fb9224f"
+  },
+  {
+    "path": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/Ensemble_Comparison_121_2026-10-15/IDPForge_WT/observable_matrix.npz",
+    "sha256": "3b24f4b05716d4cce685c89cbe467bb200cc369e3fe75f6000ef615e43cdfa9f"
+  },
+  {
+    "path": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/Hydrophobic_SAXS_audit_2026-10-16/bAIes_WT/metrics.csv",
+    "sha256": "2d77174bfd77aa0a24d6f027cfeb9397934844c817d961a9aa853bf72d587e24"
+  },
+  {
+    "path": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/Ensemble_Comparison_121_2026-10-15/bAIes_WT/observable_matrix.npz",
+    "sha256": "02ce8e9b9424204e3ec6bda97a55b3db820f69a7c6876661119cd0e0430fe8b7"
+  },
+  {
+    "path": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/Hydrophobic_SAXS_audit_2026-10-16/ASTEROIDS_WT/metrics.csv",
+    "sha256": "6995f59baa892edcbbac6cf691f2c0a019d7f57b7d4c0b1c782a3193df120b9e"
+  },
+  {
+    "path": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/Ensemble_Comparison_121_2026-10-15/ASTEROIDS_WT/prior_structure_provenance.json",
+    "sha256": "03e23a580f61a490dbcb8600db84a49500b48e1f61cb5ee63c9802699e77dc0e"
+  },
+  {
+    "path": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/Hydrophobic_SAXS_audit_2026-10-16/IDPForge_AA/metrics.csv",
+    "sha256": "2e281e851a8d3044125ab171f1eff1133305ebb470fae1dd087b21789903dd7a"
+  },
+  {
+    "path": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/Ensemble_Comparison_121_2026-10-15/IDPForge_AA/observable_matrix.npz",
+    "sha256": "4727adc4c1a97928df4fc902dc9227d533717a5900f838340939a080dd26620b"
+  },
+  {
+    "path": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/Hydrophobic_SAXS_audit_2026-10-16/bAIes_AA/metrics.csv",
+    "sha256": "00503a56868f83c1b39d646da50ba7ba964ab0a3ee705b16079f75aef9bc5771"
+  },
+  {
+    "path": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/Ensemble_Comparison_121_2026-10-15/bAIes_AA/observable_matrix.npz",
+    "sha256": "ff8399232273f02d79e06936abe8f19f54c25da45990478df905399ca6be7602"
+  },
+  {
+    "path": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/Hydrophobic_SAXS_audit_2026-10-16/ASTEROIDS_AA/metrics.csv",
+    "sha256": "7d3b8069ee0b0d3f549030ebe110bba3936723122e39dc1278507d92b0c4a399"
+  },
+  {
+    "path": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/Ensemble_Comparison_121_2026-10-15/ASTEROIDS_AA/prior_structure_provenance.json",
+    "sha256": "e226d15c107ed47dcb064508cfa9fc6f435de91f68c2ad2f839aa9db97166c84"
+  }
+]

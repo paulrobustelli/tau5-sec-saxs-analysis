@@ -1,0 +1,2802 @@
+[
+  {
+    "variant": "WT",
+    "id": "WT_1",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/1_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_1",
+    "sha256": "db25d0046958ba97667e9698209bbd529f6a106bda12cd01ec342556f5039d0c"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_2",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/2_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_2",
+    "sha256": "ac1f58de47f3e894f69842c5048ff76509778a5a1930e33311573000399d5b43"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_3",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/3_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_3",
+    "sha256": "4822781946ced105d5ea2b54b754055b59c157a27ad0ca4f6edd6ff24008ddce"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_4",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/4_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_4",
+    "sha256": "cd1f22d3bd43cc52a1aafcfa116c15e26082e3dfb5541a7216723f0fd73d1af7"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_5",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/5_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_5",
+    "sha256": "bf0842df55cef4b65c2042deb9dcdc109831af652189573c8609514d3f9a639f"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_6",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/6_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_6",
+    "sha256": "50085b74bf51c4055e48b743c3df008adaf1c32f8c0cbf7f7c4a873fe897348d"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_7",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/7_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_7",
+    "sha256": "94314fbe4693822090712bec62b289039bc02afefb91c83c7ce3b4741a5fe18e"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_8",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/8_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_8",
+    "sha256": "72d130079e65d10692be82b24bc5d6dd61265dd9361618cfd300572fcc0e6783"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_9",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/9_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_9",
+    "sha256": "d0ebccc09bacbe38c76ea7fb6ee3ec70c7c68a17e4cc8fe4f86750ede63ba485"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_10",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/10_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_10",
+    "sha256": "069f9212af27dd86cc676d77d796b2bc6850a87bc48be6750d3a101e51e4f5cf"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_11",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/11_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_11",
+    "sha256": "edb2d862ce3649dcf82db308ed89598b7690ade50df28878ad22b72c30197eeb"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_12",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/12_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_12",
+    "sha256": "5c9ef2406198517bf2a1cb44508e54e2f5e271a5c82fe47042ec98a9a4e9aba6"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_13",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/13_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_13",
+    "sha256": "61e3f67026767dbdb312dab25a3041f8c19cf6792eb02dec878ab9380929b624"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_14",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/14_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_14",
+    "sha256": "25c132a677c1da9c8bb0c4939c7ad93dbc4e1d29750b6cb1fd718a0035c8d78b"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_15",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/15_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_15",
+    "sha256": "48ac9431d0655d19e68e9a27688b1d701df097254857620e437e7aec9242c749"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_16",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/16_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_16",
+    "sha256": "7cc01d9cd23a6f5d81f74d97e2abe21d5abfca12117ce8398c57b9d9a65382bd"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_17",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/17_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_17",
+    "sha256": "4f9a29f254484b2a9178fd887824e169de0a6e724eab151cbbb1244e14feece8"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_18",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/18_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_18",
+    "sha256": "5bd43b798e0733794f3f515bd0ec24684cd49886ba12423eaddee1fa595ff8f9"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_19",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/19_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_19",
+    "sha256": "0fbaf33a557c4e4b612b5bff9a9ca44a519bbc9ed2ccb995971e0ab6e525076a"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_20",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/20_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_20",
+    "sha256": "94ed3f53777c060c4c23d1629e57c1199266bd412f81e8f7d399adb02ff5c7ab"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_21",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/21_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_21",
+    "sha256": "89762da4e3b75a8ba572c9503da946ec7446bf57220ad808b1baf27fcce0cf0d"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_22",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/22_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_22",
+    "sha256": "6e4fedcf1a36e14ae1daa76a060a434df9904c02135c590bf49b84d9800912d4"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_23",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/23_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_23",
+    "sha256": "e15f837804b068d290549848bb9945cdb086c9d4869f9249a8ce83e4e027d79a"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_24",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/24_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_24",
+    "sha256": "5699b3ba13144a58da8d292c63ea405359b040a61e257f4ae747781d1b7b6fb7"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_25",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/25_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_25",
+    "sha256": "5e418343a32afeb857d1477e03f772dd91f4e509d7ca5b234800b92d1d972f73"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_26",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/26_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_26",
+    "sha256": "62ee792224520c6b672892e74bb2ed205b0993b17ec1e1b68be20d4343d487bf"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_27",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/27_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_27",
+    "sha256": "11c323308ab0c2986c8b8e1446895ba924a75570a41c0ae3c32da4ed92ced56c"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_28",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/28_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_28",
+    "sha256": "c80b8ed5830ea1f33cb91a4f79efc99509aa465037e5c51963efe41f208ec7b2"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_29",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/29_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_29",
+    "sha256": "94b83e9fd7d77c749d1c49fae4295b1762e5f756ba7bff792d6bee0a0c308606"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_30",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/30_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_30",
+    "sha256": "434d0026ebefb76e6be6bfc2d7923252994dc7013a2dcf16a145b661d14fadd6"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_31",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/31_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_31",
+    "sha256": "792b1f247cd8319981416f6b84fdcfdbeae7fdedca59811debf1407ec8b9683b"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_32",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/32_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_32",
+    "sha256": "db19c1a351e8535cfe96b5c3b466dc3b50bee18107419069375418764cb34090"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_33",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/33_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_33",
+    "sha256": "5db08fe9bf461a4fd930fadcd92f2532b02926d0272b53c1def5a71dc8d893e9"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_34",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/34_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_34",
+    "sha256": "686ea02251937d68874cd53347afb4b969b014fdf99eecbbe0e9ae11b092051d"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_35",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/35_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_35",
+    "sha256": "cc3e5317a49c547debab0822ba923f2edbedbf3c52265d0f22c31c62c1cdb9b9"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_36",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/36_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_36",
+    "sha256": "ef1a0c9e1e0a90de43514dfb96e3d5a29dc7db1097b0c3892b8dfb48c27c2ac3"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_37",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/37_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_37",
+    "sha256": "46b49504b0a05b7bc28fbf1601aa70a640d2aca28241026729e99667fdd67fab"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_38",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/38_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_38",
+    "sha256": "190451975c579c9ff25955af9fcb2c07540316770ea408b179e4b45336844e99"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_39",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/39_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_39",
+    "sha256": "a12339b9807fb07f5a2d5edbcb3895514fac3fe55fd83401114b068d27dfcdef"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_40",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/40_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_40",
+    "sha256": "2f907f68076df90cef68d0e2a214c9264cebc6ccb5c32f1f56006c38a880cede"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_41",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/41_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_41",
+    "sha256": "fd5490d1a90939f4a039727038ab1686cc915c96c8abd2ab03fb748071b8b132"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_42",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/42_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_42",
+    "sha256": "f18e4d2dc9e3e88e183548f0d5ab62849e41c4e4228e9b48f122affc316381f4"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_43",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/43_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_43",
+    "sha256": "2fe505dd85e2a00460f5fffe7c51e6936783d26c3801c8e7732147d89f625fe1"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_44",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/44_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_44",
+    "sha256": "e7e26071ac0a38cdc7f14697409724f11e4d43cb9e4f1b7377ca4b0be2ca8ca3"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_45",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/45_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_45",
+    "sha256": "1a8f2b4b8413b119d380733b0e54f88ea69209e3df8649e88b1ad081aceb8499"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_46",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/46_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_46",
+    "sha256": "8a78e1ef7674a06027cf23922fa8a046e417c202f85f9e3fd33b4fbe15dc275f"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_47",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/47_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_47",
+    "sha256": "56679bdfe3162917e8c0df939cbea14d883584c5a72cd546cb37e1c4944abdbf"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_48",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/48_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_48",
+    "sha256": "5810fe417ef3e27bbbd6aea954ff3956836096e16f25fb129e3db849b99e387c"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_49",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/49_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_49",
+    "sha256": "7b214479c4d49d1153176869ac5093e4e0200403949d58f905c682cc99cab254"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_50",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/50_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_50",
+    "sha256": "9c6e12ec8d0dd30b1b67a32c603d590e6f6005204ae4c55b7d1795a0a28191d4"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_51",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/51_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_51",
+    "sha256": "560ced50295b9cea34fa1d1fe399b37181da1f8136a631ac4058cd02ebbb097e"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_52",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/52_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_52",
+    "sha256": "4f133c4b4f8262b861e4916ac6bf9f62a8dcdd503bc3e6f4187a830ecd629aaf"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_53",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/53_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_53",
+    "sha256": "b8aa2a6d347ca21ef67f2a8c1389a4f2eb08e27bac34e861f309b2fbfd786bb4"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_54",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/54_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_54",
+    "sha256": "c13e8a611e41f1032864c54cb91eadd22e972945f5e9e41152a6b2d45ddad04c"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_55",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/55_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_55",
+    "sha256": "86fe3104061af784272a3c9eb985b9debde5551ca80a9929a48b246436e7c98c"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_56",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/56_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_56",
+    "sha256": "0d51558088ea36440fe437c6dfd03f77f1d14ae54cc396ce5cc867772131fb1f"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_57",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/57_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_57",
+    "sha256": "29e957ba682ea53bf79c4049351895b17f662a5f14244d3325c2c2c26d715a11"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_58",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/58_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_58",
+    "sha256": "3e86144186fc7afc7aa3123f03ec4977895e49a39d434488c73c0c62932cc3c2"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_59",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/59_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_59",
+    "sha256": "0da77917f6bbad73cfe3919544b22f0f22ac68ada8d821a780f89987fde65898"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_60",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/60_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_60",
+    "sha256": "5e46a274c531b21a8e76147fea2be689af8136b41739a5a653330bb25b979cc0"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_61",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/61_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_61",
+    "sha256": "eb5f53cd6a9b1b2e2747f8f40a96017ee459345cfa07506d3bb7e703aa24be15"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_62",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/62_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_62",
+    "sha256": "5ae6a4fa5d90542ed7811bdf50e61ca1b72ead82d3ff2d66a59660d70ebd5964"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_63",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/63_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_63",
+    "sha256": "741d157b08eb19bf71b54ecb8e49af53be74bc2d3ab4556ddcfbdc04adda4855"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_64",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/64_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_64",
+    "sha256": "602103dd419d32e3f089a7b718b7d360d66432d0b12862c33d2b3c0f3715e804"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_65",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/65_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_65",
+    "sha256": "336f0aecd2e8b8752f7afa21198787e8038d9754e0b1f8c854d504af44ceadcc"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_66",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/66_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_66",
+    "sha256": "1ad082f03596ecf37670298cb2492d0f2f234f8033e8c9ecb47a345e86f310e6"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_67",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/67_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_67",
+    "sha256": "71f8862607c872cceb3cb62e1c036b65993e71fb8212a62d55de18b79949e40b"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_68",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/68_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_68",
+    "sha256": "55a7d5d5f3e9fe22d54f277e243846b717c43b5d67a1631443dc738f0bb9df55"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_69",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/69_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_69",
+    "sha256": "4308076c15e979a548e8aa6a3bc14ce289d2793e9cf0e021157406d20e0fcba8"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_70",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/70_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_70",
+    "sha256": "42013d0c17a784ecf8c88f02d055936909a77a0505b7ec9dc8e2acbe5c5cb25c"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_71",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/71_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_71",
+    "sha256": "3f2019788e941e47e41d3d8b93b95a324d32a16f8bd339fd70c46da28f20da8a"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_72",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/72_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_72",
+    "sha256": "6f700ffe118f2e87536cf6e887b8c5fc9fe1ca8ee6bb024e41ba4b20347903c1"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_73",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/73_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_73",
+    "sha256": "85bd4bad6553c43ea4064cd9b14985fdb2d55cf046a520221e0cd266762b9de7"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_74",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/74_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_74",
+    "sha256": "0bac78095855493cc0448a5fe5e4d1feccfd8d2cf765390abecf86fd3fd5a225"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_75",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/75_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_75",
+    "sha256": "0948a84aa5ae4b5a78e34b4d1e32400a4b5ba07da436c8d3cc88b47f395bddb6"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_76",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/76_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_76",
+    "sha256": "c3d580cf6d7354b97edc30b23190c0912272bf906dddea860e846b656bcc03b6"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_77",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/77_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_77",
+    "sha256": "12f5ef82fd220aaa8747c9c28ce6af4bb86ae458ff348a21d8124b80f67d7b8d"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_78",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/78_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_78",
+    "sha256": "40c4b0fca8c9d7bb73de031bbf8ced91b13d5a0d5f83a83a85e8dd0bb4721be4"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_79",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/79_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_79",
+    "sha256": "150be0a42cd22b36fe5efb0ed47452dcb3fd18b94e310a1b06c21f0a7d50edbf"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_80",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/80_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_80",
+    "sha256": "a5d90cf553fd26529f7ac39992c5590bc08029a9b1ee3c7da010d35856054d2f"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_81",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/81_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_81",
+    "sha256": "edda11f8e22643ba1875b629a90eaa64a3b0b1a63fa2fc12d1862fbada0b521f"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_82",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/82_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_82",
+    "sha256": "58c1dba77023cee4f40d42e35e265270a0d636e1d45e4652faf2593168c0cde4"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_83",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/83_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_83",
+    "sha256": "c5ae03aa776eb9926abb8aa8c254b0d49efa06f41e1862af8a1db1b137afb966"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_84",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/84_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_84",
+    "sha256": "c487dc9f975dd09c62f7619746ba2e5d93a7768066ca6be448a087175f778dfc"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_85",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/85_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_85",
+    "sha256": "715a4bd6667c09a9ff059b9926ba2d93b3d3574637d1fa7cd9456e0a3144130e"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_86",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/86_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_86",
+    "sha256": "380ae429c0dadd985328fa02d4aee2f57ceb5ab36b0ab7017a92d8806e5c47dc"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_87",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/87_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_87",
+    "sha256": "1ded4c15380ccf98c534d4ffae47a661645de527d37665ebd58c2268d30a5558"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_88",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/88_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_88",
+    "sha256": "116ce20d46af0bfdecaf7f3d17c34ffdd1e814931d610f318b854cb48b798bc0"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_89",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/89_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_89",
+    "sha256": "18b4e144377ed457edb53ce3c33978eb10de462c565437cd3617c0fe7e55d27c"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_90",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/90_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_90",
+    "sha256": "390b95e22bc19d63e5413254b5d0edb56e5ed64cf1c05817e18bcdf2457f4b43"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_91",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/91_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_91",
+    "sha256": "666880be9aec7ca3de0f8be21d649bd5c99be60a6925b33b0d5017f196893bae"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_92",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/92_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_92",
+    "sha256": "ab422cfd4a6c042bd304b1aba8eaedac18ac181ae236fb91c4034e034336f869"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_93",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/93_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_93",
+    "sha256": "dadae68a57d5ea6f11e40927babc42f919b085c774168189d83387007bfdcdca"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_94",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/94_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_94",
+    "sha256": "0c04cc06a26c66f27a07f61e23174afe6242171be7c920470fe18e03801abb86"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_95",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/95_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_95",
+    "sha256": "73ec533494db0cafc84071710334ecf89af9e3621f6de1e58914eef75a04988d"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_96",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/96_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_96",
+    "sha256": "da60561b26d1afb574f7fd8bdf4f69d29ed621c0b277788b6cc19bb0d8c28b52"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_97",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/97_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_97",
+    "sha256": "4a5b48c2190537a5ebea7948145593ae04f605809ca10ab2375786745acc0bc0"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_98",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/98_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_98",
+    "sha256": "086276a9f40fb689f37474e0ea28a8486d6daeffc111070cadf65432f5dc7d36"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_99",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/99_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_99",
+    "sha256": "6ae94f0c5ceea98feaace32c7dd5137a096ebfe18e3b685a1934533be8d82430"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_100",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/100_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_100",
+    "sha256": "7ca07b82910b1d3e7d2a6b9ec263ec8a1fff262e5970cabf1b6c30d7c4644e83"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_101",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/101_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_101",
+    "sha256": "d972a33b2b0890424e543310bf919443e0fe8b85addac82939cfb009c97a42c7"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_102",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/102_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_102",
+    "sha256": "c09567ea68198e5d46a928e4dd9f1144f5ba30c0ecbd0f6b706a8896995cee8b"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_103",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/103_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_103",
+    "sha256": "b86654dba4d8e1fedaf4fdfc53d6b2b7d554e61007cf07086da0c6248e6663ca"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_104",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/104_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_104",
+    "sha256": "6d2314feddc7cca5269f897b3cbb7765d58dd1c69612c7444447140f6f274914"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_105",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/105_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_105",
+    "sha256": "ce185caceb9fd4fffad9f2965bfa116b8b93ddd3c76ed2a4ca6894483fc1c58a"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_106",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/106_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_106",
+    "sha256": "c0e5a11a9169eec3deeaa36067cef2271c113357ae3f3deea9bcd8944329972a"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_107",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/107_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_107",
+    "sha256": "6a2bb561b5e96703a2633882a0b20e5289aa1207f9400074224936015e9fad58"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_108",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/108_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_108",
+    "sha256": "735ac7c391146d61b4d9970c450ad02a25d9135730c1e61c7a40b1fd8a1baf74"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_109",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/109_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_109",
+    "sha256": "baf41c20d3395f0fb4bd10c2b0d5ae8a037c8cd2155c25405987ea0699f27e88"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_110",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/110_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_110",
+    "sha256": "fbd396d926262aa1c8f01c316d54d308aeb3ae37062fa65a1b9d42e97c914fea"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_111",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/111_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_111",
+    "sha256": "5913fa8de5d8a53aba725a74cf52174b8bfe09a3bf83c4cd1ef44de422c32d6f"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_112",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/112_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_112",
+    "sha256": "8e5c72839bc3c8d6367e3748703aef23eaced8d99eaf2614b9d04e05bd313d69"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_113",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/113_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_113",
+    "sha256": "3bf7d81dd78c03524d0813a43aa4bbd5f29c930dafd722d5e6f83428a8605d60"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_114",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/114_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_114",
+    "sha256": "5c7c808be661ebd327e5f6dcac6396bbf042196102ca6f13d16e58c5d837aed6"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_115",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/115_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_115",
+    "sha256": "43b3e904b0d9281a0600831aa09a7aff1e98f28ee6bb3c889dd2894b676761cf"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_116",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/116_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_116",
+    "sha256": "ed464e5ec1b73dbd5eeeeb2c127cf9c724ceed2e8301459475af3b5607d56af8"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_117",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/117_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_117",
+    "sha256": "9353cc1fc680844bfa00ecf2ca6f288d5b7caf17a6d101555982fabad3ba8945"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_118",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/118_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_118",
+    "sha256": "b52d8fec1723ee57ff51b5c7f6ea8e0347513cd2bedd4afbcf1965629715bbb0"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_119",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/119_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_119",
+    "sha256": "9e2a9a20e7c349903426f0e733c9c623c199200ffbcce23525f7ab84005b61a0"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_120",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/120_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_120",
+    "sha256": "c3a059522fcbd3cc16ebce311968f8ff7cf0b8394028de1433f3499c05db9095"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_121",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/121_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_121",
+    "sha256": "4aea2b2ae1eb92526705cef54f7d3738aea98115af0b3fc39afcfdd82df4bae0"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_122",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/122_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_122",
+    "sha256": "891545fdca46e49066c16580f704e0e1227378686e10e108c0d86b19af529526"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_123",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/123_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_123",
+    "sha256": "b5c9a71efbab5f8b6df0c5cb734019631e983a726b91f298ec7d0557cc518e64"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_124",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/124_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_124",
+    "sha256": "0bdb3678691396be0a4155c994156044f8070226f77242dd9bc0f6ce2c74cdb3"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_125",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/125_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_125",
+    "sha256": "66ec139931b8f175edd0eb10e4d92c55bf950dc1faa79415fa3f88dab2baca3e"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_126",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/126_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_126",
+    "sha256": "054b6b4a4e81bdfc924bef889fe3456fd3711a97574ff3c698fc1ba0b55223b6"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_127",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/127_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_127",
+    "sha256": "b6bda4be0b395f5179d17f181817a0c68a8e376ee2ceddb0b44489cb71a1a542"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_128",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/128_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_128",
+    "sha256": "ae1a64faf03d238b44c0d859daed299309aceb0450ab0884560dda07ca5bf682"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_129",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/129_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_129",
+    "sha256": "14a4df483d858c59a992a0ec549bdfefbad377953a0ae8d6bfbef8aefb817955"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_130",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/130_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_130",
+    "sha256": "9a8b4fffc69f3a2e25e2fedb3a3a079297776390153579eae01410f0241aabab"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_131",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/131_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_131",
+    "sha256": "32bb4afa8b42f629d9509a3d79d7bab8b0c2f785af424eb1e80e82f4e93a984a"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_132",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/132_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_132",
+    "sha256": "71880eea92338fbc59506ee560acc9dd69effba83f649e24cf09607542e25e43"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_133",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/133_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_133",
+    "sha256": "e2393263bd70313371e4916ceb50cca5e63a7a622abb4d24a7fdeafdb68174bf"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_134",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/134_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_134",
+    "sha256": "0bde0b2cc18dfbf864185039f61f485cb18cc17bf228a1f16eb28c553d0f50f5"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_135",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/135_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_135",
+    "sha256": "351d8a25780c8f319a6fd2923be0feed1b2850ae459c2448bea0b30dee0f7ac4"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_136",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/136_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_136",
+    "sha256": "2ad98d2001f2843bdbdf51a6c8e8559c7ce707c35cf8478e9baa69991b6bb199"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_137",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/137_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_137",
+    "sha256": "2406b3ed401ba466af9bd6601148debab5efd79208a05e8b7dcca2e27ece33c9"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_138",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/138_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_138",
+    "sha256": "83e8e6c5a68646e09ef8fd00e8c170d55d6c8c2ed171b57a6ed46dd0095e1a22"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_139",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/139_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_139",
+    "sha256": "6aa0e9f01097e168f6d982b826b180e1d6a216964e6e2c80f19c457acdff609a"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_140",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/140_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_140",
+    "sha256": "560de3dc35624b5cb6eb095f6b68ef49cd7bd244a9d179c8403aef155fb7fcd5"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_141",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/141_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_141",
+    "sha256": "1986dbc789ee72ab9d76ab8fd860e46973a05235067746428dfe18af26d3f9db"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_142",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/142_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_142",
+    "sha256": "240680c4e0ae7ad7f85449fa43cae3ae531e5efaf0c2498801b6360221440efe"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_143",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/143_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_143",
+    "sha256": "96867757758040fabeed057bd24fc31dfd418b65bec01449acac317e47a98d26"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_144",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/144_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_144",
+    "sha256": "be6f51d86c2c9ac2e471f0ae577d3ba915e19ab10122629b86569d3e3ff37572"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_145",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/145_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_145",
+    "sha256": "d4671c73845b501ae6d8b5775dadf6644802e15aea4e36f32a6403f2974fea6b"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_146",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/146_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_146",
+    "sha256": "84929a7175c68d024c30fa41f750396884b4fae9437dab43aa255831194e0a6e"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_147",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/147_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_147",
+    "sha256": "c1cb87ad629a4c974405b0e9b76a4ec1fb6f8238da1f1120e14774ac9d0d9689"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_148",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/148_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_148",
+    "sha256": "90c2e7f4412c88a7d973519479e46519a4fa423f17fc75a2c7b0471c468dd9c1"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_149",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/149_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_149",
+    "sha256": "5ed487aa031f267c964b45f3db3e55744eb854684796c8c2a4e0d8d90d246695"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_150",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/150_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_150",
+    "sha256": "bdf4145a1597f0fac0fea3443a0ab86a18020ed3d334603d2c0af1f869b7ad78"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_151",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/151_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_151",
+    "sha256": "9e18be0c06de6fa4207ebe369f5abf438e508614fa3d77c3595023304729a43a"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_152",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/152_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_152",
+    "sha256": "6caf6cf3b72027f393e598b7a42e1ca4bf1d29350e91f9531558c8ec990396c3"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_153",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/153_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_153",
+    "sha256": "d7c44566a663de090f247322519307b64dfe8c020451c09450a1aaa535c9ede2"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_154",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/154_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_154",
+    "sha256": "53929dd89faaa025e0acac2a8e3dbf1ae06b39ce27299f2c04808fe67cd094b5"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_155",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/155_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_155",
+    "sha256": "bde8c23dbae7fe781627d8ecb6dc7310121a0867d6a86400ca05eaa8b56b7283"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_156",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/156_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_156",
+    "sha256": "20eb3bd9211b19608be332dd84ce1063cf69a30aa845ec3c2bd33af2c01cfbc8"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_157",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/157_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_157",
+    "sha256": "1d1b123cb9c340182551256a094ba551c988ada9ec05afcdc2d398fa4fe6135f"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_158",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/158_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_158",
+    "sha256": "b4fe7900f7ac21735c19a66a8795b24baf7f8f5a786cd359017a5e2f308e806c"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_159",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/159_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_159",
+    "sha256": "bb3f03309d2299cd6456bb58bac6874d28c960a4f4e25cf642ea478cf15c6d57"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_160",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/160_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_160",
+    "sha256": "22045ff44397c2f367b422c8cb9957af08b73e3a42be98d425e8004c8f548d93"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_161",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/161_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_161",
+    "sha256": "01d60c681445bc5f226253200671397c99d77f5bdd0c466674140387b089882f"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_162",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/162_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_162",
+    "sha256": "ea8ed1e95fbfb9d434c97a19d5c2248d2072a9a95e94b94f88599b4f6d0081b8"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_163",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/163_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_163",
+    "sha256": "dd460521f4816c3c0dc7273a166933006173ca8ec20c1774d7ff3ee9afa5c0ad"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_164",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/164_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_164",
+    "sha256": "ddd83118d91cfc395e8fcb068ac1892d33f8af6c9978d5ce5a611ccfd05c08f1"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_165",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/165_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_165",
+    "sha256": "161a95bc018d44e257e3642970ceb9a3978db1a64427ea63ab5e12ff2524acf8"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_166",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/166_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_166",
+    "sha256": "505db4d5a8fa1baee4993128980a9433a1eacc30260a1f027ad841b4e064c617"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_167",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/167_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_167",
+    "sha256": "1aef5e3495bdadf2a58699d07ea26b40e433909f8626cd48ca87e19db7bee69e"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_168",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/168_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_168",
+    "sha256": "508f05fa8f06f7618c0f96d8fe4d8c0cb47e897a3c3c4e44a9b43bfc64882750"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_169",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/169_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_169",
+    "sha256": "1dbc6e0fa6fd74f9afe6701eebb56f54ac16e86d8dce5d4a06207aac9c3e2a8e"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_170",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/170_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_170",
+    "sha256": "df040c3d90746870e0cf04ee4b6a12e2dce7254d128f831ae19d3858da47134f"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_171",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/171_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_171",
+    "sha256": "96159d37fa0141cfd4b90c357cf315e36c3e565cf1744f25807067a0c3d7807c"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_172",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/172_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_172",
+    "sha256": "2944be93fb01a52638d09f99e487f4d2e24f11eb23542b1ba6a2b4623ac091b8"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_173",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/173_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_173",
+    "sha256": "2671c100d4717fdb2eaea18b5f6512c5b6afdaf2fa7fc688114be5496c0878ce"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_174",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/174_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_174",
+    "sha256": "f065127db1fd13fd91a3b5fe9880b12bdac277d6ce147cb40a703b022e457c8a"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_175",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/175_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_175",
+    "sha256": "2f247d05f82f174e87aaa75a9fcf7b59c6467d4cade83559a964c4d3a3137b21"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_176",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/176_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_176",
+    "sha256": "97cbb42e46104e15c6e51ae8dc291f8c838a875e64fb1d485b4b3111f73d8b63"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_177",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/177_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_177",
+    "sha256": "bb5c9f4e70a0dec7f0008acc6c2eb097c098a112b4ddae25f54a6692ff3ec933"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_178",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/178_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_178",
+    "sha256": "68100932664d22c65626c6b040aa383a7a13f1cb5e505f192e32656a87dea088"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_179",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/179_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_179",
+    "sha256": "32f6cbecd19ff7f1027b2564e70d3ac7e460046ab142d4ae6767d5042bfb96c0"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_180",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/180_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_180",
+    "sha256": "b8b8d9398729445b0407371387b95ccc2e01fbac9a2e31a02c07f2eb2a500379"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_181",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/181_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_181",
+    "sha256": "ac77c61ef666789ffe029a9aebcb09eb231d65637e51ad9cbbb1f3f51ff56b3e"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_182",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/182_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_182",
+    "sha256": "0858ba547bb2d1c264f09658b3a78e7f6e12e2792d4633e0c711aa1bbe1baeba"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_183",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/183_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_183",
+    "sha256": "87ef42669039e04b1df01c3f44df91b477ac5b8c697e69e9aa08ff3e9856e9f0"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_184",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/184_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_184",
+    "sha256": "0a18cb7ce8cc47767042e079cbf27c4a612bf24d58c52db5c8087e3300d3a4d9"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_185",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/185_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_185",
+    "sha256": "8c5e34cdb18a63c4cb908ea1726bba985165684605a2146a154d6f79b34257ee"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_186",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/186_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_186",
+    "sha256": "74565ad0cd9cee1730bdf66362a690a158185000353a3498716285be8657bef7"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_187",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/187_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_187",
+    "sha256": "440b601cf34cefa2a28f355d9ce8a95b5b084c5fbdad157f335884cf353d586e"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_188",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/188_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_188",
+    "sha256": "6806dabe24498fa945401c1c8b436ef670739164266a4937e5582d699ebe7477"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_189",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/189_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_189",
+    "sha256": "c14a425a6fe296e054969b05251317d5aa0606f3146527bd0ee3d7b708bbfaf4"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_190",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/190_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_190",
+    "sha256": "2eaef0aeb64f298665efbf7a30b33677e57e5398c6929057292ebb9c1b846d79"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_191",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/191_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_191",
+    "sha256": "ae73ee932c911d7d4ea23424379856e2848f1295be8fc95558953842dcd969da"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_192",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/192_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_192",
+    "sha256": "f24f10a3be23d3e38455f86827d34ec39c46c9c5edd46db7b253858460ec6fc6"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_193",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/193_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_193",
+    "sha256": "a580f78a7ecb1e9dd99e295436e3ebe67bacd6f44ce4bbea5833ec7172945352"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_194",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/194_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_194",
+    "sha256": "fbdde0d7d72b960bfbc5993240f882f47493e276ea2659e324d52ed61ee2bb5a"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_195",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/195_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_195",
+    "sha256": "8c1c47df5d67feff90b018b7f94ed4334016bc8070eb6b281c42d28ca9884a60"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_196",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/196_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_196",
+    "sha256": "42d6ab2aa4efb27b56b6b789930c340343264d9dc4a066aaafa68c6b9ded31f2"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_197",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/197_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_197",
+    "sha256": "682bfc255e6f0bcb04c120f3cad419d1531090bdbd076fc3cae9272d248db167"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_198",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/198_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_198",
+    "sha256": "43d9cca6a4dd829b07de7ead13f2197249b6f384c5b61575cdd2fa74a2119af2"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_199",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/199_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_199",
+    "sha256": "719df5dee3e6d9c1c79a411ba65690b2845c88db84b292060a2ec40501e19b6c"
+  },
+  {
+    "variant": "WT",
+    "id": "WT_200",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/WT/200_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/WT_200",
+    "sha256": "f9a21bcb050034cc1db25203a7a78428dc65e83b0a4e93d0b6c5728ab3f93bec"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_1",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/1_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_1",
+    "sha256": "87fd1642574e7099534f9173c902882444a1ed81d7a24410231a4ea8f677ad90"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_2",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/2_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_2",
+    "sha256": "be193e337128c09e7c44eaa3d5eab3187d830aa7c2f812f57cc93c15997205fa"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_3",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/3_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_3",
+    "sha256": "a574c5be3d8cf354f18892e5b45d1f96dd8b9a86da02aa96b9e64143a8e58fd4"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_4",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/4_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_4",
+    "sha256": "723890e553e5b7040e93da46d1ad09a2f69d2ef106b48824eea4be3efbe025a8"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_5",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/5_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_5",
+    "sha256": "1b78ee64f077e5f1dce257250ea89c9649b575d2e54d270cf2b54ff133a1bc2b"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_6",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/6_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_6",
+    "sha256": "75e4da8d9459230a9b584620e4e6cce0f6d297ef990bc10dd1896727494a430f"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_7",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/7_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_7",
+    "sha256": "9b325ccf5ecbe5a396aced1024b07bda59b21086516e7f479ae137b5912324cd"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_8",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/8_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_8",
+    "sha256": "6c2a985bdd8ce3ca04314555972e545bc0fec500183af427de9e8a418f7a25ac"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_9",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/9_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_9",
+    "sha256": "c85d5f5298d9a8da8880394c24ce5447c24944a1b5d04b54d7c5b34877f2033a"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_10",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/10_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_10",
+    "sha256": "0901db13e31e13102ae6c522bd343686785927d25d91f6b70836b3324972c184"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_11",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/11_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_11",
+    "sha256": "3dcd9d8018b2c501724646543d8c3f62ba3428193c6d078c32cdbe65abcdc25b"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_12",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/12_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_12",
+    "sha256": "4c7f88d9bfe1821db560c224a5a3143867ce4911e00c85beaabd9d4e895e2270"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_13",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/13_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_13",
+    "sha256": "036849e171d1a15736086789308e0e40953bd4c903d2337468523c9ee9a81243"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_14",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/14_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_14",
+    "sha256": "221c0951715e1dfc00bfec055b6d6ac29b4740205d844054f64d8175f3b21e5f"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_15",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/15_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_15",
+    "sha256": "77d638bba3ce83e124b278aca4ec8efec8835debf8961997faaa2715c6185ae5"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_16",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/16_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_16",
+    "sha256": "cbb6bc3096011c35972aa9033d0e3597ff7c642ca062ae3c0c4f35a5334c7bb1"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_17",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/17_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_17",
+    "sha256": "95ec1a2cc3aaa86a63041b0ad77580a4fe5d2778e433b7bb5bc9c7e85fb02510"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_18",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/18_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_18",
+    "sha256": "c17008239c2e9c2bbec73edcb3557378fc80cb809ea28ff2f27f6f95d87b76bb"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_19",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/19_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_19",
+    "sha256": "25105e2d05cd47d9f43988b3dcf170ac6ee1e0f2c18f2d6317c74b3ffdb4e4dd"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_20",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/20_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_20",
+    "sha256": "5dfd669bdf6e1999a29dedcb1e19216443a0c71703bdf6d655daec68e4ca0400"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_21",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/21_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_21",
+    "sha256": "0645c61afea4f0046c41ce2f8c4f847d60562d0265bda50c91af50eacb2ac400"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_22",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/22_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_22",
+    "sha256": "5cbad52f5743a2f432defc113c5ffcd74bd4ada001b7c897506910be990945ec"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_23",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/23_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_23",
+    "sha256": "d84ff8fde7a6c879e6e618ef14f3acdbd452bfc63938d1a75df0b2f17641fb31"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_24",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/24_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_24",
+    "sha256": "91b58e9dd4cf276889460d2291922aad5c0cbeb6e4eb10110999f6457ebfb732"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_25",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/25_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_25",
+    "sha256": "f494ecf579bba8e22a2253ba62cf5de6a5a777af97c5b0ee17fcfc53a24e5ccb"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_26",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/26_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_26",
+    "sha256": "226da4d26c3ca98391d001cdc5ddc321f208293d0d3611cb21a7c20e31b15754"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_27",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/27_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_27",
+    "sha256": "0e4860bc08a386d2312b7ba3560446aab86f5aa31e1dc04e1d1b8a17f47e0a1d"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_28",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/28_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_28",
+    "sha256": "1477cb2584f717cc2c0f3abc10f6b1b6cd8131fe1e3ea13228be803c4bfb703f"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_29",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/29_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_29",
+    "sha256": "9645183a249cd420ff49e54d7294847f885b90bc363f7fd0982d89a0026ae775"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_30",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/30_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_30",
+    "sha256": "7c7052c5e2dcf03497ab6223ddbfa6fb9b3de287c6249fc38469b946ef8d4996"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_31",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/31_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_31",
+    "sha256": "b0c25f2e4699b90bfc5ad28bdbbedb501e8e1a864a9d99b7a7cfc08ff7f68d39"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_32",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/32_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_32",
+    "sha256": "1cc948fc954075b35b40e85baf89a3a00c11283eff89109ea113a18fb882b7b3"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_33",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/33_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_33",
+    "sha256": "9b5e90aa61eebe7e2574098afb338e73a55a7b70b07356fb05b69c8f5a2cb687"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_34",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/34_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_34",
+    "sha256": "f2d839eed870dba0f7e5cc8996d5d1b54525f92e9a1b2692010f2ea079392376"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_35",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/35_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_35",
+    "sha256": "d181176fa45d4dde62174c79cd6b254a4dc9c7cbd23ca8ce98dfbd37ee712d9d"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_36",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/36_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_36",
+    "sha256": "533f90b328aaf48f5fb180bfa3cbf83c1e4fe2583159ac8157787786127d9859"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_37",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/37_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_37",
+    "sha256": "43fcea9f325f2e8c3bba0a4b804bf3ba142329bb7bf2351f0c861d39d483cc5b"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_38",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/38_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_38",
+    "sha256": "a45c0a059188f4e375746670ad4dc429940c9e4dafb5e1c60a0643afe80a8581"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_39",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/39_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_39",
+    "sha256": "d38b6dca1917fe2679db1da4c37ad7d6a6935846b37e518c0b7c0122a6d290d1"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_40",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/40_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_40",
+    "sha256": "ca8d1d4f5f06fae3c6a3e6ed9246e80f13da81780d89caba092240658a109719"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_41",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/41_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_41",
+    "sha256": "bb62973fbd9ad87aff819c2b8b404ea95e8a9b62e6de6a7b09fa5e97738e1cdc"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_42",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/42_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_42",
+    "sha256": "941010e29411ca365f61752f601efbf32c1dcf635b1b9a934b74bfbb80541f74"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_43",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/43_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_43",
+    "sha256": "3fb90b1558c5afa8048188381148dfe52f604ebdcaa189bf9d3e16a48f90981f"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_44",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/44_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_44",
+    "sha256": "c4ea9fe7819ec7e6aefd471fc9cdf6321247d168b291709b0e40bb945af6f145"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_45",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/45_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_45",
+    "sha256": "fd1a1b66442c83df108a18ae1c02732f0d0cc2fa28fcc17b3083303cb90920d1"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_46",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/46_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_46",
+    "sha256": "1fd18b14d3d012d6266ecd4b88f31aef335ad0f4419b2239d86e56da6356be02"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_47",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/47_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_47",
+    "sha256": "54a008403078c6753937ee6d19aa5a82ba11c6b4ebc06d2119a9a9a7fc5401f1"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_48",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/48_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_48",
+    "sha256": "10bc3bf876344fd1fd6734e76d560344d4c4be07e38ea7d6a02e120e4ac260d5"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_49",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/49_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_49",
+    "sha256": "2a7ecdb7f945e612f23abe111277c9af3ca49c8c671ba209e5b02e9f4f94a52f"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_50",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/50_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_50",
+    "sha256": "65ce67f603ac85ba14f03bc080248922d69276505b781fb31eb1bdadfb92d9af"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_51",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/51_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_51",
+    "sha256": "7ddee78fc597ed6e60f8e3927c5fd6c76d5a82906fda39975c4dd1719187ec22"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_52",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/52_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_52",
+    "sha256": "d0fdb719c5863141c4a9c0f8b58c75b71c54c906f745c381d6a6f01f19c43080"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_53",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/53_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_53",
+    "sha256": "ac57faa76ed9ea6985d66b04d4916e79a3c7d8b7961cc30cf2ffb6d6a5704a2e"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_54",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/54_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_54",
+    "sha256": "98c9b57a0546d9fb13ba8ca83065b0dbe4ec1cf1aad343f291bbfe3002367204"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_55",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/55_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_55",
+    "sha256": "149d834edf21c2b7552e5f127d68d190ab9cdd8a303827179bcfe580c3252286"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_56",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/56_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_56",
+    "sha256": "28cada95908b1af0f91955d5e0acf6908610be0841c41d6e76e3839768cc3832"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_57",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/57_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_57",
+    "sha256": "a4801adaa2fbd204d8f1cbedeb3fac77bbb116d0133270e12d28873a90853b67"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_58",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/58_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_58",
+    "sha256": "3d2b68f48139f62e9408b821393356309b19ef6be3ba131f6e90f0495f65cd03"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_59",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/59_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_59",
+    "sha256": "a7f49b70f775789406a202a652b5d5b17fd109c9792c429074088bd2c8d08a86"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_60",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/60_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_60",
+    "sha256": "e5ce7c5464a474162973f3ab6d7fc54426b6f661f26aa2dc3174fca32bc3d8b5"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_61",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/61_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_61",
+    "sha256": "38c716916a4a543f35e17ab723c99418ecffddb781c84aa0abcf16f47389eb6c"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_62",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/62_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_62",
+    "sha256": "df428dc159857f5c35e9c10c4a57b994a40cd4bbaf0d8664d3ce560d6df7bb56"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_63",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/63_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_63",
+    "sha256": "da6f88b0f0eb59ade02b3e1451df05c327e20649b7670999c4d9a9836c627f15"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_64",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/64_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_64",
+    "sha256": "96c5ec898a512636f4c5d1d26517da6024c6886b02eb044c941d78186f4ed048"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_65",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/65_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_65",
+    "sha256": "8a55c68338ce9b3022b9aaba9fe9c70b668548a14eaedd2cb81a09ccc4ef0d5e"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_66",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/66_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_66",
+    "sha256": "631553f9a84cbe23060508eb5fb8436a767714a05a73ebaf2e6f4c881dd860c9"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_67",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/67_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_67",
+    "sha256": "5df47c83f2c6a4bc68888b1616a5a6dbb58796c221c0600b47b2eaf13c4ae8fd"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_68",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/68_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_68",
+    "sha256": "c55c4a5ecc78f49e21f83f3aee8de72a0a6d76a46030a4d1686efd0d8488e72c"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_69",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/69_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_69",
+    "sha256": "0f7e8f8ae680b2f202e593f6225e5dffd6ab21c80b0284139f91e48d0eb908d3"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_70",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/70_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_70",
+    "sha256": "61540ec1fc3af2cc444b97888912d341fd7622a05d378eb522917aa1163f26ad"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_71",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/71_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_71",
+    "sha256": "8aa90d093a7b96e810ab6bc15c86f7dadcab21c9efd3334a6420db16077206ec"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_72",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/72_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_72",
+    "sha256": "845ed770228c47965a0fcd932f00d0057a847355a9e7c18b310746d073566b96"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_73",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/73_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_73",
+    "sha256": "1fa8cc6ab3ba44083ac541206b551cc5feeef3065d15631ff7e3a833082afd9f"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_74",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/74_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_74",
+    "sha256": "48b13af123b7da2bc38ca41b76c41edd06e9f6639d2ba18c56896425e0b518f8"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_75",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/75_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_75",
+    "sha256": "ae90b62d6263aecbd3bd704adb9d92fd0159ee4aa7df14b2f23e3cdd4e5a0438"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_76",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/76_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_76",
+    "sha256": "6c5c9c1e8f1a8f77b0521f87b47b95a6ef117c1e07e84910e9a34b430049b605"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_77",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/77_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_77",
+    "sha256": "b7308a18c88735bf892b7ea4bd4a1bd905148ff9e01f97baeb2ad3e8681e415c"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_78",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/78_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_78",
+    "sha256": "04ffb7f104d2fad8856005892b057f135fd22e4feaebe8adf9c2374c14a31c01"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_79",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/79_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_79",
+    "sha256": "d7a43b13e1470524a2fc0cdd080c536a6b4e84f3f4b7fef1dc86ecada9aedd10"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_80",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/80_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_80",
+    "sha256": "1aafda67af0d1245dbe1853ac73a7bec3abb0c148cfc86485bf9d46b28c08bd4"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_81",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/81_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_81",
+    "sha256": "02bfa1950c509e5882a8c85463ca995d0ca9085081a3ec788017c323e4e2de7a"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_82",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/82_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_82",
+    "sha256": "92e169eedda369760a97885c5eeeecbc6f604ccc5769cc5eeb923fe68a023486"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_83",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/83_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_83",
+    "sha256": "f1afcf3078cbee109babe87a2031cad890d9b91ef13ed10af1e9b4e1636d5797"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_84",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/84_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_84",
+    "sha256": "915067ff0587da96b69f093535948182cf8ad59a3b8e92a5aee77adca848c904"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_85",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/85_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_85",
+    "sha256": "5850185b3e9420b14ca5e6dae0bb2dbd8c0989d9ff5f36ad1d8dc12477a241f1"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_86",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/86_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_86",
+    "sha256": "e74b0d65f0a41ad9caba36793dbf6dc290b76498df63b873529c9a4c54f7126e"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_87",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/87_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_87",
+    "sha256": "3dfd5577b00a99800ac42d83895d6d15f87e7eaeda1937cc1408fb6e668f3cb1"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_88",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/88_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_88",
+    "sha256": "905a9f54cb37deecb5c2790450ae9f0ac4beca0ad8e708c6813693bc5064d87f"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_89",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/89_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_89",
+    "sha256": "f65e6f59621e13954f8e05c88fae983f5214494fbb83cfb8abd9292518023039"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_90",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/90_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_90",
+    "sha256": "84ec4ed6245154b81586e73a4728e0d0c1a2320dde4010a78921390033f3d114"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_91",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/91_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_91",
+    "sha256": "371eb76a54e9ee17b6d9a095161155ff8e2a691feafbf18781eff415bb4a3842"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_92",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/92_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_92",
+    "sha256": "eb4fde14a506f9445a4e59f038a1b6405a8069f0e79fd3c29ca4ffa46068e792"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_93",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/93_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_93",
+    "sha256": "91d24ff629fc83bdb1636c252b86f565e48b54337c710acf38297f3ebf5d41ce"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_94",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/94_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_94",
+    "sha256": "b1966141e6840bb23f81a958ac1b5f2396dee553d269b8d575eee4e8b63f67af"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_95",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/95_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_95",
+    "sha256": "578be5fd92b2946a642f7b8895e1ec705113ddda7c0d7b6693c9489a40d6d7e4"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_96",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/96_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_96",
+    "sha256": "5dd12dd9e49e12d28447fa0e7fe8e1a595fc763f96f29a50bfff489c944158d1"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_97",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/97_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_97",
+    "sha256": "845b869ee772015192b837964295830b8a7fc1fb9d8435474990b6ac501b7e63"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_98",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/98_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_98",
+    "sha256": "3672adc9772788ebaa6f58094efb3636fac2d91501c6d3fec6779054277123a0"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_99",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/99_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_99",
+    "sha256": "bc79d896542d8d40b2d943b4de316ddf864a5cb82bff4bdc488caf5dfad102ff"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_100",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/100_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_100",
+    "sha256": "8107a0460080ed4e140f9f788e9947aae765895a37edc5ff7ef820e357b03ee4"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_101",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/101_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_101",
+    "sha256": "50afd1abc5cfac109cfdb3ea64fcd833b8c17696f98e21d252f899b9af7bae4a"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_102",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/102_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_102",
+    "sha256": "f288c7c5126aa80f4dff438f083f229993989d6057d81a04df33b240a786b238"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_103",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/103_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_103",
+    "sha256": "88d9d93194f054cd1d48311b097a81a6c7c2d05a276419238c1986a0110d31be"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_104",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/104_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_104",
+    "sha256": "b7e56d94a0f219c72141c3db5e0c792c42b4d61765e883b2e9a0729311b87cd8"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_105",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/105_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_105",
+    "sha256": "ec1f7f98ea64ce54b8c35f94532ed78c421221313db168ded3444583031ed5a7"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_106",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/106_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_106",
+    "sha256": "9b2d5616e107d1efd075e48f434ea2b2e36e0d4589c8f0fb7a42dcf323dcb018"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_107",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/107_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_107",
+    "sha256": "f69613720b1040a9a46d7b2b8f2fa9203b09abad088959fe2e68c1f015167278"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_108",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/108_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_108",
+    "sha256": "6b8932f7f23fa4026e4ff632bc9d24adca740b110fe37da2d950abbcc17338c0"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_109",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/109_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_109",
+    "sha256": "1672394493a78bea8f5672a9cfc253031a32fd154a595a76cab3a975a10e7659"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_110",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/110_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_110",
+    "sha256": "eba91e60f40b8041458c9d51f8bfcd2dd7e5532426cdedc15c126275514d0915"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_111",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/111_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_111",
+    "sha256": "5ad5db3f0fceb1fc42944d145a831b8ee584096da6211c6441fce1cf42c921cf"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_112",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/112_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_112",
+    "sha256": "e164659ba42b3d84a6f47329102004c8b3ca6b53f9494c88ade5aa74cd326cd1"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_113",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/113_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_113",
+    "sha256": "f7bc62a702fb738e1d324d5c51c0d348fbd7b691f536847558a329bd31d39218"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_114",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/114_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_114",
+    "sha256": "47ae3a205fca37aa8ac90a08b3f013e59320e7dec1d8a364a3c56df6c8743ed0"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_115",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/115_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_115",
+    "sha256": "2af280f7f1a42fc28ed77d222fa7181d3396013d8ab2e0627050692849ced9e5"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_116",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/116_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_116",
+    "sha256": "7a517888fe998da1ef8cbba5303def6a9bf0d37dc186bae22ec528be8dc1e254"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_117",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/117_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_117",
+    "sha256": "b622e3d862ec74d2b472a9c7b4a88710367db5c21b2a717528eec8d216b2f461"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_118",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/118_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_118",
+    "sha256": "bdb2c351bf50c5a82d6cb5199e1e21e86f83bd412697f9f3a0166b06a5479575"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_119",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/119_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_119",
+    "sha256": "b78d85c770b1e0add70ac3a2374eb5b9063a63004bd688dd3b6a3e9c549ec575"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_120",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/120_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_120",
+    "sha256": "25f67094a6e991f11663722ae242b4c9d988cdd1fe81a8a08771db4388fc2909"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_121",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/121_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_121",
+    "sha256": "ea4a69cd7c90edf89294d60513ee4df0b38bc1afa004145233e35c596ec4444c"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_122",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/122_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_122",
+    "sha256": "842dbda75d80d7baf023a8928350d6846527cf9819fac63164298aa7a19f5f39"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_123",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/123_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_123",
+    "sha256": "5d7462bae51cf3bed4934809d7ba26156b4c631ef5304d064c47694c554e4560"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_124",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/124_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_124",
+    "sha256": "694dcec940598505d5463249acb697837f3b224370297764d6c2addc1bc46519"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_125",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/125_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_125",
+    "sha256": "f0fa98b38b6f62cf9209aeeb5d3a2428354fd7fe0375772646507293c40259f7"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_126",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/126_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_126",
+    "sha256": "dc98a21765c1c15220eaa4970856d0d2ff0a93ba6ff8b55ed8abbfcc0837e190"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_127",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/127_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_127",
+    "sha256": "54e3b0aba780f7b72884f62be802ed49a7b33d24003c33ea2e0eac9ddb26ce14"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_128",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/128_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_128",
+    "sha256": "62278c3720d1f17f6d593de3e0d575bb426c769bbcbb400172330275db572de6"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_129",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/129_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_129",
+    "sha256": "6fa34df628cc37cdcec406ffd866909d9813271ea0968643a72aac79ad406092"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_130",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/130_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_130",
+    "sha256": "1e2a3f0b39c9acdbedcdc571188ab93ea53b8d355edb15483465fe171cab882d"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_131",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/131_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_131",
+    "sha256": "ccb9967ac6ef53423463466e3d3ae566d275c7e462215288f11ba720f1d652f1"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_132",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/132_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_132",
+    "sha256": "5d8dfe163e7c8adad2bb6054c5376a3b5f2e3df2cff2718adc3c1deb3cfee667"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_133",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/133_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_133",
+    "sha256": "48856b8519a0281197ed3b8e30348a5b7d696a5d747dd47e16e887b04e675a52"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_134",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/134_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_134",
+    "sha256": "0503c6997c750a5b0bd1eff4a6a730ef2d5f2b9b3d273409449d7e8e3cf41382"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_135",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/135_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_135",
+    "sha256": "650253c280d633b4f42a0381e684da16812821e1a134b28fc26ec347fb4b86f1"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_136",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/136_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_136",
+    "sha256": "511648eca6d6901ba08bd8b1800ee3ec373a42d7e430f9a7ee689851dd3f75b9"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_137",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/137_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_137",
+    "sha256": "2fe8e0e17bc3e60af7be77ca53f45d82c02c5309570b48e08f27c82268feb911"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_138",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/138_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_138",
+    "sha256": "6986d3599a3cdbe351c404968931f510711734035f83072b6816fed0f39e3e20"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_139",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/139_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_139",
+    "sha256": "190f92451bc7fa089404f0d147dcac97a7979c7b2f57a5efe4054418900304e0"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_140",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/140_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_140",
+    "sha256": "7bfca0d42e71801e15b1b6d2d0647b1f356438b4f22e36450e5d03130f22c690"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_141",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/141_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_141",
+    "sha256": "6e809146d308f2d3dddd3e29cc58de68a16da31ffbcb39bf9d41d52c500c01ef"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_142",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/142_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_142",
+    "sha256": "db3da247ae1711a86d6979918ff897bd1ba872454cd837479cad1a3ca277baad"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_143",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/143_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_143",
+    "sha256": "57b6bfe30c8fb26e2d8b9c486b1bb220bb6c5c0469a77af1e26f1aedbd47aacd"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_144",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/144_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_144",
+    "sha256": "4a91ce9540507084a74a162666f69dffdaf1c833e7fe8ded87e574cf5334803d"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_145",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/145_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_145",
+    "sha256": "a6c6d974cbeb9ef73c2b44dffb423d3351fa8ac8f7b87392f93387af906d35a7"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_146",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/146_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_146",
+    "sha256": "15250cb21907588d61bf34d95f84e15856419d13ecd6ecc959ba239651bb6cc5"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_147",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/147_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_147",
+    "sha256": "3a5b46652d365fc887a8eab95f3aaabc8c2c9079dcca5805f0b49fc1bf416191"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_148",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/148_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_148",
+    "sha256": "da7001c82e0f231a2930e54f14cc699978020511c2795cfb4088b4859d64147c"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_149",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/149_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_149",
+    "sha256": "b016cf245526ce680dbd382a879d34d082fdaeb86bb83ae608f9d61ddc03f7d8"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_150",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/150_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_150",
+    "sha256": "eb2955648b56bffdd6c9ac0da04cdb1033aa839c2d1128fb9d651a501a142dc8"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_151",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/151_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_151",
+    "sha256": "ff8d9d6a27a354e82d52a1e5179be8797382004952ffb2830443455880953fb7"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_152",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/152_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_152",
+    "sha256": "d537f01c7576c5d319d5a180020996445498b8155c7a29b09bb315178292f431"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_153",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/153_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_153",
+    "sha256": "9b8df6d92fa637bd9e2e455baf2cbb6de11340841db21ff26bd1af9eaa10e654"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_154",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/154_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_154",
+    "sha256": "829988890badcff822256d2eb0ab89e764d666e83f6d12806a73b92d57b8efe0"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_155",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/155_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_155",
+    "sha256": "757deac8ef07d82b964f47f599e4b792a7f1f5ff369d9150a79336b5ea3dede3"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_156",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/156_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_156",
+    "sha256": "c857fce5a3db1c824f968ca1617b3fb03a01fdc0423491983b47d9dbc02b1123"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_157",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/157_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_157",
+    "sha256": "cabc39dd60ace7a60c2704139b98c7f095829f24ede65adc0926357d57d7d0c0"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_158",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/158_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_158",
+    "sha256": "8fc036ba6d122a4da8120e90ee67921b7d26890d266c55570a0bcd7db3e7774c"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_159",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/159_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_159",
+    "sha256": "0beacab5cbc0f4a255215593537051c4da5b010270ab25e212096e620b560a83"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_160",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/160_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_160",
+    "sha256": "2d70e9ceaf3dde18a2f01ff08ca4f289baf37c0c2a5ab73c5db1fc46b2af38ee"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_161",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/161_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_161",
+    "sha256": "5c726ca94b9887c1be1ec7a892c3543a065ff16345f17aff4df5d3f96dec0e58"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_162",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/162_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_162",
+    "sha256": "b08aa310251e1e888372f17aa95f9267a84be6fab080caa78c72af044cbb1651"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_163",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/163_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_163",
+    "sha256": "13bd36d5e711055b24a9a62896f4bee3ea6194727b667a408937a8ae1e0678ba"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_164",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/164_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_164",
+    "sha256": "04f47b057cfc39566e1c114bf3c80f6f28890d5fa8007bd9eb5cea7e549d01bc"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_165",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/165_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_165",
+    "sha256": "e385cd930789ce08b262d22bd5b2cb2a4dc4493312153ff816762aed1877a83a"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_166",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/166_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_166",
+    "sha256": "c7ab465328092300b9a371e289565dc42b975045e5a140d3f1b59cec1e765667"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_167",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/167_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_167",
+    "sha256": "8eb8d7bc631bde82ec8378bdb4e04d426822ccdf2022a853dfc7ce03f7b14bd3"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_168",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/168_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_168",
+    "sha256": "23f00292bbd074d2a57c3c81851fff684e768137e54e354356a404a7b1332f28"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_169",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/169_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_169",
+    "sha256": "ec380fdbf0616df4dad0949192b4e61e5c160dfa8c5fa4d6e86e120df99221e7"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_170",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/170_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_170",
+    "sha256": "fcb2694c158e64317b2d59a72c621f7c1352320cf73b03ac55f510f479a2adeb"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_171",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/171_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_171",
+    "sha256": "cda1a7d3a776e230c6910b1a38b40d34aa54f6bd69fa40453594ee9d46be4db9"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_172",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/172_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_172",
+    "sha256": "f87f99ee68db8227f50a80f2c98fccd190bbc5ee139fdf4ac2d913183a9c8051"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_173",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/173_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_173",
+    "sha256": "5373bc56f0ca483e649f840e5f05a226464d19aa1f6c1418fcaa20b9c7646cbb"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_174",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/174_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_174",
+    "sha256": "4dcb0bc541bda7457733c541f9d45ac1a59a0a2d60370dd224fd8ec8327cc6d8"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_175",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/175_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_175",
+    "sha256": "3c3b8bef829e77ff49449c608e28b1cfdfdf88e73a4a008249994bed5a3f0226"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_176",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/176_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_176",
+    "sha256": "25a51213ae45c18466146dbf7fa41bc41402d89118b55990307e1fddf09771b2"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_177",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/177_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_177",
+    "sha256": "9b785f0500b9f60bd72a339cc59ecd6f902787a6053e7e24dc32a0bf52c5ba6c"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_178",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/178_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_178",
+    "sha256": "7a6d61c9170bc0c19a6c632988166299e8380a4fcd6ae09519e4888658292ec2"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_179",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/179_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_179",
+    "sha256": "93068f6ffd42b61ee0185893cb01ba5588ad4fb3639f0277237b4e8d85c5016e"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_180",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/180_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_180",
+    "sha256": "377d7c81cb57cddf1ed8f3fbd09e0df6fbf922feba818ce3a911a325136bfd5e"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_181",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/181_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_181",
+    "sha256": "20b0f6a436dbab178e13cbdf6f4b423167eab800de884d1e3534d2fb2419810e"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_182",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/182_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_182",
+    "sha256": "808bec111f682c7643460a5ab300c33a1989f70c65123ee24372a70208dce947"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_183",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/183_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_183",
+    "sha256": "6b138a1ee56780551fccc49adc383d2e78578237f9d6f730b642c349b9ee0016"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_184",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/184_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_184",
+    "sha256": "63cc2ad39b9ac786a86a2659e102fc2b2556fb2c9cceb64e2db19b36a0029490"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_185",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/185_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_185",
+    "sha256": "dff38f80bb504cee8daa11064320e8c4da6e64b3c612910377386787e023ff8f"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_186",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/186_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_186",
+    "sha256": "43037e96cee7e29cd194c1b62afcd96391a1b8836022ed4236bd84af384a072e"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_187",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/187_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_187",
+    "sha256": "b860f93b6284cb9ac120fac525b630d5451c09c068149f8330ec3610e1032e47"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_188",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/188_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_188",
+    "sha256": "51cd4347b63ce32c56b534a8cd70ef9d35ffec52cd1c59d3ed0201fd3670db9f"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_189",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/189_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_189",
+    "sha256": "766dd8cd00c28f33c609124d2d72c049eee527b6f444d76e702710e40a2f2d50"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_190",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/190_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_190",
+    "sha256": "2ef81b785f0070ddda38afcccc761559bc9ae9a311a6ac1f04306b8c99cf310a"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_191",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/191_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_191",
+    "sha256": "334c784a6e92a37c2c5be43f19f50a7894be0964d56404dccc632ef287746baa"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_192",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/192_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_192",
+    "sha256": "6ce7fee39af8961fc91694a436e7e79bb5b0d78c88e5088f2f1b358c69cc8389"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_193",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/193_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_193",
+    "sha256": "7655dc15238f32fb98de13316508ce8a3a98154cbea4dbdf1a0f74260fb3100b"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_194",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/194_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_194",
+    "sha256": "ce5e73698dcf8ea5218a90f1aaa283b12d58b4520814dac6dce8c7e8db95ea00"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_195",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/195_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_195",
+    "sha256": "b115eae98157be0cfaf22ac4e24bd1ad08c5e79dc5dc70f0a58177a97541c5e1"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_196",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/196_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_196",
+    "sha256": "b1f06038fb36484fbbaf2c4b6d34b9e7b7275a8d4e4fae723239eaa7a877b2e0"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_197",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/197_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_197",
+    "sha256": "3849ca356d9b4d9543f8e961642a3bf3566e3a50ec18b27c5408fd0f6a1eae75"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_198",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/198_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_198",
+    "sha256": "5a4ac6332930e37a834aa5a7ed64a2f18048500737f98fd8ff512dab13baead6"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_199",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/199_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_199",
+    "sha256": "e70f55f68ae0f3fa3c3634740e82c8093b027671c8c9136895b9a692ffbcfbcc"
+  },
+  {
+    "variant": "AA",
+    "id": "AA_200",
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/IDPForge_2026-10-13/AA/200_validated.pdb",
+    "job": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share/jobs/AA_200",
+    "sha256": "a026e0b8adbe187e45f478e6c5b7bf3499c7f5085007d751969dae07501a6ff4"
+  }
+]

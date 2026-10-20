@@ -1,0 +1,16 @@
+AR_residue,observed_atoms,prediction_returned
+340,"C,CA",True
+366,"C,CA",True
+372,,False
+373,,False
+374,,False
+375,,False
+376,,False
+377,,False
+378,,False
+379,C,False
+381,"C,CA",True
+390,"C,CA",True
+420,"C,CA",True
+425,"C,CA",True
+447,"C,CA",True

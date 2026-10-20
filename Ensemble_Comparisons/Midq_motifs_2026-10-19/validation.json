@@ -1,0 +1,102 @@
+[
+  {
+    "fit": "AST_WT_control_broad_reversals_low_burial_17",
+    "max_curve_difference": 9.814371537686384e-14,
+    "Neff_independent": 200.00049166504888
+  },
+  {
+    "fit": "AST_WT_control_broad_reversals_low_burial_29",
+    "max_curve_difference": 1.0147438445073931e-13,
+    "Neff_independent": 200.00130275601694
+  },
+  {
+    "fit": "AST_WT_control_high_burial_17",
+    "max_curve_difference": 1.1879386363489175e-13,
+    "Neff_independent": 200.00046324107706
+  },
+  {
+    "fit": "AST_WT_control_high_burial_29",
+    "max_curve_difference": 1.1302070390684094e-13,
+    "Neff_independent": 200.00075175972535
+  },
+  {
+    "fit": "AST_WT_remove_broad_reversals_low_burial",
+    "max_curve_difference": 9.414691248821327e-14,
+    "Neff_independent": 200.00118663652893
+  },
+  {
+    "fit": "AST_WT_remove_high_burial",
+    "max_curve_difference": 1.1324274851176597e-13,
+    "Neff_independent": 200.0003729036226
+  },
+  {
+    "ensemble": "REST_WT",
+    "index": 0,
+    "geometric_binning_max_absolute_I_over_I0_error": 0.0014568666265897742
+  },
+  {
+    "ensemble": "REST_WT",
+    "index": 933,
+    "geometric_binning_max_absolute_I_over_I0_error": 0.001240538496698149
+  },
+  {
+    "ensemble": "IDPForge_WT",
+    "index": 0,
+    "geometric_binning_max_absolute_I_over_I0_error": 0.001460925174873928
+  },
+  {
+    "ensemble": "IDPForge_WT",
+    "index": 500,
+    "geometric_binning_max_absolute_I_over_I0_error": 0.001083892308914201
+  },
+  {
+    "ensemble": "bAIes_WT",
+    "index": 0,
+    "geometric_binning_max_absolute_I_over_I0_error": 0.0012003291557088954
+  },
+  {
+    "ensemble": "bAIes_WT",
+    "index": 500,
+    "geometric_binning_max_absolute_I_over_I0_error": 0.0011471997926145658
+  },
+  {
+    "ensemble": "ASTEROIDS_WT",
+    "index": 0,
+    "geometric_binning_max_absolute_I_over_I0_error": 0.0013581854082407412
+  },
+  {
+    "ensemble": "ASTEROIDS_WT",
+    "index": 1000,
+    "geometric_binning_max_absolute_I_over_I0_error": 0.0013254123976017516
+  },
+  {
+    "ensemble": "IDPForge_AA",
+    "index": 0,
+    "geometric_binning_max_absolute_I_over_I0_error": 0.0013826145251252045
+  },
+  {
+    "ensemble": "IDPForge_AA",
+    "index": 500,
+    "geometric_binning_max_absolute_I_over_I0_error": 0.0015305042111155385
+  },
+  {
+    "ensemble": "bAIes_AA",
+    "index": 0,
+    "geometric_binning_max_absolute_I_over_I0_error": 0.0010924278860196084
+  },
+  {
+    "ensemble": "bAIes_AA",
+    "index": 500,
+    "geometric_binning_max_absolute_I_over_I0_error": 0.0011908390810676916
+  },
+  {
+    "ensemble": "ASTEROIDS_AA",
+    "index": 0,
+    "geometric_binning_max_absolute_I_over_I0_error": 0.0011394660147786093
+  },
+  {
+    "ensemble": "ASTEROIDS_AA",
+    "index": 1000,
+    "geometric_binning_max_absolute_I_over_I0_error": 0.001211762811760263
+  }
+]

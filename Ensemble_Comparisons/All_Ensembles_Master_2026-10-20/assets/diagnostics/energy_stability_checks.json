@@ -1,0 +1,62 @@
+[
+  {
+    "variant": "WT",
+    "condition": "matrix",
+    "completed_steps": 10000000,
+    "last_half_temperature_K": 295.93678600958077,
+    "last_half_energy_range_kJmol": [
+      9389.993364810944,
+      9957.319613456726
+    ]
+  },
+  {
+    "variant": "WT",
+    "condition": "8A",
+    "completed_steps": 10000000,
+    "last_half_temperature_K": 297.8715999701373,
+    "last_half_energy_range_kJmol": [
+      9520.565773129463,
+      10044.766677558422
+    ]
+  },
+  {
+    "variant": "WT",
+    "condition": "8A_sep2",
+    "completed_steps": 10000000,
+    "last_half_temperature_K": 297.53755549987585,
+    "last_half_energy_range_kJmol": [
+      9345.118653595448,
+      9991.225486695766
+    ]
+  },
+  {
+    "variant": "AA",
+    "condition": "matrix",
+    "completed_steps": 10000000,
+    "last_half_temperature_K": 297.00424655642337,
+    "last_half_energy_range_kJmol": [
+      9369.076983690262,
+      9967.311653703451
+    ]
+  },
+  {
+    "variant": "AA",
+    "condition": "8A",
+    "completed_steps": 10000000,
+    "last_half_temperature_K": 299.2446054833749,
+    "last_half_energy_range_kJmol": [
+      9466.864520668983,
+      9929.401464045048
+    ]
+  },
+  {
+    "variant": "AA",
+    "condition": "8A_sep2",
+    "completed_steps": 10000000,
+    "last_half_temperature_K": 298.5711702208074,
+    "last_half_energy_range_kJmol": [
+      9248.615349769592,
+      9835.500813782215
+    ]
+  }
+]

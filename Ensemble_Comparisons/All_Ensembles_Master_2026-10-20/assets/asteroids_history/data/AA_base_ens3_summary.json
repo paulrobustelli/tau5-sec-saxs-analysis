@@ -1,0 +1,56 @@
+{
+  "sample": "AA",
+  "replicate": 1,
+  "pool_mode": "base",
+  "n_candidates": 2000,
+  "n_selected": 500,
+  "input_sha256": "fabb706b07a11173f54e7b1cbada7216452df37e2ff4fc61b40fa25f174befbd",
+  "shift_scales_ppm": {
+    "CA": 0.1,
+    "C": 0.1,
+    "CB": 0.1,
+    "N": 0.5,
+    "NH": 0.2,
+    "HA": 0.2
+  },
+  "objective": "sum squared scaled shift residuals + sum squared SAXS residuals / experimental variance",
+  "note": "User-specified scales: carbon 0.10, N 0.50, HN/HA 0.20 ppm. Optimization weights, not acceptance cutoffs or calibrated model errors. No shift offsets, no additive SAXS background, no continuous conformer weights.",
+  "population": 100,
+  "generations": 1000,
+  "seeds": [
+    20260929,
+    20261029,
+    20261129
+  ],
+  "independent_validation": false,
+  "seed": 20261129,
+  "method": "Independent ASTEROIDS-style equal-weight genetic subset selection",
+  "equal_weight": 0.002,
+  "unique_selected": 500,
+  "pool": {
+    "RMSD_ppm": {
+      "C": 0.49280420315982826,
+      "CA": 0.3959271226841113,
+      "CB": 0.3439008202813515,
+      "N": 1.352938242311406,
+      "NH": 0.16464072195189816
+    },
+    "SAXS_chi2_mean": 6.859315865992067,
+    "SAXS_scale": 1.6522583466042495e-06
+  },
+  "selected": {
+    "RMSD_ppm": {
+      "C": 0.40145884861172265,
+      "CA": 0.3149352831374977,
+      "CB": 0.28672976307610354,
+      "N": 1.3435120989974658,
+      "NH": 0.15730792387228829
+    },
+    "SAXS_chi2_mean": 2.9476931515465576,
+    "SAXS_scale": 1.6000994950277142e-06
+  },
+  "final_objective": 4726.4393974017685,
+  "elapsed_seconds": 83.96299290657043,
+  "complete": true,
+  "convergence_established": false
+}

@@ -1,0 +1,33 @@
+{
+  "expression": "0.5*kT*((r-mu)/sigma)^2",
+  "temperature_K": 298.15,
+  "passed": true,
+  "runner_sha256": "2aa625e2747c51ebe579b788947d483ae76bc8dfe69a3c4433c683c364036e6d",
+  "checks": [
+    {
+      "z": -3,
+      "energy_kBT": 4.500000000000002,
+      "force_kJ_mol_nm": 74.368710886701
+    },
+    {
+      "z": -1,
+      "energy_kBT": 0.49999999999999983,
+      "force_kJ_mol_nm": 24.78957029556699
+    },
+    {
+      "z": 0,
+      "energy_kBT": 0.0,
+      "force_kJ_mol_nm": 0.0
+    },
+    {
+      "z": 1,
+      "energy_kBT": 0.49999999999999983,
+      "force_kJ_mol_nm": -24.789570295566985
+    },
+    {
+      "z": 3,
+      "energy_kBT": 4.500000000000002,
+      "force_kJ_mol_nm": -74.368710886701
+    }
+  ]
+}

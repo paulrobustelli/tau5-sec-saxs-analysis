@@ -1,0 +1,10 @@
+{
+  "job_id": "2026288180117_283726_712523",
+  "utc": "2026-10-15T22:01:33.040865+00:00",
+  "input": "WT_53105_promega.tab",
+  "email": "paulrobustelli@gmail.com",
+  "offset_correction": true,
+  "deuterium_correction": false,
+  "status": "queued; not yet scientific success",
+  "previous_failure": "NMRSTAR3parser missing_Residue_seq_code"
+}

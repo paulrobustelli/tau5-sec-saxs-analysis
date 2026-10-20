@@ -1,0 +1,11 @@
+{
+  "R2_main": [
+    390,
+    404
+  ],
+  "R2_minor": [
+    404,
+    410
+  ],
+  "boundary_note": "Both inclusive windows contain AR404, as requested. Historical AR394-402 means describe only the narrower helix core."
+}

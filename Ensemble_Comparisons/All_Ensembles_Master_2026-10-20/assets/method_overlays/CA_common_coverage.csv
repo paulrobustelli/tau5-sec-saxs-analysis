@@ -1,0 +1,15 @@
+variant,ensemble,after,n_common_CA
+WT,ASTEROIDS_WT,False,106
+WT,REST_WT,False,106
+WT,bAIes_WT,False,106
+WT,IDPForge_WT,False,106
+WT,ASTEROIDS_WT,True,106
+WT,REST_WT,True,106
+WT,bAIes_WT,True,106
+WT,IDPForge_WT,True,106
+AA,ASTEROIDS_AA,False,102
+AA,bAIes_AA,False,102
+AA,IDPForge_AA,False,102
+AA,ASTEROIDS_AA,True,102
+AA,bAIes_AA,True,102
+AA,IDPForge_AA,True,102

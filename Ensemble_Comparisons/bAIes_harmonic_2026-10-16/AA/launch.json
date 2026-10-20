@@ -1,0 +1,43 @@
+{
+  "pid": 27599,
+  "command": [
+    "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/baies_env_compatible/bin/python",
+    "-u",
+    "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/bAIes_harmonic_2026-10-16/code/bAIes_openMM.py",
+    "-ff",
+    "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/Tau5_bAIes_OpenMM_restart_2026-10-09/code/coil_202602.xml",
+    "-pdb",
+    "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/bAIes_harmonic_2026-10-16/AA/protein.pdb",
+    "-cmap",
+    "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/Tau5_bAIes_OpenMM_restart_2026-10-09/code/cmap_20240524.cmap",
+    "-baies",
+    "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/bAIes_harmonic_2026-10-16/AA/baies_params.dat",
+    "-xtc",
+    "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/bAIes_harmonic_2026-10-16/AA/equilibration.xtc",
+    "-Nsteps",
+    "10000000",
+    "-save_xtc",
+    "50000",
+    "-save_stdout",
+    "50000",
+    "-checkpoint",
+    "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/bAIes_harmonic_2026-10-16/AA/equilibration.chk",
+    "-state_out",
+    "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/bAIes_harmonic_2026-10-16/AA/equilibration_final.xml",
+    "-platform",
+    "OpenCL",
+    "-seed",
+    "2026101601"
+  ],
+  "started_utc": "2026-10-16T15:47:24.700325+00:00",
+  "duration_ns": 20,
+  "restraints": 37,
+  "selection": "8 Angstrom cutoff; seqsep2 includes i,i+3",
+  "energy": "0.5*kBT*((r-mu)/sigma)^2",
+  "sigma": "Fixed AF2 fitted standard deviation in nm",
+  "starting_structure": "Original diagnostic input PDB; fresh minimization and velocities; no Jeffreys restart",
+  "hashes": {
+    "protein.pdb": "7ab54b83f2520804f1221a46fd10e5334de19a54bbbd38e018fe1111790beec2",
+    "baies_params.dat": "2038dfaff7634a86dce32d66ba7a9db1f29139c2847edaf6548da0bb0dfb6c51"
+  }
+}

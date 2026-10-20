@@ -1,0 +1,47 @@
+[
+  {
+    "ensemble": "IDPForge_WT",
+    "unique_atom_formula_records": [
+      [
+        "865",
+        "C546H807N147O170S2"
+      ]
+    ]
+  },
+  {
+    "ensemble": "IDPForge_AA",
+    "unique_atom_formula_records": [
+      [
+        "847",
+        "C530H797N145O170S2"
+      ]
+    ]
+  },
+  {
+    "ensemble": "bAIes_WT",
+    "unique_atom_formula_records": [
+      [
+        "865",
+        "C546H807N147O170S2"
+      ]
+    ]
+  },
+  {
+    "ensemble": "bAIes_AA",
+    "unique_atom_formula_records": [
+      [
+        "847",
+        "C530H797N145O170S2"
+      ]
+    ]
+  },
+  {
+    "ensemble": "REST_WT",
+    "unique_atom_formula_records": [
+      [
+        "865",
+        "C546H807N147O170S2"
+      ]
+    ]
+  }
+]

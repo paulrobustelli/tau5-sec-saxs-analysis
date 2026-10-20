@@ -1,0 +1,34 @@
+{
+  "label": "IDPForge_WT_baseline",
+  "N": 1000,
+  "Neff": 100.00076051116494,
+  "theta": 0.4163871315743027,
+  "scale": 136.0270464676454,
+  "chi2_all": 41.015543574108605,
+  "chi2_mid": 125.75174373050307,
+  "chi2_low": 17.579409062097817,
+  "chi2_high": 1.0320035260537175,
+  "max_gradient": 9.467581663091806e-08,
+  "scale_gradient": 4.961862783869897e-06,
+  "primal": 2.3484052044690262,
+  "negative_dual": 2.3484052044689085,
+  "gradient_checks": [
+    {
+      "k": 0,
+      "analytic": 9.467581663091806e-08,
+      "finite_difference": 9.463541061904833e-08
+    },
+    {
+      "k": 72,
+      "analytic": 5.084820342560192e-09,
+      "finite_difference": 5.107025913275719e-09
+    },
+    {
+      "k": 143,
+      "analytic": 8.136478921172419e-10,
+      "finite_difference": 8.215650382226157e-10
+    }
+  ],
+  "base_pool": "IDPForge_WT",
+  "experiment": "baseline; SAXS only"
+}

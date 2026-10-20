@@ -1,0 +1,46 @@
+{
+  "WT": {
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/Tau5_bAIes_OpenMM_restart_2026-10-09/WT/prediction.pdb",
+    "length": 120,
+    "DSSP_H_runs": [
+      {
+        "model_start": 26,
+        "model_end": 29,
+        "AR_start": 353,
+        "AR_end": 356,
+        "sequence": "EAAA"
+      },
+      {
+        "model_start": 67,
+        "model_end": 75,
+        "AR_start": 394,
+        "AR_end": 402,
+        "sequence": "GSAWAAAAA"
+      }
+    ],
+    "R2_AR395_405": "H H H H H H H H S    ",
+    "R3_AR430_440": "    G G G G T T T S S"
+  },
+  "AA": {
+    "file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/Tau5_bAIes_OpenMM_restart_2026-10-09/AA/prediction.pdb",
+    "length": 120,
+    "DSSP_H_runs": [
+      {
+        "model_start": 26,
+        "model_end": 31,
+        "AR_start": 353,
+        "AR_end": 358,
+        "sequence": "EAAAYQ"
+      },
+      {
+        "model_start": 67,
+        "model_end": 75,
+        "AR_start": 394,
+        "AR_end": 402,
+        "sequence": "GSAAAAAAA"
+      }
+    ],
+    "R2_AR395_405": "H H H H H H H H T T S",
+    "R3_AR430_440": "    G G G T T S   S  "
+  }
+}

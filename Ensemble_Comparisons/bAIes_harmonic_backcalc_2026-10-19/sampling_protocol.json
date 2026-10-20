@@ -1,0 +1,10 @@
+{
+  "N_per_variant": 1000,
+  "frame_indices": "19,39,...19999",
+  "production_ns": "2,4,...2000",
+  "absolute_ns": "22,24,...2020",
+  "CS_construct": "native120 GP+AR330-447; no shifts recomputed for appended Cys",
+  "SAXS_construct": "121 with terminal Cys appended using previously validated empirical geometry procedure",
+  "SAXS_protocol": "Pepsi3.0 -ms0.6 -ns601 --dro5 -n80 --noSmearing; default radius1.61A; raw intensities; no fitting at this stage",
+  "reweighting": "not launched"
+}

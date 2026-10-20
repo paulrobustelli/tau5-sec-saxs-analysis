@@ -1,0 +1,146 @@
+[
+  {
+    "experiment": "ASTEROIDS_WT_add_compact_REST",
+    "max_curve_absolute_difference": 1.0058620603103918e-13,
+    "Neff_independent_einsum": 200.00127391027198,
+    "finite": true
+  },
+  {
+    "experiment": "ASTEROIDS_WT_add_compact_REST_seed1",
+    "max_curve_absolute_difference": 8.970602038971265e-14,
+    "Neff_independent_einsum": 200.00076252161824,
+    "finite": true
+  },
+  {
+    "experiment": "ASTEROIDS_WT_add_compact_REST_seed2",
+    "max_curve_absolute_difference": 9.50350909079134e-14,
+    "Neff_independent_einsum": 200.00213608981875,
+    "finite": true
+  },
+  {
+    "experiment": "ASTEROIDS_WT_add_expanded_REST",
+    "max_curve_absolute_difference": 7.593925488436071e-14,
+    "Neff_independent_einsum": 200.00053357218428,
+    "finite": true
+  },
+  {
+    "experiment": "ASTEROIDS_WT_baseline",
+    "max_curve_absolute_difference": 1.1191048088221578e-13,
+    "Neff_independent_einsum": 200.00132879460244,
+    "finite": true
+  },
+  {
+    "experiment": "IDPForge_WT_add_compact_REST",
+    "max_curve_absolute_difference": 5.773159728050814e-14,
+    "Neff_independent_einsum": 100.0000333209322,
+    "finite": true
+  },
+  {
+    "experiment": "IDPForge_WT_add_compact_REST_seed1",
+    "max_curve_absolute_difference": 5.484501741648273e-14,
+    "Neff_independent_einsum": 100.00020637045313,
+    "finite": true
+  },
+  {
+    "experiment": "IDPForge_WT_add_compact_REST_seed2",
+    "max_curve_absolute_difference": 6.084022174945858e-14,
+    "Neff_independent_einsum": 100.00031482946356,
+    "finite": true
+  },
+  {
+    "experiment": "IDPForge_WT_add_expanded_REST",
+    "max_curve_absolute_difference": 2.1094237467877974e-14,
+    "Neff_independent_einsum": 100.00026312627266,
+    "finite": true
+  },
+  {
+    "experiment": "IDPForge_WT_baseline",
+    "max_curve_absolute_difference": 7.882583474838611e-14,
+    "Neff_independent_einsum": 100.00076051116585,
+    "finite": true
+  },
+  {
+    "experiment": "REST_WT_baseline",
+    "max_curve_absolute_difference": 1.0036416142611415e-13,
+    "Neff_independent_einsum": 186.60013582074555,
+    "finite": true
+  },
+  {
+    "experiment": "REST_WT_high_aromatic_Rgmatched",
+    "max_curve_absolute_difference": 5.684341886080802e-14,
+    "Neff_independent_einsum": 186.60034992146217,
+    "finite": true
+  },
+  {
+    "experiment": "REST_WT_high_burial_Rgmatched",
+    "max_curve_absolute_difference": 5.129230373768223e-14,
+    "Neff_independent_einsum": 186.60054357014934,
+    "finite": true
+  },
+  {
+    "experiment": "REST_WT_low_aromatic_Rgmatched",
+    "max_curve_absolute_difference": 6.794564910705958e-14,
+    "Neff_independent_einsum": 186.60031799811102,
+    "finite": true
+  },
+  {
+    "experiment": "REST_WT_low_burial_Rgmatched",
+    "max_curve_absolute_difference": 6.439293542825908e-14,
+    "Neff_independent_einsum": 186.6005272262719,
+    "finite": true
+  },
+  {
+    "experiment": "REST_WT_remove_Rg_lt19",
+    "max_curve_absolute_difference": 6.52811138479592e-14,
+    "Neff_independent_einsum": 186.60006955405058,
+    "finite": true
+  },
+  {
+    "experiment": "REST_WT_remove_Rg_lt20",
+    "max_curve_absolute_difference": 4.973799150320701e-14,
+    "Neff_independent_einsum": 186.6003469000574,
+    "finite": true
+  },
+  {
+    "experiment": "REST_WT_remove_Rg_lt22",
+    "max_curve_absolute_difference": 3.086420008457935e-14,
+    "Neff_independent_einsum": 186.60037521913844,
+    "finite": true
+  },
+  {
+    "experiment": "REST_WT_remove_Rg_lt24",
+    "max_curve_absolute_difference": 1.6431300764452317e-14,
+    "Neff_independent_einsum": 186.6001770248506,
+    "finite": true
+  },
+  {
+    "experiment": "bAIes_WT_add_compact_REST",
+    "max_curve_absolute_difference": 4.551914400963142e-14,
+    "Neff_independent_einsum": 100.0006217887178,
+    "finite": true
+  },
+  {
+    "experiment": "bAIes_WT_add_compact_REST_seed1",
+    "max_curve_absolute_difference": 4.39648317751562e-14,
+    "Neff_independent_einsum": 100.00073648221216,
+    "finite": true
+  },
+  {
+    "experiment": "bAIes_WT_add_compact_REST_seed2",
+    "max_curve_absolute_difference": 4.596323321948148e-14,
+    "Neff_independent_einsum": 100.00006474752149,
+    "finite": true
+  },
+  {
+    "experiment": "bAIes_WT_add_expanded_REST",
+    "max_curve_absolute_difference": 1.9539925233402755e-14,
+    "Neff_independent_einsum": 100.00010891127411,
+    "finite": true
+  },
+  {
+    "experiment": "bAIes_WT_baseline",
+    "max_curve_absolute_difference": 8.570921750106208e-14,
+    "Neff_independent_einsum": 100.00161688720964,
+    "finite": true
+  }
+]

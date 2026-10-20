@@ -1,0 +1,38 @@
+{
+  "frames": 1866,
+  "peptide_bonds": 120,
+  "time_range_ns": [
+    0.0,
+    746.0
+  ],
+  "mean_cis_bonds": 1.939978563772776,
+  "max_cis_bonds": 5,
+  "residues_with_cis": [
+    "Tag Pro (GP)",
+    "Ala331",
+    "Pro340",
+    "Pro366",
+    "Gly371",
+    "Pro374",
+    "Pro375",
+    "Pro376",
+    "Pro377",
+    "Pro378",
+    "Pro379",
+    "Ala383",
+    "Asn389",
+    "Pro390",
+    "Arg405",
+    "Gly416",
+    "Ser422",
+    "Gly423",
+    "Pro425",
+    "Gly446"
+  ],
+  "definition": "abs(omega)<30 degrees; bond labeled by following residue; GP tags precede AR330",
+  "polyproline_matches_previous_audit": true,
+  "sources": {
+    "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/WT_MD_300K_2026-10-15/strip.pdb": "0458bb102e78f8d4a48d7d30ed45b4e15a9e6cb6ce0831d12182ce363ef36784",
+    "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/WT_MD_300K_2026-10-15/300K_skip5.xtc": "73744502d98126b548281f6fb1025c8c8fe785f5ea30b7eb92accf477ca30e53"
+  }
+}

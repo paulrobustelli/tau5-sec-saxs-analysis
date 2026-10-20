@@ -1,0 +1,57 @@
+Hydrophobic packing and the SAXS fitting advantage of REST
+
+The calculations support a deficit of compact, tertiary-packed conformations
+in the other pools, but do NOT establish that Rg<19 A states are necessary.
+All results are conditional on these pools and the common SAXS forward model.
+
+1. Sampling: REST has976/1866 frames below19 A; IDPForge WT/AA and bAIes WT/AA
+have0/1000 each. ASTEROIDS priors have2/2000 each. The existing combined fit
+reduces REST weight below19 A from52.3% to11.5%.
+
+2. Rg alone does not describe the difference. Equal weighting in four1-A bins
+from26 to30 A gives mean Rg27.93/28.02/28.09/28.02 A for REST/IDPForge/bAIes/
+ASTEROIDS WT, but nonlocal buried HSA1134/359/51/300 A^2 and hydrophobic contact
+pairs18.4/4.7/0.37/3.2. Thus REST retains substantially more nonlocal packing
+even at similar overall size. These describe geometry, not verified native cores.
+
+3. Within each non-REST WT and AA pool, high-burial groups give better
+intermediate-q agreement than low-burial groups with matched2-A Rg-bin counts.
+For WT: IDPForge mid chi2=189.7 vs110.8, bAIes69.8 vs49.6, ASTEROIDS52.5 vs18.7
+(low versus high burial, uniform group averages with a full-q scale). Differences
+remain large: choosing somewhat more buried existing frames is not equivalent
+to supplying REST-like tertiary packing.
+
+4. Direct pool-addition experiments: adding160 compact REST WT donors improves
+mid-q chi2 from125.75 to0.82 for IDPForge,178.04 to1.47 for bAIes, and34.95 to0.67
+for ASTEROIDS. Equal-size additions of REST Rg>=25 A donors yield1.80/3.75/3.53.
+Compact additions get approximately55/57/42% fitted weight, respectively.
+Two additional compact-donor selections reproduce improvement: IDPForge
+0.77–0.85, bAIes1.28–1.52, ASTEROIDS0.64–0.67. These ranges reflect donor choice
+only; not confidence intervals. Synthetic mixed pools are not equilibrium models.
+
+5. Necessity tests qualify the compact-state interpretation. REST mid-q chi2
+is0.58 with all frames,0.59 after removing every Rg<19 A frame,0.63 after removing
+Rg<20 A,0.93 after removing Rg<22 A, and5.06 after removing Rg<24 A. Absolute Kish
+support stays at least186.6 in every case. Loss of fitting flexibility/cardinality
+also contributes as the remaining pool shrinks. No unique physical cutoff is
+established. The broad REST pool, or its less-extremely-compact members, already
+contains adequate SAXS curves.
+
+6. More burial/aromatic coordination is not monotonically better within REST:
+Rg-matched low/high-burial subset fits give mid chi2=1.39/4.77; low/high-aromatic
+subsets give0.93/2.70. The useful feature is a diversity of internal distance
+patterns and packing, not simply maximal collapse or maximal contact count.
+
+Interpretation: REST contributes scattering profiles missing or severely
+undersampled in the other pools. Distinct nonlocal packing at matched Rg and
+successful donor additions support the tertiary-packing hypothesis. The tests
+do not uniquely prove a two-population hydrophobic-core/extended equilibrium,
+that Rg<19 A states are required, or that other generated structures are fake.
+SAXS cannot identify a unique core topology. All donors change multiple structural
+features simultaneously, including known geometry/cis features.
+
+New fits are SAXS-only Borthakur Kish diagnostics, distinct from the existing
+combined CS/SAXS fits. One profiled global scale; same frozen REST block SEM
+across WT tests; original absolute Kish support retained. All24 fits passed
+numerical checks and independent curve reconstruction. See METHODS.txt for
+precise definitions, uncertainty limitations, and scaling conventions.

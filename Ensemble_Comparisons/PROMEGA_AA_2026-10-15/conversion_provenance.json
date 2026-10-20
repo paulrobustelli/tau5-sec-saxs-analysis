@@ -1,0 +1,9 @@
+{
+  "source": "/Users/paulrobustelli/Documents/Codex/2026-09-28/is-th/outputs/Ensemble-Selection/cases/raw/W397A_W433A.shifty",
+  "source_sha256": "7140536144806657700f0a7782b47609cd1c69843ff97fd1235640f2bc9a309e",
+  "sequence": "AAGSSGTLELPSTLSLYKSGALDEAAAYQSRDYYNFPLALAGPPPPPPPPHPHARIKLENPLDYGSAAAAAAAQCRYGDLASLHGAGAAGPGSGSPSAAASSSAHTLFTAEEGQLYGPC",
+  "shifts": 512,
+  "mapping": "RESID1..119 = AR330..448",
+  "conversion": "Only zero-valued missing placeholders omitted; actual shifts unchanged; NH renamed HN",
+  "email": "paul.j.robustelli@dartmouth.edu"
+}

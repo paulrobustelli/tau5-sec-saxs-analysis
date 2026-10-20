@@ -1,0 +1,86 @@
+[
+  {
+    "variant": "WT",
+    "condition": "matrix",
+    "mean_R2_H_10_20ns": 0.007777777777777777,
+    "2ns_block_means": [
+      0.03888888888888888,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "block_SD_descriptive_not_SEM": 0.01739163982499836,
+    "retained_pairs_inside_AR394_402": 1
+  },
+  {
+    "variant": "WT",
+    "condition": "8A",
+    "mean_R2_H_10_20ns": 0.03666666666666667,
+    "2ns_block_means": [
+      0.02222222222222222,
+      0.14444444444444446,
+      0.016666666666666666,
+      0.0,
+      0.0
+    ],
+    "block_SD_descriptive_not_SEM": 0.06106058517348484,
+    "retained_pairs_inside_AR394_402": 5
+  },
+  {
+    "variant": "WT",
+    "condition": "8A_sep2",
+    "mean_R2_H_10_20ns": 0.20888888888888885,
+    "2ns_block_means": [
+      0.2611111111111111,
+      0.10555555555555556,
+      0.23888888888888893,
+      0.25,
+      0.18888888888888888
+    ],
+    "block_SD_descriptive_not_SEM": 0.06402160129283527,
+    "retained_pairs_inside_AR394_402": 11
+  },
+  {
+    "variant": "AA",
+    "condition": "matrix",
+    "mean_R2_H_10_20ns": 0.0,
+    "2ns_block_means": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "block_SD_descriptive_not_SEM": 0.0,
+    "retained_pairs_inside_AR394_402": 0
+  },
+  {
+    "variant": "AA",
+    "condition": "8A",
+    "mean_R2_H_10_20ns": 0.05444444444444445,
+    "2ns_block_means": [
+      0.02222222222222222,
+      0.11666666666666665,
+      0.06666666666666667,
+      0.06666666666666667,
+      0.0
+    ],
+    "block_SD_descriptive_not_SEM": 0.04520187912623998,
+    "retained_pairs_inside_AR394_402": 5
+  },
+  {
+    "variant": "AA",
+    "condition": "8A_sep2",
+    "mean_R2_H_10_20ns": 0.21555555555555558,
+    "2ns_block_means": [
+      0.14444444444444446,
+      0.2777777777777778,
+      0.23333333333333334,
+      0.26666666666666666,
+      0.15555555555555556
+    ],
+    "block_SD_descriptive_not_SEM": 0.06216266991421939,
+    "retained_pairs_inside_AR394_402": 11
+  }
+]

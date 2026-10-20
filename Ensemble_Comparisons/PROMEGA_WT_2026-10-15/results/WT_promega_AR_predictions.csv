@@ -1,0 +1,8 @@
+AR_residue,PROMEGA_residue,context,previous_shift_count,Pro_shift_count,next_shift_count,P_CIS_relative_score,P_CIS_NORM,normalized_cis_percent
+340,11,LPS,3,2,4,0.179,0.011,1.0999999999999999
+366,37,FPL,3,2,4,0.427,0.038,3.8
+381,52,HPH,3,2,4,0.268,0.019,1.9
+390,61,NPL,3,2,4,0.192,0.012,1.2
+420,91,GPG,3,2,4,0.397,0.033,3.3000000000000003
+425,96,SPS,3,2,4,0.325,0.025,2.5
+447,118,GPC,3,2,3,0.806,0.18,18.0

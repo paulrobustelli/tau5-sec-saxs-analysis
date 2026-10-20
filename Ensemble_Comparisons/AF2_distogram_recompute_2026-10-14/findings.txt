@@ -1,0 +1,15 @@
+AF2 distogram audit, 14 October 2026
+
+Recovered original WT and AA tar archives from the user's Dropbox link. Both archive SHA256 values match the supplied manifest. All five models per sequence were read, and rank-1 PDB coordinates exactly match the prediction.pdb used for the original simulation. Sequence length and residue mapping match the 120-residue topology.
+
+Both rank-1 structures contain nine DSSP alpha-helical residues at AR394-402. The raw rank-1 distograms have i,i+4 peaks near 0.622 nm within this region. These are real helical distance signals, not absent predictions.
+
+The original preprocessing uses the authors' tutorial's residue-specific contact cutoff and excludes all sequence separations <=3. The alanine-alanine cutoff is 0.5381 nm. Consequently it rejects the 0.621875 nm modes for these helical i,i+4 pairs. Only one selected restraint has both endpoints within the WT AR394-402 helix; AA has none. Similar sparsity occurs across all five AF2 models. The surviving WT pair involves W397, whose larger residue-specific cutoff admits it. Changing W397 to alanine also changes restraint selection, beyond changing the physical residue.
+
+Independent float64 softmax selection reproduces exactly the original 19 WT / 15 AA pairs. Refitting with the supplied low-precision input path changes means/widths by at most 0.000379 nm WT / 0.000514 nm AA relative to saved parameters; these are tiny numerical differences, not enough to explain disappearing helicity. Exported NPY probabilities and float64 normalization differ by <0.000715 absolute probability, consistent with float16 storage. Probability symmetry is exact.
+
+The filter is present in upstream bAIes source and its example invocation. This is a loss of information at selection, not a demonstrated indexing or softmax implementation bug. It is not proof that the filter alone explains all poor experimental agreement. The previous audit was too narrow: reproducing the parameter file did not establish adequate retention of helical information.
+
+Four matched 20 ns OpenCL GPU diagnostic runs have been launched from identical AF2-derived starting structures: WT/AA original matrix cutoff versus WT/AA constant 8 Angstrom cutoff (an option in the same supplied script), all retaining seqsep=3. The 8A conditions have 16 WT/15 AA pairs, so this changes which pairs are retained rather than uniformly increasing restraint count. This is explicitly a selection sensitivity experiment, not an exact-paper production replacement. Other runner settings remain those of the earlier OpenMM port. Last-half helicity and Rg will be measured; 20 ns is not sufficient to claim converged equilibrium populations.
+
+Completed matched 20ns tests: 10-20ns R2 AR394-402 DSSP H WT matrix0.770%, 8A3.630%; AA matrix0%, 8A5.391%. All 200savedframes/run and logs confirm10Msteps complete. These are diagnostic means without convergence or uncertainty claims. Full2us replacement deferred; testing 8A cutoff with seqsep2 next (include i,i+3), WT45/AA37 restraints, same initial AF2 geometry and seeds.

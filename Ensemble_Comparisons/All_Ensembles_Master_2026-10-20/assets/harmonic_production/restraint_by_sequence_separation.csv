@@ -1,0 +1,9 @@
+method,variant,sequence_separation,N_pairs,mean_occupancy_percent
+Harmonic,WT,3,29,73.53741379310344
+Harmonic,WT,4,16,75.1971875
+Harmonic,AA,3,22,69.62704545454545
+Harmonic,AA,4,15,84.81366666666668
+Jeffreys,WT,3,29,40.51775862068965
+Jeffreys,WT,4,16,36.8309375
+Jeffreys,AA,3,22,42.10863636363637
+Jeffreys,AA,4,15,51.11266666666667

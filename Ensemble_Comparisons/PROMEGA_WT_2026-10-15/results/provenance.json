@@ -1,0 +1,11 @@
+{
+  "files": {
+    "pred.tab": "a4fa69927d93560000017a105a55e592e9210ec106ec61734249b0ef6d8ff644",
+    "predAdjCS.tab": "b6d353746634e481fe74b17a27898867948f15940f96b6b5443c9778ddf29b28"
+  },
+  "construct": "WT confirmed by outputtitleWT_53105_promega.tab",
+  "mapping": "AR=serverRESID+329",
+  "predicted_prolines": 7,
+  "all_prolines": 15,
+  "polyPro372379": "No predictions returned; missing Pro and neighbor chemical-shift coverage. Do not fill with sequence-only defaults or interpret as trans."
+}

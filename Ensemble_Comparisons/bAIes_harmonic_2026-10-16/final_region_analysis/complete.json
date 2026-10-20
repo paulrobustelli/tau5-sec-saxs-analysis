@@ -1,0 +1,55 @@
+{
+  "utc": "2026-10-19T16:12:53.341039+00:00",
+  "regions": {
+    "R1": [
+      350,
+      360
+    ],
+    "R2_main": [
+      390,
+      404
+    ],
+    "R2_minor": [
+      404,
+      410
+    ],
+    "R2_historical_core": [
+      394,
+      402
+    ],
+    "R3": [
+      430,
+      440
+    ]
+  },
+  "summary": [
+    {
+      "variant": "WT",
+      "frames": 20000,
+      "means": {
+        "Rg_CA_A": 41.41101329138851,
+        "R1_DSSP_H": 0.026659090909090914,
+        "R2_main_DSSP_H": 0.24244333333333334,
+        "R2_minor_DSSP_H": 0.0024642857142857144,
+        "R2_historical_core_DSSP_H": 0.3874666666666667,
+        "R3_DSSP_H": 0.004945454545454545
+      },
+      "topology_sha256": "c4027e54306b36c488c799c3cf924b97783ba73b85951f1d2cd33a6ec6a8e6d6",
+      "note": "Ten chronological 200 ns blocks are descriptive convergence diagnostics, not independent replicate uncertainty."
+    },
+    {
+      "variant": "AA",
+      "frames": 20000,
+      "means": {
+        "Rg_CA_A": 41.14612642952807,
+        "R1_DSSP_H": 0.05065,
+        "R2_main_DSSP_H": 0.23639666666666667,
+        "R2_minor_DSSP_H": 0.0019785714285714285,
+        "R2_historical_core_DSSP_H": 0.3788333333333333,
+        "R3_DSSP_H": 0.00028181818181818185
+      },
+      "topology_sha256": "7ab54b83f2520804f1221a46fd10e5334de19a54bbbd38e018fe1111790beec2",
+      "note": "Ten chronological 200 ns blocks are descriptive convergence diagnostics, not independent replicate uncertainty."
+    }
+  ]
+}

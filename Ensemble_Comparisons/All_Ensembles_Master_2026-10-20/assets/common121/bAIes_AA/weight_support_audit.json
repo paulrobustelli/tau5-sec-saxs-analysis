@@ -1,0 +1,12 @@
+{
+  "N": 1000,
+  "Kish_ratio": 0.100000400319473,
+  "Neff": 100.000400319473,
+  "max_weight": 0.0495571541492368,
+  "top10_weight": 0.23853647644501683,
+  "N_for_50percent": 48,
+  "N_for_90percent": 309,
+  "Shannon_effective_N": 245.84118414413172,
+  "largest_100ns_block_weight": 0.10048552551061195,
+  "block_note": "Last block may be shorter. REST saved ordering is not physical kinetics; block weights assess concentration only."
+}

@@ -1,0 +1,68 @@
+[
+  {
+    "file": "AA_R2_390_410_ideal_helix.pdb",
+    "residues": 21,
+    "sequence": "PLDYGSAAAAAAAQCRYGDLA",
+    "max_torsion_error_degrees": {
+      "phi": 0.066192626953125,
+      "psi": 0.079071044921875
+    },
+    "max_bond_nm": 0.18061739206314087,
+    "sha256": "4528ef5da7c9fd1d7a7543725a016a9eca7bb01d902711aa3bae591af92f0944"
+  },
+  {
+    "file": "AA_R3_430_440_ideal_helix.pdb",
+    "residues": 11,
+    "sequence": "SSSAHTLFTAE",
+    "max_torsion_error_degrees": {
+      "phi": 0.0887603759765625,
+      "psi": 0.088592529296875
+    },
+    "max_bond_nm": 0.15667298436164856,
+    "sha256": "d499b7bbf5956a553cc1a2d2e5b5ceaa3ddbda0a0c181c868b506f4a954eb2c7"
+  },
+  {
+    "file": "Tau5_AA_R2_R3_ideal_helices.pdb",
+    "residues": 121,
+    "sequence": "GPAAGSSGTLELPSTLSLYKSGALDEAAAYQSRDYYNFPLALAGPPPPPPPPHPHARIKLENPLDYGSAAAAAAAQCRYGDLASLHGAGAAGPGSGSPSAAASSSAHTLFTAEEGQLYGPC",
+    "max_torsion_error_degrees": {
+      "phi": 0.102935791015625,
+      "psi": 0.08831787109375
+    },
+    "max_bond_nm": 0.18075290322303772,
+    "sha256": "a76384041a8d4273e1212253c53ad68cf56aa7512620445f868d3758b7276fc6"
+  },
+  {
+    "file": "Tau5_WT_R2_R3_ideal_helices.pdb",
+    "residues": 121,
+    "sequence": "GPAAGSSGTLELPSTLSLYKSGALDEAAAYQSRDYYNFPLALAGPPPPPPPPHPHARIKLENPLDYGSAWAAAAAQCRYGDLASLHGAGAAGPGSGSPSAAASSSWHTLFTAEEGQLYGPC",
+    "max_torsion_error_degrees": {
+      "phi": 0.0732574462890625,
+      "psi": 0.0962677001953125
+    },
+    "max_bond_nm": 0.18075641989707947,
+    "sha256": "f5d18b1a58696d9dd73cecb8e0535a23e8343c0e5c281320c8ec8f21fd7328e1"
+  },
+  {
+    "file": "WT_R2_390_410_ideal_helix.pdb",
+    "residues": 21,
+    "sequence": "PLDYGSAWAAAAAQCRYGDLA",
+    "max_torsion_error_degrees": {
+      "phi": 0.0800323486328125,
+      "psi": 0.0755157470703125
+    },
+    "max_bond_nm": 0.18076862394809723,
+    "sha256": "006f19e7c6531e24d91a15b38dc1241f8fac5203e8aa0dcc806e8b5e3169fd10"
+  },
+  {
+    "file": "WT_R3_430_440_ideal_helix.pdb",
+    "residues": 11,
+    "sequence": "SSSWHTLFTAE",
+    "max_torsion_error_degrees": {
+      "phi": 0.048126220703125,
+      "psi": 0.0771484375
+    },
+    "max_bond_nm": 0.1566278040409088,
+    "sha256": "44b1e7bd1a77b28c27dc8f44e66b654b60fc2db4442b8ed6f174e935f30c2fbf"
+  }
+]

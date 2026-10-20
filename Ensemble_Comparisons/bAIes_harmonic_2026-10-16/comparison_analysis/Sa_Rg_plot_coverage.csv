@@ -1,0 +1,9 @@
+variant,method,scope,retained_frame_fraction
+WT,Jeffreys,full,0.9984
+WT,Harmonic,full,0.99855
+AA,Jeffreys,full,0.99805
+AA,Harmonic,full,0.99875
+WT,Jeffreys,R2R3,0.69265
+WT,Harmonic,R2R3,0.73275
+AA,Jeffreys,R2R3,0.65765
+AA,Harmonic,R2R3,0.677

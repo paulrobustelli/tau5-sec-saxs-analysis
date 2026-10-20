@@ -1,0 +1,58 @@
+{
+  "ensemble": "bAIes_AA",
+  "N": 1000,
+  "datatype_theta": {
+    "C": 1.2874041943177938,
+    "CA": 1.286753850137639,
+    "CB": 1.1644367963175302,
+    "H": 1.7091011321286926,
+    "N": 2.88926371776104,
+    "SAXS": 0.7677866470296668
+  },
+  "global_theta": 1.6240015185146859,
+  "scale_uniform": 483.0551827657717,
+  "scale_MaxEnt": 396.5287412522004,
+  "Kish_ratio": 0.10000040031947195,
+  "max_dual_gradient": 2.19253642741446e-08,
+  "logscale_primal_gradient": -2.2284593759192006e-07,
+  "metrics": {
+    "uniform": {
+      "Rg_CA_A": 41.3583648665728,
+      "Rg_AR391446_CA_A": 23.44515755304018,
+      "Sa_full": 4.64213619322105,
+      "Sa_AR391446": 3.718182528346982,
+      "Kish_ratio": 0.9999999999999887,
+      "Neff": 999.9999999999887,
+      "SAXS_chi2_mean": 136.08934498758862,
+      "RMSE_C_ppm": 0.5503107161610374,
+      "RMSE_CA_ppm": 0.5739110221278323,
+      "RMSE_CB_ppm": 0.4593555432660621,
+      "RMSE_H_ppm": 0.8505445007240159,
+      "RMSE_N_ppm": 1.2882205111153193,
+      "R2_main_DSSP_H": 0.11353333333333297,
+      "R2_minor_DSSP_H": 0.0011428571428571427,
+      "R3_DSSP_H": 0.00018181818181818183
+    },
+    "MaxEnt": {
+      "Rg_CA_A": 36.76622850531411,
+      "Rg_AR391446_CA_A": 22.45088256758664,
+      "Sa_full": 4.815554645185708,
+      "Sa_AR391446": 3.830715139736449,
+      "Kish_ratio": 0.10000040031947202,
+      "Neff": 100.000400319472,
+      "SAXS_chi2_mean": 260.6173741442381,
+      "RMSE_C_ppm": 0.5014226162604443,
+      "RMSE_CA_ppm": 0.5209913785080542,
+      "RMSE_CB_ppm": 0.3920023488571594,
+      "RMSE_H_ppm": 0.8223938387262174,
+      "RMSE_N_ppm": 1.2084385671172921,
+      "R2_main_DSSP_H": 0.14931286202580693,
+      "R2_minor_DSSP_H": 0.0019181835656361481,
+      "R3_DSSP_H": 1.5147902800209793e-06
+    }
+  },
+  "sampling_error": "MDblocks;100ns blocks for correlated ensembles, fixed uniform-prior sampling error during calibration",
+  "CS_reuse": "Original120res predictions retained for terminallyextendedIDPForge/bAIes by explicituserinstruction; comparisonobservationscommonAR330446",
+  "SAXS": "IdenticalcanonicalPepsi3.0dro5defaultFraserradius,oneglobalensemblescale/nooffset,noindividualscales",
+  "independent_validation": false
+}

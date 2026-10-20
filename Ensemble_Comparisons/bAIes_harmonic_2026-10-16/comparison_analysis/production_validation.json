@@ -1,0 +1,42 @@
+[
+  {
+    "variant": "WT",
+    "frames": 20000,
+    "initial_step": 10000000,
+    "final_step": 1010000000,
+    "production_ns": 2000,
+    "absolute_end_ns": 2020,
+    "maximum_heavy_bond_nm": 0.19443771243095398,
+    "temperature_mean_K": 297.5241267287732,
+    "temperature_SD_K": 6.5440157695525105,
+    "potential_mean_kJmol": 9805.345173634505,
+    "final_state_exists": true,
+    "same_restraint_parameters_as_Jeffreys": true,
+    "hashes": {
+      "production.xtc": "260a828dd592539050db2f1326804d060cd00337cfbfb3a05487a91e4f3a9667",
+      "protein.pdb": "c4027e54306b36c488c799c3cf924b97783ba73b85951f1d2cd33a6ec6a8e6d6",
+      "baies_params.dat": "48e85b7f8684ac42f09ef1123081a5ed9541287d15a38523a1a8498493ba4fed",
+      "production_final.xml": "2a2ed6f1bc52e3a82606c27d68aa9a683e759a316b85e71b540892ed43e88a62"
+    }
+  },
+  {
+    "variant": "AA",
+    "frames": 20000,
+    "initial_step": 10000000,
+    "final_step": 1010000000,
+    "production_ns": 2000,
+    "absolute_end_ns": 2020,
+    "maximum_heavy_bond_nm": 0.19477158784866333,
+    "temperature_mean_K": 297.42122671237905,
+    "temperature_SD_K": 6.603118730201505,
+    "potential_mean_kJmol": 9669.407118053936,
+    "final_state_exists": true,
+    "same_restraint_parameters_as_Jeffreys": true,
+    "hashes": {
+      "production.xtc": "e0ffcdcd381210f8385ec9cef07bbab525422ed7f09bcfce56e16c87bf29e608",
+      "protein.pdb": "7ab54b83f2520804f1221a46fd10e5334de19a54bbbd38e018fe1111790beec2",
+      "baies_params.dat": "2038dfaff7634a86dce32d66ba7a9db1f29139c2847edaf6548da0bb0dfb6c51",
+      "production_final.xml": "d3b7a19fe9dde1a7a1144c42375c2f7c778a7e0caded956928833b2c12b5f0f9"
+    }
+  }
+]

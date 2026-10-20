@@ -1,0 +1,32 @@
+[
+  {
+    "file": "pair1_REST_WT_486.pdb",
+    "source": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/WT_MD_300K_2026-10-15/structures/MD300K_WT_0487.pdb",
+    "sha256": "ba2759c854dd15f8ffa44287304b48d17c1dc27703a40e3dd63b474bbcbcf426"
+  },
+  {
+    "file": "pair1_ASTEROIDS_WT_365.pdb",
+    "source": "/Users/paulrobustelli/Documents/Codex/2026-09-28/is-th/outputs/Ensemble-Selection/refined_reproducibility/WT/prepared_pool.tar.gz::structures/WT_refined_00366.pdb",
+    "sha256": "1bfb2554d8e540892e8da31fc61163c67fdca85f9930cf55aba70a168c881fc1"
+  },
+  {
+    "file": "pair2_REST_WT_490.pdb",
+    "source": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/WT_MD_300K_2026-10-15/structures/MD300K_WT_0491.pdb",
+    "sha256": "20a723f5350605c794715579453b404488578139e1559602ac6aaaa351719e9c"
+  },
+  {
+    "file": "pair2_ASTEROIDS_WT_633.pdb",
+    "source": "/Users/paulrobustelli/Documents/Codex/2026-09-28/is-th/outputs/Ensemble-Selection/refined_reproducibility/WT/prepared_pool.tar.gz::structures/WT_refined_00634.pdb",
+    "sha256": "1656719b9f654b48dd1b1bf4c76de7567486131f43514862024a672b214f3520"
+  },
+  {
+    "file": "pair3_REST_WT_373.pdb",
+    "source": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/WT_MD_300K_2026-10-15/structures/MD300K_WT_0374.pdb",
+    "sha256": "7180cbbc042cd23f12987eccae8b34f608d76ccecd157daebbb0880d969789fc"
+  },
+  {
+    "file": "pair3_ASTEROIDS_WT_839.pdb",
+    "source": "/Users/paulrobustelli/Documents/Codex/2026-09-28/is-th/outputs/Ensemble-Selection/refined_reproducibility/WT/prepared_pool.tar.gz::structures/WT_refined_00840.pdb",
+    "sha256": "d8cc11616e3fe22df240374b067ee0245bafeaa20fbc4b7e89a4a63919c0ce51"
+  }
+]

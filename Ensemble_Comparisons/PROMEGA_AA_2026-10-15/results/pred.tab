@@ -1,0 +1,37 @@
+REMARK PROMEGA Protein Proline Omega Angle Prediction 
+REMARK  Summary table for AA_W397A_W433A_promega.tab
+REMARK 
+REMARK  RESID is the residue number of Pro
+REMARK 
+REMARK  RESNAME_R1 is the residue prior to Pro
+REMARK 
+REMARK  RESNAME_R3 is the residue next to Pro
+REMARK 
+REMARK  CS_CNT is the number of chemical shifts
+REMARK 
+REMARK  CG_SHIFT is the Pro CG chemical shift
+REMARK 
+REMARK  P_CIS is the likelihood of Pro to be in cis form, 
+REMARK  calculated by Eq. 5 of the reference
+REMARK 
+REMARK  P_CIS_NORM is the normalized likelihood of Pro to be 
+REMARK  in cis form, calculated by Eq. 6 of the reference
+REMARK 
+REMARK Reference:
+REMARK  Y. Shen and A. Bax: Prediction of Xaa-Pro peptide bond
+REMARK  conformation from sequence and chemical shifts.
+REMARK  J. Biomol. NMR 46, 199-204 (2010).
+REMARK 
+REMARK  PROMEGA Version 1.40F1 Rev 2012.029.12.03 PROMEGA_INFO
+
+
+VARS   RESID RESNAME_R1 RESNAME_R2 RESNAME_R3 CS_CNT1 CS_CNT2 CS_CNT3 CG_SHIFT P_CIS P_CIS_NORM 
+FORMAT %3d %1s %1s %1s %2d %2d %2d %8.3f %8.3f %8.3f 
+
+ 11 L P S  3  3  5 9999.000    0.061    0.003 
+ 37 F P L  3  3  5 9999.000    0.172    0.011 
+ 50 P P H  0  3  5 9999.000    0.595    0.072 
+ 52 H P H  5  3  5 9999.000    0.177    0.011 
+ 61 N P L  3  3  5 9999.000    0.081    0.005 
+ 91 G P G  2  3  4 9999.000    0.216    0.014 
+ 96 S P S  2  3  5 9999.000    0.149    0.009 

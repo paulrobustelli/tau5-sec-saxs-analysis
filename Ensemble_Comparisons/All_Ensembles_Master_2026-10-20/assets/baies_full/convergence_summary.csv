@@ -1,0 +1,13 @@
+variant,observable,mean,SD,first_1us_mean,last_1us_mean,block_200ns_SE,approx_autocorrelation_ESS,interpretation
+WT,Rg_CA_A,41.52882193673115,7.706254504524256,41.6240175632517,41.43362631021059,0.07513263724424736,10326.556302095147,within-trajectory diagnostics; no independent replicate or equilibrium convergence claim
+WT,R2_main_DSSP_H,0.12198999999999999,0.16160573129467293,0.11897999999999999,0.125,0.003368301949750254,6805.581541559714,within-trajectory diagnostics; no independent replicate or equilibrium convergence claim
+WT,R2_minor_DSSP_H,0.000921428571428571,0.013559278728632931,0.000857142857142857,0.0009857142857142855,0.00011588660498702812,19285.816088917014,within-trajectory diagnostics; no independent replicate or equilibrium convergence claim
+WT,R3_DSSP_H,0.0003545454545454545,0.010438901050605255,0.00040909090909090897,0.0003,8.375924218839545e-05,20000.0,within-trajectory diagnostics; no independent replicate or equilibrium convergence claim
+WT,Sa_full,5.0204544134044555,1.3780167823139517,4.925611359857952,5.115297466950958,0.07873114919460185,394.8198427445343,within-trajectory diagnostics; no independent replicate or equilibrium convergence claim
+WT,Sa_AR391_446,4.1824123328646765,1.3288832355706668,4.091842564980561,4.272982100748791,0.07762415546664715,370.179408619555,within-trajectory diagnostics; no independent replicate or equilibrium convergence claim
+AA,Rg_CA_A,41.49117704018385,7.746405031433401,41.542707679526586,41.43964640084109,0.09218961559956458,10458.406779079078,within-trajectory diagnostics; no independent replicate or equilibrium convergence claim
+AA,R2_main_DSSP_H,0.11278999999999999,0.1568732033065282,0.11350666666666666,0.11207333333333332,0.002714056005317504,6817.092497019677,within-trajectory diagnostics; no independent replicate or equilibrium convergence claim
+AA,R2_minor_DSSP_H,0.0005785714285714283,0.010034475462135333,0.0005428571428571427,0.000614285714285714,6.937524897301648e-05,20000.0,within-trajectory diagnostics; no independent replicate or equilibrium convergence claim
+AA,R3_DSSP_H,0.0002545454545454545,0.008278506786710705,0.0003363636363636363,0.00017272727272727272,7.55147623901643e-05,20000.0,within-trajectory diagnostics; no independent replicate or equilibrium convergence claim
+AA,Sa_full,4.647748209820387,1.408518126280811,4.667865292402916,4.627631127237858,0.05562533781975685,939.8415475697457,within-trajectory diagnostics; no independent replicate or equilibrium convergence claim
+AA,Sa_AR391_446,3.751847883039464,1.334772444694842,3.778894721406026,3.724801044672902,0.05628941908443853,866.8503133949536,within-trajectory diagnostics; no independent replicate or equilibrium convergence claim

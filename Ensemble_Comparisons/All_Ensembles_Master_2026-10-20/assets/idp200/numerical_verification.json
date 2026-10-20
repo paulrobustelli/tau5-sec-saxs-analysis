@@ -1,0 +1,18 @@
+{
+  "WT": {
+    "finite": true,
+    "weight_sum": 0.9999999999999986,
+    "Kish": 0.10000111815794077,
+    "SAXS_chi2_recomputed": 16.67722670019041,
+    "max_scan_gradient": 0.000108194651214,
+    "reporting_matmul_verified_with_einsum": true
+  },
+  "AA": {
+    "finite": true,
+    "weight_sum": 0.9999999999999984,
+    "Kish": 0.10000240870267178,
+    "SAXS_chi2_recomputed": 73.1403068791223,
+    "max_scan_gradient": 0.0003591632813783,
+    "reporting_matmul_verified_with_einsum": true
+  }
+}

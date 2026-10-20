@@ -1,0 +1,21 @@
+{
+  "validated_structures": 2000,
+  "validated_native_SAXS": 12,
+  "complete_SAXS_ids": [
+    "HARMONIC121_Harmonic_AA_1001",
+    "HARMONIC121_Harmonic_AA_1002",
+    "HARMONIC121_Harmonic_AA_1003",
+    "HARMONIC121_Harmonic_AA_1004",
+    "HARMONIC121_Harmonic_AA_1005",
+    "HARMONIC121_Harmonic_AA_1006",
+    "HARMONIC121_Harmonic_AA_1007",
+    "HARMONIC121_Harmonic_AA_1008",
+    "HARMONIC121_Harmonic_AA_1009",
+    "HARMONIC121_Harmonic_AA_1010",
+    "HARMONIC121_Harmonic_AA_1011",
+    "HARMONIC121_Harmonic_AA_1012"
+  ],
+  "minimum_nonbonded_distance_nm": 0.2000871388920056,
+  "terminal_Pro_carbonyl_rotations_needed": 4,
+  "CS": "New native120 CS in source_job; no appended-Cys CS"
+}

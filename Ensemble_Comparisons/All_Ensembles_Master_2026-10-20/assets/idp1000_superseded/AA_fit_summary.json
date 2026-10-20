@@ -1,0 +1,55 @@
+{
+  "variant": "AA",
+  "method": "Borthakur per-datatype and global Kish-calibrated maximum entropy",
+  "source_objective_sha256": "26c75a909ed72db764d4c4904637d8f268805ce9e87cfe20d10c9dd660ae0f49",
+  "Kish_min": 0.1,
+  "N": 1000,
+  "single_datatype_sigma_reg": {
+    "C": 1.1620093426115656,
+    "CA": 1.4071103789604125,
+    "CB": 0.9983149575896413,
+    "H": 1.286545809392923,
+    "N": 2.3723420230665457,
+    "SAXS": 0.9711356383201815
+  },
+  "global_factor": 1.7546914457583989,
+  "final_Kish_ratio": 0.10000107563454412,
+  "final_Neff": 100.00107563454412,
+  "largest_weight": 0.037236476990246264,
+  "ensemble_error": "IID standard error over independently generated conformers, replacing MD time-block error",
+  "metrics": {
+    "uniform": {
+      "Rg_CA_A": 37.79083423901815,
+      "DSSP_alpha_fraction": 0.024288135593220316,
+      "R2_main_alpha": 0.1538,
+      "R2_minor_alpha": 0.03128571428571428,
+      "R2_historical_core_alpha": 0.2281111111111111,
+      "R3_alpha": 0.001727272727272727,
+      "SAXS_chi2_mean": 254.73730590527606,
+      "Kish_ratio": 1.0,
+      "Kish_Neff": 1000.0,
+      "RMSE_C_ppm": 0.5166058665968793,
+      "RMSE_CA_ppm": 0.6439617023469376,
+      "RMSE_CB_ppm": 0.46509554781802487,
+      "RMSE_H_ppm": 0.7776346461451871,
+      "RMSE_N_ppm": 1.0753645367795068
+    },
+    "Kish_MaxEnt": {
+      "Rg_CA_A": 33.3510767806722,
+      "DSSP_alpha_fraction": 0.027039599166447534,
+      "R2_main_alpha": 0.16987753226469232,
+      "R2_minor_alpha": 0.03492822741748279,
+      "R2_historical_core_alpha": 0.2580888602946119,
+      "R3_alpha": 0.00022784584673578623,
+      "SAXS_chi2_mean": 128.96419874629555,
+      "Kish_ratio": 0.10000107563454412,
+      "Kish_Neff": 100.00107563454412,
+      "RMSE_C_ppm": 0.4757199769324548,
+      "RMSE_CA_ppm": 0.605496159006969,
+      "RMSE_CB_ppm": 0.39665168117087063,
+      "RMSE_H_ppm": 0.7541911866134905,
+      "RMSE_N_ppm": 0.9577234282913355
+    }
+  },
+  "independent_validation": false
+}

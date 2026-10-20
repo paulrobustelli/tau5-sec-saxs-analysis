@@ -1,0 +1,34 @@
+{
+  "label": "bAIes_WT_baseline",
+  "N": 1000,
+  "Neff": 100.0016168872086,
+  "theta": 0.600423444461348,
+  "scale": 145.37483571172092,
+  "chi2_all": 79.65478205297273,
+  "chi2_mid": 178.04412927791265,
+  "chi2_low": 83.16767887016549,
+  "chi2_high": 0.6963316627557894,
+  "max_gradient": 1.0085448531871322e-08,
+  "scale_gradient": -5.244418976868559e-07,
+  "primal": 2.6297058504765043,
+  "negative_dual": 2.629705850476501,
+  "gradient_checks": [
+    {
+      "k": 0,
+      "analytic": -6.3749321932426994e-09,
+      "finite_difference": -6.394884621840901e-09
+    },
+    {
+      "k": 72,
+      "analytic": 3.260036685048817e-11,
+      "finite_difference": 4.4408920985006255e-11
+    },
+    {
+      "k": 143,
+      "analytic": -5.4423705559553115e-11,
+      "finite_difference": -2.2204460492503128e-11
+    }
+  ],
+  "base_pool": "bAIes_WT",
+  "experiment": "baseline; SAXS only"
+}

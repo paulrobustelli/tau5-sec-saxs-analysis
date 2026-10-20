@@ -1,0 +1,9 @@
+{
+  "N_per_trajectory": 1000,
+  "sampling": "frames19,39,...19999; production2,4,...2000ns",
+  "construct": "native120res GP+AR330447 for BOTH likelihoods; no Cys extension",
+  "definitions_source": "outputs/Hydrophobic_SAXS_audit_2026-10-16/METHODS.txt",
+  "main_contact": "sidechain C/S <5A; |i-j|>6",
+  "burial": "SASA local +/-6-residue fragment minus whole structure,240spherepoints,1.4Aprobe",
+  "weights": "uniform; no SAXS or CS reweighting"
+}

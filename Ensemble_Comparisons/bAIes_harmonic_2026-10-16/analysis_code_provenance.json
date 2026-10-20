@@ -1,0 +1,18 @@
+{
+  "analyze_final_regions.py": {
+    "copied_from": "outputs/bAIes_8A_seqsep2_2us_2026-10-14/analyze_final_regions.py",
+    "sha256": "28ab9b15451cf948afbe3b391b9e3241aeb0785d88cbfd23358851ca2f948510"
+  },
+  "analyze_final_structure.py": {
+    "copied_from": "outputs/bAIes_8A_seqsep2_2us_2026-10-14/analyze_final_structure.py",
+    "sha256": "0588f45ba227dcb8bc8c7b6af5503550a18319be5556cf40b3552f8d71c0441b"
+  },
+  "audit_final_restraints.py": {
+    "copied_from": "outputs/bAIes_8A_seqsep2_2us_2026-10-14/audit_final_restraints.py",
+    "sha256": "ef50925e59f5f01bad1010bb23d4b50613dc0187e188d34c8d62eeb987a55ad1"
+  },
+  "plot_restraint_satisfaction.py": {
+    "copied_from": "outputs/bAIes_8A_seqsep2_2us_2026-10-14/plot_restraint_satisfaction.py",
+    "sha256": "b999c7b805e6d01c7abb5fc94a58250b9ee527d513b62d45d6b5293daca4d7bc"
+  }
+}

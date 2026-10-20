@@ -1,0 +1,121 @@
+[
+  {
+    "variant": "WT",
+    "rank": 1,
+    "pickle_sha256": "bd528c62f4f1afc3ce61a07479326a40792e1fc8e2a7332a1010d5e6aa95bd8c",
+    "selected_count": 19,
+    "R2_AR394_402_DSSP": "HHHHHHHHH",
+    "selected_R2_pairs": [
+      [
+        70,
+        74
+      ]
+    ],
+    "original_pair_set_exact_match": true,
+    "max_mu_sigma_delta_nm": 0.0003789999999999072
+  },
+  {
+    "variant": "WT",
+    "rank": 2,
+    "pickle_sha256": "cf7dab0e1a6f4baee720de3af155a164a17c7f68d0a69c3c4a982b23f01fd1fd",
+    "selected_count": 15,
+    "R2_AR394_402_DSSP": "HHHHHHHHH",
+    "selected_R2_pairs": [
+      [
+        70,
+        74
+      ]
+    ]
+  },
+  {
+    "variant": "WT",
+    "rank": 3,
+    "pickle_sha256": "ca4dcf784705e699b62def5521ef099ca43df0ecb96bea184dc5c2ce5e72313c",
+    "selected_count": 20,
+    "R2_AR394_402_DSSP": "HHHHHHHHH",
+    "selected_R2_pairs": [
+      [
+        70,
+        74
+      ]
+    ]
+  },
+  {
+    "variant": "WT",
+    "rank": 4,
+    "pickle_sha256": "e78611920d29ba0dde5fea1a29b492c5ffc0a4a293da8d1b47d52097e774365e",
+    "selected_count": 13,
+    "R2_AR394_402_DSSP": "SHHHHHHHH",
+    "selected_R2_pairs": [
+      [
+        70,
+        74
+      ]
+    ]
+  },
+  {
+    "variant": "WT",
+    "rank": 5,
+    "pickle_sha256": "5e9ce6c2a1fa7c3c292cd9f66a00a231479ea94be02d6201ceb7c36edc2ea22d",
+    "selected_count": 19,
+    "R2_AR394_402_DSSP": "SHHHHHHHH",
+    "selected_R2_pairs": [
+      [
+        70,
+        74
+      ]
+    ]
+  },
+  {
+    "variant": "AA",
+    "rank": 1,
+    "pickle_sha256": "e0d9caefc59bb95f9904611581ae1f4414ecfccef91218bcfc1d3ccc75b445ab",
+    "selected_count": 15,
+    "R2_AR394_402_DSSP": "HHHHHHHHH",
+    "selected_R2_pairs": [],
+    "original_pair_set_exact_match": true,
+    "max_mu_sigma_delta_nm": 0.0005140000000001255
+  },
+  {
+    "variant": "AA",
+    "rank": 2,
+    "pickle_sha256": "874acae9007fd6e8747f963e506c87b31d2ec95654a8f78ac7fa2e21ebd68bda",
+    "selected_count": 17,
+    "R2_AR394_402_DSSP": "T HHHHHHH",
+    "selected_R2_pairs": []
+  },
+  {
+    "variant": "AA",
+    "rank": 3,
+    "pickle_sha256": "e85a26b072f61908b7f153903650f0ec82700d97cf3ba1229033597ccc0e6617",
+    "selected_count": 17,
+    "R2_AR394_402_DSSP": "  HHHHHHH",
+    "selected_R2_pairs": [
+      [
+        67,
+        71
+      ]
+    ]
+  },
+  {
+    "variant": "AA",
+    "rank": 4,
+    "pickle_sha256": "dc4c6af30540b3b29f98e9ddbb759330c50c0d1ffff48fefe4b47f0afdeb24c1",
+    "selected_count": 16,
+    "R2_AR394_402_DSSP": "S HHHHHHH",
+    "selected_R2_pairs": []
+  },
+  {
+    "variant": "AA",
+    "rank": 5,
+    "pickle_sha256": "2307c546be855e3c7d7f59ad9064ee30648d397d52619e96344b1f13e13dc074",
+    "selected_count": 24,
+    "R2_AR394_402_DSSP": "  HHHHHHH",
+    "selected_R2_pairs": [
+      [
+        67,
+        71
+      ]
+    ]
+  }
+]

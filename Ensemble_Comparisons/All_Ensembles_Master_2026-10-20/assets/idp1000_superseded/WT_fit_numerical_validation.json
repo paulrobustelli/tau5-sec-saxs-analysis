@@ -1,0 +1,15 @@
+{
+  "variant": "WT",
+  "N": 1000,
+  "weights_finite": true,
+  "sum_weights": 0.9999999999999614,
+  "Kish_ratio": 0.10000048742838671,
+  "prediction_finite": true,
+  "cs_max_difference": 7.105427357601002e-12,
+  "saxs_max_difference": 7.793765632868599e-14,
+  "helicity_finite": true,
+  "max_scan_gradient": 0.000250204316165,
+  "n_shifts": 413,
+  "n_saxs": 144,
+  "SAXS_chi2_mean_independent": 41.87918038538405
+}

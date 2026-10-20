@@ -1,0 +1,68 @@
+{
+  "source_sha256": "26c75a909ed72db764d4c4904637d8f268805ce9e87cfe20d10c9dd660ae0f49",
+  "checks": [
+    {
+      "direction": 0,
+      "epsilon": 0.0001,
+      "finite_difference": -0.3938336648966548,
+      "analytic": -0.3938336648732663,
+      "absolute_error": 2.338845783711463e-11
+    },
+    {
+      "direction": 0,
+      "epsilon": 1e-05,
+      "finite_difference": -0.39383366487334004,
+      "analytic": -0.3938336648732663,
+      "absolute_error": 7.37188088351104e-14
+    },
+    {
+      "direction": 0,
+      "epsilon": 1e-06,
+      "finite_difference": -0.3938336648450641,
+      "analytic": -0.3938336648732663,
+      "absolute_error": 2.8202218338435614e-11
+    },
+    {
+      "direction": 1,
+      "epsilon": 0.0001,
+      "finite_difference": -0.12004403042890216,
+      "analytic": -0.12004403042558814,
+      "absolute_error": 3.3140157285060923e-12
+    },
+    {
+      "direction": 1,
+      "epsilon": 1e-05,
+      "finite_difference": -0.12004403043509511,
+      "analytic": -0.12004403042558814,
+      "absolute_error": 9.506964659955486e-12
+    },
+    {
+      "direction": 1,
+      "epsilon": 1e-06,
+      "finite_difference": -0.12004403053978568,
+      "analytic": -0.12004403042558814,
+      "absolute_error": 1.141975403129436e-10
+    },
+    {
+      "direction": 2,
+      "epsilon": 0.0001,
+      "finite_difference": 0.17864339155780096,
+      "analytic": 0.1786433915652667,
+      "absolute_error": 7.465750240243096e-12
+    },
+    {
+      "direction": 2,
+      "epsilon": 1e-05,
+      "finite_difference": 0.1786433915661363,
+      "analytic": 0.1786433915652667,
+      "absolute_error": 8.695821840376539e-13
+    },
+    {
+      "direction": 2,
+      "epsilon": 1e-06,
+      "finite_difference": 0.17864339156657,
+      "analytic": 0.1786433915652667,
+      "absolute_error": 1.3032908086074713e-12
+    }
+  ]
+}

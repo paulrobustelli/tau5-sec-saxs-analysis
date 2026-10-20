@@ -1,0 +1,8 @@
+{
+  "utc": "2026-10-15T13:12:41.150569+00:00",
+  "pid": 98150,
+  "command": "/Users/paulrobustelli/Documents/Codex/2026-09-28/is-th/work/vendor/qemu-runtime/qemu/11.1.1/bin/qemu-system-x86_64 -L /Users/paulrobustelli/Documents/Codex/2026-09-28/is-th/work/vendor/qemu-runtime/qemu/11.1.1/share/qemu -machine q35 -accel tcg -cpu max -m 3072 -smp 8 -nographic -no-reboot -nic none -kernel /Users/paulrobustelli/Documents/Codex/2026-09-28/is-th/work/linux-vm/root/boot/vmlinuz-virt -initrd /Users/paulrobustelli/Documents/Codex/2026-09-28/is-th/work/linux-vm/custom-initramfs.gz -append console=ttyS0 quiet rdinit=/init -virtfs local,path=/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/maxent_vm_share,mount_tag=share,security_model=none,id=share",
+  "reason": "All 2000 dedicated D2D200 jobs completed and content-verified; workers scan only this prefix. Prediction data persist on host.",
+  "completed_jobs": 2000,
+  "signal": "SIGTERM"
+}

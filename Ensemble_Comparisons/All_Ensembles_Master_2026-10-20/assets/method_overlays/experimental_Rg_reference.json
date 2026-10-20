@@ -1,0 +1,20 @@
+{
+  "WT": {
+    "Rg_A": 26.015769776535564,
+    "conditional_SE_A": 0.7968753102524069,
+    "qmin": 0.012,
+    "qmax": 0.035,
+    "n": 24,
+    "qmaxRg": 0.9105519421787448,
+    "method": "Weighted log-I Guinier fit to same experimental curve, common q window .012-.035 A^-1; reference is SAXS Rg, not geometric CA Rg"
+  },
+  "AA": {
+    "Rg_A": 32.1682649088534,
+    "conditional_SE_A": 0.2557636196842296,
+    "qmin": 0.012,
+    "qmax": 0.035,
+    "n": 24,
+    "qmaxRg": 1.1258892718098692,
+    "method": "Weighted log-I Guinier fit to same experimental curve, common q window .012-.035 A^-1; reference is SAXS Rg, not geometric CA Rg"
+  }
+}

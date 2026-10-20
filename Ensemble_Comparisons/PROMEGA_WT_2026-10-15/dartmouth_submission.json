@@ -1,0 +1,9 @@
+{
+  "job_id": "2026288181822_284150_506494",
+  "input": "WT_53105_promega.tab",
+  "email": "paul.j.robustelli@dartmouth.edu",
+  "utc": "2026-10-15T22:19:09.160140+00:00",
+  "offset_correction": true,
+  "deuterium_correction": false,
+  "status": "queued; predictions pending"
+}

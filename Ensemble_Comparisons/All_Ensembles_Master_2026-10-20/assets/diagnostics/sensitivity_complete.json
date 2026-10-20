@@ -1,0 +1,68 @@
+[
+  {
+    "time_ns": 15.0,
+    "full_H": 0.0009229736532975332,
+    "R2_AR394_402_H": 0.0077007700770077,
+    "R3_AR430_440_H": 0.0,
+    "Rg_CA_A": 39.968862077924825,
+    "variant": "WT",
+    "condition": "matrix",
+    "frames": 200,
+    "window": "10-20 ns; diagnostic, not converged"
+  },
+  {
+    "time_ns": 15.0,
+    "full_H": 0.0031884544386642055,
+    "R2_AR394_402_H": 0.0363036303630363,
+    "R3_AR430_440_H": 0.0,
+    "Rg_CA_A": 40.145328899057276,
+    "variant": "WT",
+    "condition": "8A",
+    "frames": 200,
+    "window": "10-20 ns; diagnostic, not converged"
+  },
+  {
+    "time_ns": 15.0,
+    "full_H": 0.017116965933881522,
+    "R2_AR394_402_H": 0.2112211221122112,
+    "R3_AR430_440_H": 0.0,
+    "Rg_CA_A": 42.04215074769655,
+    "variant": "WT",
+    "condition": "8A_sep2",
+    "frames": 200,
+    "window": "10-20 ns; diagnostic, not converged"
+  },
+  {
+    "time_ns": 15.0,
+    "full_H": 0.0003356267830172848,
+    "R2_AR394_402_H": 0.0,
+    "R3_AR430_440_H": 0.0,
+    "Rg_CA_A": 42.61278907762571,
+    "variant": "AA",
+    "condition": "matrix",
+    "frames": 200,
+    "window": "10-20 ns; diagnostic, not converged"
+  },
+  {
+    "time_ns": 15.0,
+    "full_H": 0.004111428091961739,
+    "R2_AR394_402_H": 0.05390539053905391,
+    "R3_AR430_440_H": 0.0,
+    "Rg_CA_A": 42.41024162615223,
+    "variant": "AA",
+    "condition": "8A",
+    "frames": 200,
+    "window": "10-20 ns; diagnostic, not converged"
+  },
+  {
+    "time_ns": 15.0,
+    "full_H": 0.017200872629635842,
+    "R2_AR394_402_H": 0.21892189218921887,
+    "R3_AR430_440_H": 0.0,
+    "Rg_CA_A": 43.13617029088249,
+    "variant": "AA",
+    "condition": "8A_sep2",
+    "frames": 200,
+    "window": "10-20 ns; diagnostic, not converged"
+  }
+]

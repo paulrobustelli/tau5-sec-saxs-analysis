@@ -1,0 +1,56 @@
+{
+  "pid": 33835,
+  "command": [
+    "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/baies_env_compatible/bin/python",
+    "-u",
+    "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/bAIes_harmonic_2026-10-16/code/bAIes_openMM.py",
+    "-ff",
+    "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/Tau5_bAIes_OpenMM_restart_2026-10-09/code/coil_202602.xml",
+    "-pdb",
+    "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/bAIes_harmonic_2026-10-16/WT/protein.pdb",
+    "-cmap",
+    "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/Tau5_bAIes_OpenMM_restart_2026-10-09/code/cmap_20240524.cmap",
+    "-baies",
+    "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/bAIes_harmonic_2026-10-16/WT/baies_params.dat",
+    "-xtc",
+    "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/bAIes_harmonic_2026-10-16/WT/production.xtc",
+    "-Nsteps",
+    "1000000000",
+    "-save_xtc",
+    "50000",
+    "-save_stdout",
+    "50000",
+    "-checkpoint",
+    "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/bAIes_harmonic_2026-10-16/WT/production.chk",
+    "-state_out",
+    "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/bAIes_harmonic_2026-10-16/WT/production_final.xml",
+    "-platform",
+    "OpenCL",
+    "-seed",
+    "2026101600",
+    "-restart_state",
+    "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/bAIes_harmonic_2026-10-16/WT/equilibration_final.xml"
+  ],
+  "started_utc": "2026-10-16T19:54:44.277689+00:00",
+  "additional_ns": 2000,
+  "initial_step": 10000000,
+  "expected_final_step": 1010000000,
+  "method": "harmonic fixed-sigma bAIes-N likelihood; 8A seqsep2 includes i,i+3",
+  "equilibration_validation": {
+    "frames": 200,
+    "production_time_ns": 20,
+    "temperature_mean_K": 298.14391480516076,
+    "temperature_range_K": [
+      247.82278102325378,
+      316.8351493886576
+    ],
+    "potential_energy_range_kJmol": [
+      9038.666481465101,
+      10068.838087022305
+    ],
+    "last10ns_R2_main_H_percent": 24.933333333333334,
+    "last10ns_R3_H_percent": 0.7272727272727273,
+    "final_state_sha256": "bef2fc31999f0094f6d01446c9846d68aaa48a4a4c84561ffe0c658c5d45fd48",
+    "passed": true
+  }
+}

@@ -1,0 +1,104 @@
+Hydrophobic packing and SAXS hypothesis audit — 16 October 2026
+
+SCOPE
+9,866 original conformers: REST WT (1,866); IDPForge WT/AA (1,000 each);
+bAIes Jeffreys 8A/seqsep2 WT/AA frozen prediction pools (1,000 each);
+ASTEROIDS original WT/AA priors (2,000 each), with their historical 500-member
+selected weights mapped by conformer ID. Newly running harmonic bAIes is NOT
+included. All structures are common121 GP+AR330–448 including Cys; added Cys
+for IDPForge/bAIes is a modeled terminal extension, not 121-residue dynamics.
+Existing combined CS/SAXS weights are preserved unchanged.
+
+DEFINITIONS
+Heavy-atom coordinates, hydrogens removed consistently. Geometric C-alpha Rg
+uses all121 CA atoms, including tags. Hydrophobic residues for this operational
+analysis: ALA VAL ILE LEU MET PHE TRP TYR PRO CYS; GP tag residues excluded as
+hydrophobic targets. Hydrophobic target atoms: sidechain C and S (excluding CA
+and backbone C). Aromatic residues: PHE/TRP/TYR. Tyr OH and Trp N are NOT counted
+as hydrophobic area targets. All heavy atoms, including polar atoms and tags,
+can occlude target surface. These are geometric descriptors, not hydrophobic
+energies or proof of thermodynamically stable cores.
+
+SASA: MDTraj Shrake–Rupley, 1.4-A water probe, 240 sphere points per atom.
+Nonlocal buried HSA for residue i = target-atom SASA in its unchanged +/-6
+residue fragment MINUS target-atom SASA in the full structure. Thus surface
+hidden only by residues more than6 positions away is counted; local helix
+packing and adjacent chain occlusion remain present in BOTH calculations.
+Sum over hydrophobic residues; units A^2. This is total lost accessible area,
+not divided by2 as a two-partner interface area sometimes is. Positive burial
+can result from polar as well as hydrophobic occluding atoms. No caps are added
+or structures relaxed when making local fragments. Reference and full SASA use
+identical atom radii and sphere directions. 12 evenly spaced conformers per
+pool are independently checked with960 sphere points.
+
+Hydrophobic contact: minimum sidechain C/S distance <5 A, |i-j|>6. Count unique
+residue pairs. Coordination of a residue = number of distinct hydrophobic
+partners, and mean coordination = twice pair count / number hydrophobic
+residues. Aromatic-hydrophobic contacts are the subset with at least one
+PHE/TRP/TYR; aromatic-aromatic pairs are also saved. These are sidechain contact
+criteria, NOT ring-plane geometry or validated pi stacking. Sensitivities:
+4.5/5/6 A cutoffs and sequence separations >3/>6/>10.
+General tertiary contacts: minimum distance among ANY heavy atoms <5 A,
+|i-j|>6, GP tags excluded as residues; 8/12 A counts also saved. No assumption
+that all tertiary contacts are hydrophobic.
+
+SAXS
+Same canonical native Pepsi3.0 predictions as current common121 fits; dro5,
+default Fraser radius, n80, noSmearing. Same experimental grid and sequence-
+specific WT or AA curve. No new chemical shift or SAXS forward calculation.
+Conditional plots show uniform group-mean raw curves, with ONE intensity scale
+per group fit over the ENTIRE q range using experimental uncertainty; no offset
+and no per-conformer normalization. Raw and scaled values are both saved.
+Rg groups: <19,19–25,25–35,>=35 A. Other groups are within-pool tertiles; actual
+cutpoints and populations are in CSV, and equal values can produce unequal
+groups. Lower-ranked groups are not necessarily globally comparable cores.
+Within-pool high/low HSA comparisons have equal counts in each2-A Rg bin.
+Cross-method WT26–30 A comparison uses equal weight in each1-A Rg bin.
+A diagnostic I(.15)/I(.03) ratio describes each calculated curve's shape;
+correlations after regressing ranks on rank(Rg) and its square are descriptive,
+not causal inference, formal independence tests, or individual-conformer fits.
+
+NEW DIAGNOSTIC FITS (SEPARATE FROM EXISTING COMBINED FITS)
+SAXS-only Borthakur dual/MaxEnt engine reused without modifying original code.
+One global ensemble scale is optimized with the weights. All WT experiments
+share the SAME frozen100-ns-block SAXS sampling SEM from the full REST prior,
+and the same unit-per-point base regularization convention as the original
+engine; regularization is calibrated separately for each experiment. This
+standardized error model is a sensitivity experiment, not an assertion that
+all pools have REST sampling errors. Experimental sigma is used for reported
+chi-square, not substituted for the calibrated regularization SEM model.
+Absolute Kish support stays >=0.1 times ORIGINAL pool size (REST186.6,
+IDPForge/bAIes100, ASTEROIDS200), even after removing or adding structures.
+Kish support is a weight-concentration measure, NOT an independent frame count.
+There are no chemical shifts in these diagnostic fits. ASTEROIDS baselines
+here are new exploratory SAXS-only Kish fits, not historical subset selection.
+Inter-ensemble differences in published combined fits are not the baseline for
+these comparisons. Reusing fitted SAXS is not independent validation.
+
+Pool additions:160 unchanged REST WT donors, either Rg<19A (evenly spaced in
+saved ordering) or Rg>=25A (all160 available). Compact donor choices also tested
+with random seeds1 and2; numbers, targets, support constraints, and SEM stay
+fixed. These are synthetic mixed-method pools, NOT new simulations or physical
+population estimates. Only WT is mixed with WT. No WT-to-AA substitution.
+Removal experiments retain original coordinates/predictions and require the
+same absolute Kish support. Rg>=25A has only160 REST frames, fewer than the
+required186.6, so that fit is infeasible by support alone and was not run.
+Each completed fit passes finite-weight/support, gradient, scale stationarity,
+and primal/dual tests. Independent einsum reconstruction verifies all saved
+curves and effective support. Native BLAS emitted floating-point warnings;
+all reported results are finite and independently reconstructed and checked.
+
+LIMITATIONS
+All findings are conditional on the supplied pools, forward model, chosen
+error treatment, and contact/SASA definitions. Missing compact packing does
+not prove that every compact REST structure is physically correct. REST is
+enhanced sampling; saved-order changes are not physical kinetics. Known REST
+cis-peptide populations and IDPForge peptide-geometry flags remain unresolved
+physical-model limitations; no structures were silently discarded. Donor
+replicates probe donor choice, not uncertainty in experiment or full molecular
+sampling. Correlated frames are not treated as independent replicates for
+p-values. A global SASA/coordination correlation does not uniquely identify a
+particular native-like hydrophobic core or establish two discrete populations.
+
+SASA implementation documentation:
+https://mdtraj.readthedocs.io/en/latest/api/generated/mdtraj.shrake_rupley.html

@@ -1,0 +1,150 @@
+[
+  {
+    "file": "Tau5_AA_R2.pdb",
+    "AR_range": [
+      391,
+      413
+    ],
+    "residues": 23,
+    "sequence": "LDYGSAAAAAAAQCRYGDLASLH",
+    "max_target_torsion_error_degrees": {
+      "phi": 0.09112548828125,
+      "psi": 0.0632171630859375
+    },
+    "proline_phi_degrees": {},
+    "max_trans_omega_deviation_degrees": 0.057891845703125,
+    "max_bond_nm": 0.1807844191789627,
+    "sha256": "59731935dae47d06fbf7a50c8ada43371ccaba8c9439004e2b32a6f452ee56c2"
+  },
+  {
+    "file": "Tau5_AA_R2R3_mega_helix.pdb",
+    "AR_range": [
+      391,
+      446
+    ],
+    "residues": 56,
+    "sequence": "LDYGSAAAAAAAQCRYGDLASLHGAGAAGPGSGSPSAAASSSAHTLFTAEEGQLYG",
+    "max_target_torsion_error_degrees": {
+      "phi": 0.1099700927734375,
+      "psi": 0.092041015625
+    },
+    "proline_phi_degrees": {
+      "420": -70.37923431396484,
+      "425": -70.42487335205078
+    },
+    "max_trans_omega_deviation_degrees": 0.0540771484375,
+    "max_bond_nm": 0.1807803064584732,
+    "sha256": "25aacb1d89a8d519cf516b267edf07b6410079ded5765de993d0cf06ed678716"
+  },
+  {
+    "file": "Tau5_AA_R2R3_two_helices.pdb",
+    "AR_range": [
+      391,
+      446
+    ],
+    "residues": 56,
+    "sequence": "LDYGSAAAAAAAQCRYGDLASLHGAGAAGPGSGSPSAAASSSAHTLFTAEEGQLYG",
+    "max_target_torsion_error_degrees": {
+      "phi": 0.085693359375,
+      "psi": 0.07550048828125
+    },
+    "proline_phi_degrees": {
+      "420": -70.4933853149414,
+      "425": -70.44480895996094
+    },
+    "max_trans_omega_deviation_degrees": 0.05975341796875,
+    "max_bond_nm": 0.1807543784379959,
+    "sha256": "06aa1323fa555ba064be7310a5cee7cd86cca978bce59ab0fe02b77d136e304e"
+  },
+  {
+    "file": "Tau5_AA_R3.pdb",
+    "AR_range": [
+      426,
+      446
+    ],
+    "residues": 21,
+    "sequence": "SAAASSSAHTLFTAEEGQLYG",
+    "max_target_torsion_error_degrees": {
+      "phi": 0.078399658203125,
+      "psi": 0.05462646484375
+    },
+    "proline_phi_degrees": {},
+    "max_trans_omega_deviation_degrees": 0.0482330322265625,
+    "max_bond_nm": 0.15662479400634766,
+    "sha256": "abd1839e3d9f96458ce7911189a26b445faead3b56f34030b49db960d036f689"
+  },
+  {
+    "file": "Tau5_WT_R2.pdb",
+    "AR_range": [
+      391,
+      413
+    ],
+    "residues": 23,
+    "sequence": "LDYGSAWAAAAAQCRYGDLASLH",
+    "max_target_torsion_error_degrees": {
+      "phi": 0.10357666015625,
+      "psi": 0.0858154296875
+    },
+    "proline_phi_degrees": {},
+    "max_trans_omega_deviation_degrees": 0.060791015625,
+    "max_bond_nm": 0.18073783814907074,
+    "sha256": "867159d7b317c8d341e6b6ea8e4d41c30b5da2ff74b18a81a858f9a3c2fec85e"
+  },
+  {
+    "file": "Tau5_WT_R2R3_mega_helix.pdb",
+    "AR_range": [
+      391,
+      446
+    ],
+    "residues": 56,
+    "sequence": "LDYGSAWAAAAAQCRYGDLASLHGAGAAGPGSGSPSAAASSSWHTLFTAEEGQLYG",
+    "max_target_torsion_error_degrees": {
+      "phi": 0.080963134765625,
+      "psi": 0.100128173828125
+    },
+    "proline_phi_degrees": {
+      "420": -70.37338256835938,
+      "425": -70.47058868408203
+    },
+    "max_trans_omega_deviation_degrees": 0.06036376953125,
+    "max_bond_nm": 0.1807115525007248,
+    "sha256": "a03030339316d20f4a7be3a7e883210db1a56fb224999f22958fa010eaf351af"
+  },
+  {
+    "file": "Tau5_WT_R2R3_two_helices.pdb",
+    "AR_range": [
+      391,
+      446
+    ],
+    "residues": 56,
+    "sequence": "LDYGSAWAAAAAQCRYGDLASLHGAGAAGPGSGSPSAAASSSWHTLFTAEEGQLYG",
+    "max_target_torsion_error_degrees": {
+      "phi": 0.09063720703125,
+      "psi": 0.0922698974609375
+    },
+    "proline_phi_degrees": {
+      "420": -70.3802490234375,
+      "425": -70.49836730957031
+    },
+    "max_trans_omega_deviation_degrees": 0.066009521484375,
+    "max_bond_nm": 0.18073803186416626,
+    "sha256": "afd57e24968114ed3a1a1a7aff2600886431eba744ee20908f20beed51e4f05e"
+  },
+  {
+    "file": "Tau5_WT_R3.pdb",
+    "AR_range": [
+      426,
+      446
+    ],
+    "residues": 21,
+    "sequence": "SAAASSSWHTLFTAEEGQLYG",
+    "max_target_torsion_error_degrees": {
+      "phi": 0.05902099609375,
+      "psi": 0.0845794677734375
+    },
+    "proline_phi_degrees": {},
+    "max_trans_omega_deviation_degrees": 0.0612945556640625,
+    "max_bond_nm": 0.15667350590229034,
+    "sha256": "9c0f9b3e71cbc169b4c05a1e602cbb4d8a3b703acec40fc69f1907409f32654b"
+  }
+]

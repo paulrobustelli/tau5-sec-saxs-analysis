@@ -1,0 +1,22 @@
+[
+  {
+    "variant": "WT",
+    "frames": 20000,
+    "means": {
+      "Sa_full": 5.020454413404454,
+      "Sa_AR391_446": 4.1824123328646765,
+      "Rg_R2R3_CA_A": 23.204727172851562
+    },
+    "trajectory_sha256": "4f28b50c49291f88ec9bed27760250adbe0fa1c838290755e09d86f227e879d7"
+  },
+  {
+    "variant": "AA",
+    "frames": 20000,
+    "means": {
+      "Sa_full": 4.647748209820387,
+      "Sa_AR391_446": 3.751847883039464,
+      "Rg_R2R3_CA_A": 23.510738372802734
+    },
+    "trajectory_sha256": "bbe3abb9c9eb4ec95df4a8d7312a913d5bb5e7b045c8fdd745dc94c8bb5100d9"
+  }
+]

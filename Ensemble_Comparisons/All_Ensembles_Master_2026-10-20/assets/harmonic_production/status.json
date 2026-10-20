@@ -1,0 +1,9 @@
+{
+  "production": "WT and AA completed 2 us each; 20000 frames per sequence",
+  "structural_analysis": "complete",
+  "forward_calculations": "started 2026-10-19;1000 chronological frames per sequence",
+  "reweighting": "pending; not launched",
+  "native_construct": "120 residues GP+AR330-447",
+  "SAXS_construct": "121 with terminal Cys extension; same prior procedure",
+  "plot_comparison": "Current prior pools use121; harmonic full-chain metrics use native120. Crop AR391-446 matches exactly."
+}

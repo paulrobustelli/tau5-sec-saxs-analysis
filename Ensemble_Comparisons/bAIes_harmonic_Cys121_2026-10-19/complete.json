@@ -1,0 +1,6 @@
+{
+  "utc": "2026-10-19T17:46:30.133601+00:00",
+  "N": 2000,
+  "method": "Terminal Cys heavy atoms sampled from supplied121resWT MD; proper rigid alignment to terminalPro CA/C/O, native peptide geometry, negative Cys phi and trans peptide; choose clash-free candidate. Core coordinates retained except terminalPro carbonyl O rotated when needed to choose a clash-free terminalPro psi; terminalPro OXT removed. No new equilibrium sampling or core relaxation.",
+  "reference_sha256": "73744502d98126b548281f6fb1025c8c8fe785f5ea30b7eb92accf477ca30e53"
+}

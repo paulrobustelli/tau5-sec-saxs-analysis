@@ -1,0 +1,11 @@
+{
+  "input": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/tau5-sec-saxs-analysis/background/bmr53105_3.str",
+  "input_sha256": "fd9e11845699ac8514b70eaaeae5417936b3601b5ce8996eb3fcc811dee3bb8a",
+  "output": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/PROMEGA_WT_2026-10-15/WT_53105_promega.tab",
+  "output_sha256": "31d2d64afe709e35a123075fa3309a8e8001e98b183ba7d124777f90cca6c3aa",
+  "shifts": 418,
+  "sequence": "AAGSSGTLELPSTLSLYKSGALDEAAAYQSRDYYNFPLALAGPPPPPPPPHPHARIKLENPLDYGSAWAAAAAQCRYGDLASLHGAGAAGPGSGSPSAAASSSWHTLFTAEEGQLYGPC",
+  "mapping": "PROMEGA RESID1..119 = AR330..448; AR=RESID+329",
+  "conversion": "NMR-STAR3.2 to documented TALOS/NMRPipe table; no shift changes, no offset applied locally",
+  "previous_failed_job": "2026288175900_283670_051967"
+}

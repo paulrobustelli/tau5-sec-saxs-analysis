@@ -1,0 +1,28 @@
+{
+  "utc": "2026-10-15T10:33:10.734565+00:00",
+  "AA": "1000 native predictions and per-datatype/global Kish fit complete; numerical validation passed",
+  "WT": "Generation complete: 1000 sequence-verified structures/1000 unique CA coordinate hashes. WT_manifest.json prepared; existing VM workers claimed jobs. Native backcalculations running; do not launch VM again.",
+  "next": [
+    "Run verify_ensemble.py WT after status complete; retain standalone verified manifest.",
+    "Check WT generation completion and acceptance (sequence/unique CA hashes/labels/rejection bias)",
+    "Run prepare_backcalc.py WT once complete; existing workers consume jobs",
+    "validate_native.py WT then geometry_for_fit.py WT then run_kish_maxent.py WT (guard against duplicate launches)",
+    "Complete Sa/contact/region/support comparisons and publication after all requested calculations finish"
+  ],
+  "AA_fit": "AA_fit_summary.json",
+  "AA_validation": "AA_fit_numerical_validation.json",
+  "AA_result_note": "SAXS mean chi2 254.74 to 128.96 remains poor at Kish ratio .100001; R2 main H 15.38 to16.99%; CA Rg37.79 to33.35 A. Partial comparison only; WT pending.",
+  "bAIes": "Both progressing at steps635250000 WT/634950000 AA; ~10h35 remaining by logs. Caffeinate -i job-bound assertions remain active; display sleep permitted.",
+  "AA_additional_audits": [
+    "AA_ensemble_acceptance_verified.json and structure manifest verified",
+    "AA_objective_gradient_check.json: 9 directional finite-difference checks passed",
+    "AA_observable_coverage_audit.json: componentwise SAXS chi2 floor18.45197; user notified",
+    "AA_observable_coverage.png/pdf generated and visually checked"
+  ],
+  "WT_regions_DSSP_H_percent": {
+    "R2_main_all15sites": 12.3933333333,
+    "R2_main_delta2D_matched14sites": 13.2714285714,
+    "R2_minor": 4.7571428571,
+    "R3": 1.1545454545
+  }
+}

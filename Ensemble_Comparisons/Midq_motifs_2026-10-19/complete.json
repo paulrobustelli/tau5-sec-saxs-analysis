@@ -1,0 +1,18 @@
+{
+  "ensembles": [
+    "REST_WT",
+    "IDPForge_WT",
+    "bAIes_WT",
+    "ASTEROIDS_WT",
+    "IDPForge_AA",
+    "bAIes_AA",
+    "ASTEROIDS_AA"
+  ],
+  "matched_candidates": 622,
+  "classes": [
+    "local_1_6",
+    "intermediate_7_20",
+    "long_range_gt20"
+  ],
+  "note": "CA geometric pair histogram and equal-weight Debye diagnostic; native Pepsi retained, no solvent decomposition claimed"
+}

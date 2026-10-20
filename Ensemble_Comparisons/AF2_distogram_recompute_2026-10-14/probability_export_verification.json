@@ -1,0 +1,28 @@
+{
+  "WT": {
+    "npy_shape": [
+      120,
+      120,
+      64
+    ],
+    "npy_sum_range": [
+      0.99951171875,
+      1.0009765625
+    ],
+    "max_npy_vs_float64_softmax": 0.0007144687876218248,
+    "max_symmetry_difference": 0.0
+  },
+  "AA": {
+    "npy_shape": [
+      120,
+      120,
+      64
+    ],
+    "npy_sum_range": [
+      0.99951171875,
+      1.0009765625
+    ],
+    "max_npy_vs_float64_softmax": 0.0007100676731059963,
+    "max_symmetry_difference": 0.0
+  }
+}

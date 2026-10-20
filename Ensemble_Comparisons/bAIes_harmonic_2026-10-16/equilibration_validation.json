@@ -1,0 +1,36 @@
+{
+  "WT": {
+    "frames": 200,
+    "production_time_ns": 20,
+    "temperature_mean_K": 298.14391480516076,
+    "temperature_range_K": [
+      247.82278102325378,
+      316.8351493886576
+    ],
+    "potential_energy_range_kJmol": [
+      9038.666481465101,
+      10068.838087022305
+    ],
+    "last10ns_R2_main_H_percent": 24.933333333333334,
+    "last10ns_R3_H_percent": 0.7272727272727273,
+    "final_state_sha256": "bef2fc31999f0094f6d01446c9846d68aaa48a4a4c84561ffe0c658c5d45fd48",
+    "passed": true
+  },
+  "AA": {
+    "frames": 200,
+    "production_time_ns": 20,
+    "temperature_mean_K": 295.8337340773791,
+    "temperature_range_K": [
+      247.52898871705744,
+      310.17989424518413
+    ],
+    "potential_energy_range_kJmol": [
+      9036.779031828046,
+      9948.927562117577
+    ],
+    "last10ns_R2_main_H_percent": 25.333333333333336,
+    "last10ns_R3_H_percent": 0.0,
+    "final_state_sha256": "e58bc69a60e4768fd4e7e46d72688877d738a1383fe7bca738da25c4bcaa056a",
+    "passed": true
+  }
+}

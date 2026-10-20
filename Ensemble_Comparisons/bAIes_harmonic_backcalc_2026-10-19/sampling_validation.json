@@ -1,0 +1,14 @@
+{
+  "WT": {
+    "N": 1000,
+    "unique_CA_coordinate_hashes": 1000,
+    "first_production_ns": 2.0,
+    "last_production_ns": 2000.0
+  },
+  "AA": {
+    "N": 1000,
+    "unique_CA_coordinate_hashes": 1000,
+    "first_production_ns": 2.0,
+    "last_production_ns": 2000.0
+  }
+}

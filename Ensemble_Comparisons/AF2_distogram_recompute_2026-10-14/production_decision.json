@@ -1,0 +1,12 @@
+{
+  "decision": "launch exploratory selection-variant 2us WT/AA",
+  "reason": "matched20ns tests increase R2 H to21.12%WT/21.89%AA with8A+seqsep2; exact equilibrium/experimental correctness not established",
+  "not_exact_paper_reproduction": true,
+  "extra_restraint_multiplier": false,
+  "new_production_launched": true,
+  "output": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/outputs/bAIes_8A_seqsep2_2us_2026-10-14",
+  "pids": {
+    "WT": 35699,
+    "AA": 35701
+  }
+}

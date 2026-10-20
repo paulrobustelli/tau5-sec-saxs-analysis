@@ -1,0 +1,24 @@
+{
+  "primal": 13.810472882235775,
+  "negative_dual": 13.810472882235832,
+  "gradient_checks": [
+    {
+      "epsilon": 1e-05,
+      "finite_difference": -0.0001223449785925368,
+      "analytic": -0.00012234513573917275
+    },
+    {
+      "epsilon": 1e-06,
+      "finite_difference": 1.906652613570259e-05,
+      "analytic": 1.9065141483629054e-05
+    },
+    {
+      "epsilon": 1e-07,
+      "finite_difference": 6.747491454461851e-05,
+      "analytic": 6.746285304461285e-05
+    }
+  ],
+  "Kish_ratio": 0.10000062354521096,
+  "logscale_primal_gradient": -2.0791144449971988e-06,
+  "finite_weights": true
+}

@@ -1,0 +1,7 @@
+variant,condition,R1__R1,R1__R2_main,R1__R2_minor,R1__R3,R2_main__R2_main,R2_main__R2_minor,R2_main__R3,R2_minor__R2_minor,R2_minor__R3,R3__R3
+AA,8A,5,0,0,0,8,1,0,0,0,1
+AA,8A_sep2,10,0,0,0,16,2,0,1,0,4
+AA,matrix,5,0,0,0,2,1,0,0,0,1
+WT,8A,4,0,0,0,8,1,0,0,0,3
+WT,8A_sep2,10,0,0,0,17,2,0,1,0,9
+WT,matrix,4,0,0,0,3,1,0,0,0,4

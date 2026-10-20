@@ -1,0 +1,25 @@
+ensemble,AR_residue,observed_cis_trans_switches
+MD WT,372,0
+MD WT,373,0
+MD WT,374,296
+MD WT,375,176
+MD WT,376,300
+MD WT,377,739
+MD WT,378,264
+MD WT,379,176
+bAIes WT,372,0
+bAIes WT,373,0
+bAIes WT,374,0
+bAIes WT,375,0
+bAIes WT,376,0
+bAIes WT,377,0
+bAIes WT,378,0
+bAIes WT,379,0
+bAIes AA,372,1
+bAIes AA,373,0
+bAIes AA,374,0
+bAIes AA,375,0
+bAIes AA,376,0
+bAIes AA,377,0
+bAIes AA,378,0
+bAIes AA,379,0

@@ -1,0 +1,42 @@
+[
+  {
+    "protein": "WT",
+    "pool": "base",
+    "selected_mean_CA_Rg_A": [
+      32.08084442044012,
+      32.196862000884906,
+      31.989191434242667
+    ],
+    "max_pairwise_Wasserstein_A": 0.4299030377133072
+  },
+  {
+    "protein": "WT",
+    "pool": "expanded",
+    "selected_mean_CA_Rg_A": [
+      32.064194863514686,
+      31.997815482019863,
+      32.04474678357468
+    ],
+    "max_pairwise_Wasserstein_A": 0.33481687820120587
+  },
+  {
+    "protein": "AA",
+    "pool": "base",
+    "selected_mean_CA_Rg_A": [
+      31.77336510177249,
+      31.725170009578637,
+      31.719851250296873
+    ],
+    "max_pairwise_Wasserstein_A": 0.2145729148991702
+  },
+  {
+    "protein": "AA",
+    "pool": "expanded",
+    "selected_mean_CA_Rg_A": [
+      31.75840876497749,
+      31.76080571815681,
+      31.63993815730401
+    ],
+    "max_pairwise_Wasserstein_A": 0.2311893050630729
+  }
+]

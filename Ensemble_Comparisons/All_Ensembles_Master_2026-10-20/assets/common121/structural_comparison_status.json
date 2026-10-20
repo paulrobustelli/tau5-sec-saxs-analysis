@@ -1,0 +1,63 @@
+{
+  "datasets": [
+    {
+      "ensemble": "ASTEROIDS_WT",
+      "stage": "prior"
+    },
+    {
+      "ensemble": "ASTEROIDS_WT",
+      "stage": "selected"
+    },
+    {
+      "ensemble": "ASTEROIDS_AA",
+      "stage": "prior"
+    },
+    {
+      "ensemble": "ASTEROIDS_AA",
+      "stage": "selected"
+    },
+    {
+      "ensemble": "REST_WT",
+      "stage": "prior"
+    },
+    {
+      "ensemble": "REST_WT",
+      "stage": "MaxEnt"
+    },
+    {
+      "ensemble": "bAIes_WT",
+      "stage": "prior"
+    },
+    {
+      "ensemble": "bAIes_WT",
+      "stage": "MaxEnt"
+    },
+    {
+      "ensemble": "bAIes_AA",
+      "stage": "prior"
+    },
+    {
+      "ensemble": "bAIes_AA",
+      "stage": "MaxEnt"
+    },
+    {
+      "ensemble": "IDPForge_WT",
+      "stage": "prior"
+    },
+    {
+      "ensemble": "IDPForge_WT",
+      "stage": "MaxEnt"
+    },
+    {
+      "ensemble": "IDPForge_AA",
+      "stage": "prior"
+    },
+    {
+      "ensemble": "IDPForge_AA",
+      "stage": "MaxEnt"
+    }
+  ],
+  "contact_definition": "closest heavy atom distance <12 \u00c5; diagonal zero; 121 residues GP+AR330448",
+  "Rg": "geometric C-alpha; not SAXS forward-model Rg",
+  "incomplete_MaxEnt": []
+}

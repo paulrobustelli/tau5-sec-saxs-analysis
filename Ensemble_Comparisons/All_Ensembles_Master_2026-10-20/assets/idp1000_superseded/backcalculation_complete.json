@@ -1,0 +1,11 @@
+{
+  "native_jobs_verified": 2000,
+  "variants": {
+    "WT": 1000,
+    "AA": 1000
+  },
+  "utc": "2026-10-15T12:32:52.100386+00:00",
+  "manifest_sha256": "e8861b708f504cb36f791b9ce2ec89f3cdb858d04803b9a67803fc33dc8f731d",
+  "method": "Native SPARTA+ and Pepsi-SAXS, unchanged prior predictor parameters; per-datatype then global Borthakur Kish calibration",
+  "old_200_member_results": "Preserved separately; new D2D200 job prefix and output directory"
+}

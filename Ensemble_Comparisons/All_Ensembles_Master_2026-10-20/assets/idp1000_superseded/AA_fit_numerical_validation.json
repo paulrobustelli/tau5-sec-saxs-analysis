@@ -1,0 +1,12 @@
+{
+  "weights_finite": true,
+  "sum_weights": 0.9999999999999714,
+  "Kish_ratio": 0.10000107563454508,
+  "prediction_finite": true,
+  "cs_max_difference": 5.343281372915953e-12,
+  "saxs_max_difference": 1.580957587066223e-13,
+  "helicity_finite": true,
+  "max_scan_gradient": 6.08072209729027e-05,
+  "n_shifts": 508,
+  "n_saxs": 144
+}

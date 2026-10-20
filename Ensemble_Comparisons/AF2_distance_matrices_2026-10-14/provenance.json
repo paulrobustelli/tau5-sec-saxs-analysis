@@ -1,0 +1,62 @@
+{
+  "WT": {
+    "inputs": [
+      {
+        "name": "Tau5star_WT_GP_330_447_a1110_0_all_rank_001_alphafold2_ptm_model_2_seed_000.pickle",
+        "sha256": "bd528c62f4f1afc3ce61a07479326a40792e1fc8e2a7332a1010d5e6aa95bd8c"
+      },
+      {
+        "name": "Tau5star_WT_GP_330_447_a1110_0_all_rank_002_alphafold2_ptm_model_1_seed_000.pickle",
+        "sha256": "cf7dab0e1a6f4baee720de3af155a164a17c7f68d0a69c3c4a982b23f01fd1fd"
+      },
+      {
+        "name": "Tau5star_WT_GP_330_447_a1110_0_all_rank_003_alphafold2_ptm_model_3_seed_000.pickle",
+        "sha256": "ca4dcf784705e699b62def5521ef099ca43df0ecb96bea184dc5c2ce5e72313c"
+      },
+      {
+        "name": "Tau5star_WT_GP_330_447_a1110_0_all_rank_004_alphafold2_ptm_model_4_seed_000.pickle",
+        "sha256": "e78611920d29ba0dde5fea1a29b492c5ffc0a4a293da8d1b47d52097e774365e"
+      },
+      {
+        "name": "Tau5star_WT_GP_330_447_a1110_0_all_rank_005_alphafold2_ptm_model_5_seed_000.pickle",
+        "sha256": "5e9ce6c2a1fa7c3c292cd9f66a00a231479ea94be02d6201ceb7c36edc2ea22d"
+      }
+    ],
+    "rank1_model": "alphafold2_ptm_model_2_seed_000",
+    "mapping": "zero-based construct index2 = AR330; GP tag excluded from plotted matrices",
+    "open_ended_bin": "last bin starts at21.6875A; assigned22A solely for mean-distance proxy, not a true full mean",
+    "finite_bin_centers": "same midpoint convention as supplied bAIes preprocessing",
+    "contact_probability": "P(d<8A); boundary bin interpolated under uniform-in-bin assumption; complete-bin sum also saved",
+    "five_model_average": "equal average of five prediction probability distributions, not physical ensemble populations"
+  },
+  "AA": {
+    "inputs": [
+      {
+        "name": "Tau5star_AA_GP_330_447_b137f_all_rank_001_alphafold2_ptm_model_2_seed_000.pickle",
+        "sha256": "e0d9caefc59bb95f9904611581ae1f4414ecfccef91218bcfc1d3ccc75b445ab"
+      },
+      {
+        "name": "Tau5star_AA_GP_330_447_b137f_all_rank_002_alphafold2_ptm_model_1_seed_000.pickle",
+        "sha256": "874acae9007fd6e8747f963e506c87b31d2ec95654a8f78ac7fa2e21ebd68bda"
+      },
+      {
+        "name": "Tau5star_AA_GP_330_447_b137f_all_rank_003_alphafold2_ptm_model_4_seed_000.pickle",
+        "sha256": "e85a26b072f61908b7f153903650f0ec82700d97cf3ba1229033597ccc0e6617"
+      },
+      {
+        "name": "Tau5star_AA_GP_330_447_b137f_all_rank_004_alphafold2_ptm_model_3_seed_000.pickle",
+        "sha256": "dc4c6af30540b3b29f98e9ddbb759330c50c0d1ffff48fefe4b47f0afdeb24c1"
+      },
+      {
+        "name": "Tau5star_AA_GP_330_447_b137f_all_rank_005_alphafold2_ptm_model_5_seed_000.pickle",
+        "sha256": "2307c546be855e3c7d7f59ad9064ee30648d397d52619e96344b1f13e13dc074"
+      }
+    ],
+    "rank1_model": "alphafold2_ptm_model_2_seed_000",
+    "mapping": "zero-based construct index2 = AR330; GP tag excluded from plotted matrices",
+    "open_ended_bin": "last bin starts at21.6875A; assigned22A solely for mean-distance proxy, not a true full mean",
+    "finite_bin_centers": "same midpoint convention as supplied bAIes preprocessing",
+    "contact_probability": "P(d<8A); boundary bin interpolated under uniform-in-bin assumption; complete-bin sum also saved",
+    "five_model_average": "equal average of five prediction probability distributions, not physical ensemble populations"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "ensemble": "REST_WT",
+  "N": 1866,
+  "datatype_theta": {
+    "C": 1.4040918946808318,
+    "CA": 1.1817984487975282,
+    "H": 1.5291445353793962,
+    "N": 2.44598293103017,
+    "SAXS": 0.02389606638040059
+  },
+  "global_theta": 2.761584765660735,
+  "scale_uniform": 125.80122736243409,
+  "scale_MaxEnt": 141.3047999671035,
+  "Kish_ratio": 0.10000030500830256,
+  "max_dual_gradient": 1.048803091485695e-06,
+  "logscale_primal_gradient": -0.00023485960150892993,
+  "metrics": {
+    "uniform": {
+      "Rg_CA_A": 19.540459867392673,
+      "Rg_AR391446_CA_A": 15.129016129577131,
+      "Sa_full": 5.991448975205975,
+      "Sa_AR391446": 3.0060063482341537,
+      "Kish_ratio": 1.000000000000013,
+      "Neff": 1866.000000000024,
+      "SAXS_chi2_mean": 14.90718898809199,
+      "RMSE_C_ppm": 0.6354403193255045,
+      "RMSE_CA_ppm": 0.5201295596045087,
+      "RMSE_H_ppm": 0.7962600122848267,
+      "RMSE_N_ppm": 1.0180032176172424,
+      "R2_main_DSSP_H": 0.14894605216148626,
+      "R2_minor_DSSP_H": 0.1411728678609705,
+      "R3_DSSP_H": 0.09027574783201801
+    },
+    "MaxEnt": {
+      "Rg_CA_A": 25.407328835705698,
+      "Rg_AR391446_CA_A": 15.920563400098043,
+      "Sa_full": 6.56914046670285,
+      "Sa_AR391446": 3.88609980232794,
+      "Kish_ratio": 0.10000030500830272,
+      "Neff": 186.6005691454929,
+      "SAXS_chi2_mean": 0.9741668863778666,
+      "RMSE_C_ppm": 0.613701640125289,
+      "RMSE_CA_ppm": 0.48932415542381313,
+      "RMSE_H_ppm": 0.7730139741570652,
+      "RMSE_N_ppm": 0.9536415949876172,
+      "R2_main_DSSP_H": 0.24814600018584604,
+      "R2_minor_DSSP_H": 0.1750566109624834,
+      "R3_DSSP_H": 0.07397739648804863
+    }
+  },
+  "sampling_error": "MDblocks;100ns blocks for correlated ensembles, fixed uniform-prior sampling error during calibration",
+  "CS_reuse": "Original120res predictions retained for terminallyextendedIDPForge/bAIes by explicituserinstruction; comparisonobservationscommonAR330446",
+  "SAXS": "IdenticalcanonicalPepsi3.0dro5defaultFraserradius,oneglobalensemblescale/nooffset,noindividualscales",
+  "independent_validation": false
+}

@@ -1,0 +1,34 @@
+{
+  "label": "ASTEROIDS_WT_baseline",
+  "N": 2000,
+  "Neff": 200.00132879459903,
+  "theta": 0.2097449499433824,
+  "scale": 139.2765051222669,
+  "chi2_all": 10.375480759585999,
+  "chi2_mid": 34.95081935781074,
+  "chi2_low": 1.4725266973732019,
+  "chi2_high": 1.0092320150512208,
+  "max_gradient": 1.7955540110303758e-08,
+  "scale_gradient": -1.8379740049923043e-06,
+  "primal": 2.0301387211838016,
+  "negative_dual": 2.0301387211838016,
+  "gradient_checks": [
+    {
+      "k": 0,
+      "analytic": -1.3016859368164546e-08,
+      "finite_difference": -1.305622276959184e-08
+    },
+    {
+      "k": 72,
+      "analytic": 6.371543348482334e-09,
+      "finite_difference": 6.372680161348398e-09
+    },
+    {
+      "k": 143,
+      "analytic": 4.1874396311536444e-11,
+      "finite_difference": 4.4408920985006255e-11
+    }
+  ],
+  "base_pool": "ASTEROIDS_WT",
+  "experiment": "baseline; SAXS only"
+}
